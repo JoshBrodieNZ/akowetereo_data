@@ -1,0 +1,315 @@
+[
+  {
+    "id": "resource-1744282653714",
+    "title": "Te Reo Māori Discord",
+    "url": "https://discord.gg/9pDHB32k69",
+    "imageSrc": "/img/Tino_Rangatiratanga.svg",
+    "imageOffset": 0,
+    "blurb": "A community of te reo Māori learners who share resources, questions and practice speaking with one another.",
+    "description": "This Discord is a community of reo Māori speakers and learners and provides a great forum for practicing your reo or asking any questions you might have about the language.",
+    "category": "community",
+    "tags": [
+      "discord"
+    ],
+    "favourite": true,
+    "featured": true
+  },
+  {
+    "id": "resource-1744283237876",
+    "title": "/r/ReoMaori",
+    "url": "https://www.reddit.com/r/ReoMaori/",
+    "imageSrc": "/img/reddit_banner.png",
+    "imageOffset": 0,
+    "blurb": "A subreddit dedicated to learning te reo Māori.",
+    "description": "A subreddit dedicated to learning te reo Māori.",
+    "category": "community",
+    "tags": [
+      "reddit"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-001",
+    "title": "Te Aka Māori-English Dictionary",
+    "url": "https://maoridictionary.co.nz/",
+    "imageSrc": "/img/teaka.jpg",
+    "blurb": "Comprehensive online Māori dictionary with audio pronunciations.",
+    "description": "Te Aka Māori-English Dictionary provides a reliable, free online reference for Māori language learners. It includes:\n\n* Audio pronunciations for most entries\n* Example sentences showing usage in context\n* Clear explanations of meaning and usage\n* Information about regional variations\n\nThis resource is essential for building vocabulary and understanding pronunciation.",
+    "category": "dictionary",
+    "tags": [
+      "reference",
+      "dictionary"
+    ],
+    "favourite": true,
+    "featured": false
+  },
+  {
+    "id": "resource-1744271438386",
+    "title": "Paekupu",
+    "url": "https://paekupu.co.nz/",
+    "imageSrc": "/img/paekupu.jpg",
+    "imageOffset": 0,
+    "blurb": "Detailed dictionary to support the Learning Areas of Te Marautanga o Aotearoa, the curriculum for kura and Māori-medium schools.",
+    "description": "Paekupu is another dictionary which contains a wide variety of specialised words across a range of subjects including terms relating to language, arts, mathematics, science, technology, health and many other areas from Te Marautanga o Aotearoa.\n\n* Word lists covering specific topics can be found [here](https://paekupu.co.nz/topicAreas/browse) \n* [Te Reo Matatini (Literacy)](https://paekupu.co.nz/words/wordlist/te-reo-matatini/maori-to-english)\n* [Hauora (Health)](https://paekupu.co.nz/words/wordlist/hauora/maori-to-english)\n* [Tīkanga ā-Iwi (Social Science)](https://paekupu.co.nz/words/wordlist/tikanga-ā-iwi/maori-to-english)\n* [Hangarau (Technology)](https://paekupu.co.nz/words/wordlist/hangarau/maori-to-english)\n* [Pūtaiao (Science)](https://paekupu.co.nz/words/wordlist/pūtaiao/maori-to-english)\n* [Pāngarau (Mathematics)](https://paekupu.co.nz/words/wordlist/pāngarau/maori-to-english)\n* [Ngā Toi (The Arts)](https://paekupu.co.nz/words/wordlist/ngā-toi/maori-to-english)\n* [Mātauranga Whānui (General Education)](https://paekupu.co.nz/words/wordlist/mātauranga-whānui/maori-to-english)\n\nWhile Te Aka is the primary source for general day to day words, Paekupu will often have specialised terms that you don't find in Te Aka.",
+    "category": "dictionary",
+    "tags": [
+      "reference",
+      "dictionary"
+    ],
+    "favourite": false,
+    "featured": true
+  },
+  {
+    "id": "resource-003",
+    "title": "A Māori Reference Grammar",
+    "author": "Ray Harlow",
+    "url": "https://huia.co.nz/products/a-maori-reference-grammar",
+    "imageSrc": "/img/9781775502036.webp",
+    "imageOffset": -50,
+    "blurb": "A comprehensive grammar reference for te reo Māori learners.",
+    "description": "If you're only going to read one book about te reo Māori grammar, it should be this one.\n\nBased on a university course Ray Harlow taught for a number of years, A Māori Reference Grammar is a detailed guide to the grammatical structures of te reo Māori. This book includes explanations and examples of all of the important sentence types of te reo Māori, gradually building from words and particles to phrases, clauses, sentences and complex sentences.\n\nThis reference is valuable for intermediate and advanced learners who want to deepen their understanding of Māori grammar and improve accuracy in both written and spoken language.",
+    "category": "grammar",
+    "tags": [
+      "reference",
+      "grammar"
+    ],
+    "favourite": true,
+    "featured": true
+  },
+  {
+    "id": "resource-1744264390097",
+    "title": "Let's Learn Māori",
+    "author": "Bruce Biggs",
+    "url": "https://aucklanduniversitypress.co.nz/lets-learn-maori-revised-edition/",
+    "imageSrc": "/img/9781869401863.jpg",
+    "blurb": "A detailed grammar reference for students of te reo Māori, focused on the phrase as the essential unit of speech.",
+    "description": "This book is another excellent companion on your journey in te reo Māori. While some of the language used for different parts of speech aren't the terms I've adopted for my study, the book is an excellent reference on the phrase as the most important unit of speech to understand, as well as breaking that phrase down into the nucleus and peripheries. There's also a Māori translation of this text available, although I'm yet to track down a copy.",
+    "category": "grammar",
+    "tags": [
+      "reference",
+      "grammar"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265313081",
+    "title": "He Iti Kahurangi",
+    "author": "Hēni Jacob",
+    "url": "https://tetakupu.wananga.com/products/he-iti-kahurangi",
+    "imageSrc": "/img/9780473342081.webp",
+    "imageOffset": -125,
+    "blurb": "A book focused on the particles in Māori grammar, full of examples of idiomatic ways to use these kupu.",
+    "description": "This book provides an incredible breakdown of the various ways to use essential kupu, as well as introducing a number of grammatical terms in te reo Māori. It provides examples of the many and varied uses of: ahua, ake, anahe/anake, ano, ata, atu, haere, hanga, hangehange, harukiruki, hawerewere, he, hengahenga, hitarari, hitenga, hoake, hoatu, hoki, ia, iho, kaha, katoa, kau, ke, kehokeho, kenekene/keneuri, kere, kerekere, kino, kita, kitakita, koa, koia, kutikuti, mai, maioio, makehua, makuare/makuware, manunu, marie, matua, morukaruka/moruka, mea ake, na, nawenawe, nei, noa, nge, ngero/ngerongero, ngihangiha, ora, oreore, oti, pai, paku, panuku, patere, pea, penu, petapeta, piropiro, pohapoha, pu, puahoaho, puku, ra, ranei, rawa, rere, rikiriki, rirerire, riro, rukaruka, rukiruki, rukuruku, tahi, taiahoaho, tangetange, tangotango, tata, tere, tiahoaho, tika, tino, tokitoki, tonu, tuauriuri, uriuri, wawe, whaka-, whakaharahara, whakarere, whaioio.",
+    "category": "grammar",
+    "tags": [
+      "reference",
+      "grammar",
+      "i te reo Māori"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265599519",
+    "title": "Māori",
+    "author": "Winifred Bauer",
+    "url": "https://www.routledge.com/Maori/Bauer/p/book/9780415599993",
+    "imageSrc": "/img/9780415599993.webp",
+    "blurb": "An incredibly detailed grammar reference, although likely to be excessively academic for the average reader.",
+    "description": "This is an amazing resource for students of te reo Māori who either have a background in linguistics or are otherwise at home parsing a densely technical tome. However, it's quite expensive to get a copy of and the Reed Reference Grammar of Māori by the same author (though out of print and difficult to obtain a copy of) contains largely the same content while being slightly more approachable. I mainly refer to this for one or two niche details that didn't make it into the Reed grammar, but otherwise it's a bit over my head when it comes to the terminology used.",
+    "category": "grammar",
+    "tags": [
+      "reference",
+      "grammar"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265645548",
+    "title": "The Reed Reference Grammar of Māori",
+    "author": "Winifred Bauer",
+    "url": "",
+    "imageSrc": "/img/reed.jpg",
+    "blurb": "The authoritative reference grammar for te reo Māori.",
+    "description": "In my opinion, Bauer's reference grammar is the most complete reference available for students of te reo Māori. While Ray Harlow's grammar is more accessible (both in terms of language used and the fact that it's still in print and doesn't require you to delve through second hand stores and auction websites), there are many questions a student of te reo Māori will have that are not answered by any other text. For the dedicated student who finds grammatical rules a valuable model for approaching a language, this book is well worth the work involved in tracking down a copy.\n\nOn the bright side, libraries often have a copy available.",
+    "category": "grammar",
+    "tags": [
+      "reference",
+      "grammar"
+    ],
+    "favourite": true,
+    "featured": false
+  },
+  {
+    "id": "resource-1744264453860",
+    "title": "Mai i te Kākano",
+    "url": "https://tetakupu.wananga.com/products/e-mai-i-te-kakano",
+    "imageSrc": "/img/9780473208738.webp",
+    "imageOffset": -100,
+    "blurb": "A textbook written in te reo Māori focused on everyday language, idioms and common errors.",
+    "description": "As you progress on your reo Māori journey, this book and others by Hēni Jacob are an amazing way to remain immersed in te reo Māori while studying, with most of the book written in te reo Māori, with the occasional note or explanation in English. This is a great source of phrases and idioms to enrich your reo and find more natural ways to express yourself in common situations and environments.",
+    "category": "learning",
+    "tags": [
+      "textbook",
+      "i te reo Māori"
+    ],
+    "favourite": true,
+    "featured": true
+  },
+  {
+    "id": "resource-1744264561462",
+    "title": "Te Rito",
+    "url": "https://tetakupu.wananga.com/products/te-rito",
+    "imageSrc": "/img/9780995101104.webp",
+    "imageOffset": -250,
+    "blurb": "The follow-up to Mai i te Kākano, with a new range of expressions to use in everyday life.",
+    "description": "Te Rito is the sequel to Mai i te Kākano and allows the reader to continue their journey reading about te reo Māori **in** te reo Māori. It features a variety of expressions, phrases and grammatical details to improve the fluency of your reo.",
+    "category": "learning",
+    "tags": [
+      "textbook",
+      "i te reo Māori"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265340939",
+    "title": "Māori at Home",
+    "url": "https://www.penguin.co.nz/books/maori-at-home-9780143771470",
+    "imageSrc": "/img/9780143771470.jpg",
+    "imageOffset": -50,
+    "blurb": "A phrase book focused on words and phrases you might want to use around the home.",
+    "description": "This book provides a range of fun and useful phrases for common things you might want to say around the house.",
+    "category": "learning",
+    "tags": [
+      "textbook"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265385523",
+    "title": "He Iti te Kupu",
+    "url": "https://maimoa.nz/products/he-iti-te-kupu-maori-metaphors-and-similes",
+    "imageSrc": "/img/9780947506919.jpg",
+    "imageOffset": -80,
+    "blurb": "A resource detailing the use of metaphor and simile in te reo Māori.",
+    "description": "This book covers a wide range of metaphors and idiomatic expressions which are found in te reo Māori, improving your understanding and the depth of your reo. Like other books by Hona Black, it's delivered with English/Māori on opposite pages allowing the reader to improve their reo by learning new sentences structures and kupu within the material itself.",
+    "category": "learning",
+    "tags": [
+      "textbook"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265443154",
+    "title": "The Raupō Book of Māori Proverbs",
+    "url": "https://www.penguin.co.nz/books/the-raupo-book-of-maori-proverbs-9780143567912",
+    "imageSrc": "/img/9780143567912.jpg",
+    "imageOffset": -100,
+    "blurb": "A collection of whakataukī with explanations and commentary to provide insight into te ao Māori.",
+    "description": "This book details whakataukī (proverbs) and explanations of their meaning, often relying on detailed context and references from Māori culture and history.",
+    "category": "learning",
+    "tags": [
+      "textbook"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265489743",
+    "title": "Ngā Hapa Reo",
+    "url": "https://maimoa.nz/products/nga-hapa-reo-common-maori-language-errors",
+    "imageSrc": "/img/9781990042591.webp",
+    "imageOffset": -110,
+    "blurb": "A collection of common errors encountered by speakers of te reo Māori to allow you to improve the accuracy of your reo.",
+    "description": "This book covers a range of common mistakes, misuses of words, grammatical errors and inaccuracies common to learners and fluent speakers of te reo Māori, providing clarity on correct usage. Like other books by Hona Black, it's delivered with English/Māori on opposite pages allowing the reader to improve their reo by learning new sentences structures and kupu within the material itself.",
+    "category": "learning",
+    "tags": [
+      "textbook"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265526604",
+    "title": "Te Reo Kapekape",
+    "url": "https://maimoa.nz/products/te-reo-kapekape-maori-wit-and-humour",
+    "imageSrc": "/img/9781990042379.webp",
+    "imageOffset": -30,
+    "blurb": "A collection of Māori humorous phrases and idioms to sprinkle into your reo or improve comprehension when speaking with others.",
+    "description": "This book provides a range of different humorous phrases and idioms to enrich your vocabulary with humour and wit. Like other books by Hona Black, it's delivered with English/Māori on opposite pages allowing the reader to improve their reo by learning new sentences structures and kupu within the material itself.",
+    "category": "learning",
+    "tags": [
+      "textbook"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265555201",
+    "title": "Māori Made Easy Series",
+    "url": "https://www.penguin.co.nz/books/maori-made-easy-9780143570912",
+    "imageSrc": "/img/9780143570912.jpg",
+    "imageOffset": -100,
+    "blurb": "A series of books presenting a full study program to introduce te reo Māori.",
+    "description": "Māori Made Easy is a range of books by Scotty Morrison which essentially provides a full study plan of lessons to build your reo by committing 30 minutes a day for 30 weeks (per book). There is a range of workbooks and a website with podcasts to add to the lessons.",
+    "category": "learning",
+    "tags": [
+      "textbook"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744265580561",
+    "title": "A Māori Phrase a Day",
+    "url": "https://www.penguin.co.nz/books/a-maori-phrase-a-day-9780143773412",
+    "imageSrc": "/img/9780143773412.jpg",
+    "imageOffset": -100,
+    "blurb": "365 handy phrases you might use in everyday life.",
+    "description": "This book provides 365 phrases to allow you to kick off your reo journey with one phrase a day. The phrases relate to a range of everyday activities including around the house, at the office, sports and recreation, as well as many more common scenarios.",
+    "category": "learning",
+    "tags": [
+      "textbook"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1744282287769",
+    "title": "Taringa Podcast",
+    "url": "https://www.taringapodcast.com/",
+    "imageSrc": "/img/taringa.png",
+    "imageOffset": 0,
+    "blurb": "A podcast published by Te Wānanga o Aotearoa covering a range of topics in te ao Māori focused on reo and tikanga.",
+    "description": "Taringa is a fun and relaxed podcast which discusses a range of topics in te ao Māori.",
+    "category": "learning",
+    "tags": [
+      "podcast"
+    ],
+    "favourite": false,
+    "featured": false
+  },
+  {
+    "id": "resource-1769914193108",
+    "title": "Te Reo Māori: The Basics Explained",
+    "author": "David Kārena-Holmes",
+    "url": "https://oratia.co.nz/product-tag/david-karena-holmes/",
+    "imageSrc": "/img/9780947506698.webp",
+    "imageOffset": -100,
+    "blurb": "This is a nice accessible introduction to some key details of te reo Māori grammar.",
+    "description": "This is a nice accessible introduction to some key details of te reo Māori grammar.",
+    "category": "learning",
+    "tags": [
+      "textbook",
+      "grammar"
+    ],
+    "favourite": true,
+    "featured": false
+  }
+]

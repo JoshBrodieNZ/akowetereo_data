@@ -1,0 +1,13 @@
+{
+  "id": "level1-word-classification",
+  "title": "Word Classification",
+  "description": "Explore the different word classes and how they fit together.",
+  "exercise": "",
+  "validated": false,
+  "content": [
+    {
+      "title": "First Slide",
+      "text": "## New Lesson Content\n\nThis is the first slide of your new lesson. Edit this content to get started."
+    }
+  ]
+}

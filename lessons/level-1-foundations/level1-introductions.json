@@ -1,0 +1,242 @@
+{
+  "id": "level1-introductions",
+  "title": "Introductions",
+  "description": "A quick overview of some simple greetings and introductions while we're getting familiar with the features of the platform.",
+  "exercise": null,
+  "tags": [
+    "beginner",
+    "pronunciation"
+  ],
+  "level": 1,
+  "validated": true,
+  "content": [
+    {
+      "title": "Greetings - Kia Ora!",
+      "elements": [
+        {
+          "type": "text",
+          "content": "We'll start one of the best known Māori greetings, commonly heard in Aotearoa. Don't worry too much at this stage about what each individual word means, just take the opportunity to get familiar with reading te reo Māori and saying it aloud to yourself."
+        },
+        {
+          "type": "example",
+          "sentence": "Kia ora!",
+          "translation": "Hello! Cheers!",
+          "note": "Listen to the [recording](https://maoridictionary.co.nz/word/2608) on Te Aka and note how the two vowels in ki**a o**ra blend into one another!"
+        },
+        {
+          "type": "example",
+          "sentence": "Kia ora e hoa mā.",
+          "translation": "Hello, friends."
+        },
+        {
+          "type": "example",
+          "sentence": "Kia ora koutou.",
+          "translation": "Hello to you all.",
+          "breakdown": {
+            "phrase": []
+          },
+          "note": "{{Koutou}} is a term used to address three or more people, so this form of the greeting is only used if you're talking to that many people."
+        },
+        {
+          "type": "note",
+          "content": "While {{kia ora}} is used to say hello, its literal translation is closer to `be well`.\n\nIt's commonly considered an informal way to say hello."
+        }
+      ]
+    },
+    {
+      "title": "Greetings and Farewells - Informal",
+      "elements": [
+        {
+          "type": "text",
+          "content": "These are some examples of other informal greetings and farewells:"
+        },
+        {
+          "type": "example",
+          "sentence": "Mōrena",
+          "translation": "Good morning"
+        },
+        {
+          "type": "example",
+          "sentence": "Ka kite anō",
+          "translation": "I'll see you again"
+        },
+        {
+          "type": "example",
+          "sentence": "Hei konā mai",
+          "translation": "Goodbye for now"
+        },
+        {
+          "type": "example",
+          "sentence": "Mā te wā",
+          "translation": "See you later"
+        }
+      ]
+    },
+    {
+      "title": "Greetings and Farewells - Formal",
+      "elements": [
+        {
+          "type": "text",
+          "content": "These are some examples of more formal greetings and farewells:"
+        },
+        {
+          "type": "example",
+          "sentence": "Tēnā koe/kōrua/koutou",
+          "translation": "Hello to one/two/three or more people",
+          "note": "In te reo Māori, you use a different term for `you` depending on how many people you are talking to, so you change between {{koe}}/{{kōrua}}/{{koutou}} depending on the situation."
+        },
+        {
+          "type": "example",
+          "sentence": "E noho rā",
+          "translation": "Goodbye (to someone who is staying)"
+        },
+        {
+          "type": "example",
+          "sentence": "Haere rā",
+          "translation": "Goodbye (to someone who is leaving)"
+        },
+        {
+          "type": "example",
+          "sentence": "Ata mārie",
+          "translation": "Good morning"
+        },
+        {
+          "type": "example",
+          "sentence": "Ahiahi mārie",
+          "translation": "Good afternoon"
+        },
+        {
+          "type": "example",
+          "sentence": "Pō mārie",
+          "translation": "Goodnight"
+        }
+      ]
+    },
+    {
+      "title": "Introducing Yourself",
+      "elements": [
+        {
+          "type": "text",
+          "content": "The following sentences are ways to ask someone's name, as well as how to answer that question:"
+        },
+        {
+          "type": "example",
+          "sentence": "Ko wai tō ingoa?",
+          "translation": "What is your name?"
+        },
+        {
+          "type": "example",
+          "sentence": "Ko Mere tōku ingoa.",
+          "translation": "My name is Mere."
+        },
+        {
+          "type": "example",
+          "sentence": "Ko wai koe?",
+          "translation": "Who are you?"
+        },
+        {
+          "type": "example",
+          "sentence": "Ko Mere ahau.",
+          "translation": "I am Mere."
+        },
+        {
+          "type": "note",
+          "content": "Observe that in both pairs of examples, the answer takes a similar format to the question. This is a common question/answer format in te reo Māori and we'll investigate how it works as we progress through the lessons."
+        }
+      ]
+    },
+    {
+      "title": "Where are you from?",
+      "elements": [
+        {
+          "type": "text",
+          "content": "In {{te ao Māori}} (the Māori world), it's common for formal greetings to include details about where you come from to communicate to the listener who your ancestors are and who you might know. This gives them an opportunity to recognise and share connections that they may have with you as part of getting to know one another.\n\nThese are some of the ways that you might communicate where you come from:"
+        },
+        {
+          "type": "example",
+          "sentence": "Nō hea koe?",
+          "translation": "Where are you from?",
+          "note": "Note that {{nō}} is a possessive term, so the question is literally asking `to where do you belong?`\n\nBecause of this detail, it can be considered improper for non-Māori to use nō to claim a connection to somewhere in Aotearoa. Not every listener is going to be find this inappropriate, but it can be more respectful to use an alternative way of describing where you come from such as some of the  options below."
+        },
+        {
+          "type": "example",
+          "sentence": "Nō hea ia?",
+          "translation": "Where is he/she/they (singular) from?",
+          "note": "The [[ref|tūkapi|tukapi]] (pronoun) ia refers to one person without reference to their gender, unlike he/she in English."
+        },
+        {
+          "type": "example",
+          "sentence": "Nō Ōtepoti au.",
+          "translation": "I am from Dunedin."
+        },
+        {
+          "type": "example",
+          "sentence": "Nō Ngāti Kahungunu au.",
+          "translation": "I am of Ngāti Kahungunu.",
+          "note": "You can use {{nō}} to describe a line of connection to a place or an {{iwi}} (tribe)."
+        },
+        {
+          "type": "example",
+          "sentence": "I whānau mai koe ki hea?",
+          "translation": "Where were you born?"
+        },
+        {
+          "type": "example",
+          "sentence": "I whānau mai au ki Kirikiriroa.",
+          "translation": "I was born in Hamilton."
+        },
+        {
+          "type": "example",
+          "sentence": "I tipu ake au ki Heretaunga.",
+          "translation": "I lived in Hastings."
+        },
+        {
+          "type": "example",
+          "sentence": "Kei Māwhera e noho ana.",
+          "translation": "I currently live in Greymouth."
+        },
+        {
+          "type": "note",
+          "content": "These are just some examples of how to describe where you're from in normal conversation. A more detailed description of how to formally provide your background will be covered in a later lesson."
+        }
+      ]
+    },
+    {
+      "title": "How are you?",
+      "elements": [
+        {
+          "type": "text",
+          "content": "The following sentences can be used to ask someone how they are. Observe that similar to the earlier examples, the structure for the question and answer are very similar. In this case, the question word pēhea (how) is replaced by a word describing a feeling such as harikoa (happy) or pōuri (sad) and the word koe (you) in the sentence is replaced with au or ahau (me) for the answer."
+        },
+        {
+          "type": "example",
+          "sentence": "Kei te pēhea koe?",
+          "translation": "How are you?"
+        },
+        {
+          "type": "example",
+          "sentence": "Kei te harikoa au.",
+          "translation": "I am happy."
+        },
+        {
+          "type": "example",
+          "sentence": "Kei te pōuri au.",
+          "translation": "I am sad."
+        },
+        {
+          "type": "note",
+          "content": "Some other words to describe feelings include:\n* {{pai}} (good)\n* {{ora}} (well)\n* {{māuiui}} (sick)\n* {{hiakai}} (hungry)\n* {{pukuriri}} (angry)\n\nThese words can replace {{pōuri}} or {{harikoa}} in the sentences above. This class of word is described more in [[ref|tūmahi ahua|tumahi-ahua]].\n\nIf you want to learn additional words to describe feelings and emotions, there's a [[vocab|feelings vocab list|feelings]] that you can use to practice.\n"
+        }
+      ]
+    },
+    {
+      "title": "Introducing Yourself - Wrap Up",
+      "elements": [
+        {
+          "type": "text",
+          "content": "This has provided a quick overview of how to introduce yourself in te reo Māori and introduced some of the features of the platform, including how to look at grammar references and use the Sentence Analyser."
+        }
+      ]
+    }
+  ]
+}

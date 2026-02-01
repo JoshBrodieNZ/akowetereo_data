@@ -1,0 +1,2360 @@
+[
+  {
+    "id": "lesson-1",
+    "title": "Basic Sentence Structure",
+    "description": "Learn the fundamental word order in te reo Māori sentences.",
+    "exercise": "exercise-1",
+    "tags": [
+      "grammar",
+      "sentence-structure",
+      "beginner"
+    ],
+    "level": 1,
+    "content": [
+      {
+        "title": "Word Order in Te Reo Māori",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Word Order Differences\n\nIn te reo Māori, [[ref|sentences|rerenga]] typically follow a different pattern than English.\n\nThe basic word order is:\n* **[[ref|Verb-Subject-Object|sentence-structure]]** (VSO) in te reo Māori\n* Compared to English which uses Subject-Verb-Object (SVO)\n\n> Understanding this fundamental difference is key to forming correct sentences."
+          }
+        ]
+      },
+      {
+        "title": "Sentence Components",
+        "elements": [
+          {
+            "type": "text",
+            "content": "A te reo Māori [[ref|sentence|rerenga]] has three main components:\n\n1. The [[ref|predicate|kianga]] - what is being said\n2. The [[ref|subject|tuingoa]] - who or what we're talking about\n3. Comments - additional information\n\nThese form the building blocks of every sentence you'll create."
+          },
+          {
+            "type": "explanation",
+            "content": "These components form a complete thought and can be analysed at different levels:\n\n| Level | Description | Te Reo Term |\n|-------|-------------|-------------|\n| [[ref&#124;Sentence&#124;rerenga]] | Complete thought | Rerenga |\n| [[ref&#124;Clause&#124;kianga]] | Contains a subject and predicate | Kianga |\n| [[ref&#124;Phrase&#124;kianga]] | Group of related words | Kianga |\n| [[ref&#124;Word&#124;tumu]] | Single unit of language | Tumu |\n\nUnderstanding these levels helps break down complex sentences."
+          }
+        ]
+      },
+      {
+        "title": "Simple Verbal Sentence Example",
+        "elements": [
+          {
+            "type": "example",
+            "sentence": "Kei te kai a Mere i te āporo.",
+            "translation": "Mary is eating the apple.",
+            "breakdown": {
+              "sentence": [
+                {
+                  "text": "Kei te kai a Mere i te āporo.",
+                  "explanation": "This is a complete verbal sentence (reremahi) in the present continuous tense.",
+                  "translation": "Mary is eating the apple."
+                }
+              ],
+              "clause": [
+                {
+                  "text": "Kei te kai a Mere",
+                  "explanation": "This is the main clause (aho motuhake) stating who is doing the action.",
+                  "translation": "Mary is eating"
+                },
+                {
+                  "text": "i te āporo",
+                  "explanation": "This is the object clause showing what is being acted upon.",
+                  "translation": "the apple"
+                }
+              ],
+              "phrase": [
+                {
+                  "text": "Kei te kai",
+                  "explanation": "This is a verb phrase (kīanga tūmahi) with the present continuous marker and verb.",
+                  "translation": "is eating",
+                  "structure": {
+                    "preposed": "Kei te",
+                    "nucleus": "kai"
+                  }
+                },
+                {
+                  "text": "a Mere",
+                  "explanation": "This is a noun phrase (kīanga tūingoa) with the personal article 'a' and a proper noun.",
+                  "translation": "Mary",
+                  "structure": {
+                    "preposed": "a",
+                    "nucleus": "Mere"
+                  }
+                },
+                {
+                  "text": "i te āporo",
+                  "explanation": "This is a prepositional phrase (kīanga pūhono) showing the direct object with the marker 'i'.",
+                  "translation": "the apple",
+                  "structure": {
+                    "preposed": "i",
+                    "nucleus": "te āporo"
+                  }
+                }
+              ],
+              "word": [
+                {
+                  "text": "Kei",
+                  "explanation": "Present tense marker (pūmahi) forming part of 'kei te'.",
+                  "translation": "present tense marker"
+                },
+                {
+                  "text": "te",
+                  "explanation": "Part of the verbal particle 'kei te' indicating present continuous tense.",
+                  "translation": "present continuous marker"
+                },
+                {
+                  "text": "kai",
+                  "explanation": "Transitive verb (tūmahi whiti) meaning 'to eat'.",
+                  "translation": "eat"
+                },
+                {
+                  "text": "a",
+                  "explanation": "Personal article (pūmoko) used before proper nouns.",
+                  "translation": "personal article"
+                },
+                {
+                  "text": "Mere",
+                  "explanation": "Proper noun (tūmoko) - a person's name.",
+                  "translation": "Mary"
+                },
+                {
+                  "text": "i",
+                  "explanation": "Object marker (pūhono) used with transitive verbs to indicate direct object.",
+                  "translation": "object marker"
+                },
+                {
+                  "text": "te",
+                  "explanation": "Definite article (pū tautuhi) - 'the'.",
+                  "translation": "the"
+                },
+                {
+                  "text": "āporo",
+                  "explanation": "Common noun (tūingoa) - 'apple'.",
+                  "translation": "apple"
+                }
+              ]
+            }
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te mahi a Hemi i te whare nui.",
+            "translation": "Hemi is working on the big house.",
+            "breakdown": {
+              "sentence": [
+                {
+                  "text": "Kei te mahi a Hemi i te whare nui.",
+                  "explanation": "This is a complete verbal sentence in the present continuous tense.",
+                  "translation": "Hemi is working on the big house."
+                }
+              ],
+              "clause": [
+                {
+                  "text": "Kei te mahi a Hemi",
+                  "explanation": "This is the main clause stating who is doing the action.",
+                  "translation": "Hemi is working"
+                },
+                {
+                  "text": "i te whare nui",
+                  "explanation": "This is the object clause showing what is being worked on.",
+                  "translation": "on the big house"
+                }
+              ],
+              "phrase": [
+                {
+                  "text": "Kei te mahi",
+                  "explanation": "This is a verb phrase with the present continuous marker and the verb \"mahi\" (to work).",
+                  "translation": "is working",
+                  "structure": {
+                    "preposed": "Kei te",
+                    "nucleus": "mahi"
+                  }
+                },
+                {
+                  "text": "a Hemi",
+                  "explanation": "This is a noun phrase with the personal article 'a' and a proper noun.",
+                  "translation": "Hemi",
+                  "structure": {
+                    "preposed": "a",
+                    "nucleus": "Hemi"
+                  }
+                },
+                {
+                  "text": "i te whare nui",
+                  "explanation": "This is a prepositional phrase with both a preposed periphery \"i\" and a postposed periphery \"nui\" (big) modifying the noun.",
+                  "translation": "on the big house",
+                  "structure": {
+                    "preposed": "i",
+                    "nucleus": "te whare",
+                    "postposed": "nui"
+                  }
+                }
+              ],
+              "word": [
+                {
+                  "text": "Kei",
+                  "explanation": "Present tense marker forming part of 'kei te'.",
+                  "translation": "present tense marker"
+                },
+                {
+                  "text": "te",
+                  "explanation": "Part of the verbal particle 'kei te' indicating present continuous tense.",
+                  "translation": "present continuous marker"
+                },
+                {
+                  "text": "mahi",
+                  "explanation": "Transitive verb meaning 'to work' or 'to do'.",
+                  "translation": "work/do"
+                },
+                {
+                  "text": "a",
+                  "explanation": "Personal article used before proper nouns.",
+                  "translation": "personal article"
+                },
+                {
+                  "text": "Hemi",
+                  "explanation": "Proper noun - a person's name.",
+                  "translation": "Hemi/James"
+                },
+                {
+                  "text": "i",
+                  "explanation": "Object marker used with transitive verbs to indicate direct object.",
+                  "translation": "object marker"
+                },
+                {
+                  "text": "te",
+                  "explanation": "Definite article - 'the'.",
+                  "translation": "the"
+                },
+                {
+                  "text": "whare",
+                  "explanation": "Common noun - 'house'.",
+                  "translation": "house"
+                },
+                {
+                  "text": "nui",
+                  "explanation": "Adjective - 'big' or 'large', modifying the noun 'whare'.",
+                  "translation": "big/large"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Understanding Phrase Structure",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Phrase Components\n\nIn te reo Māori, phrases are structured with these components:\n\n1. **Preposed periphery** - Elements that come before the nucleus (such as articles, prepositions)\n2. **Nucleus** - The central, required part of the phrase (typically a noun or verb)\n3. **Postposed periphery** - Elements that come after the nucleus (such as modifiers or adjectives)\n\nThe example sentences in this lesson show these components highlighted for each phrase.\n\n> This **phrase structure** is important to understand as you build more complex sentences."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-2",
+    "title": "Basic Sentence Structure in Te Reo Māori",
+    "description": "Learn about the fundamental VSO word order and how it differs from English.",
+    "exercise": "exercise-2",
+    "tags": [
+      "grammar",
+      "verb-forms",
+      "beginner"
+    ],
+    "level": 1,
+    "content": [
+      {
+        "title": "Word Order in Te Reo Māori",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Te reo Māori sentences typically follow a different pattern than English. The basic word order is Verb-Subject-Object (VSO), compared to English which uses Subject-Verb-Object (SVO)."
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te kai a Mere i te āporo.",
+            "translation": "Mary is eating the apple.",
+            "breakdown": {
+              "sentence": [
+                {
+                  "text": "Kei te kai a Mere i te āporo.",
+                  "explanation": "This is a complete verbal sentence following the VSO pattern: verb phrase (kei te kai) + subject (a Mere) + object (i te āporo).",
+                  "translation": "Mary is eating the apple."
+                }
+              ],
+              "clause": [
+                {
+                  "text": "Kei te kai a Mere",
+                  "explanation": "This is the main clause stating who is performing the action.",
+                  "translation": "Mary is eating"
+                },
+                {
+                  "text": "i te āporo",
+                  "explanation": "This is the object clause showing what is being eaten.",
+                  "translation": "the apple"
+                }
+              ],
+              "phrase": [
+                {
+                  "text": "Kei te kai",
+                  "explanation": "This is a verb phrase with the present continuous marker and verb.",
+                  "translation": "is eating"
+                },
+                {
+                  "text": "a Mere",
+                  "explanation": "This is a noun phrase with the personal article and name.",
+                  "translation": "Mary"
+                },
+                {
+                  "text": "i te āporo",
+                  "explanation": "This is a prepositional phrase with the direct object marker, article, and noun.",
+                  "translation": "the apple"
+                }
+              ],
+              "word": [
+                {
+                  "text": "Kei te",
+                  "explanation": "Present continuous verbal particle.",
+                  "translation": "is [verb]ing"
+                },
+                {
+                  "text": "kai",
+                  "explanation": "Verb meaning \"to eat\".",
+                  "translation": "eat"
+                },
+                {
+                  "text": "a",
+                  "explanation": "Personal article used before proper nouns.",
+                  "translation": "[personal marker]"
+                },
+                {
+                  "text": "Mere",
+                  "explanation": "A person's name.",
+                  "translation": "Mary"
+                },
+                {
+                  "text": "i",
+                  "explanation": "Direct object marker indicating what is receiving the action.",
+                  "translation": "[object marker]"
+                },
+                {
+                  "text": "te",
+                  "explanation": "Definite article (\"the\").",
+                  "translation": "the"
+                },
+                {
+                  "text": "āporo",
+                  "explanation": "Noun meaning \"apple\".",
+                  "translation": "apple"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "The Components of a Basic Sentence",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Every basic verbal sentence in te reo Māori has these components: 1) Verb phrase (what's happening), 2) Subject (who/what is doing it), and 3) Object (who/what is affected by the action)."
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te kōrero a Hemi ki a Wiremu.",
+            "translation": "James is talking to William.",
+            "breakdown": {
+              "sentence": [
+                {
+                  "text": "Kei te kōrero a Hemi ki a Wiremu.",
+                  "explanation": "This follows the pattern: verb phrase + subject + indirect object.",
+                  "translation": "James is talking to William."
+                }
+              ],
+              "clause": [
+                {
+                  "text": "Kei te kōrero a Hemi",
+                  "explanation": "The main clause stating who is speaking.",
+                  "translation": "James is talking"
+                },
+                {
+                  "text": "ki a Wiremu",
+                  "explanation": "The directional clause showing who James is talking to.",
+                  "translation": "to William"
+                }
+              ],
+              "phrase": [
+                {
+                  "text": "Kei te kōrero",
+                  "explanation": "Verb phrase with present continuous marker.",
+                  "translation": "is talking"
+                },
+                {
+                  "text": "a Hemi",
+                  "explanation": "Noun phrase identifying the subject.",
+                  "translation": "James"
+                },
+                {
+                  "text": "ki a Wiremu",
+                  "explanation": "Prepositional phrase with directional preposition.",
+                  "translation": "to William"
+                }
+              ],
+              "word": [
+                {
+                  "text": "Kei te",
+                  "explanation": "Present continuous verbal particle.",
+                  "translation": "is [verb]ing"
+                },
+                {
+                  "text": "kōrero",
+                  "explanation": "Verb meaning \"to speak/talk\".",
+                  "translation": "talk/speak"
+                },
+                {
+                  "text": "a",
+                  "explanation": "Personal article for proper nouns.",
+                  "translation": "[personal marker]"
+                },
+                {
+                  "text": "Hemi",
+                  "explanation": "A person's name.",
+                  "translation": "James"
+                },
+                {
+                  "text": "ki",
+                  "explanation": "Directional preposition.",
+                  "translation": "to"
+                },
+                {
+                  "text": "a",
+                  "explanation": "Personal article for proper nouns.",
+                  "translation": "[personal marker]"
+                },
+                {
+                  "text": "Wiremu",
+                  "explanation": "A person's name.",
+                  "translation": "William"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Practice Recognition",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Can you identify the verb, subject, and object in these sentences?"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te pānui a Rangi i te pukapuka.",
+            "translation": "Rangi is reading the book.",
+            "breakdown": {
+              "sentence": [
+                {
+                  "text": "Kei te pānui a Rangi i te pukapuka.",
+                  "explanation": "This follows the VSO pattern: verb (kei te pānui) + subject (a Rangi) + object (i te pukapuka).",
+                  "translation": "Rangi is reading the book."
+                }
+              ],
+              "clause": [
+                {
+                  "text": "Kei te pānui a Rangi",
+                  "explanation": "Main clause stating who is reading.",
+                  "translation": "Rangi is reading"
+                },
+                {
+                  "text": "i te pukapuka",
+                  "explanation": "Object clause stating what is being read.",
+                  "translation": "the book"
+                }
+              ],
+              "phrase": [
+                {
+                  "text": "Kei te pānui",
+                  "explanation": "Verb phrase - what is happening.",
+                  "translation": "is reading"
+                },
+                {
+                  "text": "a Rangi",
+                  "explanation": "Noun phrase - who is doing it.",
+                  "translation": "Rangi"
+                },
+                {
+                  "text": "i te pukapuka",
+                  "explanation": "Prepositional phrase - what is being affected.",
+                  "translation": "the book"
+                }
+              ],
+              "word": [
+                {
+                  "text": "Kei te",
+                  "explanation": "Present continuous verbal particle.",
+                  "translation": "is [verb]ing"
+                },
+                {
+                  "text": "pānui",
+                  "explanation": "Verb meaning \"to read\".",
+                  "translation": "read"
+                },
+                {
+                  "text": "a",
+                  "explanation": "Personal article.",
+                  "translation": "[personal marker]"
+                },
+                {
+                  "text": "Rangi",
+                  "explanation": "A person's name.",
+                  "translation": "Rangi"
+                },
+                {
+                  "text": "i",
+                  "explanation": "Direct object marker.",
+                  "translation": "[object marker]"
+                },
+                {
+                  "text": "te",
+                  "explanation": "Definite article.",
+                  "translation": "the"
+                },
+                {
+                  "text": "pukapuka",
+                  "explanation": "Noun meaning \"book\".",
+                  "translation": "book"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-3",
+    "title": "Simple Sentences Without Verbs",
+    "description": "Learn about he and ko sentences in te reo Māori - two important non-verbal sentence types.",
+    "exercise": "exercise-3",
+    "tags": [
+      "grammar",
+      "sentence-structure",
+      "intermediate"
+    ],
+    "level": 2,
+    "content": [
+      {
+        "title": "Introduction to Non-Verbal Sentences",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Unlike English, te reo Māori can form complete sentences without using verbs. These non-verbal sentences are used to express identity, classification, and characteristics without needing a word for \"is\" or \"are\"."
+          }
+        ]
+      },
+      {
+        "title": "Ko Sentences - Identifying Who or What Something Is",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Ko sentences are used to express the identity of someone or something. They typically answer the question \"Who is this?\" or \"What is this?\""
+          },
+          {
+            "type": "example",
+            "sentence": "Ko Hemi ahau.",
+            "translation": "I am James."
+          },
+          {
+            "type": "example",
+            "sentence": "Ko Aotearoa tēnei.",
+            "translation": "This is New Zealand."
+          }
+        ]
+      },
+      {
+        "title": "He Sentences - Classifying What Something Is",
+        "elements": [
+          {
+            "type": "text",
+            "content": "He sentences are used to express the nature or characteristics of something. They describe what category or class something belongs to."
+          },
+          {
+            "type": "example",
+            "sentence": "He kaiako ia.",
+            "translation": "She/he is a teacher."
+          },
+          {
+            "type": "example",
+            "sentence": "He pai tēnei kai.",
+            "translation": "This food is good."
+          }
+        ]
+      },
+      {
+        "title": "Comparing Ko and He Sentences",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Ko sentences identify something specific (This is X). He sentences classify something (This is a X) or describe its qualities (This is X-like)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-4",
+    "title": "Non-Verbal Sentence Types",
+    "description": "Explore the different types of non-verbal sentences in te reo Māori and their uses.",
+    "exercise": "exercise-4",
+    "tags": [
+      "grammar",
+      "sentence-structure",
+      "intermediate"
+    ],
+    "level": 2,
+    "content": [
+      {
+        "title": "Introduction to Non-Verbal Sentences",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Unlike English, te reo Māori can form complete sentences without using verbs. These non-verbal sentences are used to express identity, classification, and characteristics without needing a word for \"is\" or \"are\"."
+          }
+        ]
+      },
+      {
+        "title": "Ko Sentences - Identifying Who or What Something Is",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Ko sentences are used to express the identity of someone or something. They typically answer the question \"Who is this?\" or \"What is this?\""
+          },
+          {
+            "type": "example",
+            "sentence": "Ko Hemi ahau.",
+            "translation": "I am James."
+          },
+          {
+            "type": "example",
+            "sentence": "Ko Aotearoa tēnei.",
+            "translation": "This is New Zealand."
+          }
+        ]
+      },
+      {
+        "title": "He Sentences - Classifying What Something Is",
+        "elements": [
+          {
+            "type": "text",
+            "content": "He sentences are used to express the nature or characteristics of something. They describe what category or class something belongs to."
+          },
+          {
+            "type": "example",
+            "sentence": "He kaiako ia.",
+            "translation": "She/he is a teacher."
+          },
+          {
+            "type": "example",
+            "sentence": "He pai tēnei kai.",
+            "translation": "This food is good."
+          }
+        ]
+      },
+      {
+        "title": "Comparing Ko and He Sentences",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Ko sentences identify something specific (This is X). He sentences classify something (This is a X) or describe its qualities (This is X-like)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-5",
+    "title": "Verbal Particles",
+    "description": "Learn about the particles that indicate tense, aspect, and mood in te reo Māori.",
+    "exercise": "exercise-5",
+    "tags": [
+      "tikanga",
+      "culture",
+      "intermediate"
+    ],
+    "level": 2,
+    "content": [
+      {
+        "title": "Introduction to Verbal Particles",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Verbal particles (pūmahi) are small words that come before verbs in te reo Māori to indicate when an action occurs (tense), how it unfolds over time (aspect), and the speaker's attitude toward the action (mood)."
+          }
+        ]
+      },
+      {
+        "title": "Present Continuous: Kei te",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The verbal particle kei te indicates an action that is happening right now (present continuous):"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te kōrero a Wiremu.",
+            "translation": "William is speaking."
+          }
+        ]
+      },
+      {
+        "title": "Past Tense: I",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The verbal particle i indicates an action that happened in the past (simple past tense):"
+          },
+          {
+            "type": "example",
+            "sentence": "I haere mātou ki te tāone.",
+            "translation": "We went to town."
+          }
+        ]
+      },
+      {
+        "title": "Future/Narrative: Ka",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The verbal particle ka can indicate future actions, new actions in a narrative, or habitual actions:"
+          },
+          {
+            "type": "example",
+            "sentence": "Ka haere au ki te kura āpōpō.",
+            "translation": "I will go to school tomorrow."
+          }
+        ]
+      },
+      {
+        "title": "Perfect Aspect: Kua",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The verbal particle kua indicates a completed action with present relevance (perfect aspect):"
+          },
+          {
+            "type": "example",
+            "sentence": "Kua mutu te hui.",
+            "translation": "The meeting has finished."
+          }
+        ]
+      },
+      {
+        "title": "Continuous Aspect: E...Ana",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The verbal particles e...ana surround a verb to indicate an ongoing action (continuous aspect):"
+          },
+          {
+            "type": "example",
+            "sentence": "E mahi ana ia i āna mahi kāinga.",
+            "translation": "She/he is doing her/his homework."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-6",
+    "title": "Word Classes in Te Reo Māori",
+    "description": "Learn about the main types of words and their functions in te reo Māori sentences.",
+    "exercise": "exercise-6",
+    "content": [
+      {
+        "title": "Introduction to Word Classes",
+        "elements": [
+          {
+            "type": "text",
+            "content": "In te reo Māori, words are categorized into different classes based on their function in a sentence. Understanding these word classes is fundamental to constructing grammatically correct sentences."
+          }
+        ]
+      },
+      {
+        "title": "Tūmahi (Verbs)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Tūmahi are words that describe actions, states of being, or occurrences. In te reo Māori, verbs can be classified into several important categories:"
+          },
+          {
+            "type": "explanation",
+            "content": "Intransitive verbs (like \"sleep\"), transitive verbs (like \"eat something\"), stative verbs (like \"be happy\"), and neuter verbs (like \"be broken\")."
+          }
+        ]
+      },
+      {
+        "title": "Tūingoa (Nouns)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Tūingoa are words that name people, places, things, or ideas. Te reo Māori has concrete nouns (physical objects), abstract nouns (concepts), and proper nouns (names)."
+          }
+        ]
+      },
+      {
+        "title": "Tūkapi (Pronouns)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Tūkapi are words that replace nouns in a sentence. Te reo Māori has a complex pronoun system that tells you not just \"who\" but also how many people and whether the listener is included."
+          },
+          {
+            "type": "example",
+            "sentence": "au/ahau = I, koe = you, ia = he/she",
+            "translation": "Singular pronouns"
+          },
+          {
+            "type": "example",
+            "sentence": "tātou = we all (including you), mātou = we all (excluding you)",
+            "translation": "Plural pronouns"
+          }
+        ]
+      },
+      {
+        "title": "Tūpātai (Question Words)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Tūpātai are words used to ask questions in te reo Māori."
+          },
+          {
+            "type": "example",
+            "sentence": "aha = what, wai = who, hea = where",
+            "translation": "Basic question words"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-7",
+    "title": "Commands and Negation",
+    "description": "Learn how to give commands and make negative statements in te reo Māori.",
+    "exercise": "exercise-7",
+    "content": [
+      {
+        "title": "Commands in Te Reo Māori",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Commands or imperative sentences tell someone to do something. In te reo Māori, there are several ways to form commands."
+          }
+        ]
+      },
+      {
+        "title": "Simple Commands",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The simplest form of a command uses just the verb:"
+          },
+          {
+            "type": "example",
+            "sentence": "Haere!",
+            "translation": "Go!"
+          },
+          {
+            "type": "example",
+            "sentence": "Kōrero!",
+            "translation": "Speak!"
+          }
+        ]
+      },
+      {
+        "title": "Commands with E",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Commands can also be formed with the particle e:"
+          },
+          {
+            "type": "example",
+            "sentence": "E tū!",
+            "translation": "Stand!"
+          },
+          {
+            "type": "example",
+            "sentence": "E noho!",
+            "translation": "Sit!"
+          }
+        ]
+      },
+      {
+        "title": "Passive Commands",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Commands can be given in the passive voice, especially for transitive verbs:"
+          },
+          {
+            "type": "example",
+            "sentence": "Pānuitia te pukapuka!",
+            "translation": "Read the book!"
+          }
+        ]
+      },
+      {
+        "title": "Negating Verbal Sentences",
+        "elements": [
+          {
+            "type": "text",
+            "content": "To make a verbal sentence negative, we generally use the negative word kāore:"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te haere a Mere. → Kāore a Mere i te haere.",
+            "translation": "Mary is going. → Mary is not going."
+          },
+          {
+            "type": "example",
+            "sentence": "I kai ia. → Kāore ia i kai.",
+            "translation": "She ate. → She did not eat."
+          }
+        ]
+      },
+      {
+        "title": "Negating Ko Sentences",
+        "elements": [
+          {
+            "type": "text",
+            "content": "To negate ko sentences, we use the negative word ehara:"
+          },
+          {
+            "type": "example",
+            "sentence": "Ko Hera ahau. → Ehara au i a Hera.",
+            "translation": "I am Hera. → I am not Hera."
+          }
+        ]
+      },
+      {
+        "title": "Negating He Sentences",
+        "elements": [
+          {
+            "type": "text",
+            "content": "To negate he sentences, we use either ehara or kāore depending on the context:"
+          },
+          {
+            "type": "example",
+            "sentence": "He kaiako ia. → Ehara ia i te kaiako.",
+            "translation": "She is a teacher. → She is not a teacher."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-8",
+    "title": "Questions in Te Reo Māori",
+    "description": "Learn how to ask different types of questions in te reo Māori.",
+    "exercise": "exercise-8",
+    "content": [
+      {
+        "title": "Introduction to Questions",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Asking questions is an essential part of communication. In te reo Māori, there are several ways to form questions depending on what information you're seeking."
+          }
+        ]
+      },
+      {
+        "title": "Yes/No Questions",
+        "elements": [
+          {
+            "type": "text",
+            "content": "To ask a question that can be answered with \"yes\" or \"no,\" simply use the same structure as a statement but with a rising intonation at the end:"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te haere koe ki te kura?",
+            "translation": "Are you going to school?"
+          },
+          {
+            "type": "example",
+            "sentence": "I kai koe i te paraoa?",
+            "translation": "Did you eat the bread?"
+          }
+        ]
+      },
+      {
+        "title": "WH-Questions with Aha (What)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "To ask about things, use the question word aha (what):"
+          },
+          {
+            "type": "example",
+            "sentence": "He aha tēnā?",
+            "translation": "What is that?"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te aha koe?",
+            "translation": "What are you doing?"
+          }
+        ]
+      },
+      {
+        "title": "WH-Questions with Wai (Who)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "To ask about people, use the question word wai (who):"
+          },
+          {
+            "type": "example",
+            "sentence": "Ko wai tēnā?",
+            "translation": "Who is that?"
+          },
+          {
+            "type": "example",
+            "sentence": "Nō wai tēnei pukapuka?",
+            "translation": "Whose book is this?"
+          }
+        ]
+      },
+      {
+        "title": "WH-Questions with Hea (Where)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "To ask about locations, use the question word hea (where):"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei hea te whare?",
+            "translation": "Where is the house?"
+          },
+          {
+            "type": "example",
+            "sentence": "I haere koe ki hea?",
+            "translation": "Where did you go?"
+          }
+        ]
+      },
+      {
+        "title": "Other Question Words",
+        "elements": [
+          {
+            "type": "text",
+            "content": "There are several other question words in te reo Māori:"
+          },
+          {
+            "type": "explanation",
+            "content": "āhea (when - future), nōnāhea (when - past), pēhea (how), hia (how many - things), tokohia (how many - people)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-9",
+    "title": "Phrases in Te Reo Māori",
+    "description": "Learn about different types of phrases and their functions in sentences.",
+    "exercise": "exercise-9",
+    "content": [
+      {
+        "title": "Introduction to Phrases",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Phrases are groups of related words that function as a unit within a sentence. Understanding phrases is key to forming more complex sentences."
+          }
+        ]
+      },
+      {
+        "title": "Kīanga Tūmahi (Verb Phrases)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Verb phrases contain a verb and any associated particles. They typically form the predicate of a sentence:"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te kai, ka haere, i moe",
+            "translation": "is eating, will go, slept"
+          }
+        ]
+      },
+      {
+        "title": "Kīanga Tūingoa (Noun Phrases)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Noun phrases contain a noun and any associated articles, modifiers, or possessives:"
+          },
+          {
+            "type": "example",
+            "sentence": "te whare nui, aku pukapuka, a Hemi",
+            "translation": "the big house, my books, James"
+          }
+        ]
+      },
+      {
+        "title": "Kīanga Pūhono (Prepositional Phrases)",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Prepositional phrases begin with a preposition and typically indicate location, direction, or relationship:"
+          },
+          {
+            "type": "example",
+            "sentence": "ki te kura, i te whare, mō te tamaiti",
+            "translation": "to school, in the house, for the child"
+          }
+        ]
+      },
+      {
+        "title": "Coordination of Phrases",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Phrases can be joined together using me (and) or hoki (also):"
+          },
+          {
+            "type": "example",
+            "sentence": "te mīti me te kūmara",
+            "translation": "the meat and the kumara"
+          },
+          {
+            "type": "example",
+            "sentence": "te mīti, te kūmara hoki",
+            "translation": "the meat, and also the kumara"
+          }
+        ]
+      },
+      {
+        "title": "Phrase Order in Sentences",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The typical order of phrases in a sentence is: Predicate phrase (verb phrase) + Subject phrase (noun phrase) + Other phrases (comments)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-10",
+    "title": "Advanced Verb Forms",
+    "description": "Learn about experience verbs, neuter verbs, and passive constructions.",
+    "exercise": "exercise-10",
+    "content": [
+      {
+        "title": "Experience Verbs",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Experience verbs describe perceptions, emotions, or mental states. They work differently from standard action verbs:"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te pīrangi au ki te kai.",
+            "translation": "I want food."
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te mōhio ia ki te kōrero Māori.",
+            "translation": "She knows how to speak Māori."
+          }
+        ]
+      },
+      {
+        "title": "Neuter Verbs",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Neuter verbs (tūmahi oti) describe states resulting from completed actions. They often translate to \"be broken,\" \"be finished,\" etc.:"
+          },
+          {
+            "type": "example",
+            "sentence": "Kua pakaru te wini.",
+            "translation": "The window is broken."
+          },
+          {
+            "type": "example",
+            "sentence": "Kua mate te kurī.",
+            "translation": "The dog has died/is dead."
+          }
+        ]
+      },
+      {
+        "title": "Neuter Verb Agents",
+        "elements": [
+          {
+            "type": "text",
+            "content": "With neuter verbs, you can optionally indicate who or what caused the state:"
+          },
+          {
+            "type": "example",
+            "sentence": "Kua pakaru te wini i a Hemi.",
+            "translation": "The window is broken because of James."
+          }
+        ]
+      },
+      {
+        "title": "Passive Voice",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The passive voice shifts focus from the doer to the receiver of an action. In te reo Māori, this involves adding a special suffix to the verb:"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te kai a Mere i te āporo. → Kei te kainga te āporo e Mere.",
+            "translation": "Mary is eating the apple. → The apple is being eaten by Mary."
+          }
+        ]
+      },
+      {
+        "title": "Passive Suffixes",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Different verbs take different passive suffixes, such as -tia, -hia, -ngia, -a, and others:"
+          },
+          {
+            "type": "example",
+            "sentence": "kōrero → kōrerotia",
+            "translation": "speak → be spoken"
+          },
+          {
+            "type": "example",
+            "sentence": "mahi → mahia",
+            "translation": "do → be done"
+          }
+        ]
+      },
+      {
+        "title": "The Pseudo-Passive Construction",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Another way to form passive-like sentences is using the construction \"he mea...\" (it is a thing...):"
+          },
+          {
+            "type": "example",
+            "sentence": "He mea tuhi tēnei reta e Hemi.",
+            "translation": "This letter was written by James."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-11",
+    "title": "A/O Categories of Possession",
+    "description": "Learn about the two categories of possession in te reo Māori and when to use each.",
+    "exercise": "exercise-11",
+    "content": [
+      {
+        "title": "Introduction to A/O Categories",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Te reo Māori divides possession into two categories, known as the A category and the O category. This affects which possessive forms to use (taku/tōku, aku/ōku, etc.)."
+          }
+        ]
+      },
+      {
+        "title": "The O Category",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The O category generally includes things that:"
+          },
+          {
+            "type": "explanation",
+            "content": "* Are your superiors, elders, or ancestors\n* Shelter, protect, or transport you\n* Are parts of your body or mind\n* Are your home, land, or heritage"
+          }
+        ]
+      },
+      {
+        "title": "Examples of O Category",
+        "elements": [
+          {
+            "type": "example",
+            "sentence": "tōku whare (my house)",
+            "translation": "O category - the house shelters you"
+          },
+          {
+            "type": "example",
+            "sentence": "tō mātou kaumātua (our elder)",
+            "translation": "O category - elders are superior/respected"
+          },
+          {
+            "type": "example",
+            "sentence": "ōku waewae (my feet)",
+            "translation": "O category - body parts"
+          }
+        ]
+      },
+      {
+        "title": "The A Category",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The A category generally includes things that:"
+          },
+          {
+            "type": "explanation",
+            "content": "* Are your subordinates or younger relations\n* Are controlled by you\n* Are food or drink\n* Are created, acquired, or owned by you"
+          }
+        ]
+      },
+      {
+        "title": "Examples of A Category",
+        "elements": [
+          {
+            "type": "example",
+            "sentence": "tāku mahi (my work)",
+            "translation": "A category - work is controlled/done by you"
+          },
+          {
+            "type": "example",
+            "sentence": "ā mātou tamariki (our children)",
+            "translation": "A category - children are younger relations"
+          },
+          {
+            "type": "example",
+            "sentence": "āku kai (my food)",
+            "translation": "A category - food and drink"
+          }
+        ]
+      },
+      {
+        "title": "Context Matters",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Some items can change category depending on the relationship or context. It's not about the object itself but the relationship between possessor and possessed."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-12",
+    "title": "Complex Sentences",
+    "description": "Learn how to form more complex sentence structures with multiple clauses.",
+    "exercise": "exercise-12",
+    "content": [
+      {
+        "title": "Introduction to Complex Sentences",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Complex sentences contain multiple clauses - one main clause and one or more subordinate clauses that add additional information."
+          }
+        ]
+      },
+      {
+        "title": "Adverbial Clauses of Time",
+        "elements": [
+          {
+            "type": "text",
+            "content": "These clauses indicate when an action takes place:"
+          },
+          {
+            "type": "example",
+            "sentence": "Ka haere au ki te kāinga i te mutunga o te mahi.",
+            "translation": "I will go home at the end of work."
+          }
+        ]
+      },
+      {
+        "title": "Adverbial Clauses of Purpose",
+        "elements": [
+          {
+            "type": "text",
+            "content": "These clauses indicate why an action is performed:"
+          },
+          {
+            "type": "example",
+            "sentence": "I haere ia ki te toa ki te hoko kai.",
+            "translation": "She went to the store to buy food."
+          }
+        ]
+      },
+      {
+        "title": "Conditional Clauses with Mehemea",
+        "elements": [
+          {
+            "type": "text",
+            "content": "These clauses express conditions under which something happens:"
+          },
+          {
+            "type": "example",
+            "sentence": "Mehemea ka ua, ka noho tātou ki roto.",
+            "translation": "If it rains, we will stay inside."
+          }
+        ]
+      },
+      {
+        "title": "Relative Clauses",
+        "elements": [
+          {
+            "type": "text",
+            "content": "These clauses provide additional information about a noun:"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te pānui au i te pukapuka i homai e taku hoa ki ahau.",
+            "translation": "I am reading the book that my friend gave to me."
+          }
+        ]
+      },
+      {
+        "title": "Comparative Clauses",
+        "elements": [
+          {
+            "type": "text",
+            "content": "These clauses make comparisons:"
+          },
+          {
+            "type": "example",
+            "sentence": "He pai ake tēnei pukapuka i tērā.",
+            "translation": "This book is better than that one."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "level1-pronunciation",
+    "title": "Pronunciation",
+    "description": "Learn how to pronounce Māori words.",
+    "exercise": null,
+    "validated": true,
+    "tags": [
+      "beginner",
+      "pronunciation"
+    ],
+    "level": 1,
+    "content": [
+      {
+        "title": "Whakahuatanga - Pronunciation",
+        "elements": [
+          {
+            "type": "text",
+            "content": "There are a wide variety of resources available to support you in learning how to pronounce te reo Māori. Rather than reproduce those here, this section will give a brief overview and link to other resources online to support your pronunciation.\n\nSome good ways to practice your pronunciation include:\n* Te Wānanga o Aotearoa's [Māori Alphabet Tool](https://purarangi.twoa.ac.nz/).\n* Museum of New Zealand Te Papa Tongarewa's [Video Tutorials](https://www.youtube.com/watch?v=jTP-nRudTy8).\n* Looking up words on [Te Aka Māori Dictionary](https://maoridictionary.co.nz/word/3003) and using the audio pronunciation feature (to the right of the word) to listen to how words and pick up the individual sounds.\n* Using an app such as [Rongo](https://rongo.app/) to practice and test your pronunciation.\n"
+          }
+        ]
+      },
+      {
+        "title": "Ngā Oropuare - Vowels - Intro",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Te reo Māori has five vowels, but these can be pronounced and combined in different ways to make a much larger number of total vowel sounds. Vowels can be long or short, with the long version of a vowel sound typically indicated by a macron* (a straight bar placed above the letter).\n\nThe vowels are a, ā, e, ē, i, ī, o, ō, u and ū.\n\nThey're pronounced like the following sounds in English:\n\n| Vowel | Short Sound | Long Sound |\n|-------|-------------|-------------|\n| a/ā | **a**gree | c**a**r |\n| e/ē | **e**xam | **ai**r |\n| i/ī | **e**at | s**ee** |\n| o/ō | **aw**ful | st**or**e |\n| u/ū | tw**o** | s**oo**n |"
+          },
+          {
+            "type": "note",
+            "content": "The macron is called tohutō or pōtae (hat) in te reo Māori.\n\n*Some iwi and speakers prefer to use a double vowel instead of a macron (e.g. turning kōrero into koorero)."
+          }
+        ]
+      },
+      {
+        "title": "Ngā Oropuare Pūrua - Vowel Blends",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Some vowels, when placed next to other vowels, require us to blend the two sounds together into a single syllable, while other vowels combinations require us to pronounce both vowels independently.\n\nWe blend the vowel into a single syllable when:\n* a is followed by any other vowel ([tae](https://maoridictionary.co.nz/word/7020), [tai](https://maoridictionary.co.nz/word/7091), [hao](https://maoridictionary.co.nz/word/848), [hau](https://maoridictionary.co.nz/word/924)).\n* e is followed by i or u ([kei](https://maoridictionary.co.nz/word/2514), [heu](https://maoridictionary.co.nz/word/1122)).\n* o is followed by e, i or u ([koe](https://maoridictionary.co.nz/word/2761), [koi](https://maoridictionary.co.nz/word/2818), [hou](https://maoridictionary.co.nz/word/1464)).\n\nListen to the difference at the links above between hau/hou/hao, between koe/koi, as well as between tae and kai as these vowel blends can often be mixed up.\n\nAdditionally, some long vowels are blended with a short vowel, such as:\n* ā followed by any other vowel ([pāera](https://maoridictionary.co.nz/word/4882), [kāinga](https://maoridictionary.co.nz/word/1971), [māori](https://maoridictionary.co.nz/word/3646), [māu](https://maoridictionary.co.nz/word/3931)).\n* ō followed by i or u ([ōi](https://maoridictionary.co.nz/word/4717), [tōu](https://maoridictionary.co.nz/word/8547)).\n* ē followed by i ([tēina](https://maoridictionary.co.nz/word/7891)).\n\nWith other vowel combinations, we pronounce both vowels as separate syllables. In the common greeting `kia ora`, `kia` has both of its vowels pronounced but the **a** of `ki**a**` and the **o** of `**o**ra` are often blended together when speaking faster. You'll often hear this with vowels at the end of a word and start of the next word.\n"
+          },
+          {
+            "type": "note",
+            "content": "A blend of two vowels is called a dipthong or [oro tōpū](https://paekupu.co.nz/word/oro-topu)"
+          }
+        ]
+      },
+      {
+        "title": "Ngā Orotaki - Consonants",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Te reo Māori has ten consonants: h, k, m n, p, r, t, w, wh, ng\n\nAlthough vowels can appear in a word alone, consonants are always combined with a vowel to make a syllable and no word in te reo Māori ends in a consonant.\n\nMany of the consonants in te reo Māori are used very similarly to how they're used in English, so at this early stage of your reo journey, we'll focus on just covering the sounds that are important to focus on.\n\n* w is usually pronounced like an f, although there are dialectual variations on this.\n* ng is pronounced like the **ng** in si**ng**er, although Ngāi Tahu (Kāi Tahu) speakers use a k sound .\n* r is pronounced as a rolled r, similar to an English d sound, but softer. A good comparison is the **dd** sound in shu**dd**er or the **tt** in how Kiwi pronounce bu**tt**er. Thes best way to practice this is to listen to it being pronounced and imitating this in words such as [kiriata](https://maoridictionary.co.nz/word/2681).\n* t is pronounced differently depending on the vowel that follows it. When followed by an a/e/u it is pronounced softer, closer to an English d sound. When followed by an i/u it is sharper like an English t sound. Compare [titiro](https://maoridictionary.co.nz/word/8226) and [tēpu](https://maoridictionary.co.nz/word/7941).\n\n"
+          },
+          {
+            "type": "note",
+            "content": "The consonants wh and ng are digraphs or [orotaki pūrua](https://paekupu.co.nz/word/orokati-purua), where two letters are used to indicate a single sound.\n\nAs you continue comparing your pronunciation to practiced speakers you may find subtle differences between other English and Māori consonants. For example, p, t and k in te reo Māori are often less aspirated than in English. Basically this means that there's less of a breath out when you use the sound.\n\nHold a hand in front of your mouth and compare the p in `pit` and the p in `spit` -- the p in `spit` is less aspirated!\n"
+          }
+        ]
+      },
+      {
+        "title": "Whakahuatanga - Pronunciation",
+        "elements": [
+          {
+            "type": "text",
+            "content": "We'll come back to pronunciation later in the lessons. There are some more complicated aspects of pronunciation to focus on (in particular which parts of a word or phrases should be emphasised to improve the rere or flow of Māori speech) but they're better addressed once we've learned a little bit more about how words and phrases are structured in te reo Māori.\n"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "level1-introductions",
+    "title": "Introductions",
+    "description": "A quick overview of some simple greetings and introductions while we're getting familiar with the features of the platform.",
+    "exercise": null,
+    "tags": [
+      "beginner",
+      "pronunciation"
+    ],
+    "level": 1,
+    "validated": true,
+    "content": [
+      {
+        "title": "Greetings - Kia Ora!",
+        "elements": [
+          {
+            "type": "text",
+            "content": "We'll start one of the best known Māori greetings, commonly heard in Aotearoa. Don't worry too much at this stage about what each individual word means, just take the opportunity to get familiar with reading te reo Māori and saying it aloud to yourself."
+          },
+          {
+            "type": "example",
+            "sentence": "Kia ora!",
+            "translation": "Hello! Cheers!",
+            "note": "Listen to the [recording](https://maoridictionary.co.nz/word/2608) on Te Aka and note how the two vowels in ki**a o**ra blend into one another!"
+          },
+          {
+            "type": "example",
+            "sentence": "Kia ora e hoa mā.",
+            "translation": "Hello, friends."
+          },
+          {
+            "type": "example",
+            "sentence": "Kia ora koutou.",
+            "translation": "Hello to you all.",
+            "breakdown": {
+              "phrase": []
+            },
+            "note": "Because `koutou` is a term used to address three or more people, this form of the greeting is only used if you're talking to that many people."
+          },
+          {
+            "type": "note",
+            "content": "While 'kia ora' is used to say hello, its literal translation is closer to `be well`.\n\nIt's commonly considered an informal way to say hello."
+          }
+        ]
+      },
+      {
+        "title": "Greetings and Farewells - Informal",
+        "elements": [
+          {
+            "type": "text",
+            "content": "These are some examples of other informal greetings and farewells:"
+          },
+          {
+            "type": "example",
+            "sentence": "Mōrena",
+            "translation": "Good morning"
+          },
+          {
+            "type": "example",
+            "sentence": "Ka kite anō",
+            "translation": "I'll see you again"
+          },
+          {
+            "type": "example",
+            "sentence": "Hei konā mai",
+            "translation": "Goodbye for now"
+          },
+          {
+            "type": "example",
+            "sentence": "Mā te wā",
+            "translation": "See you later"
+          }
+        ]
+      },
+      {
+        "title": "Greetings and Farewells - Formal",
+        "elements": [
+          {
+            "type": "text",
+            "content": "These are some examples of more formal greetings and farewells:"
+          },
+          {
+            "type": "example",
+            "sentence": "Tēnā koe/kōrua/koutou",
+            "translation": "Hello to one/two/three or more people",
+            "note": "In te reo Māori, you use a different term for `you` depending on how many people you are talking to, so you change between koe/kōrua/koutou depending on the situation."
+          },
+          {
+            "type": "example",
+            "sentence": "E noho rā",
+            "translation": "Goodbye (to someone who is staying)"
+          },
+          {
+            "type": "example",
+            "sentence": "Haere rā",
+            "translation": "Goodbye (to someone who is leaving)"
+          },
+          {
+            "type": "example",
+            "sentence": "Ata mārie",
+            "translation": "Good morning"
+          },
+          {
+            "type": "example",
+            "sentence": "Ahiahi mārie",
+            "translation": "Good afternoon"
+          },
+          {
+            "type": "example",
+            "sentence": "Pō mārie",
+            "translation": "Goodnight"
+          }
+        ]
+      },
+      {
+        "title": "Introducing Yourself",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The following sentences are ways to ask someone's name, as well as how to answer that question:"
+          },
+          {
+            "type": "example",
+            "sentence": "Ko wai tō ingoa?",
+            "translation": "What is your name?"
+          },
+          {
+            "type": "example",
+            "sentence": "Ko Mere tōku ingoa.",
+            "translation": "My name is Mere."
+          },
+          {
+            "type": "example",
+            "sentence": "Ko wai koe?",
+            "translation": "Who are you?"
+          },
+          {
+            "type": "example",
+            "sentence": "Ko Mere ahau.",
+            "translation": "I am Mere."
+          },
+          {
+            "type": "note",
+            "content": "Observe that in both pairs of examples, the answer takes a similar format to the question. This is a common question/answer format in te reo Māori and we'll investigate how it works as we progress through the lessons."
+          }
+        ]
+      },
+      {
+        "title": "Where are you from?",
+        "elements": [
+          {
+            "type": "text",
+            "content": "In te ao Māori (the Māori world), it's common for formal greetings to include details about where you come from to communicate to the listener who your ancestors are and who you might know. This gives them an opportunity to recognise and share connections that they may have with you as part of getting to know one another.\n\nThese are some of the ways that you might communicate where you come from:"
+          },
+          {
+            "type": "example",
+            "sentence": "Nō hea koe?",
+            "translation": "Where are you from?",
+            "note": "Note that nō is a possessive term, so the question is literally asking `to where do you belong?`\n\nBecause of this detail, it can be considered improper for non-Māori to use nō to claim a connection to somewhere in Aotearoa. Not every listener is going to be find this inappropriate, but it can be more respectful to use an alternative way of describing where you come from such as some of the  options below."
+          },
+          {
+            "type": "example",
+            "sentence": "Nō hea ia?",
+            "translation": "Where is he/she/they (singular) from?",
+            "note": "The [[ref|tūkapi|tukapi]] (pronoun) ia refers to one person without reference to their gender, unlike he/she in English."
+          },
+          {
+            "type": "example",
+            "sentence": "Nō Ōtepoti au.",
+            "translation": "I am from Dunedin."
+          },
+          {
+            "type": "example",
+            "sentence": "Nō Ngāti Kahungunu au.",
+            "translation": "I am of Ngāti Kahungunu.",
+            "note": "You can use nō to describe a line of connection to a place or an iwi (tribe)."
+          },
+          {
+            "type": "example",
+            "sentence": "I whānau mai koe ki hea?",
+            "translation": "Where were you born?"
+          },
+          {
+            "type": "example",
+            "sentence": "I whānau mai au ki Kirikiriroa.",
+            "translation": "I was born in Hamilton."
+          },
+          {
+            "type": "example",
+            "sentence": "I tipu ake au ki Heretaunga.",
+            "translation": "I lived in Hastings."
+          },
+          {
+            "type": "example",
+            "sentence": "Kei Māwhera e noho ana.",
+            "translation": "I currently live in Greymouth."
+          },
+          {
+            "type": "note",
+            "content": "These are just some examples of how to describe where you're from in normal conversation. A more detailed description of how to formally provide your background will be covered in a later lesson."
+          }
+        ]
+      },
+      {
+        "title": "How are you?",
+        "elements": [
+          {
+            "type": "text",
+            "content": "The following sentences can be used to ask someone how they are. Observe that similar to the earlier examples, the structure for the question and answer are very similar. In this case, the question word pēhea (how) is replaced by a word describing a feeling such as harikoa (happy) or pōuri (sad) and the word koe (you) in the sentence is replaced with au or ahau (me) for the answer."
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te pēhea koe?",
+            "translation": "How are you?"
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te harikoa au.",
+            "translation": "I am happy."
+          },
+          {
+            "type": "example",
+            "sentence": "Kei te pōuri au.",
+            "translation": "I am sad."
+          },
+          {
+            "type": "note",
+            "content": "Some other words to describe feelings include:\n* pai (good)\n* ora (well)\n* māuiui (sick)\n* hiakai (hungry)\n* pukuriri (angry)\n\nThese words can replace **pōuri** or **harikoa** in the sentences above. This class of word is described more in [[ref|tūmahi ahua|tumahi-ahua]].\n\nIf you want to learn additional words to describe feelings and emotions, there's a [[vocab|feelings vocab list|feelings]] that you can use to practice.\n"
+          }
+        ]
+      },
+      {
+        "title": "Introducing Yourself - Wrap Up",
+        "elements": [
+          {
+            "type": "text",
+            "content": "This has provided a quick overview of how to introduce yourself in te reo Māori and introduced some of the features of the platform, including how to look at grammar references and use the Sentence Analyser."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "level1-phrases",
+    "title": "Phrases",
+    "description": "This lessons introduces an essential building block of te reo Māori, the phrase.",
+    "exercise": null,
+    "validated": false,
+    "tags": [
+      "beginner",
+      "grammar"
+    ],
+    "level": 1,
+    "content": [
+      {
+        "title": "First Slide Title",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Main text content for this slide. Terms like verb marker or sentence structure will be automatically linked to the glossary."
+          },
+          {
+            "type": "explanation",
+            "content": "Additional detailed explanation if needed"
+          },
+          {
+            "type": "note",
+            "content": "Optional note or important information"
+          }
+        ]
+      },
+      {
+        "title": "Slide With Examples",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Introduction to the examples below."
+          },
+          {
+            "type": "example",
+            "sentence": "Te reo Māori example sentence here.",
+            "translation": "English translation of the sentence.",
+            "breakdown": {
+              "sentence": [
+                {
+                  "text": "Full sentence",
+                  "explanation": "Explanation of the sentence structure",
+                  "translation": "Translation of the full sentence"
+                }
+              ],
+              "clause": [
+                {
+                  "text": "First clause",
+                  "explanation": "Explanation of the first clause",
+                  "translation": "Translation of the first clause"
+                },
+                {
+                  "text": "Second clause",
+                  "explanation": "Explanation of the second clause",
+                  "translation": "Translation of the second clause"
+                }
+              ],
+              "phrase": [
+                {
+                  "text": "First phrase",
+                  "explanation": "Explanation of the first phrase",
+                  "translation": "Translation of the first phrase",
+                  "structure": {
+                    "preposed": "Preposed periphery text (optional)",
+                    "nucleus": "Nucleus text (required)",
+                    "postposed": "Postposed periphery text (optional)"
+                  }
+                },
+                {
+                  "text": "Second phrase",
+                  "explanation": "Explanation of the second phrase",
+                  "translation": "Translation of the second phrase",
+                  "structure": {
+                    "nucleus": "Nucleus text only"
+                  }
+                }
+              ],
+              "word": [
+                {
+                  "text": "First",
+                  "explanation": "Explanation of the first word",
+                  "translation": "Translation of the first word"
+                },
+                {
+                  "text": "word",
+                  "explanation": "Explanation of the second word",
+                  "translation": "Translation of the second word"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Another Slide",
+        "elements": [
+          {
+            "type": "text",
+            "content": "Content for another slide..."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "level1-ko-sentences",
+    "title": "Identification Sentences with Ko",
+    "description": "Learn how to form basic identification sentences using the particle ko to indicate identity and focus.",
+    "level": 1,
+    "tags": [
+      "level 1",
+      "sentence structure",
+      "ko",
+      "foundations",
+      "phrases"
+    ],
+    "validated": false,
+    "exercise": "exercise-level1-ko-sentences",
+    "content": [
+      {
+        "title": "The Ko Particle",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Introduction to the Ko Particle\n\nThis section will introduce the ko particle and its role in identification sentences."
+          },
+          {
+            "type": "example",
+            "sentence": "Ko Āwhina tēnei",
+            "translation": "This is Āwhina",
+            "breakdown": {
+              "word": [
+                {
+                  "text": "Ko",
+                  "explanation": "Identification particle",
+                  "translation": ""
+                },
+                {
+                  "text": "Āwhina",
+                  "explanation": "Name",
+                  "translation": "Āwhina"
+                },
+                {
+                  "text": "tēnei",
+                  "explanation": "This",
+                  "translation": "this"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Ko with Names and Objects",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Using Ko with Different Subjects\n\nThis section will show how ko is used with names and objects."
+          },
+          {
+            "type": "example",
+            "sentence": "Ko te whare tērā",
+            "translation": "That is the house",
+            "breakdown": {
+              "word": [
+                {
+                  "text": "Ko",
+                  "explanation": "Identification particle",
+                  "translation": ""
+                },
+                {
+                  "text": "te",
+                  "explanation": "The",
+                  "translation": "the"
+                },
+                {
+                  "text": "whare",
+                  "explanation": "House",
+                  "translation": "house"
+                },
+                {
+                  "text": "tērā",
+                  "explanation": "That",
+                  "translation": "that"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "level1-he-sentences",
+    "title": "Classification Sentences with He",
+    "description": "Learn how to form basic classification sentences using the particle he to describe what something is.",
+    "level": 1,
+    "tags": [
+      "level 1",
+      "sentence structure",
+      "he",
+      "foundations",
+      "phrases",
+      "classification"
+    ],
+    "validated": false,
+    "exercise": "exercise-level1-he-sentences",
+    "content": [
+      {
+        "title": "The He Particle",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Introduction to the He Particle\n\nThis section will introduce the he particle and its role in classification sentences. The he particle is used to state what something or someone is in terms of its class or category."
+          },
+          {
+            "type": "example",
+            "sentence": "He kaiako a Wiremu",
+            "translation": "William is a teacher",
+            "breakdown": {
+              "word": [
+                {
+                  "text": "He",
+                  "explanation": "Classification particle",
+                  "translation": "a/an"
+                },
+                {
+                  "text": "kaiako",
+                  "explanation": "Teacher",
+                  "translation": "teacher"
+                },
+                {
+                  "text": "a",
+                  "explanation": "Personal article used before proper nouns",
+                  "translation": ""
+                },
+                {
+                  "text": "Wiremu",
+                  "explanation": "Name",
+                  "translation": "William"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "He for Classification",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Using He to Classify Objects and People\n\nThis section will show how he is used to describe the class or category of objects and people."
+          },
+          {
+            "type": "example",
+            "sentence": "He nui tēnei whare",
+            "translation": "This house is big",
+            "breakdown": {
+              "word": [
+                {
+                  "text": "He",
+                  "explanation": "Classification particle",
+                  "translation": "a/an"
+                },
+                {
+                  "text": "nui",
+                  "explanation": "Big/large",
+                  "translation": "big"
+                },
+                {
+                  "text": "tēnei",
+                  "explanation": "This",
+                  "translation": "this"
+                },
+                {
+                  "text": "whare",
+                  "explanation": "House",
+                  "translation": "house"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "He for Description",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Using He to Describe Qualities\n\nThis section will cover how he is used to describe qualities or characteristics."
+          },
+          {
+            "type": "example",
+            "sentence": "He pai te kai",
+            "translation": "The food is good",
+            "breakdown": {
+              "word": [
+                {
+                  "text": "He",
+                  "explanation": "Classification particle",
+                  "translation": "a/an"
+                },
+                {
+                  "text": "pai",
+                  "explanation": "Good/nice",
+                  "translation": "good"
+                },
+                {
+                  "text": "te",
+                  "explanation": "The",
+                  "translation": "the"
+                },
+                {
+                  "text": "kai",
+                  "explanation": "Food",
+                  "translation": "food"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "level2-possessives",
+    "title": "Simple Possessive Phrases",
+    "description": "Learn how to form and use simple possessive phrases using taku/tō patterns to express ownership.",
+    "level": 2,
+    "tags": [
+      "level 2",
+      "possessives",
+      "phrases",
+      "foundation"
+    ],
+    "validated": false,
+    "exercise": "exercise-level2-possessives",
+    "content": [
+      {
+        "title": "Basic Possessives",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Simple Possessive Structures\n\nThis section will introduce the basic possessive structures in te reo Māori."
+          },
+          {
+            "type": "example",
+            "sentence": "Taku pukapuka",
+            "translation": "My book",
+            "breakdown": {
+              "word": [
+                {
+                  "text": "Taku",
+                  "explanation": "My (neutral form)",
+                  "translation": "my"
+                },
+                {
+                  "text": "pukapuka",
+                  "explanation": "Book",
+                  "translation": "book"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Your Possessions",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Expressing \"Your\" in Te Reo Māori\n\nThis section will cover how to express \"your\" in possessive phrases."
+          },
+          {
+            "type": "example",
+            "sentence": "Tō kāinga",
+            "translation": "Your home",
+            "breakdown": {
+              "word": [
+                {
+                  "text": "Tō",
+                  "explanation": "Your (neutral form)",
+                  "translation": "your"
+                },
+                {
+                  "text": "kāinga",
+                  "explanation": "Home",
+                  "translation": "home"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "level3-a-category",
+    "title": "A Category Possessives",
+    "description": "Learn about the A category of possessives in te reo Māori and when to use them.",
+    "level": 3,
+    "tags": [
+      "level 3",
+      "possessives",
+      "a category",
+      "intermediate"
+    ],
+    "validated": false,
+    "exercise": "exercise-level3-a-category",
+    "content": [
+      {
+        "title": "The A Category",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Introduction to A Category Possessives\n\nThis section will introduce the concept of A category possessives and their cultural significance."
+          },
+          {
+            "type": "example",
+            "sentence": "Tāku pene",
+            "translation": "My pen",
+            "breakdown": {
+              "word": [
+                {
+                  "text": "Tāku",
+                  "explanation": "My (A category)",
+                  "translation": "my"
+                },
+                {
+                  "text": "pene",
+                  "explanation": "Pen",
+                  "translation": "pen"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "When to Use A Category",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Cultural Context for A Category\n\nThis section will explain when the A category is used in Māori cultural context."
+          },
+          {
+            "type": "example",
+            "sentence": "Tāna kōrero",
+            "translation": "His/her speech",
+            "breakdown": {
+              "word": [
+                {
+                  "text": "Tāna",
+                  "explanation": "His/her (A category)",
+                  "translation": "his/her"
+                },
+                {
+                  "text": "kōrero",
+                  "explanation": "Speech, talk",
+                  "translation": "speech"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesson-with-exercises",
+    "title": "Lesson With Embedded Exercises",
+    "description": "A demonstration of exercises integrated into the lesson flow",
+    "level": 1,
+    "tags": [
+      "demo",
+      "exercises"
+    ],
+    "content": [
+      {
+        "title": "Introduction",
+        "elements": [
+          {
+            "type": "text",
+            "content": "# Welcome to Embedded Exercises Demo\n\nThis lesson demonstrates how exercises can be embedded directly within the lesson flow.\n\nIn this approach, learning and practice are integrated more closely, allowing for immediate application of concepts."
+          },
+          {
+            "type": "note",
+            "content": "Note: This is a demonstration lesson. In a real lesson, the content would be about te reo Māori grammar concepts."
+          }
+        ]
+      },
+      {
+        "title": "Explanation of First Concept",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## First Grammar Concept\n\n[Placeholder for explanation of first grammar concept]\n\nThis would be a detailed explanation with examples and context."
+          },
+          {
+            "type": "example",
+            "sentence": "[Te reo Māori example sentence placeholder]",
+            "translation": "[English translation placeholder]",
+            "breakdown": {
+              "sentence": [
+                {
+                  "text": "[Full sentence placeholder]",
+                  "explanation": "[Explanation placeholder]",
+                  "translation": "[Translation placeholder]"
+                }
+              ],
+              "clause": [],
+              "phrase": [],
+              "word": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Practice: First Concept",
+        "elements": [
+          {
+            "type": "exercise-ref",
+            "exerciseId": "exercise-sample-1",
+            "context": "Now let's practice what we've just learned about the first concept."
+          }
+        ]
+      },
+      {
+        "title": "Explanation of Second Concept",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Second Grammar Concept\n\n[Placeholder for explanation of second grammar concept]\n\nThis builds on what we learned in the first section and introduces new elements."
+          },
+          {
+            "type": "example",
+            "sentence": "[Second te reo Māori example sentence placeholder]",
+            "translation": "[English translation placeholder]",
+            "breakdown": {
+              "sentence": [
+                {
+                  "text": "[Full sentence placeholder]",
+                  "explanation": "[Explanation placeholder]",
+                  "translation": "[Translation placeholder]"
+                }
+              ],
+              "clause": [],
+              "phrase": [],
+              "word": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Practice: Second Concept",
+        "elements": [
+          {
+            "type": "exercise-ref",
+            "exerciseId": "exercise-sample-2",
+            "context": "Let's practice the second concept we just learned."
+          }
+        ]
+      },
+      {
+        "title": "Combining Concepts",
+        "elements": [
+          {
+            "type": "text",
+            "content": "## Putting It All Together\n\n[Placeholder for explanation of how the two concepts work together]\n\nNow we'll see how these concepts can be combined in more complex sentences."
+          },
+          {
+            "type": "example",
+            "sentence": "[Combined concepts example sentence placeholder]",
+            "translation": "[English translation placeholder]",
+            "breakdown": {
+              "sentence": [
+                {
+                  "text": "[Full sentence placeholder]",
+                  "explanation": "[Explanation placeholder]",
+                  "translation": "[Translation placeholder]"
+                }
+              ],
+              "clause": [],
+              "phrase": [],
+              "word": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Final Practice",
+        "elements": [
+          {
+            "type": "exercise-ref",
+            "exerciseId": "exercise-sample-combined",
+            "context": "Let's review everything we've learned in this lesson.",
+            "instructionOverride": "This exercise will test your understanding of both concepts and how they work together."
+          }
+        ]
+      },
+      {
+        "title": "Conclusion",
+        "elements": [
+          {
+            "type": "text",
+            "content": "# Congratulations!\n\nYou've completed this lesson which demonstrated embedded exercises.\n\nKey benefits of this approach:\n1. Immediate practice reinforces learning\n2. Concepts are broken into manageable chunks\n3. Learning and practice are integrated throughout"
+          }
+        ]
+      }
+    ]
+  }
+]

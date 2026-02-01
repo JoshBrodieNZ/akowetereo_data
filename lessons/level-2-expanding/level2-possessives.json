@@ -1,0 +1,72 @@
+{
+  "id": "level2-possessives",
+  "title": "Simple Possessive Phrases",
+  "description": "Learn how to form and use simple possessive phrases using taku/tō patterns to express ownership.",
+  "level": 2,
+  "tags": [
+    "level 2",
+    "possessives",
+    "phrases",
+    "foundation"
+  ],
+  "validated": false,
+  "exercise": "exercise-level2-possessives",
+  "content": [
+    {
+      "title": "Basic Possessives",
+      "elements": [
+        {
+          "type": "text",
+          "content": "## Simple Possessive Structures\n\nThis section will introduce the basic possessive structures in te reo Māori."
+        },
+        {
+          "type": "example",
+          "sentence": "Taku pukapuka",
+          "translation": "My book",
+          "breakdown": {
+            "word": [
+              {
+                "text": "Taku",
+                "explanation": "My (neutral form)",
+                "translation": "my"
+              },
+              {
+                "text": "pukapuka",
+                "explanation": "Book",
+                "translation": "book"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Your Possessions",
+      "elements": [
+        {
+          "type": "text",
+          "content": "## Expressing \"Your\" in Te Reo Māori\n\nThis section will cover how to express \"your\" in possessive phrases."
+        },
+        {
+          "type": "example",
+          "sentence": "Tō kāinga",
+          "translation": "Your home",
+          "breakdown": {
+            "word": [
+              {
+                "text": "Tō",
+                "explanation": "Your (neutral form)",
+                "translation": "your"
+              },
+              {
+                "text": "kāinga",
+                "explanation": "Home",
+                "translation": "home"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

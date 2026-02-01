@@ -1,0 +1,88 @@
+{
+  "id": "level1-ko-sentences",
+  "title": "Identification Sentences with Ko",
+  "description": "Learn how to form basic identification sentences using the particle ko to indicate identity and focus.",
+  "level": 1,
+  "tags": [
+    "level 1",
+    "sentence structure",
+    "ko",
+    "foundations",
+    "phrases"
+  ],
+  "validated": false,
+  "exercise": "exercise-level1-ko-sentences",
+  "content": [
+    {
+      "title": "The Ko Particle",
+      "elements": [
+        {
+          "type": "text",
+          "content": "## Introduction to the Ko Particle\n\nThis section will introduce the ko particle and its role in identification sentences."
+        },
+        {
+          "type": "example",
+          "sentence": "Ko Āwhina tēnei",
+          "translation": "This is Āwhina",
+          "breakdown": {
+            "word": [
+              {
+                "text": "Ko",
+                "explanation": "Identification particle",
+                "translation": ""
+              },
+              {
+                "text": "Āwhina",
+                "explanation": "Name",
+                "translation": "Āwhina"
+              },
+              {
+                "text": "tēnei",
+                "explanation": "This",
+                "translation": "this"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ko with Names and Objects",
+      "elements": [
+        {
+          "type": "text",
+          "content": "## Using Ko with Different Subjects\n\nThis section will show how ko is used with names and objects."
+        },
+        {
+          "type": "example",
+          "sentence": "Ko te whare tērā",
+          "translation": "That is the house",
+          "breakdown": {
+            "word": [
+              {
+                "text": "Ko",
+                "explanation": "Identification particle",
+                "translation": ""
+              },
+              {
+                "text": "te",
+                "explanation": "The",
+                "translation": "the"
+              },
+              {
+                "text": "whare",
+                "explanation": "House",
+                "translation": "house"
+              },
+              {
+                "text": "tērā",
+                "explanation": "That",
+                "translation": "that"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

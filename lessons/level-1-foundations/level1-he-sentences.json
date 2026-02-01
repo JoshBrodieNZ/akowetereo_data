@@ -1,0 +1,132 @@
+{
+  "id": "level1-he-sentences",
+  "title": "Classification Sentences with He",
+  "description": "Learn how to form basic classification sentences using the particle he to describe what something is.",
+  "level": 1,
+  "tags": [
+    "level 1",
+    "sentence structure",
+    "he",
+    "foundations",
+    "phrases",
+    "classification"
+  ],
+  "validated": false,
+  "exercise": "exercise-level1-he-sentences",
+  "content": [
+    {
+      "title": "The He Particle",
+      "elements": [
+        {
+          "type": "text",
+          "content": "## Introduction to the He Particle\n\nThis section will introduce the he particle and its role in classification sentences. The he particle is used to state what something or someone is in terms of its class or category."
+        },
+        {
+          "type": "example",
+          "sentence": "He kaiako a Wiremu",
+          "translation": "William is a teacher",
+          "breakdown": {
+            "word": [
+              {
+                "text": "He",
+                "explanation": "Classification particle",
+                "translation": "a/an"
+              },
+              {
+                "text": "kaiako",
+                "explanation": "Teacher",
+                "translation": "teacher"
+              },
+              {
+                "text": "a",
+                "explanation": "Personal article used before proper nouns",
+                "translation": ""
+              },
+              {
+                "text": "Wiremu",
+                "explanation": "Name",
+                "translation": "William"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "He for Classification",
+      "elements": [
+        {
+          "type": "text",
+          "content": "## Using He to Classify Objects and People\n\nThis section will show how he is used to describe the class or category of objects and people."
+        },
+        {
+          "type": "example",
+          "sentence": "He nui tēnei whare",
+          "translation": "This house is big",
+          "breakdown": {
+            "word": [
+              {
+                "text": "He",
+                "explanation": "Classification particle",
+                "translation": "a/an"
+              },
+              {
+                "text": "nui",
+                "explanation": "Big/large",
+                "translation": "big"
+              },
+              {
+                "text": "tēnei",
+                "explanation": "This",
+                "translation": "this"
+              },
+              {
+                "text": "whare",
+                "explanation": "House",
+                "translation": "house"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "He for Description",
+      "elements": [
+        {
+          "type": "text",
+          "content": "## Using He to Describe Qualities\n\nThis section will cover how he is used to describe qualities or characteristics."
+        },
+        {
+          "type": "example",
+          "sentence": "He pai te kai",
+          "translation": "The food is good",
+          "breakdown": {
+            "word": [
+              {
+                "text": "He",
+                "explanation": "Classification particle",
+                "translation": "a/an"
+              },
+              {
+                "text": "pai",
+                "explanation": "Good/nice",
+                "translation": "good"
+              },
+              {
+                "text": "te",
+                "explanation": "The",
+                "translation": "the"
+              },
+              {
+                "text": "kai",
+                "explanation": "Food",
+                "translation": "food"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

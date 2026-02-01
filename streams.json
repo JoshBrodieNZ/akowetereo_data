@@ -1,0 +1,189 @@
+[
+  {
+    "id": "level-1-foundations",
+    "title": "Level 1: Foundations - Introducing the Phrase",
+    "description": "Foundational concepts including basic phrases, pronunciation, and simple sentence structures using ko and he.",
+    "level": 1,
+    "lessons": [
+      "level1-pronunciation", 
+      "level1-introductions", 
+      "level1-phrases",
+      "level1-word-classification",
+      "level1-ko-sentences", 
+      "level1-he-sentences"
+    ],
+    "wrapUpContent": {
+      "title": "Level 1: Foundations Complete!",
+      "summary": "You have completed the foundational level of te reo Māori grammar focusing on basic phrases and simple sentence structures.",
+      "keyPoints": [
+        "Basic greetings and introductions",
+        "Correct pronunciation of vowels and consonants",
+        "Simple sentence structures with ko and he",
+        "Phrase-based approach to language learning",
+        "Cultural context for basic interactions"
+      ],
+      "nextSteps": "Continue to Level 2 to expand your understanding of phrase structures."
+    }
+  },
+  {
+    "id": "level-2-expanding",
+    "title": "Level 2: Expanding Phrase Structures",
+    "description": "Build on foundational knowledge with possessive phrases, locative phrases, and basic verbal sentences.",
+    "level": 2,
+    "lessons": [
+      "level2-possessives"
+    ],
+    "wrapUpContent": {
+      "title": "Level 2: Expanding Phrase Structures Complete!",
+      "summary": "You have expanded your knowledge of te reo Māori phrase structures and basic verbal sentences.",
+      "keyPoints": [
+        "Simple possessive phrases",
+        "Basic locative phrases",
+        "Pronunciation of digraphs and macrons",
+        "Verb phrases with tense markers",
+        "Basic singular possessive pronouns"
+      ],
+      "nextSteps": "Move on to Level 3-4 to learn intermediate grammatical structures."
+    }
+  },
+  {
+    "id": "level-3",
+    "title": "Level 3-4: Intermediate Structures (Part 1)",
+    "description": "Intermediate grammatical concepts focusing on A and O possessives and transitive verbs.",
+    "level": 3,
+    "lessons": [
+      "level3-a-category"
+    ],
+    "wrapUpContent": {
+      "title": "Level 3-4: Intermediate Structures (Part 1) Complete!",
+      "summary": "You have completed the first part of intermediate level te reo Māori grammar.",
+      "keyPoints": [
+        "A and O categories of possession",
+        "Transitive verbs and structure",
+        "Additional verbal particles",
+        "Intermediate grammar concepts"
+      ],
+      "nextSteps": "Continue to Level 3-4 Part 2 for more intermediate structures."
+    }
+  },
+  {
+    "id": "level-3-4-part2",
+    "title": "Level 3-4: Intermediate Structures (Part 2)",
+    "description": "Continuing intermediate concepts with experience/stative verbs and object markers.",
+    "level": 4,
+    "lessons": [
+      "level4-experience-verbs"
+    ],
+    "wrapUpContent": {
+      "title": "Level 3-4: Intermediate Structures (Part 2) Complete!",
+      "summary": "You now understand different verb types and more complex verbal structures.",
+      "keyPoints": [
+        "Experience and stative verbs",
+        "Advanced verbal particles",
+        "Using the object marker i",
+        "More complex sentence construction"
+      ],
+      "nextSteps": "Progress to Level 5-6 for more advanced grammatical concepts."
+    }
+  },
+  {
+    "id": "level-5-6-part1",
+    "title": "Level 5-6: Complex Structures (Part 1)",
+    "description": "Complex grammatical structures focusing on relative clauses and expressing opinions.",
+    "level": 5,
+    "lessons": [
+      "level5-relative-clauses1"
+    ],
+    "wrapUpContent": {
+      "title": "Level 5-6: Complex Structures (Part 1) Complete!",
+      "summary": "You now have a solid understanding of relative clauses and expressing opinions.",
+      "keyPoints": [
+        "Forming and using relative clauses",
+        "Different types of relative clauses",
+        "Expressing and justifying opinions",
+        "More complex sentence structures"
+      ],
+      "nextSteps": "Continue to Level 5-6 Part 2 for additional complex structures."
+    }
+  },
+  {
+    "id": "level-5-6-part2",
+    "title": "Level 5-6: Complex Structures (Part 2)",
+    "description": "Advanced complex structures for giving reasons and discussing future plans.",
+    "level": 6,
+    "lessons": [
+      "level6-complex-sentences"
+    ],
+    "wrapUpContent": {
+      "title": "Level 5-6: Complex Structures (Part 2) Complete!",
+      "summary": "You can now construct sophisticated sentences, give reasons, and discuss future plans.",
+      "keyPoints": [
+        "Complex sentence structures",
+        "Giving reasons and explanations",
+        "Discussing future plans",
+        "Combining multiple grammatical concepts"
+      ],
+      "nextSteps": "Move on to Level 7-8 for advanced grammar concepts."
+    }
+  },
+  {
+    "id": "level-7-8-part1",
+    "title": "Level 7-8: Advanced Grammar (Part 1)",
+    "description": "Advanced grammatical concepts focusing on abstract topics and complex sentence structures.",
+    "level": 7,
+    "lessons": [
+      "level7-abstract-topics"
+    ],
+    "wrapUpContent": {
+      "title": "Level 7-8: Advanced Grammar (Part 1) Complete!",
+      "summary": "You can now discuss abstract topics and use sophisticated sentence structures.",
+      "keyPoints": [
+        "Discussing abstract concepts",
+        "Advanced sentence patterns",
+        "Sophisticated constructions",
+        "Higher-level language functions"
+      ],
+      "nextSteps": "Continue to Level 7-8 Part 2 for formal writing and argumentation."
+    }
+  },
+  {
+    "id": "level-7-8-part2",
+    "title": "Level 7-8: Advanced Grammar (Part 2)",
+    "description": "Mastering advanced grammar for formal writing and presenting arguments.",
+    "level": 8,
+    "lessons": [
+      "level8-formal-writing"
+    ],
+    "wrapUpContent": {
+      "title": "Level 7-8: Advanced Grammar (Part 2) Complete!",
+      "summary": "You now have a comprehensive understanding of advanced te reo Māori grammar.",
+      "keyPoints": [
+        "Formal writing techniques",
+        "Presenting arguments",
+        "Advanced grammatical concepts",
+        "Academic language use"
+      ],
+      "nextSteps": "Continue practicing te reo Māori in increasingly complex contexts."
+    }
+  },
+  {
+    "id": "specialized",
+    "title": "Specialized Topics",
+    "description": "Specialized grammatical topics and extended concepts for fluent speakers.",
+    "level": 4,
+    "lessons": [
+      "lessonTest"
+    ],
+    "wrapUpContent": {
+      "title": "Specialized Topics Complete!",
+      "summary": "You've now covered specialized topics in te reo Māori grammar that go beyond the fundamentals and into the nuances of the language.",
+      "keyPoints": [
+        "Dialectal variations in grammar",
+        "Formal and ceremonial language structures",
+        "Literary and poetic devices",
+        "Historical language patterns"
+      ],
+      "nextSteps": "Continue your language journey with immersive practice, conversation groups, and additional resources for mastery."
+    }
+  }
+]

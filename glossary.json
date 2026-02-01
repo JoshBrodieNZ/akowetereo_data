@@ -1,0 +1,2623 @@
+[
+  {
+    "id": "kianga-tuingoa",
+    "term": "Noun Phrases",
+    "maoriTerm": "Kīanga Tūingoa",
+    "shortDefinition": "A phrase with a noun as its nucleus, typically functioning as the subject or object in a sentence.",
+    "parentTerm": "kianga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "kianga"
+    ],
+    "longDefinition": "\n    Kīanga Tūingoa (noun phrases) in te reo Māori are phrases that have a noun as their nucleus.\n    They typically function as the subject or object in a sentence, referring to people, places, things, or concepts.\n    \n    ## Structure of a Noun Phrase\n    \n    Noun phrases in te reo Māori generally follow this pattern:\n    \n    1. **Preposed periphery**: Determiners or articles (pūmau)\n       - Examples: te, ngā, he, tētahi, ētahi\n       - May also include possessive markers: taku, ōku, etc.\n    \n    2. **Nucleus**: The main noun (tūingoa)\n       - This is the core of the phrase\n       - May be a common noun, proper noun, or pronoun\n    \n    3. **Postposed periphery**: Modifiers that follow the noun\n       - Adjectives, quantifiers, possessives\n       - Examples: nui, pai, katoa, maha\n    \n    ## Types of Noun Phrases\n    \n    There are several types of noun phrases in te reo Māori:\n    \n    1. **Simple noun phrases**\n       - A single noun with determiners/modifiers\n       - Example: [Insert example]\n    \n    2. **Complex noun phrases**\n       - Multiple nouns or embedded phrases\n       - Example: [Insert example]\n    \n    3. **Possessive noun phrases**\n       - Expressing ownership or relationship\n       - Example: [Insert example]\n    \n    ## Special Features\n    \n    Noun phrases in te reo Māori have several special characteristics:\n    \n    1. **Personal articles**\n       - 'a' used before proper names\n       - Example: a Mere (Mary)\n    \n    2. **Plural marking**\n       - Using 'ngā' instead of 'te'\n       - Example: [Insert example]\n    \n    Understanding noun phrases is essential for expressing subjects and objects clearly in te reo Māori.\n  ",
+    "examples": [
+      {
+        "maori": "[Insert te reo Māori example 1]",
+        "english": "[Insert English translation 1]",
+        "explanation": "[Insert explanation of how this demonstrates a noun phrase]"
+      },
+      {
+        "maori": "[Insert te reo Māori example 2]",
+        "english": "[Insert English translation 2]",
+        "explanation": "[Insert explanation showing different aspects of noun phrases]"
+      }
+    ],
+    "relatedTerms": [
+      "kianga",
+      "kianga-tumahi",
+      "kianga-puhono",
+      "tuingoa",
+      "pumau"
+    ]
+  },
+  {
+    "id": "kianga-tumahi",
+    "term": "Verb Phrases",
+    "maoriTerm": "Kīanga Tūmahi",
+    "shortDefinition": "A phrase with a verb as its nucleus, typically forming the predicate of a sentence.",
+    "parentTerm": "kianga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "kianga"
+    ],
+    "longDefinition": "\n    Kīanga Tūmahi (verb phrases) in te reo Māori are phrases that have a verb as their nucleus.\n    They typically function as the predicate of a sentence, expressing the action or state of being.\n    \n    ## Structure of a Verb Phrase\n    \n    Verb phrases in te reo Māori generally follow this pattern:\n    \n    1. **Preposed periphery**: Tense-aspect-mood markers (TAMs or pūmahi)\n       - Examples: kei te, i, ka, kua, e...ana\n    \n    2. **Nucleus**: The main verb (tūmahi)\n       - This is the core of the phrase\n    \n    3. **Postposed periphery**: Directionals or modifiers\n       - Examples: ake, iho, mai, atu\n    \n    ## Types of Verb Phrases\n    \n    There are several types of verb phrases in te reo Māori, categorized by their function and structure:\n    \n    1. **Declarative verb phrases**\n       - Used for making statements\n       - Example: [Insert example]\n    \n    2. **Imperative verb phrases**\n       - Used for commands\n       - Example: [Insert example]\n    \n    3. **Interrogative verb phrases**\n       - Used for questions\n       - Example: [Insert example]\n    \n    ## Tense, Aspect, and Mood\n    \n    Verb phrases in te reo Māori encode tense (when), aspect (how), and mood (attitude) through various markers:\n    \n    1. **Present tense markers**\n       - Example: kei te (present continuous)\n    \n    2. **Past tense markers**\n       - Example: i (past simple)\n    \n    3. **Future tense markers**\n       - Example: ka (future)\n    \n    Understanding verb phrases is essential for constructing grammatically correct sentences in te reo Māori.\n  ",
+    "examples": [
+      {
+        "maori": "[Insert te reo Māori example 1]",
+        "english": "[Insert English translation 1]",
+        "explanation": "[Insert explanation of how this demonstrates a verb phrase]"
+      },
+      {
+        "maori": "[Insert te reo Māori example 2]",
+        "english": "[Insert English translation 2]",
+        "explanation": "[Insert explanation showing different aspects of verb phrases]"
+      }
+    ],
+    "relatedTerms": [
+      "kianga",
+      "kianga-tuingoa",
+      "kianga-puhono",
+      "pumahi",
+      "tumahi"
+    ]
+  },
+  {
+    "id": "kianga-puhono",
+    "term": "Prepositional Phrases",
+    "maoriTerm": "Kīanga Pūhono",
+    "shortDefinition": "A phrase that begins with a preposition and typically provides additional information about time, place, manner, or object.",
+    "parentTerm": "kianga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "kianga"
+    ],
+    "longDefinition": "\n    Kīanga Pūhono (prepositional phrases) in te reo Māori are phrases that begin with a preposition (pūhono).\n    They typically function as adverbials or comments, providing additional information about time, place, \n    manner, or object in a sentence.\n    \n    ## Structure of a Prepositional Phrase\n    \n    Prepositional phrases in te reo Māori generally follow this pattern:\n    \n    1. **Preposed periphery**: Preposition (pūhono)\n       - Examples: i, ki, kei, hei, mō, mā\n    \n    2. **Nucleus**: A noun phrase\n       - May include a determiner and noun\n       - Example: te whare (the house)\n    \n    3. **Postposed periphery**: Optional modifiers\n       - May include adjectives or other modifiers\n       - Example: [Insert example]\n    \n    ## Types of Prepositional Phrases\n    \n    Te reo Māori has several types of prepositional phrases, categorized by their function:\n    \n    1. **Locative phrases** (indicating location)\n       - Using prepositions like kei, i, ki\n       - Example: [Insert example]\n    \n    2. **Temporal phrases** (indicating time)\n       - Example: [Insert example]\n    \n    3. **Possessive phrases**\n       - Using prepositions like mō, mā, nō, nā\n       - Example: [Insert example]\n    \n    4. **Directional phrases**\n       - Example: [Insert example]\n    \n    5. **Instrumental phrases** (indicating means)\n       - Example: [Insert example]\n    \n    ## Preposition Selection\n    \n    The choice of preposition in te reo Māori depends on:\n    \n    1. **Tense of the sentence**\n       - Different prepositions for past, present, and future\n    \n    2. **Type of relationship** being expressed\n       - Direction, location, possession, etc.\n    \n    3. **A/O category** for possessive relationships\n       - Based on the relationship between possessor and possessed\n    \n    Understanding prepositional phrases is crucial for expressing relationships between elements in a sentence.\n  ",
+    "examples": [
+      {
+        "maori": "[Insert te reo Māori example 1]",
+        "english": "[Insert English translation 1]",
+        "explanation": "[Insert explanation of how this demonstrates a prepositional phrase]"
+      },
+      {
+        "maori": "[Insert te reo Māori example 2]",
+        "english": "[Insert English translation 2]",
+        "explanation": "[Insert explanation showing different aspects of prepositional phrases]"
+      }
+    ],
+    "relatedTerms": [
+      "kianga",
+      "kianga-tumahi",
+      "kianga-tuingoa",
+      "puhono",
+      "kianga-whakamahinga"
+    ]
+  },
+  {
+    "id": "verbal-sentence",
+    "term": "Verbal Sentence",
+    "maoriTerm": "Rerenga Mahi",
+    "shortDefinition": "A sentence that includes an action verb, describing what someone or something is doing.",
+    "parentTerm": "rerenga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "rerenga"
+    ],
+    "categoryInfo": "Part of the Sentences (Rerenga) series",
+    "longDefinition": "\n    Verbal sentences in te reo Māori are sentences that contain action verbs - they tell us what \n    someone or something is doing, did, or will do. These sentences typically follow a \n    Verb-Subject-Object (VSO) pattern, which is different from the Subject-Verb-Object (SVO) \n    pattern common in English.\n    \n    The basic structure of a verbal sentence is:\n    \n    [Verb Marker] + [Verb] + [Subject] + [Object/Complements]\n    \n    For example:\n    \"Kei te horoi a Hemi i te kāri.\" (James is washing the car.)\n    \n    Here, \"Kei te\" is the verb marker (present continuous), \"horoi\" is the verb (wash), \n    \"a Hemi\" is the subject (James), and \"i te kāri\" is the object (the car).\n    \n    Some important features of verbal sentences:\n    \n    1. The verb typically comes first, preceded by a tense/aspect marker.\n    2. Personal names are preceded by \"a\" in the subject position.\n    3. The object is typically preceded by \"i\" (direct object marker).\n    4. The base form of the verb doesn't change for tense or person.\n    \n    Different verb markers are used to indicate different tenses and aspects.\n  ",
+    "examples": [
+      {
+        "maori": "Kei te kai a Hemi i te āporo.",
+        "english": "James is eating the apple.",
+        "explanation": "This is a basic verbal sentence with a present continuous tense marker (kei te) and the transitive verb \"kai\" (to eat).",
+        "breakdown": {
+          "sentence": [
+            {
+              "text": "Kei te kai a Hemi i te āporo.",
+              "explanation": "This is a complete verbal sentence with the structure: TAM + verb + subject + object.",
+              "translation": "James is eating the apple."
+            }
+          ],
+          "clause": [
+            {
+              "text": "Kei te kai a Hemi i te āporo",
+              "explanation": "This is a verbal clause with a subject and direct object.",
+              "translation": "James is eating the apple"
+            }
+          ],
+          "phrase": [
+            {
+              "text": "Kei te kai",
+              "explanation": "This is a verb phrase (kīanga tūmahi) with the present continuous tense marker \"kei te\" and the verb \"kai\".",
+              "translation": "is eating",
+              "structure": {
+                "preposed": "Kei te",
+                "nucleus": "kai",
+                "postposed": null
+              }
+            },
+            {
+              "text": "a Hemi",
+              "explanation": "This is a proper noun phrase (kīanga tūingoa) with the personal article \"a\" and the proper noun \"Hemi\".",
+              "translation": "James",
+              "structure": {
+                "preposed": "a",
+                "nucleus": "Hemi",
+                "postposed": null
+              }
+            },
+            {
+              "text": "i te āporo",
+              "explanation": "This is a direct object noun phrase (kīanga tūingoa) with the accusative marker \"i\", the determiner \"te\" and the noun \"āporo\".",
+              "translation": "the apple",
+              "structure": {
+                "preposed": "i te",
+                "nucleus": "āporo",
+                "postposed": null
+              }
+            }
+          ],
+          "word": [
+            {
+              "text": "Kei te",
+              "explanation": "This is the present continuous tense/aspect/mood (TAM) marker.",
+              "translation": "is (present continuous)"
+            },
+            {
+              "text": "kai",
+              "explanation": "This is a transitive verb meaning \"to eat\".",
+              "translation": "eat"
+            },
+            {
+              "text": "a",
+              "explanation": "This is the personal article used before proper nouns when they are the subject of a verb.",
+              "translation": "[personal article]"
+            },
+            {
+              "text": "Hemi",
+              "explanation": "This is a proper noun, the Māori form of \"James\".",
+              "translation": "James"
+            },
+            {
+              "text": "i",
+              "explanation": "This is the accusative marker that introduces the direct object of a verb.",
+              "translation": "[accusative marker]"
+            },
+            {
+              "text": "te",
+              "explanation": "This is the singular definite article.",
+              "translation": "the"
+            },
+            {
+              "text": "āporo",
+              "explanation": "This is a common noun meaning \"apple\".",
+              "translation": "apple"
+            }
+          ]
+        }
+      },
+      {
+        "maori": "Kei te kōrero a Pita ki a Mere.",
+        "english": "Peter is talking to Mary.",
+        "explanation": "Present continuous verbal sentence with subject (a Pita) and indirect object (ki a Mere)."
+      },
+      {
+        "maori": "I haere mātou ki te tāone inanahi.",
+        "english": "We went to town yesterday.",
+        "explanation": "Past tense verbal sentence with time adverbial (inanahi - yesterday)."
+      },
+      {
+        "maori": "Ka whakatika a Tama i te waka āpōpō.",
+        "english": "Tama will fix the car tomorrow.",
+        "explanation": "Future tense verbal sentence with a direct object (i te waka)."
+      }
+    ],
+    "relatedTerms": [
+      "tohu-mahi",
+      "hanganga-rerenga",
+      "tumahi",
+      "rerenga",
+      "kianga-tumahi"
+    ]
+  },
+  {
+    "id": "nominal-sentence",
+    "term": "Nominal Sentence",
+    "maoriTerm": "Rerenga Ingoa",
+    "shortDefinition": "A sentence without an action verb, describing states of being, identity, or relationships.",
+    "parentTerm": "rerenga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "rerenga"
+    ],
+    "categoryInfo": "Part of the Sentences (Rerenga) series",
+    "longDefinition": "\n    Nominal sentences in te reo Māori do not contain action verbs. Instead, they describe states \n    of being, relationships, or identity. These sentences operate quite differently from their \n    English counterparts, most notably because they often don't use a verb equivalent to the \n    English \"to be\" (is, am, are).\n    \n    There are several types of nominal sentences in te reo Māori:\n    \n    1. Classification sentences using \"he\":\n       \"He nēhi taku tuahine.\" (My sister is a nurse.)\n       \n    2. Identification sentences using \"ko\":\n       \"Ko Aotearoa tōku kāinga.\" (New Zealand is my home.)\n       \n    3. Locational sentences using \"kei\":\n       \"Kei te whare a Pita.\" (Peter is at home.)\n       \n    4. Possessive sentences using \"he... tō/tā/ō/ā\":\n       \"He pukapuka tāku.\" (I have a book.)\n       \n    5. Descriptive sentences with \"he\" + adjective:\n       \"He mahana te rā.\" (The day is warm.)\n    \n    Understanding these patterns is essential for forming correct non-verbal sentences, \n    as simply translating English \"to be\" sentences word-for-word will typically result \n    in grammatically incorrect te reo Māori.\n  ",
+    "examples": [
+      {
+        "maori": "He tino pai tēnei kai.",
+        "english": "This food is very good.",
+        "explanation": "Descriptive nominal sentence using \"he\" with adjective phrase (tino pai)."
+      },
+      {
+        "maori": "Ko Tāmaki Makaurau te tāone nui rawa atu o Aotearoa.",
+        "english": "Auckland is the largest city in New Zealand.",
+        "explanation": "Identification nominal sentence using \"ko\"."
+      },
+      {
+        "maori": "Kei tēnei whare aku hoa.",
+        "english": "My friends are in this house.",
+        "explanation": "Locational nominal sentence using \"kei\"."
+      }
+    ],
+    "relatedTerms": [
+      "hanganga-rerenga",
+      "rerenga",
+      "tuahua"
+    ]
+  },
+  {
+    "id": "sentence-constituents",
+    "term": "Sentence Constituents",
+    "maoriTerm": "",
+    "shortDefinition": "The hierarchical structure of language units that make up sentences in te reo Māori.",
+    "validated": true,
+    "elements": [
+      {
+        "type": "text",
+        "content": "In te reo Māori, sentences are constructed from hierarchical components, each building uponthe smaller units to create complete thoughts. From smallest to largest, these components are:\n\n## Hierarchy of Sentence Components\n\n1. **Kupu (Words)** - The smallest independent units of meaning - Includes tumu (base words) and punga (particles) - Examples: kai (eat), te (the), moana (ocean)\n\n2. **[[ref|Kīanga|kianga]] (Phrases)** - Groups of related words that function as a unit but don't contain both a subject and predicate - Examples: \"te whare\" (the house), \"kei te kai\" (is eating)\n\n3. **[[ref|Aho|aho]] (Clauses)** - Units containing a predicate and typically a subject - Can be aho motuhake (main clauses) or aho whakawhirinaki (subordinate clauses) - Example: \"Kei te kai a Mere\" (Mary is eating)\n\n4. **[[ref|Rerenga|rerenga]] (Sentences)** - Complete thoughts expressed through one or more clauses - Example: \"Kei te kai a Mere i te āporo\" (Mary is eating the apple)\n\n## Understanding with an Example\n\nConsider the sentence: \"Ka tae ake ki te moana, ka kuhu tonu atu rātou ki te wai.\"(When they arrived at the ocean, they immediately went into the water.)\n\nThis sentence is included as an example below with a detailed breakdown you can explore using the sentence analyzer.\n\nUnderstanding this hierarchical structure is essential for analyzing and constructinggrammatically correct sentences in te reo Māori."
+      },
+      {
+        "type": "example",
+        "maori": "Ka tae ake ki te moana, ka kuhu tonu atu rātou ki te wai.",
+        "english": "When they arrived at the ocean, they immediately went into the water.",
+        "explanation": "A complex sentence with two clauses showing hierarchical constituent structure.",
+        "breakdown": {
+          "sentence": [
+            {
+              "text": "Ka tae ake ki te moana, ka kuhu tonu atu rātou ki te wai.",
+              "explanation": "This is a complex sentence (rerenga) containing two clauses linked in a temporal sequence.",
+              "translation": "When they arrived at the ocean, they immediately went into the water."
+            }
+          ],
+          "clause": [
+            {
+              "text": "Ka tae ake ki te moana",
+              "explanation": "This is a subordinate clause (aho whakawhirinaki) describing when the action in the main clause occurred.",
+              "translation": "When they arrived at the ocean"
+            },
+            {
+              "text": "ka kuhu tonu atu rātou ki te wai",
+              "explanation": "This is the main clause (aho motuhake) describing the primary action of the sentence.",
+              "translation": "they immediately went into the water"
+            }
+          ],
+          "phrase": [
+            {
+              "text": "Ka tae ake",
+              "explanation": "This is a verb phrase (kīanga tūmahi) with the tense marker \"Ka\" and the verb \"tae\" modified by the directional particle \"ake\".",
+              "translation": "arrived",
+              "structure": {
+                "preposed": "Ka",
+                "nucleus": "tae",
+                "postposed": "ake"
+              }
+            },
+            {
+              "text": "ki te moana",
+              "explanation": "This is a prepositional phrase (kīanga whakaū) with the preposition \"ki\", the determiner \"te\", and the noun \"moana\".",
+              "translation": "to the ocean",
+              "structure": {
+                "preposed": "ki te",
+                "nucleus": "moana",
+                "postposed": null
+              }
+            },
+            {
+              "text": "ka kuhu tonu atu",
+              "explanation": "This is a verb phrase (kīanga tūmahi) with the tense marker \"ka\", the verb \"kuhu\", the intensifier \"tonu\", and the directional particle \"atu\".",
+              "translation": "immediately went",
+              "structure": {
+                "preposed": "ka",
+                "nucleus": "kuhu",
+                "postposed": "tonu atu"
+              }
+            },
+            {
+              "text": "rātou",
+              "explanation": "This is a pronoun phrase (kīanga tūingoa) with just the pronoun \"rātou\".",
+              "translation": "they",
+              "structure": {
+                "preposed": null,
+                "nucleus": "rātou",
+                "postposed": null
+              }
+            },
+            {
+              "text": "ki te wai",
+              "explanation": "This is a prepositional phrase (kīanga whakaū) with the preposition \"ki\", the determiner \"te\", and the noun \"wai\".",
+              "translation": "into the water",
+              "structure": {
+                "preposed": "ki te",
+                "nucleus": "wai",
+                "postposed": null
+              }
+            }
+          ],
+          "word": [
+            {
+              "text": "Ka",
+              "explanation": "This is a tense-aspect-mood marker indicating inchoative or narrative action.",
+              "translation": "will/when (indicates a sequential action)"
+            },
+            {
+              "text": "tae",
+              "explanation": "This is an intransitive verb meaning \"to arrive\" or \"to reach\".",
+              "translation": "arrive/reach"
+            },
+            {
+              "text": "ake",
+              "explanation": "This is a directional particle indicating movement upward or toward the speaker.",
+              "translation": "up/toward speaker"
+            },
+            {
+              "text": "ki",
+              "explanation": "This is a preposition indicating movement toward or into a place.",
+              "translation": "to/toward/into"
+            },
+            {
+              "text": "te",
+              "explanation": "This is the singular definite article.",
+              "translation": "the"
+            },
+            {
+              "text": "moana",
+              "explanation": "This is a noun referring to the sea, ocean, or large body of water.",
+              "translation": "ocean/sea"
+            },
+            {
+              "text": "ka",
+              "explanation": "This is a tense-aspect-mood marker indicating inchoative or narrative action.",
+              "translation": "will/when (indicates a sequential action)"
+            },
+            {
+              "text": "kuhu",
+              "explanation": "This is an intransitive verb meaning \"to enter\" or \"to go into\".",
+              "translation": "enter/go into"
+            },
+            {
+              "text": "tonu",
+              "explanation": "This is an intensifier meaning \"still\", \"immediately\", or \"straight away\".",
+              "translation": "immediately/straight away"
+            },
+            {
+              "text": "atu",
+              "explanation": "This is a directional particle indicating movement away from the speaker.",
+              "translation": "away/outward"
+            },
+            {
+              "text": "rātou",
+              "explanation": "This is a third person plural pronoun.",
+              "translation": "they/them"
+            },
+            {
+              "text": "ki",
+              "explanation": "This is a preposition indicating movement toward or into a place.",
+              "translation": "to/toward/into"
+            },
+            {
+              "text": "te",
+              "explanation": "This is the singular definite article.",
+              "translation": "the"
+            },
+            {
+              "text": "wai",
+              "explanation": "This is a noun meaning \"water\".",
+              "translation": "water"
+            }
+          ]
+        }
+      }
+    ],
+    "relatedTerms": [
+      "kianga",
+      "aho",
+      "rerenga"
+    ]
+  },
+  {
+    "id": "tumu",
+    "validated": true,
+    "term": "Base Words",
+    "maoriTerm": "Tumu",
+    "shortDefinition": "Words that convey the core meaning of a sentence in te reo Māori.",
+    "longDefinition": "\nIn te reo Māori, words are typically classified as either tumu (bases) or [[ref|punga|punga]] (particles). These are essential word categories to understand when considering [[ref|phrases|kianga]] because a phrase is made up of a base surrounded by optional particles.\n\nTumu (base words) convey the core meaning of the sentence and are also known as \"kupu kiko\" or \"content words.\" They are the essential building blocks that carry the main information in communication.\n\nBase words include:\n\n* [[ref|Tūingoa|tuingoa]] (nouns) - Words referring to things, people, animals, or ideas\n* [[ref|Tūmahi|tumahi]] (verbs) - Words describing actions or states of being\n* [[ref|Tūāhua|tuahua]] (adjectives) - Words describing qualities of nouns\n* [[ref|Tūkapi|tukapi]] (pronouns) - Words that substitute for nouns\n* [[ref|Tūpātai|tupatai]] (interrogatives) - Words used to form questions\n\nFor example, in the sentence \"Kei te kai au i te āporo\" (I am eating the apple),\nthe words \"kai\" (eat), \"au\" (I), and \"āporo\" (apple) are tumu—they provide the key information about who is doing what to what. The other words are particles that\nprovide grammatical structure.",
+    "examples": [
+      {
+        "maori": "Kei te ako au i te reo Māori.",
+        "english": "I am learning te reo Māori.",
+        "explanation": "The base words (tumu) are \"ako\" (learn), \"au\" (I), and \"reo Māori\" (Māori language)."
+      },
+      {
+        "maori": "Ka haere tātou ki te moana āpōpō.",
+        "english": "We will go to the beach tomorrow.",
+        "explanation": "The base words are \"haere\" (go), \"tātou\" (we), \"moana\" (beach/sea), and \"āpōpō\" (tomorrow)."
+      }
+    ],
+    "relatedTerms": [
+      "punga"
+    ]
+  },
+  {
+    "id": "punga",
+    "validated": true,
+    "term": "Particles",
+    "maoriTerm": "Punga",
+    "shortDefinition": "Small words that provide grammatical information and context in te reo Māori sentences.",
+    "isParent": true,
+    "childTerms": [
+      "pumahi",
+      "puwahi",
+      "adverbial-directional",
+      "puhea",
+      "puingoa",
+      "puriro",
+      "pumau"
+    ],
+    "hierarchyLevel": 1,
+    "categoryTitle": "Types of Particles",
+    "longDefinition": "Punga (particles) are small but crucial elements in te reo Māori grammar. Unlike tumu (base words) which carry the core meaning, particles provide grammatical structure, context, and additional information about how the base words relate to each other.\n    \nParticles typically come before or after a base word and help to:\n  - Indicate tense, aspect, and mood\n  - Show relationships between words\n  - Mark location or direction\n  - Identify possession\n  - Structure questions\n  - Link parts of sentences together\n    \nThe main types of particles include:\n    \n  1. [[ref|Pūmahi|pumahi]] (verbal particles) - Words like \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" that indicate when an action occurs and how it unfolds\n  2. [[ref|Pūwahi|puwahi]] (locative particles) - Words like \"i,\" \"hei,\" and \"kei\" used with locations\n  3. [[ref|Pūanga|adverbial-directional]] (directional particles) - Words like \"mai,\" \"atu,\" \"ake,\" and \"iho\" that show direction\n  4. [[ref|Pūhea|puhea]] (positional particles) - Words like \"nei,\" \"nā,\" and \"rā\" that show proximity\n  5. [[ref|Pūingoa|puingoa]] (nominal particles) - Words like \"te,\" \"ngā,\" \"he,\" \"a,\" and \"o\" that introduce nouns\n  6. [[ref|Pūriro|puriro]] (possessive particles) - Words like \"tā,\" \"tō,\" \"ā,\" and \"ō\" that indicate possession\n    \nUnderstanding particles is essential for constructing grammatically correct sentences in te reo Māori.\n  ",
+    "examples": [
+      {
+        "maori": "Kei te kai a Mere i te āporo.",
+        "english": "Mary is eating the apple.",
+        "explanation": "Particles include: \"kei te\" (present continuous marker), \"a\" (personal article), \"i\" (object marker), and \"te\" (definite article)."
+      },
+      {
+        "maori": "I haere atu rātou ki te tāone inanahi.",
+        "english": "They went to town yesterday.",
+        "explanation": "Particles include: \"i\" (past tense marker), \"atu\" (directional particle meaning \"away\"), \"ki\" (directional particle), and \"te\" (definite article)."
+      }
+    ],
+    "relatedTerms": [
+      "tumu"
+    ]
+  },
+  {
+    "id": "tuingoa",
+    "term": "Nouns",
+    "maoriTerm": "Tūingoa",
+    "shortDefinition": "Words that name people, places, things, animals, or abstract concepts in te reo Māori.",
+    "parentTerm": "tumu",
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "tumu"
+    ],
+    "categoryInfo": "Part of the Base Words (Tumu) series",
+    "longDefinition": "\n    Tūingoa (nouns) are a fundamental type of tumu (base word) in te reo Māori that name people, places, things, animals, ideas, or concepts. They form the core of noun phrases and can function as the subject or object in a sentence.\n    \n    Nouns in te reo Māori can be categorized into several types:\n    \n    1. Tūingoa ōkiko (concrete nouns) - These refer to tangible, physical things that can be perceived with the senses, such as:\n       - \"rākau\" (tree)\n       - \"whare\" (house)\n       - \"ngeru\" (cat)\n       \n    2. Tūingoa tūrehurehu (abstract nouns) - These refer to intangible concepts, ideas, qualities, or states that cannot be physically touched, such as:\n       - \"aroha\" (love)\n       - \"wairua\" (spirit)\n       - \"matemate\" (illness)\n       \n    3. Tūmoko (proper nouns) - These are specific names of people, places, iwi (tribes), waka (canoes) and months, such as:\n       - \"Aotearoa\" (New Zealand)\n       - \"Rangi\" (a person's name)\n       - \"Ngāti Porou\" (a tribe)\n       \n    Unlike English, nouns in te reo Māori:\n    - Do not change form to indicate plural, except for a small number of words related to people (plurality is otherwise shown by plural determiners like \"ngā\")\n    - Are typically preceded by particles like \"te,\" \"ngā,\" \"he,\" or \"a\"",
+    "examples": [
+      {
+        "maori": "Kei te oma te kurī.",
+        "english": "The dog is running.",
+        "explanation": "The noun \"kurī\" (dog) is a tūingoa ōkiko (concrete noun) functioning as the subject of the sentence."
+      },
+      {
+        "maori": "He tino nui tō rātou aroha ki te whenua.",
+        "english": "Their love for the land is very great.",
+        "explanation": "The nouns \"aroha\" (love) and \"whenua\" (land) represent a tūingoa tūrehurehu (abstract noun) and a tūingoa ōkiko (concrete noun) respectively."
+      },
+      {
+        "maori": "I haere a Mere ki Tāmaki Makaurau inanahi.",
+        "english": "Mary went to Auckland yesterday.",
+        "explanation": "The words \"Mere\" (Mary) and \"Tāmaki Makaurau\" (Auckland) are tūmoko (proper nouns) for a person and a place."
+      }
+    ],
+    "relatedTerms": [
+      "tumoko",
+      "kianga-tuingoa"
+    ],
+    "validated": true
+  },
+  {
+    "id": "tuwahi",
+    "term": "Locative Nouns",
+    "maoriTerm": "Tūwāhi",
+    "shortDefinition": "Special nouns that indicate position or location in space relative to a reference point.",
+    "longDefinition": "Tūwāhi (locative nouns) are a special class of nouns in te reo Māori that specify location or position in space. They describe where something is in relation to a reference point, such as above, below, inside, or outside.\n    \nUnlike regular nouns, locative nouns typically appear in [[ref|prepositional phrases|kianga-puhono]] and are usually preceded by [[ref|particles|punga]] such as \"i,\" \"ki,\" or \"kei\" to form expressions of location.\n    \nCommon locative nouns include:\n - runga - on top, above, south\n - raro - under, underneath, below, north\n - roto - in, inside\n - waho - out, outside\n - mua - in front, at the front, before\n - muri - behind, at the back\n - waenganui - in the middle, between, among\n - te taha mauī - on the left side\n - te taha matau - on the right side\n - tua - beyond, the other side (of a solid object)\n - tāwāhi - beyond, the other side (of an open space)\n    \nThere are also locatives that describe position in relation to the speaker/writer:\n    \n - uta - ashore (while at sea), inland (while on the coast)\n - tai - at sea (while on shore), on the coast (while inland)\n - tawhiti - in the distance\n - konei - here (where I am, in this place)\n - konā - there (where you are, in that place)\n - korā, kō - there (away from us, in that other place)\n - reira - there (in that place we've been talking about)\n    \nLocative nouns are essential for describing position, giving directions, and situating objects or events in space.\n  ",
+    "examples": [
+      {
+        "maori": "Kei runga i te tēpu te pukapuka.",
+        "english": "The book is on top of the table.",
+        "explanation": "The locative noun \"runga\" indicates the position (on top) relative to the reference object (the table)."
+      },
+      {
+        "maori": "I haere ia ki roto i te whare.",
+        "english": "He/she went inside the house.",
+        "explanation": "The locative noun \"roto\" indicates movement to the interior of the reference object (the house)."
+      },
+      {
+        "maori": "Kei muri i a koe te kurī.",
+        "english": "The dog is behind you.",
+        "explanation": "The locative noun \"muri\" indicates position (behind) relative to the reference point (you)."
+      },
+      {
+        "maori": "Kei konei tātou e hui ana.",
+        "english": "We are meeting here.",
+        "explanation": "The locative noun \"konei\" indicates the location where the speaker is currently situated."
+      }
+    ],
+    "relatedTerms": [
+      "tuingoa",
+      "puwahi",
+      "kianga-puhono"
+    ],
+    "hierarchyLevel": 3,
+    "parentTerm": "tuingoa",
+    "breadcrumbPath": [
+      "tumu",
+      "tuingoa"
+    ],
+    "validated": true
+  },
+  {
+    "id": "tukapi",
+    "validated": true,
+    "term": "Pronouns",
+    "maoriTerm": "Tūkapi",
+    "shortDefinition": "Words that substitute for nouns or noun phrases, conveying person, number, and inclusivity/exclusivity.",
+    "parentTerm": "tumu",
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "tumu"
+    ],
+    "categoryInfo": "Part of the Base Words (Tumu) series",
+    "longDefinition": "\n    Tūkapi (pronouns) in te reo Māori are words such as \"he\", \"she\" or \"them\" that take the place of nouns or noun phrases. \n    They are an important class of [[ref|tumu|tumu]] (base words) that communicate a significant amount of contextual information within a compact form.\n    \nTe reo Māori pronouns are more complex and informative than English pronouns. They distinguish:\n    \n1. **Person**: Whether you're talking about:\n  * Kiritūnei (first person) - the speaker - \"I/we\"\n  * Kiritūnei (second person) - the listener - \"you\"\n  * Kiritūrā (third person) - someone else - \"he/she/they\"\n    \n2. **Number**: Whether you're referring to:\n  * Takitahi (singular) - one person\n  * Takirua (dual) - two people\n  * Takitini (plural) - three or more people\n    \n3. **Inclusivity/Exclusivity**: For first person dual and plural, whether:\n  * Kauawhi (inclusive) - including the listener (\"you and I\"/\"you and us\")\n  * Kaupare (exclusive) - excluding the listener (\"someone else and I\"/\"others and I\")\n    \nUsing these terms, the first person exclusive dual pronoun would be called the \"tūkapi kaupare kiritūnei takirua\". \n\nThis creates a more detailed pronoun system than in English. The full set of personal pronouns is:\n    \n| | Takitahi (singular) | Takirua (dual) | Takitini (plural) |\n|---|---|---|---|\n| **First person inclusive** | - | tāua | tātou |\n| **First person exclusive** | au, ahau | māua | mātou |\n| **Second person** | koe | kōrua | koutou |\n| **Third person** | ia | rāua | rātou |\n    \nPronouns can also function as possessives when combined with possessive particles, forming [[ref|tūkapi riro|tukapi-riro]] (possessive pronouns) like \"tāku\" (my), \"tōna\" (his/her/its), \"ā mātou\" (our), etc.\n  ",
+    "examples": [
+      {
+        "maori": "Kei te haere au ki te kura.",
+        "english": "I am going to school.",
+        "explanation": "The pronoun \"au\" is first person singular (I)."
+      },
+      {
+        "maori": "Kei hea kōrua?",
+        "english": "Where are you two?",
+        "explanation": "The pronoun \"kōrua\" is second person dual (you two)."
+      },
+      {
+        "maori": "Ka haere tātou ki te hui.",
+        "english": "We (including you) will go to the meeting.",
+        "explanation": "The pronoun \"tātou\" is first person plural inclusive, meaning \"we\" including the person being spoken to."
+      },
+      {
+        "maori": "Ka haere mātou ki te hui.",
+        "english": "We (not including you) will go to the meeting.",
+        "explanation": "The pronoun \"mātou\" is first person plural exclusive, meaning \"we\" excluding the person being spoken to."
+      }
+    ],
+    "relatedTerms": [
+      "tukapi-riro",
+      "tuingoa"
+    ]
+  },
+  {
+    "id": "tukapi-riro",
+    "term": "Possessive Pronouns",
+    "maoriTerm": "Tūkapi Riro",
+    "shortDefinition": "Short definition for the new term",
+    "hierarchyLevel": 3,
+    "examples": [],
+    "isParent": false,
+    "parentTerm": "demonstratives",
+    "breadcrumbPath": [
+      "punga",
+      "puingoa",
+      "pumau"
+    ],
+    "longDefinition": "If we want to say that something is owned by something else but refer to the owner using a pronoun, we can use a tūkapi riro (possessive pronoun) which we form by prepending a pūriro (possessive particle) to a tūkapi (pronoun).\n\nThe singular tūkapi take a special form when use in this way:\n\n* au becomes the suffix -ku\n\n* koe becomes the suffix -u\n\n* ia becomes the suffix -na\n\nFor each pronoun, I’ll list out the tūkapi riro takitahi (singular possessive pronoun) and the tūkapi riro takitini (plural possessive pronoun).",
+    "validated": true
+  },
+  {
+    "id": "demonstrative-pronouns",
+    "term": "Demonstrative Pronouns",
+    "maoriTerm": "",
+    "shortDefinition": "Demonstrative pronouns communicate location or position relative to the speaker and listener",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "Enter the main definition and explanation here."
+      }
+    ],
+    "relatedTerms": [
+      "demonstrative-determiners"
+    ]
+  },
+  {
+    "id": "tumahi",
+    "term": "Verbs",
+    "maoriTerm": "Tūmahi",
+    "shortDefinition": "Words that describe actions, occurrences, or states of being.",
+    "parentTerm": "tumu",
+    "isParent": true,
+    "childTerms": [
+      "tumahi-whiti",
+      "tumahi-poro",
+      "tumahi-ahua",
+      "tumahi-oti",
+      "verb-classification"
+    ],
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "tumu"
+    ],
+    "categoryInfo": "Part of the Base Words (Tumu) series",
+    "categoryTitle": "Types of Verbs",
+    "longDefinition": "\nTūmahi (verbs) are a fundamental type of [[ref|tumu|tumu]] (base word) in te reo Māori that express actions, occurrences, or states of being. Also known as \"kupumahi,\" they form the core of verbal phrases and sentences.\n\nA key characteristic of te reo Māori verbs is that, unlike English verbs, they do not change form to indicate tense, person, or number. Instead, [[ref|pūmahi|pumahi]] (verbal particles) such as \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" are used before the verb to indicate when and how the action takes place.\n\nTe reo Māori verbs are classified into several important categories ([[ref|see Verb Classification for detailed information|verb-classification]]):\n\n1. **[[ref|Tūmahi Whiti (Transitive Verbs)|tumahi-whiti]]**\n    - Describe actions that directly affect another person or thing\n    - Take a direct object (often marked with \"i\")\n    - Can be used in passive voice with special suffixes\n    - Examples: tapahi (cut), whakapaipai (decorate), patu (hit)\n\n2. **[[ref|Tūmahi Poro (Intransitive Verbs)|tumahi-poro]]**\n    - Describe actions that don't require a direct object\n    - The action can be completed with only one participant\n    - Examples: moe (sleep), hīkoi (walk), takoto (lie down)\n\n3. **[[ref|Tūmahi Āhua (Stative Verbs)|tumahi-ahua]]**\n    - Describe emotions or attributes of people or things\n    - Examples: pōuri (sad), riri (angry), pūhaehae (jealous)\n\n4. **[[ref|Tūmahi Oti (Neuter Verbs)|tumahi-oti]]**\n    - Describe the completion of an action or a state of being\n    - Examples: mate (die/dead), pau (be consumed), pakaru (broken)\n\nUnderstanding the different classes of verbs is essential for forming grammatically \ncorrect sentences and for using appropriate verbal particles and constructions.\n  ",
+    "examples": [
+      {
+        "maori": "Kei te kai a Mere i te āporo.",
+        "english": "Mary is eating the apple.",
+        "explanation": "The verb \"kai\" (eat) is a tūmahi whiti (transitive verb) with \"i te āporo\" as its direct object."
+      },
+      {
+        "maori": "Kei te moe te pēpi.",
+        "english": "The baby is sleeping.",
+        "explanation": "The verb \"moe\" (sleep) is a tūmahi poro (intransitive verb) that does not require a direct object."
+      },
+      {
+        "maori": "Kei te pōuri a Tama.",
+        "english": "Tama is sad.",
+        "explanation": "The verb \"pōuri\" (sad) is a tūmahi āhua (stative verb) describing an emotional state."
+      },
+      {
+        "maori": "Kua pakaru te wini.",
+        "english": "The window is broken.",
+        "explanation": "The verb \"pakaru\" (broken) is a tūmahi oti (neuter verb) describing a state resulting from a completed action."
+      }
+    ],
+    "relatedTerms": [
+      "tumu",
+      "pumahi",
+      "verb-classification"
+    ],
+    "validated": true
+  },
+  {
+    "id": "tumahi-ahua",
+    "term": "Stative Verbs",
+    "maoriTerm": "Tūmahi Āhua",
+    "shortDefinition": "Verbs that describe states, conditions, emotions, or qualities rather than actions.",
+    "parentTerm": "tumahi",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "tumu",
+      "tumahi"
+    ],
+    "categoryInfo": "Part of the series on Verbs (Tūmahi)",
+    "longDefinition": "\nTūmahi āhua (stative verbs) are a distinct class of verbs in te reo Māori that describe states, conditions, emotions, or qualities rather than actions. These verbs are sometimes called \"state intransitives\" or \"neuter verbs\" in some grammars.",
+    "examples": [
+      {
+        "maori": "Kua pōuri a Hemi.",
+        "english": "James is sad.",
+        "explanation": "The stative verb \"pōuri\" (sad) describes an emotional state that James is experiencing."
+      },
+      {
+        "maori": "He māmā te kete.",
+        "english": "The basket is light.",
+        "explanation": "The stative verb \"māmā\" (light in weight) describes a physical quality of the basket."
+      },
+      {
+        "maori": "E hiakai ana au.",
+        "english": "I am hungry.",
+        "explanation": "The stative verb \"hiakai\" (hungry) describes a physical state with the continuous marker \"e...ana\"."
+      },
+      {
+        "maori": "I pōuri ia i te kōrero.",
+        "english": "She was sad because of the news.",
+        "explanation": "The stative verb \"pōuri\" (sad) with the cause marked by \"i te kōrero\" (because of the news)."
+      }
+    ],
+    "relatedTerms": [
+      "tumahi",
+      "tumahi-whiti",
+      "tumahi-poro",
+      "tumahi-oti"
+    ],
+    "validated": true
+  },
+  {
+    "id": "tumahi-poro",
+    "term": "Intransitive Verbs",
+    "maoriTerm": "Tūmahi Poro",
+    "shortDefinition": "Verbs that describe actions that do not affect another person or thing and do not require a direct object.",
+    "parentTerm": "tumahi",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "tumu",
+      "tumahi"
+    ],
+    "categoryInfo": "Part of the series on Verbs (Tūmahi)",
+    "longDefinition": "Tūmahi poro (intransitive verbs) form a major category of verbs in te reo Māori. \nThey describe actions that do not affect another person or thing and do not require a direct object to complete their meaning.\n    \nThe action described by the verb can be completed with only one participant such as sneezing (tihe) or sleeping (moe). The action doesn't directly act upon anyone or anything else. This includes words such as: moe, hīkoi, takoto and whiowhio.\n",
+    "examples": [
+      {
+        "maori": "Kei te moe a Mere.",
+        "english": "Mary is sleeping.",
+        "explanation": "The intransitive verb \"moe\" (sleep) describes an action that Mary does without affecting any object."
+      },
+      {
+        "maori": "I kata ngā tamariki.",
+        "english": "The children laughed.",
+        "explanation": "The intransitive verb \"kata\" (laugh) describes an action that occurs without a direct object."
+      },
+      {
+        "maori": "Kei te kōrero ia ki te kaiako.",
+        "english": "He is talking to the teacher.",
+        "explanation": "The intransitive verb \"kōrero\" (speak) with \"ki te kaiako\" as the recipient of communication, not a direct object."
+      },
+      {
+        "maori": "Ka haere mātou ki te hui āpōpō.",
+        "english": "We will go to the meeting tomorrow.",
+        "explanation": "The intransitive verb \"haere\" (go) with a destination indicated by \"ki\"."
+      }
+    ],
+    "relatedTerms": [
+      "tumahi",
+      "tumahi-whiti",
+      "tumahi-ahua",
+      "tumahi-oti"
+    ],
+    "validated": true
+  },
+  {
+    "id": "tumahi-oti",
+    "term": "Neuter Verbs",
+    "maoriTerm": "Tūmahi Oti",
+    "shortDefinition": "Verbs that describe a completed action, state, or condition often with permanent or semi-permanent results.",
+    "parentTerm": "tumahi",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "tumu",
+      "tumahi"
+    ],
+    "categoryInfo": "Part of the series on Verbs (Tūmahi)",
+    "longDefinition": "Tūmahi oti (neuter verbs) are a special class of verbs in te reo Māori that describe states or conditions resulting from completed actions. They are called \"neuter\" because they have characteristics of both passive and active verbs while being neither.",
+    "examples": [
+      {
+        "maori": "Kua pakaru te karaehe.",
+        "english": "The glass is broken.",
+        "explanation": "The neuter verb \"pakaru\" (broken) describes the resulting state of the glass after it broke."
+      },
+      {
+        "maori": "Kua mate te ahi.",
+        "english": "The fire has gone out.",
+        "explanation": "The neuter verb \"mate\" (die/dead) describes the completed state of the fire being extinguished."
+      },
+      {
+        "maori": "Kua pau te wai.",
+        "english": "The water is used up.",
+        "explanation": "The neuter verb \"pau\" (consumed/used up) describes the resulting state of the water being depleted."
+      },
+      {
+        "maori": "Kua mutu te hui i te wā tika.",
+        "english": "The meeting finished at the right time.",
+        "explanation": "The neuter verb \"mutu\" (finished/ended) describes the completed state of the meeting."
+      }
+    ],
+    "relatedTerms": [
+      "tumahi",
+      "tumahi-whiti",
+      "tumahi-poro",
+      "tumahi-ahua"
+    ],
+    "validated": true
+  },
+  {
+    "id": "verb-classification",
+    "validated": true,
+    "term": "Verb Classification",
+    "maoriTerm": null,
+    "shortDefinition": "The categorization of te reo Māori verbs into different classes based on their grammatical behavior.",
+    "hierarchyLevel": 3,
+    "parentTermId": "tumahi",
+    "categoryInfo": "Part of the series on Verbs (Tūmahi)",
+    "longDefinition": "\n    ## About Classes of Verb \n\n    Te reo Māori verbs are categorized into several distinct classes based on their grammatical behavior. \n\n    There are a number of verbs which behave very similarly for many purposes, but with subtle \n    differences in how they work from a technical  perspective. Some linguists have considered \n    statives, neuter verbs and adjectives to all be one class of word. Others break them out into \n    complex subgroups.\n\n    For ease of reference, verbs are typically grouped into three classes based on example words \n    that belong to each class: the \"mutu\" class, the \"haere\" class and the \"ora\" class. These have \n    been labeled differently by linguists over time.\n\n    ### Historical Terminology Evolution\n\n    This table shows how different linguists and scholars have categorized these three verb classes \n    over time:\n\n    | | mutu | haere | ora |\n    |---|---|---|---|\n    | **Maunsell (1842)** *(considered this grouping tentative)* | neuter (the term at the time for what we now call intransitive) | neuter (the term at the time for what we now call intransitive) | neuter (the term at the time for what we now call intransitive) |\n    | **Williams (1862)** | participles (but observed they behave like neuter [intransitive] verbs) | intransitive (first establishing a distinction between neuter and intransitive) | adjectives (but observed they behave like neuter [intransitive] verbs) |\n    | **Biggs (1969)** | stative (this label introduced to describe verbs that don't take the passive ending) | universals | stative (this label introduced to describe verbs that don't take the passive ending) |\n    | **Hohepa (1969)** | stative verbs | not mentioned | stative adjectives |\n    | **Hooper (1982)** *[convention adopted by Bauer 1997]* | neuter verb | action intransitives | state intransitives |\n    | **Harlow (2001)** | neuter verbs (often called statives) | intransitive | adjectives |\n    | **Jacob (2015)** <br> *He Iti Kahurangi* | tūmahi oti (neuter verbs) [Jacob gives \"pakaru\", \"pau\" and \"mahue\" as examples which other texts pair with \"mutu\" class verbs] | tūmahi poro | split into tūmahi āhua (statives) [which is referred to as a type of tūmahi poro] and tūāhua (adjectives) based on whether they pair with a verbal particle or a noun |\n\n    ### Modern Classification\n\n    In contemporary te reo Māori teaching, and in these notes these verbs are classified as:\n\n    1. **[[ref|Tūmahi Oti (Neuter Verbs)|tumahi-oti]]** - The \"mutu\" class \n    2. **[[ref|Tūmahi Poro (Intransitive Verbs)|tumahi-poro]]** - The \"haere\" class\n    3. **[[ref|Tūmahi Āhua (Stative Verbs)|tumahi-ahua]]** - The \"ora\" class\n    \n    **[[ref|Tūāhua|tuahua]]** (Adjectives) are split out from Tūmahi Āhua based on whether the word pairs with a verbal particle or a noun.\n  ",
+    "examples": [
+      {
+        "maori": "Kua mutu te hui.",
+        "english": "The meeting has finished.",
+        "explanation": "Uses \"mutu\" which is a tūmahi oti (neuter verb) describing a completed state."
+      },
+      {
+        "maori": "Kei te haere rātou ki te kura.",
+        "english": "They are going to school.",
+        "explanation": "Uses \"haere\" which is a tūmahi poro (intransitive verb) describing motion without affecting an object."
+      },
+      {
+        "maori": "Kei te ora tonu ia.",
+        "english": "She is still well/alive.",
+        "explanation": "Uses \"ora\" which is a tūmahi āhua (stative verb) describing a state of being."
+      }
+    ],
+    "relatedTerms": [
+      "tumahi",
+      "tumahi-whiti",
+      "tumahi-poro",
+      "tumahi-ahua",
+      "tumahi-oti"
+    ],
+    "parentTerm": "tumahi",
+    "breadcrumbPath": [
+      "tumu",
+      "tumahi"
+    ]
+  },
+  {
+    "id": "pumahi",
+    "term": "Verbal Particles",
+    "maoriTerm": "Pūmahi",
+    "shortDefinition": "Particles that precede verbs to indicate tense, aspect, and mood in te reo Māori.",
+    "parentTerm": "punga",
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "punga"
+    ],
+    "categoryInfo": "Part of the Particles (Punga) series",
+    "isParent": true,
+    "childTerms": [
+      "pumahi-tamAi"
+    ],
+    "categoryTitle": "Types of Verbal Particles",
+    "longDefinition": "Pūmahi (verbal particles) are a crucial type of punga (particle) in te reo Māori that provide information about when and how an action takes place. They appear before verbs and indicate tense (when the action occurs), aspect (how the action unfolds over time), and mood (the speaker's attitude toward the action).\n\n  \nUnlike English, where verbs change form to show tense (e.g., walk/walked/walking), te reo Māori keeps the verb form consistent and uses these particles to convey grammatical information.\n\n  \nThe main verbal particles include:   \n1. **Kei te** - Present continuous - Indicates an action happening right now - Example: \"Kei te kai au\" - \"I am eating\"   \n2. **I te** - Past continuous - Indicates an action that was happening in the past - Example: \"I te kai au\" - \"I was eating\"   \n3. **E ... ana** - Continuous (general) - Can refer to past, present, or future ongoing actions - Example: \"E kai ana au\" - \"I am/was eating\"   \n4. **I** - Simple past - Indicates a completed action in the past - Example: \"I kai au\" - \"I ate\"   \n5. **Kua** - Perfect aspect - Indicates a completed action with present relevance - Example: \"Kua kai au\" - \"I have eaten\"   \n6. **Ka** - Inceptive/narrative - Introduces a new action in a narrative; often indicates future actions - Example: \"Ka kai au\" - \"I will eat\"   \nEach verbal particle also has a corresponding negative form, typically using \"kāore\" with a different particle combination:   \n  - \"Kei te\" → \"Kāore ... i te\" - \"I\" → \"Kāore ... i\" - \"Kua\" → \"Kāore anō ... kia\" - \"Ka\" → \"Kāore ... e\"   \nMastering verbal particles is essential for accurately expressing when actions occur and how they unfold over time in te reo Māori.",
+    "examples": [
+      {
+        "maori": "Kei te tuhi a Hemi i tētahi reta.",
+        "english": "James is writing a letter.",
+        "explanation": "The verbal particle \"kei te\" indicates present continuous action (happening now)."
+      },
+      {
+        "maori": "I haere au ki te tāone inanahi.",
+        "english": "I went to town yesterday.",
+        "explanation": "The verbal particle \"i\" indicates a completed action in the past."
+      },
+      {
+        "maori": "Kua mutu te hui.",
+        "english": "The meeting has finished.",
+        "explanation": "The verbal particle \"kua\" indicates a completed action with current relevance (perfect aspect)."
+      },
+      {
+        "maori": "Ka haere mātou āpōpō.",
+        "english": "We will go tomorrow.",
+        "explanation": "The verbal particle \"ka\" indicates a future action."
+      },
+      {
+        "maori": "Kāore au i te hiahia ki te haere.",
+        "english": "I don't want to go.",
+        "explanation": "The negative form \"kāore ... i te\" negates the present continuous \"kei te\"."
+      }
+    ],
+    "relatedTerms": [
+      "tumahi",
+      "kianga-tumahi",
+      "whakakahore"
+    ],
+    "validated": true
+  },
+  {
+    "id": "tumahi-whiti",
+    "term": "Transitive Verbs",
+    "maoriTerm": "Tūmahi Whiti",
+    "shortDefinition": "Verbs that describe an action affecting someone or something else, requiring a direct object.",
+    "parentTerm": "tumahi",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "tumu",
+      "tumahi"
+    ],
+    "categoryInfo": "Part of the series on Verbs (Tūmahi)",
+    "longDefinition": "\nTūmahi whiti (transitive verbs) are a major class of verbs in te reo Māori that describe actions which affect or are directed toward another person or thing. These verbs require a direct object—someone or something that receives the action of the verb.\n    \nTransitive verbs can be used in either active or passive forms depending on the type of sentence or \"voice\" they are being used in. When used in an active sentence they are called \"tūmahi hāoho\" (active verbs) and when used in a passive sentence they are called \"tūmahi hāngū\" (passive verbs). To make an tūmahi hāoho into a tūmahi hāngū you add a special kūmuri (suffix) or whiore (tail) to the word such as in adding the suffix \"-tia\" to \"whakapai\" to get the tūmahi hāngū whakapaitia. Each tūmahi hāoho can only take a limited subset of suffixes and a dictionary is required to know which are appropriate for each word. Some tūmahi hāoho have irregular passive forms where the word is transformed more than adding a simple suffix.\n\nMāori has a special construction for expressing transitive actions where the second participant (patient) is indefinite and non-specific (where the listener has no information about which particular individual is involved), for example:\n- Kei te ruku kōura rātou. - They are diving for crayfish. (Not a specific crayfish.)\n\nNon-specific patients form compound verbs, so the object 'kōura' is incorporated into the verb to form the compound verb \"ruku kōura\" or \"crayfish diving\".\n  ",
+    "examples": [
+      {
+        "maori": "Kei te whakarongo a Pita i te waiata.",
+        "english": "Peter is listening to the song.",
+        "explanation": "The transitive verb \"whakarongo\" (listen) affects the direct object \"waiata\" (song), which is marked with \"i\"."
+      },
+      {
+        "maori": "I pānui ia i te pukapuka.",
+        "english": "She read the book.",
+        "explanation": "The transitive verb \"pānui\" (read) has \"pukapuka\" (book) as its direct object."
+      },
+      {
+        "maori": "Ka kōrerotia e Hone te reo Māori āpōpō.",
+        "english": "John will speak Māori tomorrow.",
+        "explanation": "The passive form of the transitive verb \"kōrero\" (speak) is \"kōrerotia\", shifting focus to \"te reo Māori\" while marking the agent with \"e\"."
+      },
+      {
+        "maori": "Kei te whakamārama te kaiako i te tikanga.",
+        "english": "The teacher is explaining the meaning.",
+        "explanation": "The transitive verb \"whakamārama\" (explain) affects the direct object \"tikanga\" (meaning/custom)."
+      }
+    ],
+    "relatedTerms": [
+      "tumahi",
+      "tumahi-poro",
+      "rerehaoho",
+      "rerehanga",
+      "kianga-tumahi"
+    ],
+    "validated": true
+  },
+  {
+    "id": "tuahua",
+    "term": "Adjectives",
+    "maoriTerm": "Tūāhua",
+    "parentTerm": "tumu",
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "tumu"
+    ],
+    "categoryInfo": "Part of the Base Words (Tumu) series",
+    "shortDefinition": "Words that describe or modify nouns, indicating qualities or attributes.",
+    "longDefinition": "Tūāhua (adjectives) are a category of tumu (base words) in te reo Māori that describe  the qualities, attributes, or characteristics of nouns. They help to provide more detailed information about people, places, objects, or concepts.\n    \nOne important distinction between te reo Māori and English is that many qualities that would be expressed as adjectives in English are expressed as stative verbs (tūmahi āhua) in te reo Māori. However, there are still words that function primarily as adjectives.\n\nExamples of adjectives include: whero, nui, pōturi.",
+    "examples": [
+      {
+        "maori": "Kei te mau ia i te koti whero.",
+        "english": "She is wearing a red coat.",
+        "explanation": "The adjective \"whero\" (red) follows the noun \"koti\" (coat) it modifies."
+      },
+      {
+        "maori": "He tangata pai, he tangata manaaki.",
+        "english": "A good person is a caring person.",
+        "explanation": "The adjectives \"pai\" (good) and \"manaaki\" (caring) each follow the noun \"tangata\" (person)."
+      },
+      {
+        "maori": "E hiahia ana au ki te hoko i te waka hou, nui.",
+        "english": "I want to buy a new, big car.",
+        "explanation": "The adjectives \"hou\" (new) and \"nui\" (big) appear in sequence after the noun \"waka\" (car)."
+      },
+      {
+        "maori": "He tino ātaahua tēnei whare.",
+        "english": "This house is very beautiful.",
+        "explanation": "The intensifier \"tino\" (very) precedes the adjective \"ātaahua\" (beautiful)."
+      }
+    ],
+    "relatedTerms": [
+      "tumahi-ahua",
+      "kianga-tuahua"
+    ],
+    "validated": true
+  },
+  {
+    "id": "tupatai",
+    "validated": true,
+    "term": "Interrogatives",
+    "maoriTerm": "Tūpātai",
+    "parentTerm": "tumu",
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "tumu"
+    ],
+    "categoryInfo": "Part of the Base Words (Tumu) series",
+    "shortDefinition": "Words used to form questions, such as who, what, where, when, why, and how.",
+    "longDefinition": "Tūpātai (interrogatives) are a category of [[ref|tumu|tumu]] (base words) in te reo Māori that are used to form questions. These question words allow speakers to seek specific information about people, things, places, times, reasons, and methods.\n    \nWhen asking for a piece of information using a [[ref|rerepātai|rerepatai]] (question sentence) these words are used in the sentence in place of the piece of information you want to obtain and which word you use makes it clear what type of information you want to be supplied with. This includes the words: wai, aha, hea, hia, pēhea, tēhea.\n\n  ",
+    "examples": [
+      {
+        "maori": "Ko wai tō ingoa?",
+        "english": "What is your name?",
+        "explanation": "Uses \"wai\" (who) to ask about a person's name. Literally: \"Who is your name?\""
+      },
+      {
+        "maori": "Kei hea tō whare?",
+        "english": "Where is your house?",
+        "explanation": "Uses \"hea\" with the locative particle \"kei\" to ask about location."
+      },
+      {
+        "maori": "He aha te raruraru?",
+        "english": "What is the problem?",
+        "explanation": "Uses \"aha\" to ask about a thing or situation."
+      },
+      {
+        "maori": "I haere koe ki hea inanahi?",
+        "english": "Where did you go yesterday?",
+        "explanation": "Uses \"hea\" with the directional particle \"ki\" to ask about destination."
+      },
+      {
+        "maori": "Ka tae mai koe āhea?",
+        "english": "When will you arrive?",
+        "explanation": "Uses \"āhea\" to ask about a future time."
+      }
+    ],
+    "relatedTerms": [
+      "kianga-patai",
+      "rerenga-patai"
+    ]
+  },
+  {
+    "id": "puwahi",
+    "term": "Locative Particles",
+    "maoriTerm": "Pūwahi",
+    "shortDefinition": "Particles used to indicate location in space or time.",
+    "parentTerm": "punga",
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "punga"
+    ],
+    "categoryInfo": "Part of the Particles (Punga) series",
+    "longDefinition": "Pūwahi (locative particles) are a category of [[ref|punga|punga]] (particles) in te reo Māori that specify location in space or time. They typically appear before place names, location nouns, or time expressions to indicate where or when something happens. These includes the words: i, hei, kei.",
+    "examples": [
+      {
+        "maori": "I te whare karakia mātou i te Rātapu.",
+        "english": "We were at church on Sunday.",
+        "explanation": "The locative particle \"i\" indicates where we were in the past."
+      },
+      {
+        "maori": "Kei hea ō hū?",
+        "english": "Where are your shoes?",
+        "explanation": "The locative particle \"kei\" combines with the interrogative \"hea\" to ask about present location."
+      },
+      {
+        "maori": "Hei konei au e tatari ana ki a koe.",
+        "english": "I will be waiting for you here.",
+        "explanation": "The locative particle \"hei\" indicates where the speaker will be in the future."
+      },
+      {
+        "maori": "Kei runga i te tēpu te pukapuka.",
+        "english": "The book is on the table.",
+        "explanation": "The locative particle \"kei\" combines with \"runga\" (on/above) and the preposition \"i\" to specify exact location."
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-directional",
+      "kupu-wahi"
+    ],
+    "validated": true
+  },
+  {
+    "id": "puhea",
+    "term": "Positional Particles",
+    "maoriTerm": "Pūhea",
+    "shortDefinition": "Particles that indicate the position or proximity of objects relative to the speaker and listener.",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "Pūhea (positional particles) are a distinctive class of [[ref|punga||punga]] (particles) in te reo Māori that indicate the position of objects in relation to the speaker and listener. They help to establish spatial relationships and often combine with other words to create demonstratives. In some grammars they are referred to as \"[deictic](https://en.wikipedia.org/wiki/Deixis) particles\".\n\nThe three main positional particles in te reo Māori are:\n\n1. **Nei** - Here/This - Indicates a position close to the speaker - Example: \"tēnei whare\" - \"this house\" (near me) - Can also appear after a noun: \"te whare nei\" - \"this house\"\n2. **Nā** - There/That - Indicates a position close to the listener - Example: \"tēnā whare\" - \"that house\" (near you) - Can also appear after a noun: \"te whare nā\" - \"that house\"\n3. **Rā** - Over there/That - Indicates a position distant from both speaker and listener - Example: \"tērā whare\" - \"that house over there\" (away from both of us) - Can also appear after a noun: \"te whare rā\" - \"that house over there\"\n\nThese positional particles are often combined with the definite article \"te\" to form the demonstratives tēnei/ēnei (this/these), tēnā/ēnā (that/those near you), and tērā/ērā (that/those over there).\n\nThe pattern changes when referring to plural items:\n\n* \"tēnei\" (singular) becomes \"ēnei\" (plural)\n* \"tēnā\" (singular) becomes \"ēnā\" (plural)\n* \"tērā\" (singular) becomes \"ērā\" (plural)\n\nPositional particles provide crucial spatial orientation in te reo Māori discourse and help to clarify which specific item is being referred to based on its location relative to the speaker and listener."
+      },
+      {
+        "type": "example",
+        "maori": "E noho ki tēnei tūru.",
+        "english": "Sit on this chair.",
+        "explanation": "The positional particle \"nei\" in \"tēnei\" indicates a chair close to the speaker."
+      },
+      {
+        "type": "example",
+        "maori": "Kei a koe tēnā pukapuka?",
+        "english": "Do you have that book?",
+        "explanation": "The positional particle \"nā\" in \"tēnā\" indicates a book close to the listener."
+      },
+      {
+        "type": "example",
+        "maori": "Ko tērā te whare o Hone.",
+        "english": "That is John's house.",
+        "explanation": "The positional particle \"rā\" in \"tērā\" indicates a house distant from both speaker and listener."
+      }
+    ],
+    "relatedTerms": [
+      "putuhi",
+      "kupu-tohu"
+    ],
+    "categoryInfo": "Part of the Particles (Punga) series"
+  },
+  {
+    "id": "puingoa",
+    "term": "Nominal Particles",
+    "maoriTerm": "Pūingoa",
+    "shortDefinition": "Particles that introduce nouns or noun phrases and indicate their role in a sentence.",
+    "parentTerm": "punga",
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "punga"
+    ],
+    "categoryInfo": "Part of the Particles (Punga) series",
+    "isParent": true,
+    "childTerms": [
+      "pumau",
+      "puhono"
+    ],
+    "categoryTitle": "Types of Nominal Particles",
+    "longDefinition": "Pūingoa (nominal particles) are a fundamental class of [[ref|punga|punga]] (particles) in te reo Māori that precede [[ref|nouns|tuingoa]] or [[ref|noun phrases|kianga-tuingoa]]. These particles serve to introduce nouns and provide crucial information about their role in the sentence, their specificity, and whether they are singular or plural. \n\n  \nNominal particles in te reo Māori fall into two main categories:   \n1. **[[ref|Pūmau|pumau]] (Determiners)** - These particles specify the identity or quantity of the noun - Include articles like \"te\" (the, singular), \"ngā\" (the, plural), \"he\" (a/some) - Include demonstratives like \"tēnei\" (this), \"tēnā\" (that), \"tērā\" (that over there) - Example: \"te whare\" (the house), \"ngā whare\" (the houses), \"he whare\" (a house/houses)   \n2. **[[ref|Pūhono|puhono]] (Prepositions)** - These particles show the relationship between the noun and other elements - Include prepositions like \"ki\" (to), \"i\" (from, by), \"mō\" (for), \"ko\" (topic marker) - Example: \"ki te whare\" (to the house), \"i te whare\" (from the house)   \n\nThe choice of nominal particle is crucial for constructing grammatically correct sentences in te reo Māori. For example: \n\n- \"te\" specifies a singular, definite noun: \"te whare\" (the house) \n\n- \"ngā\" specifies a plural, definite noun: \"ngā whare\" (the houses)\n\n- \"he\" indicates an indefinite noun (either singular or plural): \"he whare\" (a house/houses) \n\n- \"a\" is used before personal names and some pronouns: \"a Mere\" (Mary)   \n\nWithin the pūhono (prepositions) category, particles can indicate various relationships:\n\n- \"ki\" shows movement towards or recipient: \"ki a Mere\" (to Mary)\n\n- \"i\" indicates source, location, or agent: \"i te whare\" (from/at the house)\n\n- \"mō\" indicates purpose or beneficiary: \"mō te tamaiti\" (for the child)",
+    "examples": [
+      {
+        "maori": "Kei te haere te tamaiti ki te kura.",
+        "english": "The child is going to school.",
+        "explanation": "The nominal particles \"te\" introduce the definite, singular nouns \"tamaiti\" and \"kura\", while \"ki\" shows direction."
+      },
+      {
+        "maori": "He tino pai ngā āporo o tēnei mara.",
+        "english": "The apples from this garden are very good.",
+        "explanation": "The nominal particle \"ngā\" indicates the definite, plural noun \"āporo\", while \"o\" indicates possession and \"tēnei\" is a demonstrative."
+      },
+      {
+        "maori": "Ko Mere tēnei.",
+        "english": "This is Mary.",
+        "explanation": "The nominal particle \"ko\" introduces the name \"Mere\" as the topic of the sentence."
+      },
+      {
+        "maori": "I homaingia e ia he koha mō ngā manuhiri.",
+        "english": "She gave a gift for the visitors.",
+        "explanation": "The nominal particles \"he\" (indefinite) introduces \"koha\", \"mō\" indicates purpose, and \"ngā\" (definite, plural) introduces \"manuhiri\"."
+      }
+    ],
+    "relatedTerms": [
+      "kianga-tuingoa",
+      "tuingoa"
+    ],
+    "validated": true
+  },
+  {
+    "id": "pumau",
+    "term": "Determiners",
+    "maoriTerm": "Pūmau",
+    "shortDefinition": "Particles that specify the identity, definiteness, or quantity of a noun.",
+    "parentTerm": "puingoa",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "punga",
+      "puingoa"
+    ],
+    "categoryInfo": "Part of the Nominal Particles (Pūingoa) series",
+    "longDefinition": "Pūmau (determiners) are a subcategory of pūingoa (nominal particles) in te reo Māori that specify the identity, definiteness, or quantity of a noun. They appear before nouns and help to clarify which specific item is being referred to, whether we're talking about something definite or indefinite, and whether it's singular or plural.\n\nThe main types of pūmau include:\n\n1. **Pū Tautuhi (Definite Articles)** * \"te\" - the (singular) * \"ngā\" - the (plural) * Example: \"te whare\" (the house), \"ngā whare\" (the houses)\n\n2. **Pūnoa (Indefinite Articles)** * \"he\" - a, some, any (no singular/plural distinction) * Example: \"he whare\" (a house/houses)\n\n3. **Pūmoko (Proper Articles)** * \"a\" - used before proper nouns (names of people, places) * Example: \"a Mere\" (Mary), \"a Aotearoa\" (New Zealand)\n\n4. **Pūtohu (Demonstratives)** * \"tēnei\"/\"ēnei\" - this/these (near speaker) * \"tēnā\"/\"ēnā\" - that/those (near listener) * \"tērā\"/\"ērā\" - that/those (distant from both) * Example: \"tēnei whare\" (this house), \"ēnei whare\" (these houses)\n\n5. **Other Determiners** * \"tētahi\"/\"ētahi\" - a certain/some (singular/plural) * \"taua\"/\"aua\" - the aforementioned (singular/plural) * \"ia\" - each, every\n\nDeterminers in te reo Māori often display a t/∅ alternation pattern for singular/plural forms:\n\n* \"tēnei\" (singular) → \"ēnei\" (plural)\n* \"tētahi\" (singular) → \"ētahi\" (plural)\n* \"taua\" (singular) → \"aua\" (plural)\n\nThe correct use of determiners is essential for specifying exactly which item(s) are beingreferred to in te reo Māori discourse, particularly since nouns themselves don't change formto indicate plurality.",
+    "examples": [
+      {
+        "maori": "Kei hea te kākahu whero?",
+        "english": "Where is the red garment?",
+        "explanation": "The determiner \"te\" specifies a particular, singular garment."
+      },
+      {
+        "maori": "He pai ēnei āporo.",
+        "english": "These apples are good.",
+        "explanation": "The determiner \"ēnei\" (these) specifies multiple apples near the speaker."
+      },
+      {
+        "maori": "I haere a Wiremu ki tētahi hui.",
+        "english": "William went to a certain meeting.",
+        "explanation": "The determiner \"tētahi\" indicates a specific but not previously mentioned meeting."
+      },
+      {
+        "maori": "Kua hoki mai aua tangata.",
+        "english": "Those people (previously mentioned) have returned.",
+        "explanation": "The determiner \"aua\" refers to people who have been mentioned before in the conversation."
+      }
+    ],
+    "relatedTerms": [
+      "puhono",
+      "puhea",
+      "tuingoa"
+    ],
+    "validated": false
+  },
+  {
+    "id": "puhono",
+    "term": "Prepositions",
+    "maoriTerm": "Pūhono",
+    "shortDefinition": "Particles that show the relationship between a noun and other elements in a sentence.",
+    "parentTerm": "puingoa",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "punga",
+      "puingoa"
+    ],
+    "categoryInfo": "Part of the Nominal Particles (Pūingoa) series",
+    "longDefinition": "\n    Pūhono (prepositions) are a subcategory of pūingoa (nominal particles) in te reo Māori that show \n    the relationship between a noun and other elements in a sentence. They appear before nouns or \n    noun phrases to indicate various relationships such as location, direction, purpose, means, \n    or agency.\n    \n    The main prepositions in te reo Māori include:\n    \n    1. **I** - Multifunctional preposition that can indicate:\n       - Location: \"i te whare\" (at/in the house)\n       - Time: \"i te Rātapu\" (on Sunday)\n       - Source: \"i Pōneke\" (from Wellington)\n       - Instrument: \"i te hāmara\" (with the hammer)\n       - Object marker: \"i te rākau\" (the tree - as direct object)\n       - Agent in passive: \"i patua i a Hemi\" (was hit by James)\n    \n    2. **Ki** - To, towards\n       - Direction: \"ki te whare\" (to the house)\n       - Recipient: \"ki a Mere\" (to Mary)\n       - Goal/purpose: \"ki te mahi\" (to work)\n    \n    3. **Kei** - At, in (present location)\n       - Present location: \"kei te whare\" (at the house)\n    \n    4. **Hei** - At, in (future location or purpose)\n       - Future location: \"hei te whare\" (at the house - future)\n       - Purpose: \"hei oranga mōna\" (for his/her wellbeing)\n    \n    5. **Mā** - For, by (future agent)\n       - Future agent: \"mā Hone e mahi\" (John will do it)\n       - Beneficiary (A-category): \"mā te tamaiti\" (for the child)\n    \n    6. **Mō** - For, about (purpose, beneficiary)\n       - Purpose: \"mō āpōpō\" (for tomorrow)\n       - Beneficiary (O-category): \"mō te whānau\" (for the family)\n       - About: \"mō te kaupapa\" (about the topic)\n    \n    7. **Nā** - By, belonging to (past agent)\n       - Past agent: \"nā Mere i mahi\" (Mary did it)\n       - Possessor (A-category): \"nā te tamaiti\" (belonging to the child)\n    \n    8. **Nō** - From, belonging to (origin)\n       - Origin: \"nō Rotorua ia\" (he/she is from Rotorua)\n       - Possessor (O-category): \"nō te whānau\" (belonging to the family)\n    \n    9. **E** - By (agent in passive)\n       - Agent in passive sentences: \"Kua patua te kurī e te tangata\" (The dog was hit by the person)\n    \n    10. **Ko** - Focus/topic marker\n        - Identification: \"Ko Mere tōku ingoa\" (My name is Mary)\n        - Topic: \"Ko te whare, he nui\" (As for the house, it is big)\n    \n    Prepositions in te reo Māori are more complex than in English as they often carry additional \n    grammatical information. The correct use of prepositions is essential for expressing spatial, \n    temporal, and logical relationships in te reo Māori sentences.\n  ",
+    "examples": [
+      {
+        "maori": "Kei te haere au ki te tāone.",
+        "english": "I am going to town.",
+        "explanation": "The preposition \"ki\" indicates direction towards town."
+      },
+      {
+        "maori": "I haere ia i tōna kāinga.",
+        "english": "He/she went from his/her home.",
+        "explanation": "The preposition \"i\" indicates the source or starting point of movement."
+      },
+      {
+        "maori": "Kei a Hemi te mōhiotanga mō tēnā.",
+        "english": "James has the knowledge about that.",
+        "explanation": "The preposition \"mō\" indicates the topic of knowledge."
+      },
+      {
+        "maori": "Nā te kaiako i hoatu ngā pukapuka ki ngā ākonga.",
+        "english": "The teacher gave the books to the students.",
+        "explanation": "The preposition \"nā\" marks the agent (teacher), \"i\" is part of the verbal construction, and \"ki\" marks the recipients (students)."
+      },
+      {
+        "maori": "He koha tēnei mā tō whaea.",
+        "english": "This is a gift for your mother.",
+        "explanation": "The preposition \"mā\" indicates the beneficiary of the gift."
+      }
+    ],
+    "relatedTerms": [
+      "pumau",
+      "adverbial-directional",
+      "kianga-tuingoa"
+    ]
+  },
+  {
+    "id": "putohu",
+    "term": "Articles",
+    "maoriTerm": "Pūtohu",
+    "shortDefinition": "Particles which introduce a noun, such as te, ngā, he and a.",
+    "hierarchyLevel": 4,
+    "validated": true,
+    "examples": [],
+    "longDefinition": "These are particles which introduce a noun, such as te, ngā, he and a. There are several categories of article in te reo Māori.\n  \n  ### Pū Tautuhi - Definite Article\n  \n  The definite articles in te reo Māori are 'te' and 'ngā' which often specify that we're talking about a specific instance of the noun, as well as providing context on whether it is takitahi (singular) or takitini (plural).\n  \n  - te ngeru (the cat)\n  \n  - ngā ngeru (the cats)\n  \n  While te/ngā are used for singular/plural, te can also be used to introduce a generic phrase which refers to the entire class of things it precedes, as in:\n  \n  - Tekau heneti te utu mō te tamariki (The price for children is ten cents).\n  \n  ### Pūnoa - Indefinite Article\n  \n  The indefinite article in te reo Māori is 'he' which doesn't specify any particular instance of the noun or provide any context about whether it is singular or plural.\n  \n  - he ngeru (a cat, cats)\n  \n  ### Pūmoko - Proper Article\n  \n  The proper article in te reo Māori is 'a' and indicates the word which follows it is a [[ref|tūmoko|tumoko]] (proper noun).\n  \n  - a Mere\n  \n  - a Josh",
+    "parentTerm": "pumau",
+    "breadcrumbPath": [
+      "punga",
+      "puingoa",
+      "pumau"
+    ]
+  },
+  {
+    "id": "puriro",
+    "validated": true,
+    "term": "Possessive Particles",
+    "maoriTerm": "Pūriro",
+    "shortDefinition": "Particles that indicate possession or ownership relationships.",
+    "categoryInfo": "Part of the Particles (Punga) series",
+    "longDefinition": "The possessive particles are tā, tō, ā, ō. These are used to specify the A/O category of the relationship between two things, as well as whether the possessum (the thing which is possessed) is singular or plural.",
+    "examples": [
+      {
+        "maori": "Ko tēnei te pukapuka ā Hemi.",
+        "english": "This is James' book.",
+        "explanation": "The possessive particle \"ā\" indicates A-category possession of the book by James (an acquired item)."
+      },
+      {
+        "maori": "Kei hea tō whaea?",
+        "english": "Where is your mother?",
+        "explanation": "The possessive particle \"tō\" combines with the pronoun \"you\" to form \"your\" in relation to mother (an O-category relationship)."
+      },
+      {
+        "maori": "He nui tō rātou whare.",
+        "english": "Their house is big.",
+        "explanation": "The possessive particle \"tō\" indicates O-category possession (a house being in the O-category) with \"rātou\" (they/them) as the possessors."
+      },
+      {
+        "maori": "Kua ngaro aku kī.",
+        "english": "My keys are lost.",
+        "explanation": "The possessive particle and pronoun combine to form \"aku\" (my, plural possessum, A-category) in relation to keys (an acquired item)."
+      }
+    ],
+    "relatedTerms": [
+      "tukapi-riro",
+      "whenua-a-o"
+    ]
+  },
+  {
+    "id": "ai",
+    "term": "ai",
+    "maoriTerm": "ai",
+    "shortDefinition": "The verbal particle \"ai\" has a range of uses.",
+    "parentTerm": "pumahi",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "punga",
+      "pumahi"
+    ],
+    "categoryInfo": "Part of the Verbal Particles (Pūmahi) series",
+    "longDefinition": "\n    Pūmahi TAM (Tense-Aspect-Mood particles) are a critical subcategory of verbal particles in te reo \n    Māori that specify when an action occurs (tense), how it unfolds over time (aspect), and the \n    speaker's attitude toward the action (mood). These particles often work in conjunction with the \n    versatile particle \"ai,\" which serves multiple grammatical functions.\n    \n    The main TAM particles include:\n    \n    1. **I** - Past Tense\n       - Indicates actions that occurred in the past and are now complete\n       - Example: \"I haere au\" - \"I went\"\n       - Used to establish past time reference at the beginning of a narrative\n    \n    2. **I te** - Past Continuous\n       - Indicates actions that were ongoing in the past\n       - Example: \"I te kai au\" - \"I was eating\"\n       - Focuses on the process rather than completion\n    \n    3. **Kei te** - Present Continuous\n       - Indicates actions happening at the present moment\n       - Example: \"Kei te mahi au\" - \"I am working\"\n       - Often ambiguous with the locative construction \"kei te + noun\"\n    \n    4. **E...ana** - General Continuous\n       - Indicates ongoing actions without specific time reference\n       - Example: \"E mahi ana au\" - \"I am/was working\"\n       - More general than \"kei te\" or \"i te\"\n    \n    5. **Kua** - Perfect Aspect\n       - Indicates completed actions with current relevance\n       - Example: \"Kua tae mai ia\" - \"He/she has arrived\"\n       - Emphasizes the resulting state rather than the action itself\n    \n    6. **Ka** - Inceptive/Narrative\n       - Introduces new actions in a sequence\n       - Often indicates future in isolation, but follows established time references\n       - Example: \"Ka haere au\" - \"I will go/I go\"\n       - Used for habitual actions or general truths\n    \n    7. **E** (+ future marker)\n       - Future tense\n       - Example: \"E haere au āpōpō\" - \"I will go tomorrow\"\n       - Often used in subordinate clauses\n    \n    The particle \"ai\" often works alongside TAM particles and serves several functions:\n    \n    1. **Anaphoric ai** - Refers back to a previously mentioned reason, time, or place\n       - Example: \"I haere au ki te tāone i te Rātapu. I hoko ai au i te kākahu.\" \n         (\"I went to town on Sunday. (That's when/where) I bought the clothes.\")\n    \n    2. **Habitual ai** - Indicates regularly occurring actions\n       - Example: \"Ka haere au ki te kura ia rā, ka ako ai i te reo Māori.\"\n         (\"I go to school every day, (and there) I learn te reo Māori.\")\n    \n    3. **Resultative ai** - Indicates an action that results from another\n       - Example: \"I whiti te rā, ka mahana ai te whenua.\"\n         (\"The sun shone, (as a result) the land became warm.\")\n    \n    4. **Locative ai** - Indicates the place where an action occurs\n       - Example: \"Ko te whare tēnei i noho ai mātou.\"\n         (\"This is the house (where) we lived.\")\n    \n    The interplay between TAM particles and \"ai\" creates a sophisticated system for expressing \n    temporal and logical relationships in te reo Māori, allowing speakers to precisely communicate \n    when and how actions occur and their relationships to other actions or states.\n  ",
+    "examples": [
+      {
+        "maori": "I ako au i te reo Māori i te kura. I reira i tūtaki ai au ki tōku hoa.",
+        "english": "I learned te reo Māori at school. That's where I met my friend.",
+        "explanation": "The \"ai\" in the second sentence refers back to \"te kura\" (the school) mentioned in the first sentence."
+      },
+      {
+        "maori": "Ko te whare tēnei i noho ai mātou i tērā tau.",
+        "english": "This is the house where we lived last year.",
+        "explanation": "The \"ai\" indicates that \"te whare\" (the house) is the location of the action \"noho\" (live)."
+      },
+      {
+        "maori": "Ka haere au ki te mahi, ka whakareri ai i te kai.",
+        "english": "I go to work, then I prepare food.",
+        "explanation": "The \"ai\" indicates a sequence of habitual actions."
+      },
+      {
+        "maori": "I hinga ia, i whara ai tōna ringaringa.",
+        "english": "He fell, (as a result) his arm was injured.",
+        "explanation": "The \"ai\" indicates that the injury was a result of the fall."
+      },
+      {
+        "maori": "Kua reri te kai, kua taea ai e tātou te kai.",
+        "english": "The food is ready, (therefore) we can eat.",
+        "explanation": "The \"ai\" indicates that being able to eat is a result of the food being ready."
+      }
+    ],
+    "relatedTerms": [
+      "tumahi",
+      "kianga-tumahi"
+    ]
+  },
+  {
+    "id": "a-o-categories",
+    "term": "A/O Categories",
+    "maoriTerm": "Karangatanga a/o",
+    "shortDefinition": "A system for classifying relationships between possessor and possessed in te reo Māori.",
+    "validated": true,
+    "elements": [
+      {
+        "type": "text",
+        "content": "The A/O categories (karangatanga a/o) represent a fundamental concept in te reo Māori that determines which possessive particles and possessive pronouns to use when describing relationships between things. This system is based on the nature of the relationship rather than the inherent properties of the objects themselves.\n\nWhen expressing possession in te reo Māori, we must choose between:\n\n* A-category possessives: ā, tā, mā, nā\n* O-category possessives: ō, tō, mō, nō\n\nThe key principle behind this choice is not simply ownership but relates to:\n\n* Control, dominance, and independence\n* Direction of responsibility, obligation, and support\n* Whether the possessor shelters, protects, guides, or leads the possessed\n\nIt's crucial to understand that the A/O distinction describes the relationship between things, not inherent properties of the objects themselves. The same object might belong to different categories depending on the relationship being described.\n\n**Te karangatanga 'o' (O-category) generally includes:**\n\n* The land, landmarks, mountains, rivers, and homes\n* Types of shelter and sources of life\n* One's whakapapa, ancestry, and lineage\n* Those who care for you (parents, teachers, leaders)\n* People in the same generation or above\n* All types of friends (using the word \"hoa\")\n* Clothing, accessories, and adornments\n* Body parts, including mind and figurative heart\n* Thoughts, memories, knowledge\n* Feelings and emotions\n* Inherent qualities\n\n**Te karangatanga 'a' (A-category) generally includes:**\n\n* Those with less authority or lower in hierarchy than you\n* Romantic partners (except when using \"hoa\")\n* Animals (except horses used as transport), birds, fish\n* Trees and plants\n* Food and drink (except fresh water and medicine)\n* Actions, activities, jobs, and work\n* Tools, equipment, and human-made items\n\nContext is key in determining the appropriate category. For example, a house might be in the O-category when describing it as shelter for yourself, but in the A-category when referring to it as something you built for someone else."
+      },
+      {
+        "type": "example",
+        "maori": "Tōku whare",
+        "english": "My house",
+        "explanation": "Houses are typically in the O-category as they shelter and protect us (tō/ō pattern)."
+      },
+      {
+        "type": "example",
+        "maori": "Tāku kurī",
+        "english": "My dog",
+        "explanation": "Animals are typically in the A-category (tā/ā pattern)."
+      },
+      {
+        "type": "example",
+        "maori": "Ō mātou mātua",
+        "english": "Our parents",
+        "explanation": "Parents are in the O-category as they care for, shelter, and guide children (tō/ō pattern)."
+      },
+      {
+        "type": "example",
+        "maori": "Ā rātou tamariki",
+        "english": "Their children",
+        "explanation": "Children are in the A-category in relation to their parents, who have authority over them (tā/ā pattern)."
+      },
+      {
+        "type": "example",
+        "maori": "Te tuhinga a Hēmi i tana reta",
+        "english": "James's writing of his letter",
+        "explanation": "Actions from transitive verbs in active voice use the A-category."
+      }
+    ],
+    "relatedTerms": [
+      "tukapi-riro",
+      "puriro",
+      "kianga-tuingoa"
+    ]
+  },
+  {
+    "id": "kianga",
+    "term": "Phrases",
+    "maoriTerm": "Kīanga",
+    "shortDefinition": "A group of related words that function as a unit within a sentence in te reo Māori.",
+    "parentTerm": "sentence-structure",
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "sentence-structure"
+    ],
+    "categoryInfo": "Part of the Sentence Structure (Hanganga Rerenga) series",
+    "isParent": true,
+    "childTerms": [
+      "kianga-tumahi",
+      "kianga-tuingoa",
+      "kianga-puhono",
+      "kianga-tuke",
+      "kianga-tuahua"
+    ],
+    "categoryTitle": "Types of Phrases",
+    "longDefinition": "\n    Kīanga (phrases) are groups of related words that function together as a unit within a sentence \n    in te reo Māori. They are a level of language structure between individual words and clauses.\n    \n    Each phrase in te reo Māori typically has a three-part structure:\n    \n    1. **Preposed periphery** - Particles that come before the nucleus\n    2. **Nucleus** - The core part containing base words (tumu)\n    3. **Postposed periphery** - Particles that come after the nucleus\n    \n    For example, in the phrase \"ki runga ake\" (upwards):\n    - \"ki\" is the preposed periphery\n    - \"runga\" is the nucleus\n    - \"ake\" is the postposed periphery\n    \n    There are three main types of phrases in te reo Māori:\n    \n    1. **Kīanga Tūmahi (Verb Phrases)**\n       - Begin with verbal particles (pūmahi) or function as commands\n       - Typically form the predicate of a sentence\n       - Example: \"Kei te kai\" (is eating)\n    \n    2. **Kīanga Tūingoa (Noun Phrases)**\n       - Contain nouns or pronouns as the base\n       - Begin with determiners (pūmau)\n       - Often function as the subject of a clause\n       - Example: \"te whare nui\" (the big house)\n    \n    3. **Kīanga Pūhono (Prepositional Phrases)**\n       - Begin with prepositions (pūhono)\n       - Often function as comments providing additional information\n       - Include several subtypes:\n         - Kīanga Whakatairite (Comparative Phrases)\n         - Kīanga Tūāhua (Adjective Phrases)\n         - Kīanga Tūkē (Adverbial Phrases)\n         - Kīanga Whakamārama (Explanatory Phrases)\n         - Kīanga Hono (Conjunctive Phrases)\n       - Example: \"ki te kura\" (to the school)\n    \n    Understanding phrases and their functions is crucial for constructing grammatically \n    correct and natural-sounding sentences in te reo Māori.\n  ",
+    "examples": [
+      {
+        "maori": "Kei te haere te tangata ki te whare.",
+        "english": "The person is going to the house.",
+        "explanation": "This sentence contains three phrases: \"Kei te haere\" (verb phrase), \"te tangata\" (noun phrase), and \"ki te whare\" (prepositional phrase)."
+      },
+      {
+        "maori": "Kei runga i te tēpu te pukapuka.",
+        "english": "The book is on the table.",
+        "explanation": "The sentence contains the prepositional phrase \"Kei runga i te tēpu\" where \"kei\" and \"i\" are prepositions, \"runga\" is a locative noun, and \"te tēpu\" is a noun phrase."
+      },
+      {
+        "maori": "He whare pai rawa atu.",
+        "english": "A very good house.",
+        "explanation": "This is a noun phrase where \"he\" is the determiner, \"whare\" is the nucleus (noun), and \"pai rawa atu\" is a modifying adjective phrase."
+      },
+      {
+        "maori": "E tū ana i waenganui i te marae.",
+        "english": "Standing in the middle of the marae.",
+        "explanation": "The verb phrase \"E tū ana\" combines with the prepositional phrase \"i waenganui i te marae\" to create a more complex structure."
+      }
+    ],
+    "relatedTerms": [
+      "kianga-tumahi",
+      "kianga-tuingoa",
+      "kianga-puhono",
+      "aho",
+      "tumu",
+      "punga"
+    ]
+  },
+  {
+    "id": "rerenga",
+    "term": "Sentences",
+    "maoriTerm": "Rerenga",
+    "shortDefinition": "Complete grammatical units of speech or writing in te reo Māori, typically containing a predicate and a subject.",
+    "parentTerm": "sentence-structure",
+    "hierarchyLevel": 2,
+    "breadcrumbPath": [
+      "sentence-structure"
+    ],
+    "categoryInfo": "Part of the Sentence Structure (Hanganga Rerenga) series",
+    "isParent": true,
+    "childTerms": [
+      "reremama",
+      "rerepuhui",
+      "reremahi",
+      "rerehaoho",
+      "rerehanga",
+      "rerepatai",
+      "rerewhakahau",
+      "verbal-sentence",
+      "nominal-sentence"
+    ],
+    "categoryTitle": "Types of Sentences",
+    "longDefinition": "\n    Rerenga (sentences) are complete units of speech or writing in te reo Māori that express a coherent thought. They typically consist of at least one clause (aho) that contains a predicate and a subject, though some types of sentences may omit one of these elements.\n    \n    Te reo Māori sentences follow a Verb-Subject-Object (VSO) word order, in contrast to English \n    which follows a Subject-Verb-Object (SVO) pattern. For example, where English says \"Mary ate \n    the apple,\" te reo Māori says \"I kai a Mere i te āporo\" (literally \"Ate Mary the apple\").\n    \n    There are several important types of sentences in te reo Māori:\n    \n    1. **Reremāmā (Simple Sentences)**\n       - Contain a single clause\n       - Example: \"Ka kai au i te hamupeka\" (I will eat the hamburger)\n    \n    2. **Rerepūhui (Compound/Complex Sentences)**\n       - Contain two or more clauses\n       - Example: \"Kia oti te mahi, ka hoki tātou\" (When the work is done, we will go home)\n    \n    3. **Reremahi (Verbal Sentences)**\n       - Contain verbs and typically express actions\n       - Example: \"Kei te tuhi ia\" (He/she is writing)\n    \n    4. **Rerehāoho (Active Sentences)**\n       - Focus on the agent performing the action\n       - Example: \"E kai ana au i te hamupeka\" (I am eating a hamburger)\n    \n    5. **Rerehāngū (Passive Sentences)**\n       - Focus on the patient receiving the action\n       - Example: \"Ka kainga te hamupeka e au\" (The hamburger will be eaten by me)\n    \n    6. **Rerepātai (Interrogative Sentences)**\n       - Ask questions\n       - Example: \"Kei hea te pukapuka?\" (Where is the book?)\n    \n    7. **Rerewhakahau (Command Sentences)**\n       - Give directions or instructions\n       - Example: \"Haere ki te whare\" (Go to the house)\n    \n    Te reo Māori also has several important sentence structures not directly equivalent to English:\n    \n    - **'Ko' Sentences** - Express identity: \"Ko Hemi ahau\" (I am James)\n    - **'He' Sentences** - Express classification: \"He nēhi ia\" (She is a nurse)\n    - **'Kei' Sentences** - Express location: \"Kei te kura ia\" (She is at school)\n    - **Possessive Sentences** - Express ownership: \"Nō Mere te pukapuka\" (The book belongs to Mary)\n    \n    Understanding these different sentence types and structures is essential for effective \n    communication in te reo Māori.\n  ",
+    "examples": [
+      {
+        "maori": "Kei te kai a Mere i te āporo.",
+        "english": "Mary is eating the apple.",
+        "explanation": "A verbal sentence (reremahi) in the active voice following the Verb-Subject-Object order: \"kei te kai\" (is eating) + \"a Mere\" (Mary) + \"i te āporo\" (the apple)."
+      },
+      {
+        "maori": "I kainga te āporo e Mere.",
+        "english": "The apple was eaten by Mary.",
+        "explanation": "A passive sentence (rerehāngū) where focus shifts to the patient (\"te āporo\") with the agent marked by \"e\"."
+      },
+      {
+        "maori": "Ko wai tō ingoa?",
+        "english": "What is your name?",
+        "explanation": "An interrogative sentence (rerepātai) using the \"ko\" structure with the question word \"wai\" (who)."
+      },
+      {
+        "maori": "He kaiako a Hone, he tauira a Mere.",
+        "english": "John is a teacher, Mary is a student.",
+        "explanation": "A compound sentence (rerepūhui) containing two \"he\" classification sentences joined together."
+      },
+      {
+        "maori": "Haere ki te moe!",
+        "english": "Go to sleep!",
+        "explanation": "A command sentence (rerewhakahau) giving an instruction."
+      }
+    ],
+    "relatedTerms": [
+      "aho",
+      "kianga",
+      "rerehaoho",
+      "rerehanga",
+      "rerepātai",
+      "rerewhakahau"
+    ]
+  },
+  {
+    "id": "demonstrative-determiners",
+    "term": "Demonstrative Determiners",
+    "maoriTerm": "",
+    "shortDefinition": "Demonstrative determiners communicate location or position relative to the speaker and listener",
+    "validated": true,
+    "elements": [
+      {
+        "type": "text",
+        "content": "Demonstrative [[ref|determiners|pumau]] play a vital role in indicating location or position relative to the speaker and listener, helping to specify which object or entity is being referred to in discourse.\n\n## Position Definitives\n\n| Singular | Plural | Meaning |\n| --- | --- | --- |\n| tēnei | ēnei | this/these (near the speaker) |\n| tēnā | ēnā | that/those (near the listener) |\n| tērā | ērā | that/those (distant from both) |\n\nThese position definitives specify the location of objects relative to the conversation participants.\n\n### Structure of Position Definitives\n\nPosition definitives are composed of two elements:\n\n1. **[[ref|Pū tautuhi|putohu]]** (definite article): \"te\"\n\n2. **[[ref|Pūhea|puhea]]** (positional particle): \"nei\"/\"nā\"/\"rā\"\n\nThese components can be used together as a single word (tēnei, tēnā, tērā) or separated to surround a noun:\n\n* te [noun] nei (singular, near speaker)\n\n* te [noun] nā (singular, near listener)\n\n* te [noun] rā (singular, distant)\n\n* ngā [noun] nei (plural, near speaker)\n\n* ngā [noun] nā (plural, near listener)\n\n* ngā [noun] rā (plural, distant)\n\nExample of both forms used in a sentence: *Ka mihi atu ki a koutou katoa, e tautoko ana i te kaupapa nei, i tēnei pō.* \"Greetings to all of you who are supporting this purpose/initiative, on this night.\"\n\n## **Reference Definitives**\n\n**[T]aua** is a special demonstrative that refers to something already established in context. Unlike other demonstratives, it must be paired with a noun to function properly:\n\n* taua āporo (that apple I mentioned earlier)\n\n* aua pene (those pens we were talking about)\n\nIt serves as an &lt;a target=\"*blank\" rel=\"noopener noreferrer nofollow\" class=\"editor-link\" href=\"https://en.wikipedia.org/wiki/Anaphora*(linguistics)\"&gt;anaphoric &lt;/a&gt;reference to previously mentioned topics.\n\n## Specifying Definitives\n\n**[T]ētahi** functions as an indefinite determiner meaning \"a,\" \"some,\" or \"certain ones.\" It can introduce a previously unmentioned entity or refer to a subset of a larger group:\n\n*I rongo rātau i tētahi iwi e kōrerorero ana i roto o te kohu o te maunga.* \"They heard some people talking from within the mist on the mountain.\""
+      }
+    ],
+    "relatedTerms": []
+  },
+  {
+    "id": "aho",
+    "term": "Clauses",
+    "maoriTerm": "Aho",
+    "shortDefinition": "Units within sentences that contain a predicate and typically a subject, forming the basic building blocks of sentences.",
+    "categoryInfo": "Part of the Sentence Structure (Hanganga Rerenga) series",
+    "longDefinition": "Clauses are made up of a predicate phrase, a subject phrase and any comment phrases. However, a sentence can be made up of multiple clauses. The [[ref|aho motuhake|aho-motuhake]] (main clause) contains the principal statement of the sentence. The [[ref|aho whakawhirinaki|aho-whakawhirinaki]] (subordinate clause/dependent clause) is any other clause in the sentence that supports or expands on the aho motuhake (main clause).\n\nIn the sentence \"Kei te pirangi a Mere kia mutu te patu i ngā wēra\" (Mere wants the killing of whales to stop) the main clause is \"Kei te pirangi a Mere\" and the subordinate clause is \"kia mutu te patu i ngā wēra\". The sentence is primarily about the fact that Mere wants something and the additional clause expands on what that is.",
+    "examples": [
+      {
+        "maori": "Kei te kai a Mere.",
+        "english": "Mary is eating.",
+        "explanation": "A simple, single clause containing a predicate [Kei te kai] and a subject [a Mere]."
+      },
+      {
+        "maori": "Ka mahi ia kia whiwhi moni ia.",
+        "english": "She works so that she can earn money.",
+        "explanation": "Contains two clauses: a main clause [Ka mahi ia] and a subordinate purpose clause [kia whiwhi moni ia]."
+      },
+      {
+        "maori": "I te haere au ki te tāone, i kite au i tōku hoa.",
+        "english": "When I was going to town, I saw my friend.",
+        "explanation": "Contains a subordinate time clause [I te haere au ki te tāone] and a main clause [i kite au i tōku hoa]."
+      },
+      {
+        "maori": "Te tangata e tū mai rā, ko tōku matua kēkē.",
+        "english": "The man who is standing there is my uncle.",
+        "explanation": "Contains a relative clause [e tū mai rā] that modifies \"te tangata\" (the man)."
+      }
+    ],
+    "relatedTerms": [
+      "kianga",
+      "rerenga",
+      "sentence-components"
+    ]
+  },
+  {
+    "id": "aho-motuhake",
+    "term": "Main Clauses",
+    "maoriTerm": "Aho Motuhake",
+    "shortDefinition": "Independent clauses that can stand alone as complete sentences and express the principal statement.",
+    "parentTerm": "aho",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "aho"
+    ],
+    "categoryInfo": "Part of the Clauses (Aho) series",
+    "longDefinition": "\n    Aho Motuhake (main clauses) are independent clauses in te reo Māori that can stand alone \n    as complete sentences. They express the principal statement or idea and do not depend on \n    other clauses to make sense.\n    \n    ## Characteristics of Main Clauses\n    \n    1. **Grammatical Completeness**\n       - Contains a complete predicate and typically a subject\n       - Forms a complete thought on its own\n       - Can function as a sentence by itself\n    \n    2. **Central Importance**\n       - Carries the primary meaning in a sentence\n       - When combined with subordinate clauses, the main clause expresses the main point\n    \n    3. **Unmarked Structure**\n       - Not introduced by subordinating particles or conjunctions\n       - Often contains tense/aspect markers like \"ka,\" \"kei te,\" \"i,\" or \"kua\"\n    \n    ## Function in Sentences\n    \n    Main clauses can appear in several contexts:\n    \n    1. **As Simple Sentences**\n       - A single main clause forming a complete sentence\n       - Example: \"Kei te kai a Hemi\" (James is eating)\n    \n    2. **In Compound Sentences**\n       - Two or more main clauses joined by coordinating conjunctions\n       - Example: \"Ka haere au ki te kura, ka hoki mai au ki te kāinga\" \n         (I will go to school, then I will return home)\n    \n    3. **With Subordinate Clauses**\n       - Main clause combined with one or more subordinate clauses\n       - Example: \"Ka haere tātou ki te tāone āpōpō, mēnā kāore e ua\" \n         (We will go to town tomorrow, if it doesn't rain)\n       - Here, \"Ka haere tātou ki te tāone āpōpō\" is the main clause\n    \n    Understanding main clauses is essential for recognizing the core message in complex \n    sentences and for constructing clear, effective communication in te reo Māori.\n  ",
+    "examples": [
+      {
+        "maori": "Kei te kai a Mere i te āporo.",
+        "english": "Mary is eating the apple.",
+        "explanation": "A complete main clause with predicate [Kei te kai], subject [a Mere], and direct object [i te āporo]."
+      },
+      {
+        "maori": "Ka haere tātou ki te kura āpōpō.",
+        "english": "We will go to school tomorrow.",
+        "explanation": "A main clause with the future tense marker \"ka\" forming a complete sentence."
+      },
+      {
+        "maori": "Kei te haere au ki te toa, ā, kei te tatari a Hone i te kāinga.",
+        "english": "I am going to the store, and John is waiting at home.",
+        "explanation": "Two main clauses joined by \"ā\" (and) to form a compound sentence."
+      },
+      {
+        "maori": "Ahakoa he ua kei waho, kei te mahi tonu au.",
+        "english": "Although it is raining outside, I am still working.",
+        "explanation": "The main clause [kei te mahi tonu au] carries the primary message, while the concessive clause provides context."
+      }
+    ],
+    "relatedTerms": [
+      "aho",
+      "aho-whakawhirinaki",
+      "rerenga"
+    ]
+  },
+  {
+    "id": "aho-whakawhirinaki",
+    "term": "Subordinate Clauses",
+    "maoriTerm": "Aho Whakawhirinaki",
+    "shortDefinition": "Dependent clauses that support or expand on the main clause and cannot stand alone as complete sentences.",
+    "parentTerm": "aho",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "aho"
+    ],
+    "categoryInfo": "Part of the Clauses (Aho) series",
+    "isParent": true,
+    "childTerms": [
+      "aho-tuingoa",
+      "aho-tuke",
+      "aho-whakamahuki"
+    ],
+    "categoryTitle": "Types of Subordinate Clauses",
+    "longDefinition": "\n    Aho Whakawhirinaki (subordinate clauses), also called dependent clauses, are clauses in te reo \n    Māori that cannot stand alone as complete sentences. They depend on the main clause (aho motuhake) \n    and serve to support or expand on it, providing additional information or context.\n    There are a number of different types of subordinate clause including:\n\n* [[ref|Aho Tūingoa|aho-tuingoa]]\n* [[ref|Aho Tūkē|aho-tuke]]\n* [[ref|Aho Whakamahuki|aho-whakamahuki]]\n    \n    ## Characteristics of Subordinate Clauses\n    \n    1. **Grammatical Dependence**\n       - Cannot stand alone as a complete sentence\n       - Relies on the main clause to make complete sense\n       - Often begins with a subordinating conjunction or particle\n    \n    2. **Supporting Role**\n       - Provides additional information about the main clause\n       - Expands, clarifies, or contextualizes the primary statement\n    \n    3. **Marked Structure**\n       - Often introduced by specific particles or conjunctions\n       - May use special verb forms or constructions\n    \n    ## Types of Subordinate Clauses\n    \n    Te reo Māori has several types of subordinate clauses, each serving a different function:\n    \n    1. **Aho Tūingoa (Nominal Clauses)**\n       - Function as nouns (subjects or objects) within the sentence\n       - Often introduced by \"kia,\" \"ki te,\" \"kei te,\" \"i te\"\n       - Example: \"E hiahia ana au **kia haere koe ki reira**\" \n         (I want **you to go there**)\n       - Here, \"kia haere koe ki reira\" functions as the object of \"hiahia\" (want)\n    \n    2. **Aho Tūkē (Adverbial Clauses)**\n       - Add information about time, place, manner, reason, purpose, condition, etc.\n       - Often introduced by particles like \"mēnā,\" \"ahakoa,\" \"ina,\" \"kia\"\n       - Example: \"Ka haere tātou **mēnā kāore e ua**\" \n         (We will go **if it doesn't rain**)\n       - Here, \"mēnā kāore e ua\" is a conditional adverbial clause\n    \n    3. **Aho Whakamahuki (Relative Clauses)**\n       - Modify nouns by providing additional information about them\n       - Often use \"e...ana,\" \"i,\" \"kua,\" \"ka,\" with relative markers\n       - Example: \"Te tangata **e tū mai rā**\" \n         (The person **who is standing there**)\n       - Here, \"e tū mai rā\" modifies \"te tangata\" (the person)\n    \n    Subordinate clauses are essential for creating complex, nuanced expressions in te reo Māori, \n    allowing speakers to express relationships between ideas and provide detailed information in \n    a structured way.\n  ",
+    "examples": [
+      {
+        "maori": "Ka haere tātou ki te tāone, mēnā ka mutu āku mahi.",
+        "english": "We will go to town, if my work finishes.",
+        "explanation": "Contains the subordinate conditional clause [mēnā ka mutu āku mahi] which depends on the main clause [Ka haere tātou ki te tāone]."
+      },
+      {
+        "maori": "E hiahia ana au kia kite koe i te kaiako.",
+        "english": "I want you to see the teacher.",
+        "explanation": "Contains the subordinate nominal clause [kia kite koe i te kaiako] functioning as the object of \"hiahia\" (want)."
+      },
+      {
+        "maori": "I haere mātou ki te hui tino nui, i tū ki Rotorua inanahi.",
+        "english": "We went to the very big meeting, which was held in Rotorua yesterday.",
+        "explanation": "Contains the subordinate relative clause [i tū ki Rotorua inanahi] which provides additional information about \"te hui tino nui\"."
+      },
+      {
+        "maori": "Ka haere au ki te toa, kia hoko mai i ētahi kai.",
+        "english": "I will go to the store, to buy some food.",
+        "explanation": "Contains the subordinate purpose clause [kia hoko mai i ētahi kai] explaining why the speaker is going to the store."
+      }
+    ],
+    "relatedTerms": [
+      "aho",
+      "aho-motuhake",
+      "aho-tuingoa",
+      "aho-tuke",
+      "aho-whakamahuki"
+    ]
+  },
+  {
+    "id": "aho-tuingoa",
+    "term": "Nominal Clauses",
+    "maoriTerm": "Aho Tūingoa",
+    "shortDefinition": "Subordinate clauses that function as nouns, serving as subjects or objects within sentences.",
+    "parentTerm": "aho-whakawhirinaki",
+    "hierarchyLevel": 4,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "aho",
+      "aho-whakawhirinaki"
+    ],
+    "categoryInfo": "Part of the Subordinate Clauses (Aho Whakawhirinaki) series",
+    "longDefinition": "\n    Aho Tūingoa (nominal clauses), also called complement clauses, are a type of subordinate clause \n    in te reo Māori that function as nouns within a sentence. They can serve as the subject or object \n    of a verb, just as a noun or noun phrase would.\n    \n    ## Characteristics of Nominal Clauses\n    \n    1. **Noun-like Function**\n       - Acts as a subject or object in the sentence\n       - Represents an entire idea or proposition as a single unit\n       - Can often be replaced conceptually with a noun or pronoun\n    \n    2. **Introduction Markers**\n       - Often introduced by particles like \"kia,\" \"ki te,\" \"kei te,\" \"i te,\" \"me\"\n       - The specific marker depends on the context and the main verb\n    \n    3. **Clause Structure**\n       - Contains its own internal structure with a predicate and usually a subject\n       - Forms a complete thought that serves as a noun element\n    \n    ## Types of Nominal Clauses\n    \n    1. **Subject Clauses**\n       - Function as the subject of the main verb\n       - Example: \"**E tika ana** kia tū ia ki te kōrero\" \n         (**It is right** that he/she should stand to speak)\n       - Here, \"kia tū ia ki te kōrero\" is the subject of \"e tika ana\"\n    \n    2. **Object Clauses**\n       - Function as the object of the main verb\n       - Example: \"Kei te pirangi au **kia haere koe ki te kura**\" \n         (I want **you to go to school**)\n       - Here, \"kia haere koe ki te kura\" is the object of \"pirangi\" (want)\n    \n    3. **Complement Clauses**\n       - Complete the meaning of certain verbs, adjectives, or nouns\n       - Example: \"Ko taku hiahia **kia pai tō noho**\" \n         (My wish is **that your stay be good**)\n       - Here, \"kia pai tō noho\" completes the meaning of \"hiahia\" (wish)\n    \n    Nominal clauses are essential for expressing complex ideas where entire situations or actions \n    need to be treated as single units within a sentence. They allow for the embedding of one \n    statement within another, creating more sophisticated expressions.\n  ",
+    "examples": [
+      {
+        "maori": "E tika ana kia tū ia ki te kōrero.",
+        "english": "It is right that he/she should stand to speak.",
+        "explanation": "The nominal clause [kia tū ia ki te kōrero] functions as the subject of the verb phrase [e tika ana]."
+      },
+      {
+        "maori": "Kei te pirangi a Mere kia mutu te patu i ngā wēra.",
+        "english": "Mary wants the killing of whales to stop.",
+        "explanation": "The nominal clause [kia mutu te patu i ngā wēra] functions as the object of the verb [pirangi] (want)."
+      },
+      {
+        "maori": "Ko taku whakapono he pai ake te reo Māori i te reo Pākehā.",
+        "english": "My belief is that Māori is better than English.",
+        "explanation": "The nominal clause [he pai ake te reo Māori i te reo Pākehā] serves as a complement to [Ko taku whakapono]."
+      },
+      {
+        "maori": "Ka haere tātou me te mōhio kāore e ua āpōpō.",
+        "english": "We will go with the knowledge that it won't rain tomorrow.",
+        "explanation": "The nominal clause [kāore e ua āpōpō] functions as the object of [me te mōhio] (with the knowledge)."
+      }
+    ],
+    "relatedTerms": [
+      "aho-whakawhirinaki",
+      "aho-tuke",
+      "aho-whakamahuki",
+      "kianga-tuingoa"
+    ]
+  },
+  {
+    "id": "aho-tuke",
+    "term": "Adverbial Clauses",
+    "maoriTerm": "Aho Tūkē",
+    "shortDefinition": "Subordinate clauses that function as adverbs, providing information about time, place, manner, reason, purpose, or condition.",
+    "parentTerm": "aho-whakawhirinaki",
+    "hierarchyLevel": 4,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "aho",
+      "aho-whakawhirinaki"
+    ],
+    "categoryInfo": "Part of the Subordinate Clauses (Aho Whakawhirinaki) series",
+    "longDefinition": "\n    Aho Tūkē (adverbial clauses) are a type of subordinate clause in te reo Māori that function \n    as adverbs within a sentence. They provide additional information about the main clause, \n    answering questions like when, where, why, how, under what conditions, or for what purpose \n    an action occurs.\n    \n    ## Characteristics of Adverbial Clauses\n    \n    1. **Adverbial Function**\n       - Modifies the verb or entire clause\n       - Adds circumstantial information to the main statement\n       - Can often be moved to different positions in the sentence\n    \n    2. **Introduction Markers**\n       - Often introduced by subordinating conjunctions or particles\n       - Common markers include \"mēnā\" (if), \"ahakoa\" (although), \"i te mea\" (because),\n         \"kia\" (so that), \"ina\" (when), \"nō te mea\" (because)\n    \n    3. **Relationship to Main Clause**\n       - Establishes a specific logical relationship with the main clause\n       - The type of relationship depends on the introductory particle or context\n    \n    ## Types of Adverbial Clauses\n    \n    1. **Time Clauses**\n       - Indicate when an action occurs\n       - Often use \"ina,\" \"i te wā,\" \"hei te wā,\" \"i mua i\"\n       - Example: \"**Ina mutu te hui**, ka haere tātou\" \n         (**When the meeting ends**, we will go)\n    \n    2. **Place Clauses**\n       - Indicate where an action occurs\n       - Often use \"kei,\" \"i,\" or relative constructions\n       - Example: \"Ka noho tātou **ki reira tū ai te whare**\" \n         (We will stay **where the house stands**)\n    \n    3. **Manner Clauses**\n       - Indicate how an action occurs\n       - Often use \"pēnei,\" \"pērā,\" or other constructions\n       - Example: \"Kōrero **pēnei i tō kuia e kōrero ai**\" \n         (Speak **as your grandmother speaks**)\n    \n    4. **Reason/Cause Clauses**\n       - Indicate why an action occurs\n       - Often use \"nō te mea,\" \"i te mea,\" \"nā te mea\"\n       - Example: \"I noho ia ki te kāinga **i te mea i māuiui ia**\" \n         (He stayed home **because he was sick**)\n    \n    5. **Purpose Clauses**\n       - Indicate the purpose or goal of an action\n       - Often use \"kia,\" \"ki te,\" \"hei\"\n       - Example: \"Ka haere au ki te toa **kia hoko mai i ētahi kai**\" \n         (I will go to the store **to buy some food**)\n    \n    6. **Conditional Clauses**\n       - Indicate under what conditions an action occurs\n       - Often use \"mēnā,\" \"mehemea,\" \"ki te\"\n       - Example: \"**Mēnā ka ua**, kāore mātou e haere\" \n         (**If it rains**, we won't go)\n    \n    7. **Concessive Clauses**\n       - Indicate a contrast or unexpected result\n       - Often use \"ahakoa,\" \"engari\"\n       - Example: \"**Ahakoa te ua**, ka haere tonu au\" \n         (**Despite the rain**, I will still go)\n    \n    Adverbial clauses enrich speech and writing by establishing clear relationships between \n    ideas and providing context for actions, making communication more precise and nuanced.\n  ",
+    "examples": [
+      {
+        "maori": "Ka haere tātou ki te kura mēnā ka pai te rangi.",
+        "english": "We will go to school if the weather is good.",
+        "explanation": "The adverbial conditional clause [mēnā ka pai te rangi] establishes the condition for the main clause action."
+      },
+      {
+        "maori": "I tae mai ia ki te hui i te mea i pīrangi ia ki te āwhina.",
+        "english": "He came to the meeting because he wanted to help.",
+        "explanation": "The adverbial reason clause [i te mea i pīrangi ia ki te āwhina] explains why he came to the meeting."
+      },
+      {
+        "maori": "Kia oti te mahi, ka haere mātou ki te whanga.",
+        "english": "When the work is finished, we will go to the beach.",
+        "explanation": "The adverbial time clause [Kia oti te mahi] indicates when the action in the main clause will occur."
+      },
+      {
+        "maori": "I haere au ki te toa kia hoko i te miraka.",
+        "english": "I went to the store to buy milk.",
+        "explanation": "The adverbial purpose clause [kia hoko i te miraka] explains the purpose of going to the store."
+      },
+      {
+        "maori": "Ahakoa te ua, i haere tonu au ki te mahi.",
+        "english": "Despite the rain, I still went to work.",
+        "explanation": "The adverbial concessive clause [Ahakoa te ua] expresses a contrast to the expected outcome."
+      }
+    ],
+    "relatedTerms": [
+      "aho-whakawhirinaki",
+      "aho-tuingoa",
+      "aho-whakamahuki",
+      "kianga-tuke"
+    ]
+  },
+  {
+    "id": "aho-whakamahuki",
+    "term": "Relative Clauses",
+    "maoriTerm": "Aho Whakamahuki",
+    "shortDefinition": "Subordinate clauses that modify nouns by providing additional information about them.",
+    "parentTerm": "aho-whakawhirinaki",
+    "hierarchyLevel": 4,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "aho",
+      "aho-whakawhirinaki"
+    ],
+    "categoryInfo": "Part of the Subordinate Clauses (Aho Whakawhirinaki) series",
+    "longDefinition": "\n    Aho Whakamahuki (relative clauses) are a type of subordinate clause in te reo Māori that modify \n    nouns by providing additional information about them. They function similarly to adjectives \n    but in clause form, helping to identify or describe the noun they modify.\n    \n    ## Characteristics of Relative Clauses\n    \n    1. **Modifying Function**\n       - Modifies a noun or noun phrase (the antecedent)\n       - Provides additional descriptive information\n       - Helps to identify which specific person, place, or thing is being referred to\n    \n    2. **Structure and Markers**\n       - Forms vary depending on the type of relative clause\n       - Often uses \"e...ana,\" \"i,\" \"kua,\" \"ka\" with relative markers like \"nei,\" \"nā,\" \"rā\"\n       - Can sometimes use relative pronouns like \"tēnei,\" \"tēnā,\" \"tērā\"\n    \n    3. **Position in Sentence**\n       - Usually follows immediately after the noun it modifies\n       - Can be separated by particles in some constructions\n    \n    ## Types of Relative Clauses\n    \n    1. **Active Relative Clauses**\n       - Describe actions performed by the noun\n       - Often use \"e...ana,\" \"i,\" \"kua,\" \"ka\"\n       - Example: \"Te tangata **e tū mai ana**\" \n         (The person **who is standing**)\n    \n    2. **Passive Relative Clauses**\n       - Describe actions performed upon the noun\n       - Often use passive verb forms\n       - Example: \"Te pukapuka **i tuhia e ia**\" \n         (The book **that was written by him/her**)\n    \n    3. **Possessive Relative Clauses**\n       - Describe possession relationships\n       - Often use \"nō,\" \"nā,\" etc.\n       - Example: \"Te wahine **nōna te whare**\" \n         (The woman **whose house it is**)\n    \n    4. **Locative Relative Clauses**\n       - Describe where something happens\n       - Often use \"kei,\" \"i,\" etc.\n       - Example: \"Te kura **kei reira au e ako ana**\" \n         (The school **where I am studying**)\n    \n    Relative clauses are essential for precise communication in te reo Māori, allowing speakers \n    to provide specific details about people, places, and things without creating separate sentences. \n    They help to create more complex, nuanced expressions by embedding descriptive information \n    within the sentence structure.\n  ",
+    "examples": [
+      {
+        "maori": "Te tangata e tū mai rā, ko tōku matua kēkē.",
+        "english": "The man who is standing there is my uncle.",
+        "explanation": "The relative clause [e tū mai rā] modifies \"te tangata\" (the man), helping to identify which specific man is being referred to."
+      },
+      {
+        "maori": "I pānui au i te pukapuka i tuhia e Witi Ihimaera.",
+        "english": "I read the book that was written by Witi Ihimaera.",
+        "explanation": "The passive relative clause [i tuhia e Witi Ihimaera] modifies \"te pukapuka\" (the book)."
+      },
+      {
+        "maori": "Kei te tino pai te kāinga kei reira koe e noho ana.",
+        "english": "The home where you are living is very nice.",
+        "explanation": "The locative relative clause [kei reira koe e noho ana] modifies \"te kāinga\" (the home)."
+      },
+      {
+        "maori": "Te wahine nōna te whare, kei te haere ki tāwāhi.",
+        "english": "The woman whose house it is, is going overseas.",
+        "explanation": "The possessive relative clause [nōna te whare] modifies \"te wahine\" (the woman)."
+      },
+      {
+        "maori": "I tae mai te tamaiti i kite ai au i te papa tākaro.",
+        "english": "The child whom I saw at the playground arrived.",
+        "explanation": "The relative clause [i kite ai au i te papa tākaro] modifies \"te tamaiti\" (the child)."
+      }
+    ],
+    "relatedTerms": [
+      "aho-whakawhirinaki",
+      "aho-tuingoa",
+      "aho-tuke",
+      "kianga-tuingoa"
+    ]
+  },
+  {
+    "id": "predicate-subject-comment",
+    "term": "Predicates, Subjects, and Comments",
+    "maoriTerm": "Kīwaha, Kaiwhakamahi, Kōrero Tāpiri",
+    "shortDefinition": "The three core functional components of clauses in te reo Māori sentences.",
+    "parentTerm": "aho",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "aho"
+    ],
+    "categoryInfo": "Part of the Clauses (Aho) series",
+    "longDefinition": "\n    In te reo Māori, clauses are typically built from three functional components: the predicate, \n    the subject, and optional comments. Understanding these components is essential for analyzing \n    and constructing grammatically correct sentences.\n    \n    ## The Three Components\n    \n    ### 1. **Kīwaha (Predicate)**\n    \n    The predicate makes a statement about the subject of the sentence. It can be:\n    \n    - **Verbal Predicate**: A phrase beginning with a verbal particle\n      Example: \"Ka kai\" (will eat) in \"Ka kai au\" (I will eat)\n    \n    - **Nominal Predicate**: A phrase identifying or classifying the subject\n      Example: \"He kaiako\" (is a teacher) in \"He kaiako ia\" (He/she is a teacher)\n    \n    The predicate typically comes first in a te reo Māori sentence, unlike English where \n    the subject usually comes first.\n    \n    ### 2. **Kaiwhakamahi (Subject)**\n    \n    The subject tells us who or what the predicate refers to. It answers the question \n    \"who/what is performing the action or being described?\"\n    \n    Example: \"au\" (I) in \"Ka kai au\" (I will eat)\n    Example: \"ia\" (he/she) in \"He kaiako ia\" (He/she is a teacher)\n    \n    In some contexts, particularly with passive sentences or when clear from context, \n    the subject may be omitted.\n    \n    ### 3. **Kōrero Tāpiri (Comments)**\n    \n    Comments add additional information to the sentence and almost always begin with a preposition. \n    They are optional elements that provide context, clarification, or extra details.\n    \n    Comments can serve various functions:\n    \n    - **Direct Objects**: \"Kei te horoi ia i tana kurī\" (She is washing her dog)\n      The comment \"i tana kurī\" specifies what is being washed\n    \n    - **Locations**: \"I mate te kuia i te hōhipera\" (The elderly woman died in the hospital)\n      The comment \"i te hōhipera\" indicates where the event occurred\n    \n    - **Time**: \"I tīmata te hui i te waru karaka\" (The meeting started at eight o'clock)\n      The comment \"i te waru karaka\" specifies when the event happened\n    \n    - **Means/Route**: \"Ka haere mā te huarahi ki Pukeorapa\" (Will go via the road to Pukeorapa)\n      The comment \"mā te huarahi\" indicates the route taken\n    \n    - **Purpose**: \"He pukapuka mō te Pakanga Tuarua\" (A book about World War II)\n      The comment \"mō te Pakanga Tuarua\" specifies the subject matter\n    \n    - **Possession**: \"Te whare o te rangatira\" (The house of the chief)\n      The comment \"o te rangatira\" indicates ownership\n    \n    - **Reason/Cause**: \"Kua mākū katoa ō rātou kākahu i te ua\" (Their clothes are all wet from the rain)\n      The comment \"i te ua\" explains the cause\n    \n    - **Agents (in passive or neuter constructions)**: \"I pakaru te wini i a Tamahae\" (The window was broken by Tamahae)\n      The comment \"i a Tamahae\" identifies the agent\n    \n    Understanding how these three components work together is crucial for constructing \n    and analyzing sentences in te reo Māori.\n  ",
+    "examples": [
+      {
+        "maori": "Ka kai au.",
+        "english": "I will eat.",
+        "explanation": "A simple sentence with predicate [Ka kai] and subject [au], but no comments."
+      },
+      {
+        "maori": "Kei te horoi ia i tana kurī.",
+        "english": "She is washing her dog.",
+        "explanation": "Contains predicate [Kei te horoi], subject [ia], and comment [i tana kurī] specifying what is being washed."
+      },
+      {
+        "maori": "I kite te tangata i te kuri.",
+        "english": "The person saw the dog.",
+        "explanation": "Contains predicate [I kite], subject [te tangata], and comment [i te kuri] specifying what was seen."
+      },
+      {
+        "maori": "He whare pērā i tō Hata.",
+        "english": "A house similar to Hata's.",
+        "explanation": "Contains nominal predicate [He whare pērā] and comment [i tō Hata] explaining which house it's similar to."
+      },
+      {
+        "maori": "Nōna te he.",
+        "english": "The fault is his/hers.",
+        "explanation": "Contains comment [Nōna] indicating possession, which comes first, and subject [te he]."
+      }
+    ],
+    "relatedTerms": [
+      "clause-types",
+      "kianga-tumahi",
+      "kianga-tuingoa"
+    ]
+  },
+  {
+    "id": "reremama",
+    "term": "Simple Sentences",
+    "maoriTerm": "Reremāmā",
+    "shortDefinition": "Sentences containing a single clause with one predicate and subject.",
+    "parentTerm": "rerenga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "rerenga"
+    ],
+    "categoryInfo": "Part of the Sentences (Rerenga) series",
+    "longDefinition": "\n    Reremāmā (simple sentences) in te reo Māori are sentences that contain a single clause \n    with one predicate and typically one subject. They express a complete thought in the most \n    straightforward way, without combining multiple clauses or ideas.\n    \n    ## Characteristics of Simple Sentences\n    \n    1. **Single Clause Structure**\n       - Contains only one clause (aho)\n       - Has a single predicate-subject relationship\n       - Expresses a single, complete thought\n    \n    2. **Basic Pattern**\n       - Typically follows the Verb-Subject-Object pattern\n       - Can include modifiers and comments for additional information\n       - May have different word orders for emphasis or special constructions\n    \n    3. **Types of Simple Sentences**\n       - **Verbal simple sentences**: Include an action verb\n         Example: \"Kei te kai a Mere i te āporo\" (Mary is eating the apple)\n       \n       - **Nominal simple sentences**: Use non-verbal predicates\n         Example: \"He kaiako a Hemi\" (James is a teacher)\n       \n       - **Existential simple sentences**: Express existence or location\n         Example: \"Kei te whare a Pita\" (Peter is at home)\n    \n    ## Functions of Simple Sentences\n    \n    Simple sentences are used for:\n    \n    1. **Direct statements**: Clear, straightforward assertions\n       Example: \"Kei te ua\" (It is raining)\n    \n    2. **Basic questions**: Straightforward inquiries\n       Example: \"Kei hea tō pōtae?\" (Where is your hat?)\n    \n    3. **Simple commands**: Direct instructions\n       Example: \"Haere ki te moe\" (Go to sleep)\n    \n    4. **Simple descriptions**: Basic descriptive statements\n       Example: \"He ātaahua te rā\" (The day is beautiful)\n    \n    Simple sentences form the foundation of communication in te reo Māori and are \n    essential for beginners to master before moving on to more complex structures. \n    Despite their simplicity, they can express a wide range of meanings and can be \n    enhanced with modifiers, comments, and careful word choice.\n  ",
+    "examples": [
+      {
+        "maori": "Ka kai au i te āporo.",
+        "english": "I will eat the apple.",
+        "explanation": "A simple verbal sentence with a single predicate [Ka kai], subject [au], and direct object [i te āporo]."
+      },
+      {
+        "maori": "He tauira a Mere.",
+        "english": "Mary is a student.",
+        "explanation": "A simple nominal sentence using the classifying pattern [He + noun] with a single predicate [He tauira] and subject [a Mere]."
+      },
+      {
+        "maori": "Kei te tāone a Hone.",
+        "english": "John is in town.",
+        "explanation": "A simple locative sentence with a single predicate [Kei te tāone] and subject [a Hone]."
+      },
+      {
+        "maori": "Hoatu te pukapuka ki a ia.",
+        "english": "Give the book to her/him.",
+        "explanation": "A simple imperative sentence with a single command [Hoatu] and its objects [te pukapuka] and [ki a ia]."
+      }
+    ],
+    "relatedTerms": [
+      "rerenga",
+      "rerepuhui",
+      "aho-motuhake",
+      "verbal-sentence",
+      "nominal-sentence"
+    ]
+  },
+  {
+    "id": "rerepuhui",
+    "term": "Compound/Complex Sentences",
+    "maoriTerm": "Rerepūhui",
+    "shortDefinition": "Sentences containing two or more clauses linked together to express related ideas.",
+    "parentTerm": "rerenga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "rerenga"
+    ],
+    "categoryInfo": "Part of the Sentences (Rerenga) series",
+    "longDefinition": "\n    Rerepūhui (compound/complex sentences) in te reo Māori are sentences that contain two or more \n    clauses linked together to express related ideas. They allow speakers to show relationships \n    between thoughts and to construct more sophisticated expressions than simple sentences permit.\n    \n    ## Types of Multi-Clause Sentences\n    \n    In te reo Māori, multi-clause sentences fall into two main categories:\n    \n    1. **Compound Sentences**\n       - Contain two or more independent clauses (aho motuhake)\n       - Clauses are of equal grammatical status\n       - Often joined by coordinating conjunctions like \"ā\" (and), \"engari\" (but), \"rānei\" (or)\n       - Example: \"Ka haere au ki te kura, **ā**, ka hoki mai au ki te kāinga i te ahiahi\" \n         (I will go to school, **and** I will return home in the evening)\n    \n    2. **Complex Sentences**\n       - Contain at least one independent clause and one or more dependent clauses\n       - Independent clause carries the main idea\n       - Dependent clauses provide supporting information\n       - Example: \"**Mēnā ka ua**, kāore mātou e haere\" \n         (**If it rains**, we won't go)\n       - Here, \"mēnā ka ua\" is the dependent clause and \"kāore mātou e haere\" is the independent clause\n    \n    ## How Clauses Are Connected\n    \n    Clauses in rerepūhui can be connected in several ways:\n    \n    1. **Coordinating Conjunctions**\n       - Link independent clauses of equal importance\n       - Include \"ā\" (and), \"engari\" (but), \"rānei\" (or), \"heoi\" (however)\n       - Example: \"He pai te ua engari he makariri\" \n         (The rain is good but it is cold)\n    \n    2. **Subordinating Particles**\n       - Introduce dependent clauses\n       - Include \"mēnā\" (if), \"ahakoa\" (although), \"i te mea\" (because), \"kia\" (so that/when)\n       - Example: \"Ka haere tātou ki te tāone **i te mea** kei reira tētahi hui\" \n         (We are going to town **because** there is a meeting there)\n    \n    3. **Sequential Time Relationships**\n       - Show progression of events\n       - Often use \"ka...ka...\" or similar patterns\n       - Example: \"**Ka** mutu te mahi, **ka** haere tātou ki te whare\" \n         (**When** the work is finished, **then** we will go home)\n    \n    4. **Relative Constructions**\n       - Connect clauses through reference to a common noun\n       - Example: \"Ko te wahine **e tū mai rā** tōku māmā\" \n         (The woman **who is standing there** is my mother)\n    \n    Rerepūhui are essential for expressing complex relationships between ideas, \n    conditions, reasons, contrasts, and sequences in te reo Māori. They allow \n    speakers to create more nuanced, sophisticated expressions by combining \n    multiple thoughts in a single sentence.\n  ",
+    "examples": [
+      {
+        "maori": "Ka haere au ki te toa, ā, ka hoki mai au ki te kāinga.",
+        "english": "I will go to the store, and I will return home.",
+        "explanation": "A compound sentence with two independent clauses [Ka haere au ki te toa] and [ka hoki mai au ki te kāinga] joined by the coordinating conjunction \"ā\" (and)."
+      },
+      {
+        "maori": "Mēnā ka ua āpōpō, ka noho tātou ki te kāinga.",
+        "english": "If it rains tomorrow, we will stay at home.",
+        "explanation": "A complex sentence with a dependent conditional clause [Mēnā ka ua āpōpō] and an independent main clause [ka noho tātou ki te kāinga]."
+      },
+      {
+        "maori": "I haere ia ki te hui, engari kāore au i kite i a ia.",
+        "english": "She went to the meeting, but I didn't see her.",
+        "explanation": "A compound sentence with two independent clauses joined by the coordinating conjunction \"engari\" (but)."
+      },
+      {
+        "maori": "Ka mutu te mahi, ka haere tātou ki te tāone, ā, ka kai tātou i reira.",
+        "english": "When the work is finished, we will go to town, and we will eat there.",
+        "explanation": "A compound-complex sentence with three clauses: a dependent time clause and two independent clauses."
+      }
+    ],
+    "relatedTerms": [
+      "rerenga",
+      "reremama",
+      "aho-motuhake",
+      "aho-whakawhirinaki"
+    ]
+  },
+  {
+    "id": "rerehaoho",
+    "term": "Active Sentences",
+    "maoriTerm": "Rerehāoho",
+    "shortDefinition": "Sentences that focus on the agent performing the action rather than the recipient of the action.",
+    "parentTerm": "rerenga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "rerenga"
+    ],
+    "categoryInfo": "Part of the Sentences (Rerenga) series",
+    "longDefinition": "\n    Rerehāoho (active sentences) are sentences in te reo Māori where the focus is on the \n    agent or doer of the action. In active sentences, the subject performs the action \n    expressed by the verb, and the object (if present) receives that action.\n    \n    ## Characteristics of Active Sentences\n    \n    1. **Agent as Subject**\n       - The person or thing performing the action is the grammatical subject\n       - The subject typically follows the verb phrase\n       - The subject may be preceded by \"a\" for proper nouns and pronouns\n    \n    2. **Basic Structure**\n       - Follows the general pattern: [Verb] [Subject] [Object]\n       - Example: \"Kei te kai a Mere i te āporo\" (Mary is eating the apple)\n       - Here, \"a Mere\" (Mary) is the agent/subject performing the action \"kai\" (eat)\n    \n    3. **Object Marking**\n       - The direct object (if present) is typically marked with \"i\"\n       - Example: \"Kei te pānui a Hone i te pukapuka\" (John is reading the book)\n       - Here, \"i te pukapuka\" (the book) is the object being read\n    \n    4. **Verb Forms**\n       - Uses basic verb forms without passive suffixes\n       - The verb does not change form to agree with the subject\n    \n    5. **Common Verb Markers**\n       - Active sentences use standard verbal particles:\n         - \"Kei te\" for present continuous actions\n         - \"I\" for past actions\n         - \"Ka\" for future or narrative sequences\n         - \"Kua\" for completed actions with present relevance\n         - \"E...ana\" for general continuous actions\n    \n    ## Choosing Active Voice\n    \n    Active sentences are typically used when:\n    \n    1. **The agent is important or known**\n       - When the focus is on who is performing the action\n       - Example: \"Nā Mere i tuhi te reta\" (Mary wrote the letter)\n    \n    2. **Describing ongoing or dynamic actions**\n       - When emphasizing the action itself\n       - Example: \"Kei te oma a Hemi\" (James is running)\n    \n    3. **Giving instructions or commands**\n       - When directing someone to perform an action\n       - Example: \"Tuhia tō ingoa ki konei\" (Write your name here)\n    \n    Active voice is generally more direct and straightforward than passive voice \n    and is often preferred when clearly identifying who is responsible for an action.\n    It contrasts with rerehāngū (passive sentences), where the emphasis is on the \n    recipient of the action rather than the agent.\n  ",
+    "examples": [
+      {
+        "maori": "Kei te tuhi a Tama i tana tuhinga roa.",
+        "english": "Tama is writing his essay.",
+        "explanation": "Active sentence where the agent \"a Tama\" is performing the action \"tuhi\" (write)."
+      },
+      {
+        "maori": "I pānui au i te niupepa i te ata nei.",
+        "english": "I read the newspaper this morning.",
+        "explanation": "Active sentence where the agent \"au\" (I) performed the action \"pānui\" (read) in the past."
+      },
+      {
+        "maori": "Ka whakaako a Whaea Kiri i te reo Māori ki ngā tamariki.",
+        "english": "Whaea Kiri will teach te reo Māori to the children.",
+        "explanation": "Active sentence where the agent \"a Whaea Kiri\" will perform the action \"whakaako\" (teach) in the future."
+      },
+      {
+        "maori": "Kua tunu a Hone i te kai mō te whānau.",
+        "english": "John has cooked the food for the family.",
+        "explanation": "Active sentence where the agent \"a Hone\" has completed the action \"tunu\" (cook)."
+      }
+    ],
+    "relatedTerms": [
+      "rerenga",
+      "rerehanga",
+      "tumahi-whiti"
+    ]
+  },
+  {
+    "id": "rerehanga",
+    "term": "Passive Sentences",
+    "maoriTerm": "Rerehāngū",
+    "shortDefinition": "Sentences that focus on the recipient of an action rather than on the agent performing it.",
+    "parentTerm": "rerenga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "rerenga"
+    ],
+    "categoryInfo": "Part of the Sentences (Rerenga) series",
+    "longDefinition": "\n    Rerehāngū (passive sentences) are sentences in te reo Māori where the focus is on the \n    recipient or patient of an action rather than on the agent performing it. Unlike \n    English, passive constructions are very common in te reo Māori and are often preferred \n    in certain contexts.\n    \n    ## Characteristics of Passive Sentences\n    \n    1. **Patient as Subject**\n       - The person or thing receiving the action becomes the grammatical subject\n       - The subject typically follows the verb phrase\n       - Example: \"Ka kainga te āporo e Mere\" (The apple will be eaten by Mary)\n       - Here, \"te āporo\" (the apple) is the subject/patient\n    \n    2. **Passive Verb Form**\n       - The verb takes a passive suffix\n       - Common suffixes include -a, -ia, -hia, -kia, -mia, -ria, -tia, -na, -nga, -ina\n       - The specific suffix depends on the verb (must be learned for each verb)\n       - Example: \"kai\" (eat) becomes \"kainga\" (be eaten)\n    \n    3. **Agent Marking**\n       - The agent (doer) is marked with \"e\" if mentioned\n       - Example: \"Ka kainga te āporo e Mere\" (The apple will be eaten by Mary)\n       - Here, \"e Mere\" indicates Mary is the agent\n       - The agent may be omitted if unknown or unimportant\n    \n    4. **Basic Structure**\n       - Follows the pattern: [Verb+passive suffix] [Patient/Subject] [e Agent (optional)]\n    \n    ## When to Use Passive Voice\n    \n    Passive voice is frequently used in te reo Māori when:\n    \n    1. **Emphasizing the recipient**\n       - When the focus is on what happens to someone or something\n       - Example: \"Kua tuhia te reta\" (The letter has been written)\n    \n    2. **Agent is unknown or unimportant**\n       - When who performed the action is less relevant\n       - Example: \"I whakahoahoa te whare\" (The house was decorated)\n    \n    3. **Cultural emphasis on respect**\n       - When discussing actions of respected persons or groups\n       - Example: \"I kōrerotia ngā tikanga e ngā kaumātua\" \n         (The protocols were spoken about by the elders)\n    \n    4. **Narrative style**\n       - Passive is often preferred in traditional storytelling\n       - Example: \"Ka pātaia e Māui tōna whaea\" \n         (Māui's mother was asked by him)\n    \n    5. **Describing processes**\n       - When focusing on what happens rather than who does it\n       - Example: \"Ka tapahia te rākau, ka whakamahia hei waka\" \n         (The tree is cut down, [then] is used as a canoe)\n    \n    Understanding passive sentences is crucial in te reo Māori as they are a \n    fundamental part of the language's structure and style, used much more \n    frequently than in English.\n  ",
+    "examples": [
+      {
+        "maori": "Ka kainga te āporo e Mere.",
+        "english": "The apple will be eaten by Mary.",
+        "explanation": "Passive sentence with the patient \"te āporo\" as subject, the passive verb form \"kainga\" (be eaten), and the agent \"e Mere\" (by Mary)."
+      },
+      {
+        "maori": "I kōrerotia ngā kōrero o neherā ki ngā tamariki.",
+        "english": "The stories of the past were told to the children.",
+        "explanation": "Passive sentence where \"ngā kōrero\" (the stories) is the subject/patient and the agent is not specified."
+      },
+      {
+        "maori": "Kua tuhia te pukapuka e te kaituhi rongonui.",
+        "english": "The book has been written by the famous author.",
+        "explanation": "Passive sentence with perfect aspect (\"kua\") indicating the completed state of the book."
+      },
+      {
+        "maori": "Kāore anō te kai kia mahingia.",
+        "english": "The food has not yet been prepared.",
+        "explanation": "Negative passive sentence using \"kāore anō...kia\" with the passive form \"mahingia\" of \"mahi\" (make/do)."
+      },
+      {
+        "maori": "Ka horahia te whāriki e ngā kuia.",
+        "english": "The mat will be laid down by the elderly women.",
+        "explanation": "Passive sentence where the patient \"te whāriki\" (the mat) precedes the agent \"e ngā kuia\" (by the elderly women)."
+      }
+    ],
+    "relatedTerms": [
+      "rerenga",
+      "rerehaoho",
+      "tumahi-whiti"
+    ]
+  },
+  {
+    "id": "rerepatai",
+    "term": "Interrogative Sentences",
+    "maoriTerm": "Rerepātai",
+    "shortDefinition": "Sentences that ask questions in order to obtain information, confirmation, or clarification.",
+    "parentTerm": "rerenga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "rerenga"
+    ],
+    "categoryInfo": "Part of the Sentences (Rerenga) series",
+    "longDefinition": "\n    Rerepātai (interrogative sentences) are sentences in te reo Māori that ask questions \n    to obtain information, confirmation, or clarification. There are several types of \n    question sentences in te reo Māori, each with specific structures and functions.\n    \n    ## Types of Questions\n    \n    1. **Pātai Āe-Kāo (Yes/No Questions)**\n       - Also called pātai kati (closed questions)\n       - Can be answered with \"āe\" (yes) or \"kāore\" (no)\n       - Often formed by using the same structure as statements, but with rising intonation\n       - Example: \"Kei te hiakai koe?\" (Are you hungry?)\n       - Negated yes/no questions often use \"kāore\": \"Kāore koe e haere ana ki te kura?\" \n         (Aren't you going to school?)\n    \n    2. **Pātai Tūpātai (Information Questions)**\n       - Use interrogative words (tūpātai) such as:\n         - \"aha\" (what)\n         - \"wai\" (who)\n         - \"hea\" (where)\n         - \"āhea\" (when - future)\n         - \"nāhea\" (when - past)\n         - \"pēhea\" (how)\n         - \"hia\" (how many)\n         - \"tehea/ēhea\" (which)\n       - Example: \"Ko wai tō ingoa?\" (What is your name?)\n       - Example: \"Kei hea tō pōtae?\" (Where is your hat?)\n    \n    3. **Pātai Kōwhiri (Alternative/Choice Questions)**\n       - Present two or more alternatives, often using \"rānei\" (or)\n       - Example: \"Ka haere koe mā runga pahi, mā runga waka rānei?\" \n         (Will you go by bus or by car?)\n    \n    ## Question Formation Techniques\n    \n    1. **Intonation**\n       - Regular statements can become questions by using rising intonation\n       - Example: \"Kei te pai koe?\" (Are you well?)\n    \n    2. **Question Particles/Words**\n       - Use of specific interrogative words/particles\n       - Many form set patterns with prepositions:\n         - \"i hea\" (where - past location)\n         - \"kei hea\" (where - present location)\n         - \"ki hea\" (where to)\n         - \"nō hea\" (where from - origin)\n    \n    3. **Structural Changes**\n       - Some question types involve changes to normal sentence structure\n       - \"Ko\" is often used in identification questions: \"Ko wai tēnā?\" (Who is that?)\n    \n    4. **Negation in Questions**\n       - \"Kāore\" combined with appropriate verbal particles\n       - Example: \"Kāore anō koe kia kite i te kaiako?\" \n         (Haven't you seen the teacher yet?)\n    \n    Interrogative sentences are essential for interactive communication, allowing \n    speakers to gather information, seek clarification, make requests, or confirm \n    understanding in te reo Māori.\n  ",
+    "examples": [
+      {
+        "maori": "Kei hea tō pōtae?",
+        "english": "Where is your hat?",
+        "explanation": "Information question using the interrogative \"hea\" (where) with the present location marker \"kei\"."
+      },
+      {
+        "maori": "Kei te haere koe ki te hui āpōpō?",
+        "english": "Are you going to the meeting tomorrow?",
+        "explanation": "Yes/no question formed with a regular sentence structure but understood as a question through context or intonation."
+      },
+      {
+        "maori": "Ko wai tō ingoa?",
+        "english": "What is your name?",
+        "explanation": "Information question using \"ko wai\" (who) in an identification structure."
+      },
+      {
+        "maori": "E hia ngā tamariki i te kura?",
+        "english": "How many children are at school?",
+        "explanation": "Information question using \"e hia\" (how many) to ask about quantity."
+      },
+      {
+        "maori": "Ka haere koe mā runga pahi, mā runga waka rānei?",
+        "english": "Will you go by bus or by car?",
+        "explanation": "Alternative question using \"rānei\" (or) to present choices."
+      },
+      {
+        "maori": "Kāore anō koe kia kite i a Mere?",
+        "english": "Haven't you seen Mary yet?",
+        "explanation": "Negative question using \"kāore anō...kia\" indicating an expected but not yet realized action."
+      }
+    ],
+    "relatedTerms": [
+      "rerenga",
+      "tupatai",
+      "rerewhakahau"
+    ]
+  },
+  {
+    "id": "rerewhakahau",
+    "term": "Command Sentences",
+    "maoriTerm": "Rerewhakahau",
+    "shortDefinition": "Sentences that give directions, instructions, or orders to the listener.",
+    "parentTerm": "rerenga",
+    "hierarchyLevel": 3,
+    "breadcrumbPath": [
+      "sentence-structure",
+      "rerenga"
+    ],
+    "categoryInfo": "Part of the Sentences (Rerenga) series",
+    "longDefinition": "\n    Rerewhakahau (command sentences) are sentences in te reo Māori that give directions, \n    instructions, or orders to the listener. They are used to tell someone to do something \n    and can range from strong commands to polite requests.\n    \n    ## Forms of Commands\n    \n    Te reo Māori has several ways to form commands, depending on the type of verb and \n    the level of formality or directness required:\n    \n    1. **Direct Imperatives with Base Verb**\n       - For short, common verbs, use the base form without particles\n       - Example: \"Haere!\" (Go!)\n       - Example: \"Tū!\" (Stand!)\n    \n    2. **E + Verb**\n       - For some short verbs, use \"e\" before the verb\n       - Example: \"E tū!\" (Stand!)\n       - Example: \"E noho!\" (Sit!)\n    \n    3. **Passive Commands (Tūhau hāngū)**\n       - For transitive verbs, use the passive form\n       - Often preferred for actions affecting objects\n       - Example: \"Whakamāramatia te tikanga!\" (Explain the meaning!)\n       - Example: \"Tangohia ō hū!\" (Take off your shoes!)\n    \n    4. **Me + Verb**\n       - Softer, less direct commands or suggestions\n       - Expresses \"should\" or \"ought to\"\n       - Example: \"Me haere tātou ināianei\" (We should go now)\n       - Example: \"Me āta whakarongo koe\" (You should listen carefully)\n    \n    5. **Kia + Verb**\n       - Expresses wishes or gentle commands\n       - Example: \"Kia tere tō haere!\" (Be quick with your going!)\n       - Example: \"Kia mataara!\" (Be alert!)\n    \n    6. **Verb + ki/i phrase**\n       - Commands with specific directions\n       - Example: \"Haere ki te kura!\" (Go to school!)\n       - Example: \"Titiro ki tērā!\" (Look at that!)\n    \n    ## Command Intensity and Politeness\n    \n    The intensity of commands can be modified in several ways:\n    \n    1. **Intensifiers**\n       - Add words like \"tino\" (very) or \"kia\" to emphasize\n       - Example: \"Kia tino tere!\" (Be very quick!)\n    \n    2. **Softeners**\n       - Add words like \"koa\" (please) to make requests more polite\n       - Example: \"Āwhina mai koa\" (Please help me)\n    \n    3. **Inclusive Commands**\n       - Use \"tātou\" (we, including the listener) to make commands more inclusive\n       - Example: \"Me haere tātou\" (Let's go)\n    \n    Understanding the different forms of commands in te reo Māori is important for \n    giving appropriate instructions in different contexts, from formal to informal, \n    and for varying degrees of urgency or politeness.\n  ",
+    "examples": [
+      {
+        "maori": "Haere ki te moe!",
+        "english": "Go to sleep!",
+        "explanation": "Direct command using the base verb \"haere\" (go) with a directional phrase."
+      },
+      {
+        "maori": "E tū!",
+        "english": "Stand up!",
+        "explanation": "Command using \"e\" with a short verb \"tū\" (stand)."
+      },
+      {
+        "maori": "Horoia ngā rīhi!",
+        "english": "Wash the dishes!",
+        "explanation": "Passive command using \"horoia\" (the passive form of \"horoi\" - wash)."
+      },
+      {
+        "maori": "Me hoki koe ki te kāinga ināianei.",
+        "english": "You should return home now.",
+        "explanation": "Softer command using \"me\" to suggest what should be done rather than giving a direct order."
+      },
+      {
+        "maori": "Kia māhaki!",
+        "english": "Be calm!",
+        "explanation": "Command using \"kia\" with a stative verb \"māhaki\" (calm)."
+      },
+      {
+        "maori": "Whakarongo mai koa.",
+        "english": "Please listen.",
+        "explanation": "Polite request using \"koa\" (please) to soften the command."
+      },
+      {
+        "maori": "Me haere tātou ki te tākaro.",
+        "english": "Let's go play.",
+        "explanation": "Inclusive command using \"tātou\" (we, including the listener) to make it a group suggestion."
+      }
+    ],
+    "relatedTerms": [
+      "rerenga",
+      "rerepātai",
+      "pumahi"
+    ]
+  },
+  {
+    "id": "anei-ana-ara",
+    "term": "Ānei, ānā, ārā",
+    "maoriTerm": "",
+    "shortDefinition": "These terms are used to drawn someone's attention to something.",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "Enter the main definition and explanation here."
+      }
+    ]
+  },
+  {
+    "id": "konei-kona-kora",
+    "term": "Konei, konā, korā",
+    "maoriTerm": "",
+    "shortDefinition": "These terms are used to refer to locations.",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "Enter the main definition and explanation here."
+      }
+    ]
+  },
+  {
+    "id": "adverbial-particles",
+    "term": "Adverbial Particles",
+    "maoriTerm": "",
+    "shortDefinition": "Particles that modify other parts of speech to express manner, direction, or emphasis",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Adverbial Particles\n\n[Placeholder for explanation of adverbial particles in te reo Māori]"
+      },
+      {
+        "type": "explanation",
+        "title": "Categories of Adverbial Particles",
+        "content": "Adverbial particles in te reo Māori can be categorized into three main types:\n\n1. **Manner particles** - Modify how an action is performed (kē, kau, noa, rawa, tonu)\n\n2. **Directional particles** - Indicate the direction of movement (mai, atu, ake, iho)\n\n3. **Emphatic particles** - Add emphasis or strengthen an expression (anō, hoki, koia, koā, rāpea)"
+      },
+      {
+        "type": "note",
+        "content": "[Note about the importance of adverbial particles in te reo Māori grammar placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-manner",
+      "adverbial-directional",
+      "adverbial-emphatic"
+    ]
+  },
+  {
+    "id": "adverbial-manner",
+    "term": "Adverbial Particles of Manner",
+    "maoriTerm": "",
+    "shortDefinition": "Particles that modify how an action is performed",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Adverbial Particles of Manner\n\n[Explanation of manner particles in te reo Māori placeholder]"
+      },
+      {
+        "type": "explanation",
+        "title": "Function",
+        "content": "[Placeholder explanation about how manner particles modify verbs and actions]"
+      },
+      {
+        "type": "note",
+        "content": "These particles provide important nuance about how actions are performed in te reo Māori."
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-particles",
+      "adverbial-directional",
+      "adverbial-emphatic"
+    ]
+  },
+  {
+    "id": "ke",
+    "term": "kē",
+    "maoriTerm": "kē",
+    "shortDefinition": "Different, other than expected",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: kē\n\n[Placeholder for explanation of the kē particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using kē placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how kē functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for kē placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-particles",
+      "adverbial-manner"
+    ]
+  },
+  {
+    "id": "kau",
+    "term": "kau",
+    "maoriTerm": "kau",
+    "shortDefinition": "Just, only, merely",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: kau\n\n[Placeholder for explanation of the kau particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using kau placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how kau functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for kau placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-particles",
+      "adverbial-manner"
+    ]
+  },
+  {
+    "id": "noa",
+    "term": "noa",
+    "maoriTerm": "noa",
+    "shortDefinition": "Freely, without restriction",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: noa\n\n[Placeholder for explanation of the noa particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using noa placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how noa functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for noa placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-particles",
+      "adverbial-manner"
+    ]
+  },
+  {
+    "id": "rawa",
+    "term": "rawa",
+    "maoriTerm": "rawa",
+    "shortDefinition": "Very, extremely, indeed",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: rawa\n\n[Placeholder for explanation of the rawa particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using rawa placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how rawa functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for rawa placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-particles",
+      "adverbial-manner"
+    ]
+  },
+  {
+    "id": "tonu",
+    "term": "tonu",
+    "maoriTerm": "tonu",
+    "shortDefinition": "Still, continuously, nevertheless",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: tonu\n\n[Placeholder for explanation of the tonu particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using tonu placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how tonu functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for tonu placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-particles",
+      "adverbial-manner"
+    ]
+  },
+  {
+    "id": "adverbial-directional",
+    "term": "Directional Particles",
+    "maoriTerm": "Pūanga",
+    "shortDefinition": "Particles that indicate direction of movement or action relative to the speaker or subject",
+    "validated": true,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Directional Particles (Pūanga)\n\nPūanga (directional particles) are a specialized type of particle in te reo Māori that indicate the direction of movement or action. These particles provide crucial information about the spatial or temporal relationship between the action, the speaker, and other referents in the discourse.\n\nThe main directional particles in te reo Māori are:\n\n1. **Mai** - Towards - Indicates movement or action directed towards the speaker or the subject\n2. **Atu** - Away - Indicates movement or action directed away from the speaker or the subject\n3. **Ake** - Upwards - Indicates movement or action in an upward direction from the subject. Can also indicate action in a future time\n4. **Iho** - Downwards - Indicates movement or action in a downward direction from the subject. Can also indicate action in a past time\n\nThese directional particles often follow verbs to specify the direction of the action, and they can combine with other particles to create more specific meanings. They play a significant role in spatial orientation within te reo Māori discourse.\n\nThe directional particles \"mai\" and \"atu\" are particularly common and important for distinguishing whether an action is moving towards or away from the speaker or another reference point."
+      },
+      {
+        "type": "example",
+        "maori": "Homai te pukapuka ki a au.",
+        "english": "Give the book to me.",
+        "explanation": "The directional particle \"mai\" (within \"homai\") indicates movement towards the speaker."
+      },
+      {
+        "type": "example",
+        "maori": "Haere atu ki te kura.",
+        "english": "Go to school.",
+        "explanation": "The directional particle \"atu\" indicates movement away from the speaker."
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-particles",
+      "adverbial-manner",
+      "adverbial-emphatic"
+    ]
+  },
+  {
+    "id": "mai",
+    "term": "mai",
+    "maoriTerm": "mai",
+    "shortDefinition": "Towards the speaker or subject",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: mai\n\n[Placeholder for explanation of the mai directional particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using mai placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how mai functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for mai placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-directional",
+      "adverbial-particles"
+    ]
+  },
+  {
+    "id": "atu",
+    "term": "atu",
+    "maoriTerm": "atu",
+    "shortDefinition": "Away from the speaker or subject",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: atu\n\n[Placeholder for explanation of the atu directional particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using atu placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how atu functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for atu placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-directional",
+      "adverbial-particles"
+    ]
+  },
+  {
+    "id": "ake",
+    "term": "ake",
+    "maoriTerm": "ake",
+    "shortDefinition": "Upwards or in the future",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: ake\n\n[Placeholder for explanation of the ake directional particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using ake placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how ake functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for ake placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-directional",
+      "adverbial-particles"
+    ]
+  },
+  {
+    "id": "iho",
+    "term": "iho",
+    "maoriTerm": "iho",
+    "shortDefinition": "Downwards or in the past",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: iho\n\n[Placeholder for explanation of the iho directional particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using iho placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how iho functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for iho placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-directional",
+      "adverbial-particles"
+    ]
+  },
+  {
+    "id": "adverbial-emphatic",
+    "term": "Emphatic Particles",
+    "maoriTerm": "",
+    "shortDefinition": "Particles that add emphasis or strengthen an expression",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Emphatic Particles\n\n[Placeholder for explanation of emphatic particles in te reo Māori]"
+      },
+      {
+        "type": "explanation",
+        "title": "Function",
+        "content": "[Placeholder explanation about how emphatic particles strengthen or modify expressions]"
+      },
+      {
+        "type": "note",
+        "content": "These particles add important nuance and emphasis to te reo Māori expressions and can significantly affect the tone of a sentence."
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-particles",
+      "adverbial-manner",
+      "adverbial-directional"
+    ]
+  },
+  {
+    "id": "ano",
+    "term": "anō",
+    "maoriTerm": "anō",
+    "shortDefinition": "Again, also, as well",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: anō\n\n[Placeholder for explanation of the anō emphatic particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using anō placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how anō functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for anō placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-emphatic",
+      "adverbial-particles"
+    ]
+  },
+  {
+    "id": "hoki",
+    "term": "hoki",
+    "maoriTerm": "hoki",
+    "shortDefinition": "Also, too, as well",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: hoki\n\n[Placeholder for explanation of the hoki emphatic particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using hoki placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how hoki functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for hoki placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-emphatic",
+      "adverbial-particles"
+    ]
+  },
+  {
+    "id": "koia",
+    "term": "koia",
+    "maoriTerm": "koia",
+    "shortDefinition": "Indeed, that is so",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: koia\n\n[Placeholder for explanation of the koia emphatic particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using koia placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how koia functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for koia placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-emphatic",
+      "adverbial-particles"
+    ]
+  },
+  {
+    "id": "koa",
+    "term": "koā",
+    "maoriTerm": "koā",
+    "shortDefinition": "Certainly, definitely",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: koā\n\n[Placeholder for explanation of the koā emphatic particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using koā placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how koā functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for koā placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-emphatic",
+      "adverbial-particles"
+    ]
+  },
+  {
+    "id": "rapea",
+    "term": "rāpea",
+    "maoriTerm": "rāpea",
+    "shortDefinition": "Perhaps, maybe, possibly",
+    "validated": false,
+    "elements": [
+      {
+        "type": "text",
+        "content": "## Particle: rāpea\n\n[Placeholder for explanation of the rāpea emphatic particle function and usage]"
+      },
+      {
+        "type": "example",
+        "maori": "[Example sentence using rāpea placeholder]",
+        "english": "[English translation placeholder]",
+        "explanation": "[Explanation of how rāpea functions in this example placeholder]"
+      },
+      {
+        "type": "note",
+        "content": "[Note about common usage patterns or special considerations for rāpea placeholder]"
+      }
+    ],
+    "relatedTerms": [
+      "adverbial-emphatic",
+      "adverbial-particles"
+    ]
+  }
+]

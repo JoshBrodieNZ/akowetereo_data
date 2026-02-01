@@ -1,0 +1,71 @@
+{
+  "id": "level1-pronunciation",
+  "title": "Pronunciation",
+  "description": "Learn how to pronounce Māori words.",
+  "exercise": null,
+  "validated": true,
+  "tags": [
+    "beginner",
+    "pronunciation"
+  ],
+  "level": 1,
+  "content": [
+    {
+      "title": "Whakahuatanga - Pronunciation",
+      "elements": [
+        {
+          "type": "text",
+          "content": "There are a wide variety of resources available to support you in learning how to pronounce te reo Māori. Rather than reproduce those here, this section will give a brief overview and link to other resources online to support your pronunciation.\n\nSome good ways to practice your pronunciation include:\n* Te Wānanga o Aotearoa's [Māori Alphabet Tool](https://purarangi.twoa.ac.nz/).\n* Museum of New Zealand Te Papa Tongarewa's [Video Tutorials](https://www.youtube.com/watch?v=jTP-nRudTy8).\n* Looking up words on [Te Aka Māori Dictionary](https://maoridictionary.co.nz/word/3003) and using the audio pronunciation feature (to the right of the word) to listen to how words and pick up the individual sounds.\n* Using an app such as [Rongo](https://rongo.app/) to practice and test your pronunciation.\n"
+        }
+      ]
+    },
+    {
+      "title": "Ngā Oropuare - Vowels - Intro",
+      "elements": [
+        {
+          "type": "text",
+          "content": "Te reo Māori has five vowels, but these can be pronounced and combined in different ways to make a much larger number of total vowel sounds. Vowels can be long or short, with the long version of a vowel sound typically indicated by a macron* (a straight bar placed above the letter).\n\nThe vowels are a, ā, e, ē, i, ī, o, ō, u and ū.\n\nThey're pronounced like the following sounds in English:\n\n| Vowel | Short Sound | Long Sound |\n|-------|-------------|-------------|\n| a/ā | **a**gree | c**a**r |\n| e/ē | **e**xam | **ai**r |\n| i/ī | **e**at | s**ee** |\n| o/ō | **aw**ful | st**or**e |\n| u/ū | tw**o** | s**oo**n |"
+        },
+        {
+          "type": "note",
+          "content": "The macron is called {{tohutō}} or {{pōtae}} (hat) in te reo Māori.\n\n*Some iwi and speakers prefer to use a double vowel instead of a macron (e.g. turning {{kōrero}} into {{koorero}})."
+        }
+      ]
+    },
+    {
+      "title": "Ngā Oropuare Pūrua - Vowel Blends",
+      "elements": [
+        {
+          "type": "text",
+          "content": "Some vowels, when placed next to other vowels, require us to blend the two sounds together into a single syllable, while other vowels combinations require us to pronounce both vowels independently.\n\nWe blend the vowel into a single syllable when:\n* a is followed by any other vowel ([tae](https://maoridictionary.co.nz/word/7020), [tai](https://maoridictionary.co.nz/word/7091), [hao](https://maoridictionary.co.nz/word/848), [hau](https://maoridictionary.co.nz/word/924)).\n* e is followed by i or u ([kei](https://maoridictionary.co.nz/word/2514), [heu](https://maoridictionary.co.nz/word/1122)).\n* o is followed by e, i or u ([koe](https://maoridictionary.co.nz/word/2761), [koi](https://maoridictionary.co.nz/word/2818), [hou](https://maoridictionary.co.nz/word/1464)).\n\nListen to the difference at the links above between hau/hou/hao, between koe/koi, as well as between tae and kai as these vowel blends can often be mixed up.\n\nAdditionally, some long vowels are blended with a short vowel, such as:\n* ā followed by any other vowel ([pāera](https://maoridictionary.co.nz/word/4882), [kāinga](https://maoridictionary.co.nz/word/1971), [māori](https://maoridictionary.co.nz/word/3646), [māu](https://maoridictionary.co.nz/word/3931)).\n* ō followed by i or u ([ōi](https://maoridictionary.co.nz/word/4717), [tōu](https://maoridictionary.co.nz/word/8547)).\n* ē followed by i ([tēina](https://maoridictionary.co.nz/word/7891)).\n\nWith other vowel combinations, we pronounce both vowels as separate syllables. In the common greeting `kia ora`, `kia` has both of its vowels pronounced but the **a** of `ki**a**` and the **o** of `**o**ra` are often blended together when speaking faster. You'll often hear this with vowels at the end of a word and start of the next word.\n"
+        },
+        {
+          "type": "note",
+          "content": "A blend of two vowels is called a dipthong or [oro tōpū](https://paekupu.co.nz/word/oro-topu)"
+        }
+      ]
+    },
+    {
+      "title": "Ngā Orotaki - Consonants",
+      "elements": [
+        {
+          "type": "text",
+          "content": "Te reo Māori has ten consonants: h, k, m n, p, r, t, w, wh, ng\n\nAlthough vowels can appear in a word alone, consonants are always combined with a vowel to make a syllable and no word in te reo Māori ends in a consonant.\n\nMany of the consonants in te reo Māori are used very similarly to how they're used in English, so at this early stage of your reo journey, we'll focus on just covering the sounds that are important to focus on.\n\n* w is usually pronounced like an f, although there are dialectual variations on this.\n* ng is pronounced like the **ng** in si**ng**er, although Ngāi Tahu (Kāi Tahu) speakers use a k sound .\n* r is pronounced as a rolled r, similar to an English d sound, but softer. A good comparison is the **dd** sound in shu**dd**er or the **tt** in how Kiwi pronounce bu**tt**er. Thes best way to practice this is to listen to it being pronounced and imitating this in words such as [kiriata](https://maoridictionary.co.nz/word/2681).\n* t is pronounced differently depending on the vowel that follows it. When followed by an a/e/u it is pronounced softer, closer to an English d sound. When followed by an i/u it is sharper like an English t sound. Compare [titiro](https://maoridictionary.co.nz/word/8226) and [tēpu](https://maoridictionary.co.nz/word/7941).\n\n"
+        },
+        {
+          "type": "note",
+          "content": "The consonants wh and ng are digraphs or [orotaki pūrua](https://paekupu.co.nz/word/orokati-purua), where two letters are used to indicate a single sound.\n\nAs you continue comparing your pronunciation to practiced speakers you may find subtle differences between other English and Māori consonants. For example, p, t and k in te reo Māori are often less aspirated than in English. Basically this means that there's less of a breath out when you use the sound.\n\nHold a hand in front of your mouth and compare the p in `pit` and the p in `spit` -- the p in `spit` is less aspirated!\n"
+        }
+      ]
+    },
+    {
+      "title": "Whakahuatanga - Pronunciation",
+      "elements": [
+        {
+          "type": "text",
+          "content": "We'll come back to pronunciation later in the lessons. There are some more complicated aspects of pronunciation to focus on (in particular which parts of a word or phrases should be emphasised to improve the rere or flow of Māori speech) but they're better addressed once we've learned a little bit more about how words and phrases are structured in te reo Māori.\n"
+        }
+      ]
+    }
+  ]
+}

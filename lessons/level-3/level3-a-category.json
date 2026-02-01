@@ -1,0 +1,72 @@
+{
+  "id": "level3-a-category",
+  "title": "A Category Possessives",
+  "description": "Learn about the A category of possessives in te reo Māori and when to use them.",
+  "level": 3,
+  "tags": [
+    "level 3",
+    "possessives",
+    "a category",
+    "intermediate"
+  ],
+  "validated": false,
+  "exercise": "exercise-level3-a-category",
+  "content": [
+    {
+      "title": "The A Category",
+      "elements": [
+        {
+          "type": "text",
+          "content": "## Introduction to A Category Possessives\n\nThis section will introduce the concept of A category possessives."
+        },
+        {
+          "type": "example",
+          "sentence": "Tāku pene",
+          "translation": "My pen",
+          "breakdown": {
+            "word": [
+              {
+                "text": "Tāku",
+                "explanation": "My (A category)",
+                "translation": "my"
+              },
+              {
+                "text": "pene",
+                "explanation": "Pen",
+                "translation": "pen"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "When to Use A Category",
+      "elements": [
+        {
+          "type": "text",
+          "content": "## Cultural Context for A Category\n\nThis section will explain when the A category is used in Māori cultural context."
+        },
+        {
+          "type": "example",
+          "sentence": "Tāna kōrero",
+          "translation": "His/her speech",
+          "breakdown": {
+            "word": [
+              {
+                "text": "Tāna",
+                "explanation": "His/her (A category)",
+                "translation": "his/her"
+              },
+              {
+                "text": "kōrero",
+                "explanation": "Speech, talk",
+                "translation": "speech"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
