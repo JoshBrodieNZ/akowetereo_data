@@ -1,125 +1,4 @@
 {
-  "w-korero": {
-    "maori": "kōrero",
-    "english": "to speak, talk",
-    "example": "Kei te kōrero Māori ia.",
-    "exampleTranslation": "He/she is speaking Māori.",
-    "note": "Used for general conversation"
-  },
-  "w-kikorangi": {
-    "maori": "kikorangi",
-    "english": "light blue, sky blue",
-    "example": "He kikorangi te moana i tēnei rā.",
-    "exampleTranslation": "The ocean is light blue today.",
-    "note": "Often used to describe the color of the sky or ocean",
-    "validated": false
-  },
-  "w-kowhai": {
-    "maori": "kōwhai",
-    "english": "yellow",
-    "example": "He kōwhai ngā puāwai o te rākau kōwhai.",
-    "exampleTranslation": "The flowers of the kōwhai tree are yellow.",
-    "note": "Named after the kōwhai tree with its bright yellow flowers",
-    "validated": false
-  },
-  "w-parauri": {
-    "maori": "parauri",
-    "english": "brown",
-    "example": "He parauri tōna makawe.",
-    "exampleTranslation": "His/her hair is brown.",
-    "note": "",
-    "validated": false
-  },
-  "w-waiporoporo": {
-    "maori": "waiporoporo",
-    "english": "purple",
-    "example": "He waiporoporo te puāwai.",
-    "exampleTranslation": "The flower is purple.",
-    "note": "",
-    "validated": false
-  },
-  "w-koka": {
-    "maori": "kōkā",
-    "english": "mother (formal)",
-    "example": "Kei te marae taku kōkā.",
-    "exampleTranslation": "My mother is at the marae.",
-    "note": "More formal term for mother, often used in formal settings"
-  },
-  "w-koroua": {
-    "maori": "koroua",
-    "english": "elderly man, grandfather",
-    "example": "He korero pūrākau taku koroua.",
-    "exampleTranslation": "My grandfather tells stories.",
-    "note": "Often the storyteller and holder of family history",
-    "validated": false
-  },
-  "w-kuia": {
-    "maori": "kuia",
-    "english": "elderly woman, grandmother",
-    "example": "He mātau taku kuia ki te raranga.",
-    "exampleTranslation": "My grandmother is skilled at weaving.",
-    "note": "An important role in Māori society, keeper of knowledge",
-    "validated": false
-  },
-  "w-mokopuna": {
-    "maori": "mokopuna",
-    "english": "grandchild",
-    "example": "Ko ia te mokopuna tuatahi.",
-    "exampleTranslation": "He/she is the first grandchild.",
-    "note": "Highly valued in Māori culture as the continuation of the family line",
-    "validated": false
-  },
-  "w-tuahine": {
-    "maori": "tuahine",
-    "english": "sister (of a male)",
-    "example": "Kei te kura taku tuahine.",
-    "exampleTranslation": "My sister is at school.",
-    "note": "Used by male speakers to refer to their sisters",
-    "validated": false
-  },
-  "w-tungane": {
-    "maori": "tungāne",
-    "english": "brother (of a female)",
-    "example": "Kei hea tō tungāne?",
-    "exampleTranslation": "Where is your brother?",
-    "note": "Used by female speakers to refer to their brothers"
-  },
-  "w-hiainu": {
-    "maori": "hiainu",
-    "english": "thirsty"
-  },
-  "w-hiakai": {
-    "maori": "hiakai",
-    "english": "hungry"
-  },
-  "w-hiamoe": {
-    "maori": "hiamoe",
-    "english": "sleepy"
-  },
-  "w-mauiui": {
-    "maori": "māuiui",
-    "english": "sick"
-  },
-  "w-ngenge": {
-    "maori": "ngenge",
-    "english": "tired"
-  },
-  "w-pouri": {
-    "maori": "pōuri",
-    "english": "sad"
-  },
-  "w-pukuriri": {
-    "maori": "pukuriri",
-    "english": "angry"
-  },
-  "w-wera": {
-    "maori": "wera",
-    "english": "hot",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-a": {
     "maori": "a",
     "english": "the [[ref|nominal particle|puingoa]] used before names and pronouns",
@@ -208,6 +87,166 @@
     "note": "",
     "validated": true
   },
+  "w-aahei": {
+    "maori": "āhei",
+    "english": "to be able, to be allowed",
+    "example": "Ka āhei koe ki te haere.",
+    "exampleTranslation": "You are able to go.",
+    "note": "Describes ability or permission.",
+    "validated": true
+  },
+  "w-aahua": {
+    "maori": "āhua",
+    "english": "shape, form, appearance, character",
+    "example": "He āhua rerekē tōna.",
+    "exampleTranslation": "Its appearance is different.",
+    "note": "",
+    "validated": true
+  },
+  "w-aahuatanga": {
+    "maori": "āhuatanga",
+    "english": "characteristic, feature, circumstance, property",
+    "example": "He āhuatanga o te ao Māori tēnei.",
+    "exampleTranslation": "This is a characteristic of the Māori world.",
+    "note": "Formed from āhua + [[ref|nominal suffix|nominalisation]] -tanga.",
+    "validated": true
+  },
+  "w-aakau": {
+    "maori": "ākau",
+    "english": "shore, coast",
+    "example": "Ka ruha te kupenga, ka pae kei te ākau.",
+    "exampleTranslation": "When the old net is worn out, it is thrown away on the shore.",
+    "note": "",
+    "validated": true
+  },
+  "w-aakonga": {
+    "maori": "ākonga",
+    "english": "student, learner",
+    "example": "He ākonga ahau i te kura.",
+    "exampleTranslation": "I am a student at the school.",
+    "note": "",
+    "validated": true
+  },
+  "w-aaku": {
+    "maori": "āku",
+    "english": "my (plural ā category possession)",
+    "example": "Kei hea āku pukapuka?",
+    "exampleTranslation": "Where are my books?",
+    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'au' which is the tūkapi kiritūnei takitahi (singular first person pronoun).",
+    "validated": true
+  },
+  "w-aakuanei": {
+    "maori": "ākuanei",
+    "english": "soon, presently, shortly",
+    "example": "Ka haere mai ia ākuanei.",
+    "exampleTranslation": "He/she will come soon.",
+    "note": "Indicates near future time.",
+    "validated": true
+  },
+  "w-aana": {
+    "maori": "āna",
+    "english": "his/her/their (plural ā category possession)",
+    "example": "Kei hea āna pukapuka?",
+    "exampleTranslation": "Where are her books?",
+    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'ia' which is the tūkapi kiritūrā takitahi (singular third person pronoun).",
+    "validated": true
+  },
+  "w-aanaa": {
+    "maori": "ānā",
+    "english": "there, by you",
+    "example": "Ānā, kei a koe.",
+    "exampleTranslation": "There, it's with you.",
+    "note": "Sometimes 'anā' is used instead. Refer to [[ref|Ānei, ānā, arā|anei-ana-ara]] for more detail.",
+    "validated": true
+  },
+  "w-aanei": {
+    "maori": "ānei",
+    "english": "here (by me)",
+    "example": "Anei tō pukapuka.",
+    "exampleTranslation": "Here is your book.",
+    "note": "Sometimes \"anei\" is used instead. Refer to [[ref|Ānei, ānā, arā|anei-ana-ara]] for more detail.",
+    "validated": true
+  },
+  "w-aapoopoo": {
+    "maori": "āpōpō",
+    "english": "tomorrow",
+    "example": "Ka haere au āpōpō.",
+    "exampleTranslation": "I will go tomorrow.",
+    "note": "",
+    "validated": true
+  },
+  "w-aaporo": {
+    "maori": "āporo",
+    "english": "apple",
+    "example": "He āporo kākāriki tēnei.",
+    "exampleTranslation": "This is a green apple.",
+    "note": "",
+    "validated": true
+  },
+  "w-aarahi": {
+    "maori": "ārahi",
+    "english": "to lead, guide",
+    "example": "Ko te ahurei o te tamaiti ka ārahi i ā tātou mahi.",
+    "exampleTranslation": "Let the uniqueness of the child guide our work.",
+    "note": "",
+    "validated": true
+  },
+  "w-aarai": {
+    "maori": "ārai",
+    "english": "1) curtain\n2) to screen off\n3) to block, obstruct or prevent",
+    "example": "He ārai hou tēnei.",
+    "exampleTranslation": "This is a new curtain.",
+    "note": "Refers to something that blocks or prevents. For example, one term for sunblock is \"ārai tīkākā\" while immunity is \"ārai mate\" where \"mate\" is sickness.",
+    "validated": true
+  },
+  "w-aata": {
+    "maori": "āta",
+    "english": "gently, carefully, deliberately",
+    "example": "Āta haere.",
+    "exampleTranslation": "Go carefully.",
+    "note": "",
+    "validated": true
+  },
+  "w-aataahua": {
+    "maori": "ātaahua",
+    "english": "beautiful",
+    "example": "He kōtiro ātaahua ia.",
+    "exampleTranslation": "She is a beautiful girl.",
+    "note": "",
+    "validated": true
+  },
+  "w-aatea": {
+    "maori": "ātea",
+    "english": "1) open space\n2) outer space",
+    "example": "Kei te ātea te hui.",
+    "exampleTranslation": "The meeting is in the open space.",
+    "note": "Refers to open areas or, in modern usage, outer space. The marae ātea is the open area in front of the wharenui on a marae.",
+    "validated": true
+  },
+  "w-aau": {
+    "maori": "āu",
+    "english": "your (plural ā category possession)",
+    "example": "Kei hea āu pukapuka?",
+    "exampleTranslation": "Where are your books?",
+    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
+    "validated": true
+  },
+  "w-aawangawanga": {
+    "maori": "āwangawanga",
+    "english": "worried, anxious",
+    "example": "Kei te āwangawanga au.",
+    "exampleTranslation": "I am worried.",
+    "note": "",
+    "validated": true
+  },
+  "w-aawhina": {
+    "maori": "āwhina",
+    "english": "to help",
+    "example": "Kei te āwhina ngā tamariki i ō rātou mātua.",
+    "exampleTranslation": "The children are helping their parents.",
+    "note": "",
+    "validated": true
+  },
   "w-aha": {
     "maori": "aha",
     "english": "what?",
@@ -238,14 +277,6 @@
     "example": "Ko ahau te kaiwhakahaere.",
     "exampleTranslation": "I am the manager.",
     "note": "This is one form of the tūkapi kaupare kiritūnei takitahi (singular first person exclusive [[ref|pronoun|tukapi]]) in te reo Māori. It's almost identical to au, except that where you would say \"a au\" you instead omit the \"a\" and just use \"ahau\".",
-    "validated": true
-  },
-  "w-aahei": {
-    "maori": "āhei",
-    "english": "to be able, to be allowed",
-    "example": "Ka āhei koe ki te haere.",
-    "exampleTranslation": "You are able to go.",
-    "note": "Describes ability or permission.",
     "validated": true
   },
   "w-ahi": {
@@ -280,22 +311,6 @@
     "note": "",
     "validated": true
   },
-  "w-aahua": {
-    "maori": "āhua",
-    "english": "shape, form, appearance, character",
-    "example": "He āhua rerekē tōna.",
-    "exampleTranslation": "Its appearance is different.",
-    "note": "",
-    "validated": true
-  },
-  "w-aahuatanga": {
-    "maori": "āhuatanga",
-    "english": "characteristic, feature, circumstance, property",
-    "example": "He āhuatanga o te ao Māori tēnei.",
-    "exampleTranslation": "This is a characteristic of the Māori world.",
-    "note": "Formed from āhua + [[ref|nominal suffix|nominalisation]] -tanga.",
-    "validated": true
-  },
   "w-ai": {
     "maori": "ai",
     "english": "verbal particle with a range of uses",
@@ -304,7 +319,7 @@
     "note": "The verbal particle \"[[ref|a\"|ai]]\" has a range of different uses.",
     "validated": true
   },
-  "w-aihikirimi": {
+  "w-aihikiriimi": {
     "maori": "aihikirīmi",
     "english": "ice cream",
     "example": "He pai ki ahau te aihikirīmi.",
@@ -312,19 +327,11 @@
     "note": "",
     "validated": true
   },
-  "w-aitua": {
+  "w-aituaa": {
     "maori": "aituā",
     "english": "1) disaster, accident, mishap\n2) to suffer an accident or disaster",
     "example": "He aituā nui tēnā.",
     "exampleTranslation": "That was a big accident.",
-    "note": "",
-    "validated": true
-  },
-  "w-aakau": {
-    "maori": "ākau",
-    "english": "shore, coast",
-    "example": "Ka ruha te kupenga, ka pae kei te ākau.",
-    "exampleTranslation": "When the old net is worn out, it is thrown away on the shore.",
     "note": "",
     "validated": true
   },
@@ -344,14 +351,6 @@
     "note": "Can mean both learning and teaching.",
     "validated": true
   },
-  "w-aakonga": {
-    "maori": "ākonga",
-    "english": "student, learner",
-    "example": "He ākonga ahau i te kura.",
-    "exampleTranslation": "I am a student at the school.",
-    "note": "",
-    "validated": true
-  },
   "w-akoranga": {
     "maori": "akoranga",
     "english": "lesson, subject",
@@ -366,22 +365,6 @@
     "example": "Kei hea aku pukapuka?",
     "exampleTranslation": "Where are my books?",
     "note": "This is a neutral [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'au' which is the tūkapi kiritūnei takitahi (singular first person pronoun).",
-    "validated": true
-  },
-  "w-aaku": {
-    "maori": "āku",
-    "english": "my (plural ā category possession)",
-    "example": "Kei hea āku pukapuka?",
-    "exampleTranslation": "Where are my books?",
-    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'au' which is the tūkapi kiritūnei takitahi (singular first person pronoun).",
-    "validated": true
-  },
-  "w-aakuanei": {
-    "maori": "ākuanei",
-    "english": "soon, presently, shortly",
-    "example": "Ka haere mai ia ākuanei.",
-    "exampleTranslation": "He/she will come soon.",
-    "note": "Indicates near future time.",
     "validated": true
   },
   "w-ana": {
@@ -400,36 +383,12 @@
     "note": "Multiple uses. A verbal particle which marks continuing action.",
     "validated": true
   },
-  "w-aana": {
-    "maori": "āna",
-    "english": "his/her/their (plural ā category possession)",
-    "example": "Kei hea āna pukapuka?",
-    "exampleTranslation": "Where are her books?",
-    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'ia' which is the tūkapi kiritūrā takitahi (singular third person pronoun).",
-    "validated": true
-  },
-  "w-aanaa": {
-    "maori": "ānā",
-    "english": "there, by you",
-    "example": "Ānā, kei a koe.",
-    "exampleTranslation": "There, it's with you.",
-    "note": "Sometimes 'anā' is used instead. Refer to [[ref|Ānei, ānā, arā|anei-ana-ara]] for more detail.",
-    "validated": true
-  },
   "w-anake": {
     "maori": "anake",
     "english": "only, just",
     "example": "Ko au anake kei konei.",
     "exampleTranslation": "Only I am here.",
     "note": "Used to indicate exclusivity or limitation.",
-    "validated": true
-  },
-  "w-anei": {
-    "maori": "ānei",
-    "english": "here (by me)",
-    "example": "Anei tō pukapuka.",
-    "exampleTranslation": "Here is your book.",
-    "note": "Sometimes \"anei\" is used instead. Refer to [[ref|Ānei, ānā, arā|anei-ana-ara]] for more detail.",
     "validated": true
   },
   "w-anga": {
@@ -464,22 +423,6 @@
     "note": "",
     "validated": true
   },
-  "w-aapoopoo": {
-    "maori": "āpōpō",
-    "english": "tomorrow",
-    "example": "Ka haere au āpōpō.",
-    "exampleTranslation": "I will go tomorrow.",
-    "note": "",
-    "validated": true
-  },
-  "w-aaporo": {
-    "maori": "āporo",
-    "english": "apple",
-    "example": "He āporo kākāriki tēnei.",
-    "exampleTranslation": "This is a green apple.",
-    "note": "",
-    "validated": true
-  },
   "w-ara": {
     "maori": "ara",
     "english": "1) path, road, way\n2) to rise",
@@ -494,22 +437,6 @@
     "example": "Arā te whare.",
     "exampleTranslation": "There is the house.",
     "note": "Indicates something at a distance from both speaker and listener.\n\nSee [[ref|ānei, ānā, arā|anei-ana-ara]].",
-    "validated": true
-  },
-  "w-aarahi": {
-    "maori": "ārahi",
-    "english": "to lead, guide",
-    "example": "Ko te ahurei o te tamaiti ka ārahi i ā tātou mahi.",
-    "exampleTranslation": "Let the uniqueness of the child guide our work.",
-    "note": "",
-    "validated": true
-  },
-  "w-aarai": {
-    "maori": "ārai",
-    "english": "1) curtain\n2) to screen off\n3) to block, obstruct or prevent",
-    "example": "He ārai hou tēnei.",
-    "exampleTranslation": "This is a new curtain.",
-    "note": "Refers to something that blocks or prevents. For example, one term for sunblock is \"ārai tīkākā\" while immunity is \"ārai mate\" where \"mate\" is sickness.",
     "validated": true
   },
   "w-ariki": {
@@ -544,36 +471,12 @@
     "note": "",
     "validated": true
   },
-  "w-aata": {
-    "maori": "āta",
-    "english": "gently, carefully, deliberately",
-    "example": "Āta haere.",
-    "exampleTranslation": "Go carefully.",
-    "note": "",
-    "validated": true
-  },
-  "w-aataahua": {
-    "maori": "ātaahua",
-    "english": "beautiful",
-    "example": "He kōtiro ātaahua ia.",
-    "exampleTranslation": "She is a beautiful girl.",
-    "note": "",
-    "validated": true
-  },
   "w-atawhai": {
     "maori": "atawhai",
     "english": "1) to show kindness, care for\n2) kind",
     "example": "He tangata atawhai ia.",
     "exampleTranslation": "They are a kind person.",
     "note": "",
-    "validated": true
-  },
-  "w-aatea": {
-    "maori": "ātea",
-    "english": "1) open space\n2) outer space",
-    "example": "Kei te ātea te hui.",
-    "exampleTranslation": "The meeting is in the open space.",
-    "note": "Refers to open areas or, in modern usage, outer space. The marae ātea is the open area in front of the wharenui on a marae.",
     "validated": true
   },
   "w-atu": {
@@ -598,14 +501,6 @@
     "example": "Ko wai au?",
     "exampleTranslation": "Who am I?",
     "note": "This is one form of the tūkapi kaupare kiritūnei takitahi (singular first person exclusive [[ref|pronoun|tukapi]]) in te reo Māori. An alternative form of it is \"ahau\".",
-    "validated": true
-  },
-  "w-aau": {
-    "maori": "āu",
-    "english": "your (plural ā category possession)",
-    "example": "Kei hea āu pukapuka?",
-    "exampleTranslation": "Where are your books?",
-    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
     "validated": true
   },
   "w-aua": {
@@ -648,14 +543,6 @@
     "note": "",
     "validated": true
   },
-  "w-aawangawanga": {
-    "maori": "āwangawanga",
-    "english": "worried, anxious",
-    "example": "Kei te āwangawanga au.",
-    "exampleTranslation": "I am worried.",
-    "note": "",
-    "validated": true
-  },
   "w-awatea": {
     "maori": "awatea",
     "english": "daylight, middle of the day",
@@ -672,36 +559,12 @@
     "note": "",
     "validated": true
   },
-  "w-aawhina": {
-    "maori": "āwhina",
-    "english": "to help",
-    "example": "Kei te āwhina ngā tamariki i ō rātou mātua.",
-    "exampleTranslation": "The children are helping their parents.",
-    "note": "",
-    "validated": true
-  },
   "w-e": {
     "maori": "e",
     "english": "1) verbal particle\n2) marks short verbs as commands\n2) vocative (used before name to address someone)\n3) by (marks agent in passive sentences)",
     "example": "E noho!",
     "exampleTranslation": "Sit!",
     "note": "",
-    "validated": true
-  },
-  "w-ehara": {
-    "maori": "ehara",
-    "english": "1) not, negative marker\n  2) sure enough, for sure",
-    "example": "Ehara tēnei i taku pukapuka.",
-    "exampleTranslation": "This is not my book.",
-    "note": "Used to negate nominal sentences (sentences with nouns as predicates). See [[ref|whakakāhoretanga|whakakahoretanga]] (negation).",
-    "validated": true
-  },
-  "w-eke": {
-    "maori": "eke",
-    "english": "1) to climb up on\n2) to embark",
-    "example": "Ka eke ia ki runga i te pahi.",
-    "exampleTranslation": "She will get onto the bus.",
-    "note": "Used for mounting, embarking, boarding. Often combined with other words such as eke ngaru (surf), eke paihikara (cycle) and eke hōiho (horse riding).",
     "validated": true
   },
   "w-eenaa": {
@@ -718,14 +581,6 @@
     "example": "Ko ēnei āku pukapuka.",
     "exampleTranslation": "These are my books.",
     "note": "[[ref|Position definitive|demonstrative-determiners]] for objects near speaker",
-    "validated": true
-  },
-  "w-engari": {
-    "maori": "engari",
-    "english": "but, however",
-    "example": "Kei te ngenge ahau, engari ka haere tonu.",
-    "exampleTranslation": "I am tired, but I will continue on.",
-    "note": "",
     "validated": true
   },
   "w-eeraa": {
@@ -752,6 +607,30 @@
     "note": "Variant form of \"ētahi\"",
     "validated": true
   },
+  "w-ehara": {
+    "maori": "ehara",
+    "english": "1) not, negative marker\n  2) sure enough, for sure",
+    "example": "Ehara tēnei i taku pukapuka.",
+    "exampleTranslation": "This is not my book.",
+    "note": "Used to negate nominal sentences (sentences with nouns as predicates). See [[ref|whakakāhoretanga|whakakahoretanga]] (negation).",
+    "validated": true
+  },
+  "w-eke": {
+    "maori": "eke",
+    "english": "1) to climb up on\n2) to embark",
+    "example": "Ka eke ia ki runga i te pahi.",
+    "exampleTranslation": "She will get onto the bus.",
+    "note": "Used for mounting, embarking, boarding. Often combined with other words such as eke ngaru (surf), eke paihikara (cycle) and eke hōiho (horse riding).",
+    "validated": true
+  },
+  "w-engari": {
+    "maori": "engari",
+    "english": "but, however",
+    "example": "Kei te ngenge ahau, engari ka haere tonu.",
+    "exampleTranslation": "I am tired, but I will continue on.",
+    "note": "",
+    "validated": true
+  },
   "w-ha": {
     "maori": "ha",
     "english": "oh! what!",
@@ -768,20 +647,92 @@
     "note": "",
     "validated": true
   },
-  "w-haere": {
-    "maori": "haere",
-    "english": "to go, come",
-    "example": "Haere mai ki konei.",
-    "exampleTranslation": "Come here.",
-    "note": "",
-    "validated": true
-  },
   "w-haaereere": {
     "maori": "hāereere",
     "english": "to wander, roam about",
     "example": "Kei te hāereere rātou i te ngahere.",
     "exampleTranslation": "They are wandering in the forest.",
     "note": "Reduplication indicating continuous action",
+    "validated": true
+  },
+  "w-haakari": {
+    "maori": "hākari",
+    "english": "feast, celebration meal",
+    "example": "Nō muri i te hui, ka tū te hākari.",
+    "exampleTranslation": "After the meeting, a feast was held.",
+    "note": "",
+    "validated": true
+  },
+  "w-haakinakina": {
+    "maori": "hākinakina",
+    "english": "sport, recreation",
+    "example": "He pai ki a au ngā momo hākinakina katoa.",
+    "exampleTranslation": "I like all types of sports.",
+    "note": "",
+    "validated": true
+  },
+  "w-haamama": {
+    "maori": "hāmama",
+    "english": "1) to shout, open the mouth\n2) open, gaping",
+    "example": "Ki te kore koe e whakarongo mai, ka hāmama tōku waha.",
+    "exampleTranslation": "If you don't listen, I will shout.",
+    "note": "With verbs for shouting, the doer isn't the person, it's the mouth.",
+    "validated": true
+  },
+  "w-haangai": {
+    "maori": "hāngai",
+    "english": "opposite, facing",
+    "example": "I tū hāngai te whare ki te moana.",
+    "exampleTranslation": "The house stood directly facing the sea.",
+    "note": "",
+    "validated": true
+  },
+  "w-haangi": {
+    "maori": "hāngi",
+    "english": "earth oven, food cooked in earth oven",
+    "example": "Ka timata te hāngi āpōpō i te ata.",
+    "exampleTranslation": "The hāngi will start tomorrow morning.",
+    "note": "",
+    "validated": true
+  },
+  "w-haaora": {
+    "maori": "hāora",
+    "english": "1) hour\n2) oxygen",
+    "example": "Ka hoki mai au i te rua hāora.",
+    "exampleTranslation": "I will return in two hours.",
+    "note": "",
+    "validated": true
+  },
+  "w-haaparangi": {
+    "maori": "hāparangi",
+    "english": "to shout, bawl",
+    "example": "Kaua e hāparangi.",
+    "exampleTranslation": "Don't shout.",
+    "note": "With verbs for shouting, the doer isn't the person, it's the mouth.",
+    "validated": true
+  },
+  "w-haaunga": {
+    "maori": "hāunga",
+    "english": "besides, apart from",
+    "example": "I tae mai te katoa ki te hui, hāunga ko Mere.",
+    "exampleTranslation": "Everyone came to the meeting, except for Mere",
+    "note": "",
+    "validated": true
+  },
+  "w-haawhe": {
+    "maori": "hāwhe",
+    "english": "half",
+    "example": "Homai te hāwhe o te keke.",
+    "exampleTranslation": "Give me half of the cake.",
+    "note": "",
+    "validated": true
+  },
+  "w-haere": {
+    "maori": "haere",
+    "english": "to go, come",
+    "example": "Haere mai ki konei.",
+    "exampleTranslation": "Come here.",
+    "note": "",
     "validated": true
   },
   "w-haerenga": {
@@ -816,14 +767,6 @@
     "note": "",
     "validated": true
   },
-  "w-haakari": {
-    "maori": "hākari",
-    "english": "feast, celebration meal",
-    "example": "Nō muri i te hui, ka tū te hākari.",
-    "exampleTranslation": "After the meeting, a feast was held.",
-    "note": "",
-    "validated": true
-  },
   "w-haki": {
     "maori": "haki",
     "english": "flag",
@@ -832,35 +775,11 @@
     "note": "Derived from \"Jack\" - an abbreviation of \"Union Jack\".",
     "validated": true
   },
-  "w-haakinakina": {
-    "maori": "hākinakina",
-    "english": "sport, recreation",
-    "example": "He pai ki a au ngā momo hākinakina katoa.",
-    "exampleTranslation": "I like all types of sports.",
-    "note": "",
-    "validated": true
-  },
-  "w-haamama": {
-    "maori": "hāmama",
-    "english": "1) to shout, open the mouth\n2) open, gaping",
-    "example": "Ki te kore koe e whakarongo mai, ka hāmama tōku waha.",
-    "exampleTranslation": "If you don't listen, I will shout.",
-    "note": "With verbs for shouting, the doer isn't the person, it's the mouth.",
-    "validated": true
-  },
   "w-hanga": {
     "maori": "hanga",
     "english": "to build, erect, make",
     "example": "Kei te hanga whare rātou.",
     "exampleTranslation": "They are building a house.",
-    "note": "",
-    "validated": true
-  },
-  "w-haangai": {
-    "maori": "hāngai",
-    "english": "opposite, facing",
-    "example": "I tū hāngai te whare ki te moana.",
-    "exampleTranslation": "The house stood directly facing the sea.",
     "note": "",
     "validated": true
   },
@@ -880,36 +799,12 @@
     "note": "",
     "validated": true
   },
-  "w-haangi": {
-    "maori": "hāngi",
-    "english": "earth oven, food cooked in earth oven",
-    "example": "Ka timata te hāngi āpōpō i te ata.",
-    "exampleTranslation": "The hāngi will start tomorrow morning.",
-    "note": "",
-    "validated": true
-  },
   "w-hao": {
     "maori": "hao",
     "english": "to gather, to catch (as in fishing)",
     "example": "Kei te hao ika a Hemi.",
     "exampleTranslation": "James is catching fish.",
     "note": "",
-    "validated": true
-  },
-  "w-haaora": {
-    "maori": "hāora",
-    "english": "1) hour\n2) oxygen",
-    "example": "Ka hoki mai au i te rua hāora.",
-    "exampleTranslation": "I will return in two hours.",
-    "note": "",
-    "validated": true
-  },
-  "w-haaparangi": {
-    "maori": "hāparangi",
-    "english": "to shout, bawl",
-    "example": "Kaua e hāparangi.",
-    "exampleTranslation": "Don't shout.",
-    "note": "With verbs for shouting, the doer isn't the person, it's the mouth.",
     "validated": true
   },
   "w-hapuu": {
@@ -1000,14 +895,6 @@
     "note": "",
     "validated": true
   },
-  "w-haaunga": {
-    "maori": "hāunga",
-    "english": "besides, apart from",
-    "example": "I tae mai te katoa ki te hui, hāunga ko Mere.",
-    "exampleTranslation": "Everyone came to the meeting, except for Mere",
-    "note": "",
-    "validated": true
-  },
   "w-hauora": {
     "maori": "hauora",
     "english": "health, healthy",
@@ -1017,7 +904,7 @@
     "validated": true
   },
   "w-haurua": {
-    "maori": "haurua/hāwhe",
+    "maori": "haurua",
     "english": "half",
     "example": "Homai te haurua o te keke.",
     "exampleTranslation": "Give me half of the cake.",
@@ -1032,6 +919,14 @@
     "note": "The [[ref|pūnoa|pumau]] (indefinite article).",
     "validated": true
   },
+  "w-hea": {
+    "maori": "hea",
+    "english": "where?",
+    "example": "Kei hea tō whare?",
+    "exampleTranslation": "Where is your house?",
+    "note": "[[ref|Interrogative word|tupatai]] used to ask about location.",
+    "validated": true
+  },
   "w-hee": {
     "maori": "hē",
     "english": "wrong, error, mistake",
@@ -1040,12 +935,20 @@
     "note": "",
     "validated": true
   },
-  "w-hea": {
-    "maori": "hea",
-    "english": "where?",
-    "example": "Kei hea tō whare?",
-    "exampleTranslation": "Where is your house?",
-    "note": "[[ref|Interrogative word|tupatai]] used to ask about location.",
+  "w-heeki": {
+    "maori": "hēki",
+    "english": "egg",
+    "example": "E hia ngā hēki?",
+    "exampleTranslation": "How many eggs?",
+    "note": "",
+    "validated": true
+  },
+  "w-heeoi": {
+    "maori": "hēoi",
+    "english": "and so, therefore",
+    "example": "I hiahia ia ki te haere ki te takutai, hēoi ka timata te ua.",
+    "exampleTranslation": "She wanted to go to the beach, however it started to rain.",
+    "note": "",
     "validated": true
   },
   "w-hei": {
@@ -1080,27 +983,11 @@
     "note": "heke + nominal suffix -nga",
     "validated": true
   },
-  "w-heeki": {
-    "maori": "hēki",
-    "english": "egg",
-    "example": "E hia ngā hēki?",
-    "exampleTranslation": "How many eggs?",
-    "note": "",
-    "validated": true
-  },
   "w-hemo": {
     "maori": "hemo",
     "english": "to be dead, pass by, be gone",
     "example": "Kua hemo ia.",
     "exampleTranslation": "He has died.",
-    "note": "",
-    "validated": true
-  },
-  "w-heoi": {
-    "maori": "hēoi",
-    "english": "and so, therefore",
-    "example": "I hiahia ia ki te haere ki te takutai, hēoi ka timata te ua.",
-    "exampleTranslation": "She wanted to go to the beach, however it started to rain.",
     "note": "",
     "validated": true
   },
@@ -1120,14 +1007,6 @@
     "note": "Passive form of 'here' (to tie). Here + passive suffix -a.",
     "validated": true
   },
-  "w-hii": {
-    "maori": "hī",
-    "english": "to fish with a line",
-    "example": "I haere mātou ki te hī ika.",
-    "exampleTranslation": "We went fishing.",
-    "note": "",
-    "validated": true
-  },
   "w-hia": {
     "maori": "hia",
     "english": "how many?",
@@ -1141,6 +1020,46 @@
     "english": "to want, desire",
     "example": "Kei te hiahia au ki te kai.",
     "exampleTranslation": "I want to eat.",
+    "note": "",
+    "validated": true
+  },
+  "w-hiainu": {
+    "maori": "hiainu",
+    "english": "thirsty",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-hiakai": {
+    "maori": "hiakai",
+    "english": "hungry",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-hiamoe": {
+    "maori": "hiamoe",
+    "english": "sleepy",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-hii": {
+    "maori": "hī",
+    "english": "to fish with a line",
+    "example": "I haere mātou ki te hī ika.",
+    "exampleTranslation": "We went fishing.",
+    "note": "",
+    "validated": true
+  },
+  "w-hiikoi": {
+    "maori": "hīkoi",
+    "english": "to walk, to step, to march",
+    "example": "I hīkoi mātou ki te marae.",
+    "exampleTranslation": "We walked to the marae.",
     "note": "",
     "validated": true
   },
@@ -1165,14 +1084,6 @@
     "english": "1) lightning, to flash\n2) electricity",
     "example": "He taputapu hiko tēnei.",
     "exampleTranslation": "This is an electrical device.",
-    "note": "",
-    "validated": true
-  },
-  "w-hiikoi": {
-    "maori": "hīkoi",
-    "english": "to walk, to step, to march",
-    "example": "I hīkoi mātou ki te marae.",
-    "exampleTranslation": "We walked to the marae.",
     "note": "",
     "validated": true
   },
@@ -1248,38 +1159,6 @@
     "note": "",
     "validated": true
   },
-  "w-hoohaa": {
-    "maori": "hōhā",
-    "english": "to be annoyed",
-    "example": "Kei te hōhā au ki a ia.",
-    "exampleTranslation": "I am annoyed with him/her.",
-    "note": "",
-    "validated": true
-  },
-  "w-hoohonu": {
-    "maori": "hōhonu",
-    "english": "1) deep\n2) esoteric",
-    "example": "He hōhonu te awa.",
-    "exampleTranslation": "The river is deep.",
-    "note": "Describes significant depth, physically or metaphorically.",
-    "validated": true
-  },
-  "w-hooia": {
-    "maori": "hōia",
-    "english": "soldier, warrior",
-    "example": "He hōia ia i te pakanga.",
-    "exampleTranslation": "He was a soldier in the war.",
-    "note": "",
-    "validated": true
-  },
-  "w-hooiho": {
-    "maori": "hōiho",
-    "english": "horse",
-    "example": "Kei te oma te hōiho.",
-    "exampleTranslation": "The horse is running.",
-    "note": "",
-    "validated": true
-  },
   "w-hoki": {
     "maori": "hoki",
     "english": "1) to return\n2) also, too, as well",
@@ -1320,20 +1199,52 @@
     "note": "Passive form of 'hoko' (to buy/sell). hoko + passive suffix -na",
     "validated": true
   },
-  "w-hoomai": {
-    "maori": "hōmai",
-    "english": "to give (to speaker)",
-    "example": "Hōmai te pakipaki.",
-    "exampleTranslation": "Give a round of applause.",
-    "note": "Directional verb indicating giving toward the speaker.",
-    "validated": true
-  },
   "w-hono": {
     "maori": "hono",
     "english": "to join together",
     "example": "Ka hono ngā awa e rua.",
     "exampleTranslation": "The two rivers join.",
     "note": "",
+    "validated": true
+  },
+  "w-hoohaa": {
+    "maori": "hōhā",
+    "english": "to be annoyed",
+    "example": "Kei te hōhā au ki a ia.",
+    "exampleTranslation": "I am annoyed with him/her.",
+    "note": "",
+    "validated": true
+  },
+  "w-hoohonu": {
+    "maori": "hōhonu",
+    "english": "1) deep\n2) esoteric",
+    "example": "He hōhonu te awa.",
+    "exampleTranslation": "The river is deep.",
+    "note": "Describes significant depth, physically or metaphorically.",
+    "validated": true
+  },
+  "w-hooia": {
+    "maori": "hōia",
+    "english": "soldier, warrior",
+    "example": "He hōia ia i te pakanga.",
+    "exampleTranslation": "He was a soldier in the war.",
+    "note": "",
+    "validated": true
+  },
+  "w-hooiho": {
+    "maori": "hōiho",
+    "english": "horse",
+    "example": "Kei te oma te hōiho.",
+    "exampleTranslation": "The horse is running.",
+    "note": "",
+    "validated": true
+  },
+  "w-hoomai": {
+    "maori": "hōmai",
+    "english": "to give (to speaker)",
+    "example": "Hōmai te pakipaki.",
+    "exampleTranslation": "Give a round of applause.",
+    "note": "Directional verb indicating giving toward the speaker.",
     "validated": true
   },
   "w-hopu": {
@@ -1365,14 +1276,6 @@
     "english": "new",
     "example": "He whare hou tēnei.",
     "exampleTranslation": "This is a new house.",
-    "note": "",
-    "validated": true
-  },
-  "w-huu": {
-    "maori": "hū",
-    "english": "shoe",
-    "example": "He pai ō hū.",
-    "exampleTranslation": "Your shoes are nice.",
     "note": "",
     "validated": true
   },
@@ -1469,6 +1372,14 @@
     "english": "1) body hair, fur\n2) feather",
     "example": "He ao te rangi ka uhia a ma te huruhuru te manu ka rere ai.",
     "exampleTranslation": "It requires clouds to clothe heaven and feathers to make a bird fly.",
+    "note": "",
+    "validated": true
+  },
+  "w-huu": {
+    "maori": "hū",
+    "english": "shoe",
+    "example": "He pai ō hū.",
+    "exampleTranslation": "Your shoes are nice.",
     "note": "",
     "validated": true
   },
@@ -1624,20 +1535,164 @@
     "note": "",
     "validated": true
   },
+  "w-kaahore": {
+    "maori": "kāhore",
+    "english": "not (negative for verb sentences)",
+    "example": "Kāhore au i te haere.",
+    "exampleTranslation": "I am not going.",
+    "note": "The main negative marker for verbal sentences.",
+    "validated": false
+  },
+  "w-kaainga": {
+    "maori": "kāinga",
+    "english": "home",
+    "example": "Kei te haere au ki te kāinga.",
+    "exampleTranslation": "I am going home.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaakaariki": {
+    "maori": "kākāriki",
+    "english": "green",
+    "example": "He kākāriki te rākau.",
+    "exampleTranslation": "The tree is green.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaakahu": {
+    "maori": "kākahu",
+    "english": "clothing, garment",
+    "example": "He hou ōna kākahu.",
+    "exampleTranslation": "Her clothes are new.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaakano": {
+    "maori": "kākano",
+    "english": "seed",
+    "example": "Whakatōkia te kākano.",
+    "exampleTranslation": "Plant the seed.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaanga": {
+    "maori": "kānga",
+    "english": "corn",
+    "example": "He reka te kānga.",
+    "exampleTranslation": "The corn is delicious.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaao": {
+    "maori": "kāo",
+    "english": "no",
+    "example": "Kāo, kāore au e haere ana.",
+    "exampleTranslation": "No, I am not going.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaaore": {
+    "maori": "kāore",
+    "english": "not - negative used for verb sentences",
+    "example": "Kāore rātou i tae mai ki te hui.",
+    "exampleTranslation": "They did not come to the meeting.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaapata": {
+    "maori": "kāpata",
+    "english": "cupboard",
+    "example": "Kei roto i te kāpata.",
+    "exampleTranslation": "It is inside the cupboard.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaapene": {
+    "maori": "kāpene",
+    "english": "captain",
+    "example": "Ko wai te kāpene o te waka?",
+    "exampleTranslation": "Who is the captain of the ship?",
+    "note": "",
+    "validated": true
+  },
+  "w-kaapia": {
+    "maori": "kāpia",
+    "english": "glue",
+    "example": "Homai te kāpia.",
+    "exampleTranslation": "Give me the glue.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaare": {
+    "maori": "kāre",
+    "english": "not - negative word",
+    "example": "Kāre au e mōhio ki hea ka tīmata.",
+    "exampleTranslation": "I don't know where to start",
+    "note": "Synonym for kāore.",
+    "validated": true
+  },
+  "w-kaareti": {
+    "maori": "kāreti",
+    "english": "1) carrot\n2) college",
+    "example": "He pai ki te rāpeti te kai kāreti.",
+    "exampleTranslation": "The rabbit likes eating carrots.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaari": {
+    "maori": "kāri",
+    "english": "card, playing card",
+    "example": "Riwhiriwhia ngā kāri.",
+    "exampleTranslation": "Riffle (shuffle) the cards.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaatahi": {
+    "maori": "kātahi",
+    "english": "then",
+    "example": "Ka kai ia, kātahi ka moe.",
+    "exampleTranslation": "He eats, and then sleeps.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaati": {
+    "maori": "kāti",
+    "english": "stop, cease (as an interjection or negative command)",
+    "example": "Kāti te katakata!",
+    "exampleTranslation": "Stop laughing!",
+    "note": "",
+    "validated": true
+  },
+  "w-kaawana": {
+    "maori": "kāwana",
+    "english": "government, governor",
+    "example": "He kaupapa tēnei nā te kāwana.",
+    "exampleTranslation": "This is a government initiative.",
+    "note": "",
+    "validated": true
+  },
+  "w-kaawanatanga": {
+    "maori": "kāwanatanga",
+    "english": "government",
+    "example": "He rerekē ngā momo kāwanatanga huri noa i te ao.",
+    "exampleTranslation": "There are different types of government around the world.",
+    "note": "kāwana + nominal suffix \"-tanga\"",
+    "validated": true
+  },
+  "w-kaawhe": {
+    "maori": "kāwhe",
+    "english": "calf",
+    "example": "He kāwhe hou tēnei i te pāmu.",
+    "exampleTranslation": "This is a new calf on the farm.",
+    "note": "",
+    "validated": true
+  },
   "w-kaha": {
     "maori": "kaha",
     "english": "strong, able, courageous",
     "example": "He tangata kaha ia.",
     "exampleTranslation": "She is a strong person.",
     "note": "",
-    "validated": true
-  },
-  "w-kahore": {
-    "maori": "kāhore/kāore",
-    "english": "not (negative for verb sentences)",
-    "example": "Kāore au i te haere.",
-    "exampleTranslation": "I am not going.",
-    "note": "The main negative marker for verbal sentences.",
     "validated": true
   },
   "w-kahu": {
@@ -1672,7 +1727,7 @@
     "note": "From 'kai-' (agentive prefix) + 'ako' (to teach/learn).",
     "validated": true
   },
-  "w-kaikorero": {
+  "w-kaikoorero": {
     "maori": "kaikōrero",
     "english": "speaker, orator",
     "example": "He kaikōrero rongonui ia.",
@@ -1702,14 +1757,6 @@
     "example": "I kainga ngā pihikete e ngā tamariki.",
     "exampleTranslation": "The biscuits were eaten by the children. ",
     "note": "Passive form of \"kai\" (to eat).",
-    "validated": true
-  },
-  "w-kaainga": {
-    "maori": "kāinga",
-    "english": "home",
-    "example": "Kei te haere au ki te kāinga.",
-    "exampleTranslation": "I am going home.",
-    "note": "",
     "validated": true
   },
   "w-kaipuke": {
@@ -1768,35 +1815,11 @@
     "note": "From 'kai-' (agentive prefix) + 'whakahaere' (to manage).",
     "validated": true
   },
-  "w-kaakahu": {
-    "maori": "kākahu",
-    "english": "clothing, garment",
-    "example": "He hou ōna kākahu.",
-    "exampleTranslation": "Her clothes are new.",
-    "note": "",
-    "validated": true
-  },
-  "w-kaakano": {
-    "maori": "kākano",
-    "english": "seed",
-    "example": "Whakatōkia te kākano.",
-    "exampleTranslation": "Plant the seed.",
-    "note": "",
-    "validated": true
-  },
   "w-kakara": {
     "maori": "kakara",
     "english": "scent, smell",
     "example": "He kakara pai.",
     "exampleTranslation": "It smells good.",
-    "note": "",
-    "validated": true
-  },
-  "w-kaakaariki": {
-    "maori": "kākāriki",
-    "english": "green",
-    "example": "He kākāriki te rākau.",
-    "exampleTranslation": "The tree is green.",
     "note": "",
     "validated": true
   },
@@ -1832,14 +1855,6 @@
     "note": "",
     "validated": true
   },
-  "w-kaanga": {
-    "maori": "kānga",
-    "english": "corn",
-    "example": "He reka te kānga.",
-    "exampleTranslation": "The corn is delicious.",
-    "note": "",
-    "validated": true
-  },
   "w-kanikani": {
     "maori": "kanikani",
     "english": "to dance",
@@ -1864,22 +1879,6 @@
     "note": "",
     "validated": true
   },
-  "w-kao": {
-    "maori": "kāo",
-    "english": "no",
-    "example": "Kāo, kāore au e haere ana.",
-    "exampleTranslation": "No, I am not going.",
-    "note": "",
-    "validated": true
-  },
-  "w-kaaore": {
-    "maori": "kāore",
-    "english": "not - negative used for verb sentences",
-    "example": "Kāore rātou i tae mai ki te hui.",
-    "exampleTranslation": "They did not come to the meeting.",
-    "note": "",
-    "validated": true
-  },
   "w-kapa": {
     "maori": "kapa",
     "english": "group or row of people",
@@ -1888,35 +1887,11 @@
     "note": "",
     "validated": true
   },
-  "w-kaapata": {
-    "maori": "kāpata",
-    "english": "cupboard",
-    "example": "Kei roto i te kāpata.",
-    "exampleTranslation": "It is inside the cupboard.",
-    "note": "",
-    "validated": true
-  },
-  "w-kaapene": {
-    "maori": "kāpene",
-    "english": "captain",
-    "example": "Ko wai te kāpene o te waka?",
-    "exampleTranslation": "Who is the captain of the ship?",
-    "note": "",
-    "validated": true
-  },
   "w-kapi": {
     "maori": "kapi",
     "english": "to be covered/occupied/covered",
     "example": "Kua kapi te whare.",
     "exampleTranslation": "The house is full.",
-    "note": "",
-    "validated": true
-  },
-  "w-kaapia": {
-    "maori": "kāpia",
-    "english": "glue",
-    "example": "Homai te kāpia.",
-    "exampleTranslation": "Give me the glue.",
     "note": "",
     "validated": true
   },
@@ -2000,35 +1975,11 @@
     "note": "",
     "validated": true
   },
-  "w-kaare": {
-    "maori": "kāre",
-    "english": "not - negative word",
-    "example": "Kāre au e mōhio ki hea ka tīmata.",
-    "exampleTranslation": "I don't know where to start",
-    "note": "Synonym for kāore.",
-    "validated": true
-  },
   "w-karere": {
     "maori": "karere",
     "english": "messenger",
     "example": "I tae mai te karere me te kōrero nui.",
     "exampleTranslation": "The messenger arrived with important news.",
-    "note": "",
-    "validated": true
-  },
-  "w-kaareti": {
-    "maori": "kāreti",
-    "english": "1) carrot\n2) college",
-    "example": "He pai ki te rāpeti te kai kāreti.",
-    "exampleTranslation": "The rabbit likes eating carrots.",
-    "note": "",
-    "validated": true
-  },
-  "w-kaari": {
-    "maori": "kāri",
-    "english": "card, playing card",
-    "example": "Riwhiriwhia ngā kāri.",
-    "exampleTranslation": "Riffle (shuffle) the cards.",
     "note": "",
     "validated": true
   },
@@ -2048,27 +1999,11 @@
     "note": "",
     "validated": true
   },
-  "w-kaatahi": {
-    "maori": "kātahi",
-    "english": "then",
-    "example": "Ka kai ia, kātahi ka moe.",
-    "exampleTranslation": "He eats, and then sleeps.",
-    "note": "",
-    "validated": true
-  },
   "w-katakata": {
     "maori": "katakata",
     "english": "to laugh (frequently), laughter",
     "example": "Ko te katakata te rongoā pai rawa atu.",
     "exampleTranslation": "Laughter is the best medicine.",
-    "note": "",
-    "validated": true
-  },
-  "w-kaati": {
-    "maori": "kāti",
-    "english": "stop, cease (as an interjection or negative command)",
-    "example": "Kāti te katakata!",
-    "exampleTranslation": "Stop laughing!",
     "note": "",
     "validated": true
   },
@@ -2152,22 +2087,6 @@
     "note": "",
     "validated": true
   },
-  "w-kaawana": {
-    "maori": "kāwana",
-    "english": "government, governor",
-    "example": "He kaupapa tēnei nā te kāwana.",
-    "exampleTranslation": "This is a government initiative.",
-    "note": "",
-    "validated": true
-  },
-  "w-kaawanatanga": {
-    "maori": "kāwanatanga",
-    "english": "government",
-    "example": "He rerekē ngā momo kāwanatanga huri noa i te ao.",
-    "exampleTranslation": "There are different types of government around the world.",
-    "note": "kāwana + nominal suffix \"-tanga\"",
-    "validated": true
-  },
   "w-kawe": {
     "maori": "kawe",
     "english": "to carry",
@@ -2192,14 +2111,6 @@
     "note": "kawe + nominal suffix \"-nga\"",
     "validated": true
   },
-  "w-kaawhe": {
-    "maori": "kāwhe",
-    "english": "calf",
-    "example": "He kāwhe hou tēnei i te pāmu.",
-    "exampleTranslation": "This is a new calf on the farm.",
-    "note": "",
-    "validated": true
-  },
   "w-kee": {
     "maori": "kē",
     "english": "already, instead",
@@ -2213,6 +2124,14 @@
     "english": "ghost",
     "example": "He pai ki ngā tamariki ngā pūrākau kēhua.",
     "exampleTranslation": "Children like ghost stories.",
+    "note": "",
+    "validated": true
+  },
+  "w-keemu": {
+    "maori": "kēmu",
+    "english": "game",
+    "example": "He aha te ingoa o tēnei kēmu?",
+    "exampleTranslation": "What is the name of this game?",
     "note": "",
     "validated": true
   },
@@ -2240,14 +2159,6 @@
     "note": "",
     "validated": true
   },
-  "w-keemu": {
-    "maori": "kēmu",
-    "english": "game",
-    "example": "He aha te ingoa o tēnei kēmu?",
-    "exampleTranslation": "What is the name of this game?",
-    "note": "",
-    "validated": true
-  },
   "w-kete": {
     "maori": "kete",
     "english": "basket",
@@ -2264,20 +2175,20 @@
     "note": "A particle with a variety of different meanings, generally focused on motion towards something.",
     "validated": true
   },
-  "w-kii": {
-    "maori": "kī",
-    "english": "1) to say\n2) to be full",
-    "example": "He aha tāu i kī mai?",
-    "exampleTranslation": "What did you say?",
-    "note": "",
-    "validated": true
-  },
   "w-kia": {
     "maori": "kia",
     "english": "1) used to suggest something should be\n2) used to say how many things are needed\n3) used to indicate purpose",
     "example": "Kia pai te rā.",
     "exampleTranslation": "Have a good day.",
     "note": "A particle with a wide range of uses.",
+    "validated": true
+  },
+  "w-kii": {
+    "maori": "kī",
+    "english": "1) to say\n2) to be full",
+    "example": "He aha tāu i kī mai?",
+    "exampleTranslation": "What did you say?",
+    "note": "",
     "validated": true
   },
   "w-kiihai": {
@@ -2293,6 +2204,14 @@
     "english": "to be said",
     "example": "He aha te kupu i kīia?",
     "exampleTranslation": "What was the word that was said?",
+    "note": "",
+    "validated": true
+  },
+  "w-kikorangi": {
+    "maori": "kikorangi",
+    "english": "blue",
+    "example": "He kikorangi rawa te rangi i tēnei rā.",
+    "exampleTranslation": "The sky is very blue today.",
     "note": "",
     "validated": true
   },
@@ -2392,14 +2311,6 @@
     "note": "",
     "validated": false
   },
-  "w-koo": {
-    "maori": "kō",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-koa": {
     "maori": "koa",
     "english": "",
@@ -2424,22 +2335,6 @@
     "note": "",
     "validated": false
   },
-  "w-koohanga": {
-    "maori": "kōhanga",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-koohatu": {
-    "maori": "kōhatu",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-kohi": {
     "maori": "kohi",
     "english": "",
@@ -2450,14 +2345,6 @@
   },
   "w-kohikohi": {
     "maori": "kohikohi",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-koohua": {
-    "maori": "kōhua",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -2496,30 +2383,6 @@
     "note": "",
     "validated": false
   },
-  "w-kooiwi": {
-    "maori": "kōiwi",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-kookaa": {
-    "maori": "kōkā",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-kookiri": {
-    "maori": "kōkiri",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-konaa": {
     "maori": "konā",
     "english": "",
@@ -2544,16 +2407,64 @@
     "note": "",
     "validated": false
   },
-  "w-koopae": {
-    "maori": "kōpae",
+  "w-koo": {
+    "maori": "kō",
     "english": "",
     "example": "",
     "exampleTranslation": "",
     "note": "",
     "validated": false
   },
-  "w-kore": {
-    "maori": "kore",
+  "w-koohanga": {
+    "maori": "kōhanga",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-koohatu": {
+    "maori": "kōhatu",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-koohua": {
+    "maori": "kōhua",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-kooiwi": {
+    "maori": "kōiwi",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-kookaa": {
+    "maori": "kōkā",
+    "english": "mother (formal)",
+    "example": "Kei te marae taku kōkā.",
+    "exampleTranslation": "My mother is at the marae.",
+    "note": "More formal term for mother, often used in formal settings",
+    "validated": false
+  },
+  "w-kookiri": {
+    "maori": "kōkiri",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-koopae": {
+    "maori": "kōpae",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -2570,11 +2481,11 @@
   },
   "w-koorero": {
     "maori": "kōrero",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
+    "english": "to speak, talk",
+    "example": "Kei te kōrero Māori ia.",
+    "exampleTranslation": "He/she is speaking Māori.",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-koorerorero": {
     "maori": "kōrerorero",
@@ -2592,24 +2503,8 @@
     "note": "",
     "validated": false
   },
-  "w-koro": {
-    "maori": "koro",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-koorua": {
     "maori": "kōrua",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-kotahi": {
-    "maori": "kotahi",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -2632,16 +2527,48 @@
     "note": "",
     "validated": false
   },
-  "w-koutou": {
-    "maori": "koutou",
+  "w-koowhai": {
+    "maori": "kōwhai",
+    "english": "yellow",
+    "example": "He kōwhai ngā puāwai o te rākau kōwhai.",
+    "exampleTranslation": "The flowers of the kōwhai tree are yellow.",
+    "note": "Named after the kōwhai tree with its bright yellow flowers",
+    "validated": false
+  },
+  "w-kore": {
+    "maori": "kore",
     "english": "",
     "example": "",
     "exampleTranslation": "",
     "note": "",
     "validated": false
   },
-  "w-koowhai": {
-    "maori": "kōwhai",
+  "w-koro": {
+    "maori": "koro",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-koroua": {
+    "maori": "koroua",
+    "english": "elderly man, grandfather",
+    "example": "He korero pūrākau taku koroua.",
+    "exampleTranslation": "My grandfather tells stories.",
+    "note": "Often the storyteller and holder of family history",
+    "validated": false
+  },
+  "w-kotahi": {
+    "maori": "kotahi",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-koutou": {
+    "maori": "koutou",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -2672,6 +2599,14 @@
     "note": "",
     "validated": false
   },
+  "w-kuia": {
+    "maori": "kuia",
+    "english": "elderly woman, grandmother",
+    "example": "He mātau taku kuia ki te raranga.",
+    "exampleTranslation": "My grandmother is skilled at weaving.",
+    "note": "An important role in Māori society, keeper of knowledge",
+    "validated": false
+  },
   "w-kuini": {
     "maori": "kuini",
     "english": "",
@@ -2682,22 +2617,6 @@
   },
   "w-kukume": {
     "maori": "kukume",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-kuumara": {
-    "maori": "kūmara",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-kuupenga": {
-    "maori": "kūpenga",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -2728,13 +2647,213 @@
     "note": "",
     "validated": false
   },
-  "w-ma": {
+  "w-kuumara": {
+    "maori": "kūmara",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-kuupenga": {
+    "maori": "kūpenga",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-maa": {
     "maori": "mā",
     "english": "1) white\n2) clean\n3) particle used to indicate future possession\n4) particle used to indicate who will perform the action (actor emphatic)\n5) by means of, via\n5) particle used after nouns to mean \"and others\"",
     "example": "Mā wai e āwhina?",
     "exampleTranslation": "Who will help?",
     "note": "",
     "validated": true
+  },
+  "w-maahanga": {
+    "maori": "māhanga",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-maaharahara": {
+    "maori": "māharahara",
+    "english": "worried, anxious",
+    "example": "Kei te māharahara au.",
+    "exampleTranslation": "I am worried.",
+    "note": "",
+    "validated": true
+  },
+  "w-maahau": {
+    "maori": "māhau",
+    "english": "for you",
+    "example": "Māhau tēnei kaputī.",
+    "exampleTranslation": "This cup of tea is for you.",
+    "note": "Variant of māu.",
+    "validated": true
+  },
+  "w-maahunga": {
+    "maori": "māhunga",
+    "english": "head",
+    "example": "Kei te mamae tōku māhunga.",
+    "exampleTranslation": "My head hurts.",
+    "note": "",
+    "validated": true
+  },
+  "w-maaia": {
+    "maori": "māia",
+    "english": "capable, brave, bold",
+    "example": "He tangata māia ia.",
+    "exampleTranslation": "He is a brave person.",
+    "note": "",
+    "validated": true
+  },
+  "w-maaku": {
+    "maori": "māku",
+    "english": "for me, by me",
+    "example": "Māku e mahi tēnei.",
+    "exampleTranslation": "I will do this job.",
+    "note": "Indicates future action by the speaker or allocation to the speaker.",
+    "validated": true
+  },
+  "w-maamaa": {
+    "maori": "māmā",
+    "english": "1) mother\n2) easy",
+    "example": "Kei hea tō māmā?",
+    "exampleTranslation": "Where is your mother?",
+    "note": "",
+    "validated": true
+  },
+  "w-maana": {
+    "maori": "māna",
+    "english": "for him/her, by him/her",
+    "example": "Māna e kōrero.",
+    "exampleTranslation": "He/she will speak.",
+    "note": "Indicates future action by a third person or allocation to them.",
+    "validated": true
+  },
+  "w-maaori": {
+    "maori": "Māori",
+    "english": "Māori (people, language, culture)",
+    "example": "Ko te reo Māori te reo tuatahi o Aotearoa.",
+    "exampleTranslation": "The Māori language is the first language of New Zealand.",
+    "note": "Refers to the indigenous people of Aotearoa/New Zealand and their language and culture.",
+    "validated": true
+  },
+  "w-maaori-adj": {
+    "maori": "māori",
+    "english": "normal, ordinary, fresh (of water)",
+    "example": "He wai māori tēnei.",
+    "exampleTranslation": "This is fresh water.",
+    "note": "",
+    "validated": true
+  },
+  "w-maarama": {
+    "maori": "mārama",
+    "english": "1) clear\n2) to understand\n3) light, bright",
+    "example": "Kei te mārama koe?",
+    "exampleTranslation": "Do you understand?",
+    "note": "",
+    "validated": true
+  },
+  "w-maarika": {
+    "maori": "mārika",
+    "english": "quite, indeed, certainly",
+    "example": "Āe mārika.",
+    "exampleTranslation": "Yes indeed.",
+    "note": "",
+    "validated": true
+  },
+  "w-maaroo": {
+    "maori": "mārō",
+    "english": "to  be stiff, hard, unyielding",
+    "example": "He mārō tēnei rākau.",
+    "exampleTranslation": "This wood is hard.",
+    "note": "Describes physical hardness or firmness of character.",
+    "validated": true
+  },
+  "w-maataki": {
+    "maori": "mātaki",
+    "english": "to watch",
+    "example": "Mātaki mai.",
+    "exampleTranslation": "Watch here.",
+    "note": "",
+    "validated": true
+  },
+  "w-maatakitaki": {
+    "maori": "mātakitaki",
+    "english": "to watch, observe, examine",
+    "example": "Kei te mātakitaki mātou i te pouaka whakaata.",
+    "exampleTranslation": "We are watching television.",
+    "note": "",
+    "validated": true
+  },
+  "w-maatao": {
+    "maori": "mātao",
+    "english": "to be cold",
+    "example": "Kua mātao te kai.",
+    "exampleTranslation": "The food has gone cold.",
+    "note": "",
+    "validated": true
+  },
+  "w-maatau": {
+    "maori": "mātau",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-maatauranga": {
+    "maori": "mātauranga",
+    "english": "education, knowledge, skill",
+    "example": "He mātauranga Māori tēnei.",
+    "exampleTranslation": "This is Māori knowledge.",
+    "note": "",
+    "validated": true
+  },
+  "w-maatou": {
+    "maori": "mātou",
+    "english": "we, us (three or more, excluding addressee)",
+    "example": "Kei te haere mātou ki te kura.",
+    "exampleTranslation": "We are going to school.",
+    "note": "This is the tūkapi kaupare kiritūnei takitini (plural first person exclusive [[ref|pronoun|tukapi]]) in te reo Māori.",
+    "validated": true
+  },
+  "w-maatua": {
+    "maori": "mātua",
+    "english": "parents, fathers",
+    "example": "Kei te tautoko ō mātua i a koe.",
+    "exampleTranslation": "Your parents are supporting you.",
+    "note": "",
+    "validated": true
+  },
+  "w-maau": {
+    "maori": "māu",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-maaua": {
+    "maori": "māua",
+    "english": "we, us (two people, excluding addressee)",
+    "example": "Ka haere māua ki te tāone.",
+    "exampleTranslation": "We (two of us) are going to town.",
+    "note": "This is the tūkapi kaupare kiritūnei takirua (dual first person exclusive [[ref|pronoun|tukapi]]) in te reo Māori.",
+    "validated": true
+  },
+  "w-maauiui": {
+    "maori": "māuiui",
+    "english": "sick",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
   },
   "w-maha": {
     "maori": "maha",
@@ -2752,36 +2871,12 @@
     "note": "",
     "validated": true
   },
-  "w-maahanga": {
-    "maori": "māhanga",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-mahara": {
     "maori": "mahara",
     "english": "1) thought, memory\n2) to think, remember",
     "example": "Kei te mahara au ki a ia.",
     "exampleTranslation": "I remember him/her.",
     "note": "",
-    "validated": true
-  },
-  "w-maharahara": {
-    "maori": "māharahara",
-    "english": "worried, anxious",
-    "example": "Kei te māharahara au.",
-    "exampleTranslation": "I am worried.",
-    "note": "",
-    "validated": true
-  },
-  "w-mahau": {
-    "maori": "māhau",
-    "english": "for you",
-    "example": "Māhau tēnei kaputī.",
-    "exampleTranslation": "This cup of tea is for you.",
-    "note": "Variant of māu.",
     "validated": true
   },
   "w-mahere": {
@@ -2816,28 +2911,12 @@
     "note": "",
     "validated": false
   },
-  "w-mahunga": {
-    "maori": "māhunga",
-    "english": "head",
-    "example": "Kei te mamae tōku māhunga.",
-    "exampleTranslation": "My head hurts.",
-    "note": "",
-    "validated": true
-  },
   "w-mai": {
     "maori": "mai",
     "english": "towards the speaker",
     "example": "Haere mai ki konei.",
     "exampleTranslation": "Come here.",
     "note": "Directional particle indicating movement toward the speaker.\n\nSee [[ref|mai|mai]].",
-    "validated": true
-  },
-  "w-maia": {
-    "maori": "māia",
-    "english": "capable, brave, bold",
-    "example": "He tangata māia ia.",
-    "exampleTranslation": "He is a brave person.",
-    "note": "",
     "validated": true
   },
   "w-makariri": {
@@ -2864,22 +2943,6 @@
     "note": "",
     "validated": true
   },
-  "w-maku": {
-    "maori": "māku",
-    "english": "for me, by me",
-    "example": "Māku e mahi tēnei.",
-    "exampleTranslation": "I will do this job.",
-    "note": "Indicates future action by the speaker or allocation to the speaker.",
-    "validated": true
-  },
-  "w-mama": {
-    "maori": "māmā",
-    "english": "1) mother\n2) easy",
-    "example": "Kei hea tō māmā?",
-    "exampleTranslation": "Where is your mother?",
-    "note": "",
-    "validated": true
-  },
   "w-mamae": {
     "maori": "mamae",
     "english": "to be hurt, sore",
@@ -2894,14 +2957,6 @@
     "example": "",
     "exampleTranslation": "",
     "note": "A key cultural concept referring to spiritual power, authority, and prestige.",
-    "validated": true
-  },
-  "w-mana-for": {
-    "maori": "māna",
-    "english": "for him/her, by him/her",
-    "example": "Māna e kōrero.",
-    "exampleTranslation": "He/she will speak.",
-    "note": "Indicates future action by a third person or allocation to them.",
     "validated": true
   },
   "w-manaaki": {
@@ -2952,22 +3007,6 @@
     "note": "",
     "validated": true
   },
-  "w-maori-adj": {
-    "maori": "māori",
-    "english": "normal, ordinary, fresh (of water)",
-    "example": "He wai māori tēnei.",
-    "exampleTranslation": "This is fresh water.",
-    "note": "",
-    "validated": true
-  },
-  "w-maori": {
-    "maori": "Māori",
-    "english": "Māori (people, language, culture)",
-    "example": "Ko te reo Māori te reo tuatahi o Aotearoa.",
-    "exampleTranslation": "The Māori language is the first language of New Zealand.",
-    "note": "Refers to the indigenous people of Aotearoa/New Zealand and their language and culture.",
-    "validated": true
-  },
   "w-marae": {
     "maori": "marae",
     "english": "courtyard (shortened form of marae ātea), typically used to include the complex of buildings around the marae",
@@ -2976,20 +3015,12 @@
     "note": "The traditional communal meeting place, a focal point for Māori communities.",
     "validated": true
   },
-  "w-marama-moon": {
+  "w-marama": {
     "maori": "marama",
     "english": "1) month\n2) moon",
     "example": "Kua tae mai te marama hou.",
     "exampleTranslation": "The new moon has arrived.",
     "note": "Refers to both the moon and a month (lunar cycle).",
-    "validated": true
-  },
-  "w-marama-clear": {
-    "maori": "mārama",
-    "english": "1) clear\n2) to understand\n3) light, bright",
-    "example": "Kei te mārama koe?",
-    "exampleTranslation": "Do you understand?",
-    "note": "",
     "validated": true
   },
   "w-maramara": {
@@ -3008,28 +3039,12 @@
     "note": "Has meanings related to north/east and winds from those directions.",
     "validated": true
   },
-  "w-marika": {
-    "maori": "mārika",
-    "english": "quite, indeed, certainly",
-    "example": "Āe mārika.",
-    "exampleTranslation": "Yes indeed.",
-    "note": "",
-    "validated": true
-  },
   "w-maringi": {
     "maori": "maringi",
     "english": "to be split",
     "example": "Kua maringi te wai.",
     "exampleTranslation": "The water has spilled.",
     "note": "",
-    "validated": true
-  },
-  "w-maro": {
-    "maori": "mārō",
-    "english": "to  be stiff, hard, unyielding",
-    "example": "He mārō tēnei rākau.",
-    "exampleTranslation": "This wood is hard.",
-    "note": "Describes physical hardness or firmness of character.",
     "validated": true
   },
   "w-maroke": {
@@ -3048,35 +3063,11 @@
     "note": "",
     "validated": true
   },
-  "w-mataki": {
-    "maori": "mātaki",
-    "english": "to watch",
-    "example": "Mātaki mai.",
-    "exampleTranslation": "Watch here.",
-    "note": "",
-    "validated": true
-  },
-  "w-matakitaki": {
-    "maori": "mātakitaki",
-    "english": "to watch, observe, examine",
-    "example": "Kei te mātakitaki mātou i te pouaka whakaata.",
-    "exampleTranslation": "We are watching television.",
-    "note": "",
-    "validated": true
-  },
   "w-mataku": {
     "maori": "mataku",
     "english": "to be scared, afraid, frightened",
     "example": "Kei te mataku ia i te kurī.",
     "exampleTranslation": "He is afraid of the dog.",
-    "note": "",
-    "validated": true
-  },
-  "w-matao": {
-    "maori": "mātao",
-    "english": "to be cold",
-    "example": "Kua mātao te kai.",
-    "exampleTranslation": "The food has gone cold.",
     "note": "",
     "validated": true
   },
@@ -3093,22 +3084,6 @@
     "english": "1) right (direction)\n2) fish hook",
     "example": "Peke ki te taha matau.",
     "exampleTranslation": "Jump to the right.",
-    "note": "",
-    "validated": true
-  },
-  "w-maatau": {
-    "maori": "mātau",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-matauranga": {
-    "maori": "mātauranga",
-    "english": "education, knowledge, skill",
-    "example": "He mātauranga Māori tēnei.",
-    "exampleTranslation": "This is Māori knowledge.",
     "note": "",
     "validated": true
   },
@@ -3136,22 +3111,6 @@
     "note": "",
     "validated": true
   },
-  "w-matou": {
-    "maori": "mātou",
-    "english": "we, us (three or more, excluding addressee)",
-    "example": "Kei te haere mātou ki te kura.",
-    "exampleTranslation": "We are going to school.",
-    "note": "This is the tūkapi kaupare kiritūnei takitini (plural first person exclusive [[ref|pronoun|tukapi]]) in te reo Māori.",
-    "validated": true
-  },
-  "w-matu": {
-    "maori": "matū",
-    "english": "1) fat\n2) chemical, material (modern)\n3) gist or central point of a matter",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "=",
-    "validated": true
-  },
   "w-matua": {
     "maori": "matua",
     "english": "parent, father, uncle",
@@ -3160,12 +3119,12 @@
     "note": "",
     "validated": true
   },
-  "w-matua-plural": {
-    "maori": "mātua",
-    "english": "parents, fathers",
-    "example": "Kei te tautoko ō mātua i a koe.",
-    "exampleTranslation": "Your parents are supporting you.",
-    "note": "",
+  "w-matuu": {
+    "maori": "matū",
+    "english": "1) fat\n2) chemical, material (modern)\n3) gist or central point of a matter",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "=",
     "validated": true
   },
   "w-mau": {
@@ -3176,23 +3135,7 @@
     "note": "",
     "validated": true
   },
-  "w-maau": {
-    "maori": "māu",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-maua": {
-    "maori": "māua",
-    "english": "we, us (two people, excluding addressee)",
-    "example": "Ka haere māua ki te tāone.",
-    "exampleTranslation": "We (two of us) are going to town.",
-    "note": "This is the tūkapi kaupare kiritūnei takirua (dual first person exclusive [[ref|pronoun|tukapi]]) in te reo Māori.",
-    "validated": true
-  },
-  "w-maui": {
+  "w-mauii": {
     "maori": "mauī",
     "english": "left (direction)",
     "example": "Kei te taha māui o te pereti te paoka.",
@@ -3256,19 +3199,19 @@
     "note": "",
     "validated": false
   },
+  "w-meenaa": {
+    "maori": "mēnā",
+    "english": "if",
+    "example": "Kei a koe te tikanga mēnā kei te hiahia koe ki te heri mai i tētahi māngai.",
+    "exampleTranslation": "It is up to you if you want to bring a representative.",
+    "note": "",
+    "validated": true
+  },
   "w-mehemea": {
     "maori": "mehemea",
     "english": "if",
     "example": "Mehemea ka ua, kāore au e haere.",
     "exampleTranslation": "If it rains, I won't go.",
-    "note": "",
-    "validated": true
-  },
-  "w-mena": {
-    "maori": "mēnā",
-    "english": "if",
-    "example": "Kei a koe te tikanga mēnā kei te hiahia koe ki te heri mai i tētahi māngai.",
-    "exampleTranslation": "It is up to you if you want to bring a representative.",
     "note": "",
     "validated": true
   },
@@ -3288,22 +3231,6 @@
     "note": "",
     "validated": false
   },
-  "w-miiere": {
-    "maori": "mīere",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-miharo": {
-    "maori": "mīharo",
-    "english": "1) to wonder at\n2) amazing",
-    "example": "He mīharo te manu!",
-    "exampleTranslation": "Birds are amazing!",
-    "note": "",
-    "validated": true
-  },
   "w-mihi": {
     "maori": "mihi",
     "english": "to greet, acknowledge",
@@ -3312,8 +3239,32 @@
     "note": "",
     "validated": true
   },
+  "w-miiere": {
+    "maori": "mīere",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-miiharo": {
+    "maori": "mīharo",
+    "english": "1) to wonder at\n2) amazing",
+    "example": "He mīharo te manu!",
+    "exampleTranslation": "Birds are amazing!",
+    "note": "",
+    "validated": true
+  },
   "w-miihini": {
     "maori": "mīhini",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-miiti": {
+    "maori": "mīti",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -3352,22 +3303,6 @@
     "note": "",
     "validated": false
   },
-  "w-miiti": {
-    "maori": "mīti",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-mo": {
-    "maori": "mō",
-    "english": "for, about",
-    "example": "He whakaaro mō āpōpō.",
-    "exampleTranslation": "A thought for tomorrow.",
-    "note": "",
-    "validated": true
-  },
   "w-moana": {
     "maori": "moana",
     "english": "sea",
@@ -3400,40 +3335,8 @@
     "note": "",
     "validated": false
   },
-  "w-mohio": {
-    "maori": "mōhio",
-    "english": "to know",
-    "example": "Kaore au i mōhio.",
-    "exampleTranslation": "I didn't know.",
-    "note": "",
-    "validated": true
-  },
-  "w-moohiotanga": {
-    "maori": "mōhiotanga",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-moohiotia": {
-    "maori": "mōhiotia",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-moka": {
     "maori": "moka",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-mookai": {
-    "maori": "mōkai",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -3464,12 +3367,12 @@
     "note": "",
     "validated": false
   },
-  "w-mooku": {
-    "maori": "mōku",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
+  "w-mokopuna": {
+    "maori": "mokopuna",
+    "english": "grandchild",
+    "example": "Ko ia te mokopuna tuatahi.",
+    "exampleTranslation": "He/she is the first grandchild.",
+    "note": "Highly valued in Māori culture as the continuation of the family line",
     "validated": false
   },
   "w-momo": {
@@ -3480,14 +3383,6 @@
     "note": "Used to classify or categorize things.",
     "validated": true
   },
-  "w-moona": {
-    "maori": "mōna",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-moni": {
     "maori": "moni",
     "english": "money",
@@ -3496,7 +3391,63 @@
     "note": "",
     "validated": true
   },
-  "w-motoka": {
+  "w-moo": {
+    "maori": "mō",
+    "english": "for, about",
+    "example": "He whakaaro mō āpōpō.",
+    "exampleTranslation": "A thought for tomorrow.",
+    "note": "",
+    "validated": true
+  },
+  "w-moohio": {
+    "maori": "mōhio",
+    "english": "to know",
+    "example": "Kāore au i mōhio.",
+    "exampleTranslation": "I didn't know.",
+    "note": "",
+    "validated": true
+  },
+  "w-moohiotanga": {
+    "maori": "mōhiotanga",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-moohiotia": {
+    "maori": "mōhiotia",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-mookai": {
+    "maori": "mōkai",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-mooku": {
+    "maori": "mōku",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-moona": {
+    "maori": "mōna",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-motokaa": {
     "maori": "motokā",
     "english": "car, motorcar",
     "example": "Kei hea tō motokā?",
@@ -3560,7 +3511,7 @@
     "note": "Does not necessarily indicate completion. The kupu \"oti\" is preferred if something is complete.",
     "validated": true
   },
-  "w-na": {
+  "w-naa": {
     "maori": "nā",
     "english": "by, belonging to",
     "example": "Nā wai tēnei pukapuka?",
@@ -3568,7 +3519,7 @@
     "note": "Indicates possession or agency, often in questions about ownership.[[ref|'Ā' category possessive|a-o-categories]].",
     "validated": true
   },
-  "w-naianei": {
+  "w-naaianei": {
     "maori": "nāianei",
     "english": "now",
     "example": "Kei te haere au ināianei.",
@@ -3576,13 +3527,29 @@
     "note": "Marks the present moment in time. Typically prefixed with i-, nō- or o-.",
     "validated": true
   },
-  "w-naku": {
+  "w-naaku": {
     "maori": "nāku",
     "english": "mine (by me)",
     "example": "Nāku tēnei pukapuka.",
     "exampleTranslation": "This book is mine.",
     "note": "Indicates ownership or agency. [[ref|'Ā' category possessive|a-o-categories]], singular form.",
     "validated": true
+  },
+  "w-naana": {
+    "maori": "nāna",
+    "english": "his/hers or singular theirs.",
+    "example": "Nāna tēnei mahi.",
+    "exampleTranslation": "This work is his.",
+    "note": "Indicates ownership or agency by a third person. [[ref|'Ā' category possessive|a-o-categories]], singular form.",
+    "validated": true
+  },
+  "w-naawai": {
+    "maori": "nāwai",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
   },
   "w-nama": {
     "maori": "nama",
@@ -3591,14 +3558,6 @@
     "exampleTranslation": "",
     "note": "",
     "validated": false
-  },
-  "w-nana": {
-    "maori": "nāna",
-    "english": "his/hers or singular theirs.",
-    "example": "Nāna tēnei mahi.",
-    "exampleTranslation": "This work is his.",
-    "note": "Indicates ownership or agency by a third person. [[ref|'Ā' category possessive|a-o-categories]], singular form.",
-    "validated": true
   },
   "w-nanakia": {
     "maori": "nanakia",
@@ -3616,15 +3575,7 @@
     "note": "Often used in greetings and welcomes.",
     "validated": true
   },
-  "w-naawai": {
-    "maori": "nāwai",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-ne": {
+  "w-nee": {
     "maori": "nē",
     "english": "particle which emphasises question",
     "example": "He pai tēnei, nē?",
@@ -3656,7 +3607,7 @@
     "note": "",
     "validated": false
   },
-  "w-nga": {
+  "w-ngaa": {
     "maori": "ngā",
     "english": "the (plural)",
     "example": "Kei hea ngā pukapuka?",
@@ -3664,15 +3615,7 @@
     "note": "The plural form of 'te', the [[ref|pū tautuhi|pumau]] or definite article - used before plural nouns.",
     "validated": true
   },
-  "w-ngahere": {
-    "maori": "ngahere",
-    "english": "forest",
-    "example": "Kei te ngahere ngā manu.",
-    "exampleTranslation": "The birds are in the forest.",
-    "note": "",
-    "validated": true
-  },
-  "w-ngakau": {
+  "w-ngaakau": {
     "maori": "ngākau",
     "english": "heart (emotions)",
     "example": "",
@@ -3687,6 +3630,38 @@
     "exampleTranslation": "",
     "note": "",
     "validated": false
+  },
+  "w-ngaatahi": {
+    "maori": "ngātahi",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-ngaati": {
+    "maori": "Ngāti",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-ngaawari": {
+    "maori": "ngāwari",
+    "english": "1) easy\n2) soft, pliable\n3) kind, affable",
+    "example": "He ngāwari tēnei mahi.",
+    "exampleTranslation": "This work is easy.",
+    "note": "",
+    "validated": true
+  },
+  "w-ngahere": {
+    "maori": "ngahere",
+    "english": "forest",
+    "example": "Kei te ngahere ngā manu.",
+    "exampleTranslation": "The birds are in the forest.",
+    "note": "",
+    "validated": true
   },
   "w-ngaro": {
     "maori": "ngaro",
@@ -3712,22 +3687,6 @@
     "note": "",
     "validated": false
   },
-  "w-ngaatahi": {
-    "maori": "ngātahi",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-ngaati": {
-    "maori": "Ngāti",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-ngau": {
     "maori": "ngau",
     "english": "",
@@ -3744,21 +3703,13 @@
     "note": "",
     "validated": false
   },
-  "w-ngawari": {
-    "maori": "ngāwari",
-    "english": "1) easy\n2) soft, pliable\n3) kind, affable",
-    "example": "He ngāwari tēnei mahi.",
-    "exampleTranslation": "This work is easy.",
+  "w-ngenge": {
+    "maori": "ngenge",
+    "english": "tired",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
-    "validated": true
-  },
-  "w-no": {
-    "maori": "nō",
-    "english": "from, of, belonging to",
-    "example": "Nō hea koe?",
-    "exampleTranslation": "Where are you from?",
-    "note": "Used for origin or possession in the[[ref|'ō' category|a-o-categories]].",
-    "validated": true
+    "validated": false
   },
   "w-noa": {
     "maori": "noa",
@@ -3784,7 +3735,15 @@
     "note": "",
     "validated": false
   },
-  "w-noku": {
+  "w-noo": {
+    "maori": "nō",
+    "english": "from, of, belonging to",
+    "example": "Nō hea koe?",
+    "exampleTranslation": "Where are you from?",
+    "note": "Used for origin or possession in the[[ref|'ō' category|a-o-categories]].",
+    "validated": true
+  },
+  "w-nooku": {
     "maori": "nōku",
     "english": "mine",
     "example": "Nōku tēnei whare.",
@@ -3792,7 +3751,7 @@
     "note": "Indicates ownership in the [[ref|'o' category|a-o-categories]].",
     "validated": true
   },
-  "w-nona": {
+  "w-noona": {
     "maori": "nōna",
     "english": "his/hers",
     "example": "Nōna tēnei whare.",
@@ -3832,20 +3791,60 @@
     "note": "This particle is used to introduce possessive comments for [[ref|'o' category|a-o-categories]] relationships.",
     "validated": true
   },
-  "w-oo": {
-    "maori": "ō",
-    "english": "your (plural neutral possession)",
-    "example": "Kei hea ō kī?",
-    "exampleTranslation": "Where are your keys?",
-    "note": "This is a neutral [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
+  "w-oho": {
+    "maori": "oho",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-ohorere": {
+    "maori": "ohorere",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-oma": {
+    "maori": "oma",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-one": {
+    "maori": "one",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-oneone": {
+    "maori": "oneone",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-ono": {
+    "maori": "ono",
+    "english": "six",
+    "example": "E ono ngā tamariki.",
+    "exampleTranslation": "There are six children.",
+    "note": "",
     "validated": true
   },
-  "w-o-macron": {
+  "w-oo": {
     "maori": "ō",
     "english": "1) your (neutral plural possessive)\n2) belonging to (o category possessive determiner)",
     "example": "Kei hea ō mātua?",
     "exampleTranslation": "Where are your parents?",
-    "note": "This particle can either be the plural form of the neutral second person possessive tō, or it can form an [[ref|'o' category|a-o-categories]] possessive [[ref|determiner|pumau]] such as in \"Ko tēnei ō mātou whare\" (These are our houses).",
+    "note": "This particle can either be the neutral [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun) which is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun), or it can form an [[ref|'o' category|a-o-categories]] possessive [[ref|determiner|pumau]] such as in \"Ko tēnei ō mātou whare\" (These are our houses). This is a .",
     "validated": true
   },
   "w-oo-koorua": {
@@ -3912,22 +3911,6 @@
     "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'tāua' which is the tūkapi kauawhi kiritūnei takirua (dual first person inclusive pronoun).",
     "validated": true
   },
-  "w-oho": {
-    "maori": "oho",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-ohorere": {
-    "maori": "ohorere",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-ooku": {
     "maori": "ōku",
     "english": "my (plural ō category possession)",
@@ -3935,22 +3918,6 @@
     "exampleTranslation": "Where are my hats?",
     "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'au' which is the tūkapi kiritūnei takitahi (singular first person pronoun).",
     "validated": true
-  },
-  "w-oku": {
-    "maori": "ōku",
-    "english": "my (plural, 'o' category)",
-    "example": "Kei hea ōku hū?",
-    "exampleTranslation": "Where are my shoes?",
-    "note": "This is the tūkapi riro kiritūnei takitini (first person plural [[ref|possessive pronoun|tukapi-riro]]) in the [[ref|'o' category|a-o-categories]] in te reo Māori.",
-    "validated": true
-  },
-  "w-oma": {
-    "maori": "oma",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
   },
   "w-oona": {
     "maori": "ōna",
@@ -3960,36 +3927,20 @@
     "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'ia' which is the tūkapi kiritūrā takitahi (singular third person pronoun).",
     "validated": true
   },
-  "w-ona": {
-    "maori": "ōna",
-    "english": "his/her (plural)",
-    "example": "Kei hea ōna hoa?",
-    "exampleTranslation": "Where are his/her friends?",
-    "note": "This is the tūkapi riro kiritūrā takitini (third person plural [[ref|possessive pronoun|tukapi-riro]]) in the [[ref|'o' category|a-o-categories]] in te reo Māori.",
-    "validated": true
-  },
-  "w-one": {
-    "maori": "one",
+  "w-oorite": {
+    "maori": "ōrite",
     "english": "",
     "example": "",
     "exampleTranslation": "",
     "note": "",
     "validated": false
   },
-  "w-oneone": {
-    "maori": "oneone",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-ono": {
-    "maori": "ono",
-    "english": "six",
-    "example": "E ono ngā tamariki.",
-    "exampleTranslation": "There are six children.",
-    "note": "",
+  "w-oou": {
+    "maori": "ōu",
+    "english": "your (plural ō category possession)",
+    "example": "Kei hea ōu pōtae?",
+    "exampleTranslation": "Where are your hats?",
+    "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
     "validated": true
   },
   "w-ope": {
@@ -4024,14 +3975,6 @@
     "note": "",
     "validated": false
   },
-  "w-oorite": {
-    "maori": "ōrite",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-otaota": {
     "maori": "otaota",
     "english": "",
@@ -4056,21 +3999,117 @@
     "note": "",
     "validated": false
   },
-  "w-oou": {
-    "maori": "ōu",
-    "english": "your (plural ō category possession)",
-    "example": "Kei hea ōu pōtae?",
-    "exampleTranslation": "Where are your hats?",
-    "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitini (plural possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
-    "validated": true
-  },
-  "w-pa": {
+  "w-paa": {
     "maori": "pā",
     "english": "1) to touch, to affect\n2) a fortified settlement\n3) a term of address for father or older male (e pā)",
     "example": "",
     "exampleTranslation": "",
     "note": "",
     "validated": true
+  },
+  "w-paahi": {
+    "maori": "pāhi",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-paakehaa": {
+    "maori": "Pākehā",
+    "english": "Pākehā (New Zealander of European descent)",
+    "example": "He Pākehā tōna hoa.",
+    "exampleTranslation": "Her friend is a Pākehā.",
+    "note": "",
+    "validated": true
+  },
+  "w-paakete": {
+    "maori": "pākete",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-paamu": {
+    "maori": "pāmu",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-paangarau": {
+    "maori": "pāngarau",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-paanui": {
+    "maori": "pānui",
+    "english": "1) to read\n2) to publish, notice",
+    "example": "Kei te pānui pukapuka au.",
+    "exampleTranslation": "I am reading a book.",
+    "note": "",
+    "validated": true
+  },
+  "w-paapaa": {
+    "maori": "pāpā",
+    "english": "father, uncle",
+    "example": "Kei hea tō pāpā?",
+    "exampleTranslation": "Where is your father?",
+    "note": "",
+    "validated": true
+  },
+  "w-paatai": {
+    "maori": "pātai",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-paatata": {
+    "maori": "pātata",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-paatene": {
+    "maori": "pātene",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-paatiitii": {
+    "maori": "pātītī",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-paatiki": {
+    "maori": "pātiki",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-paaua": {
+    "maori": "pāua",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
   },
   "w-pae": {
     "maori": "pae",
@@ -4090,14 +4129,6 @@
   },
   "w-pahi": {
     "maori": "pahi",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-paahi": {
-    "maori": "pāhi",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -4160,14 +4191,6 @@
     "note": "",
     "validated": false
   },
-  "w-pakeha": {
-    "maori": "Pākehā",
-    "english": "Pākehā (New Zealander of European descent)",
-    "example": "He Pākehā tōna hoa.",
-    "exampleTranslation": "Her friend is a Pākehā.",
-    "note": "",
-    "validated": true
-  },
   "w-pakeke": {
     "maori": "pakeke",
     "english": "1) grown up, adult\n2) hard, stiff",
@@ -4175,14 +4198,6 @@
     "exampleTranslation": "He has grown up.",
     "note": "",
     "validated": true
-  },
-  "w-paakete": {
-    "maori": "pākete",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
   },
   "w-paki": {
     "maori": "paki",
@@ -4232,14 +4247,6 @@
     "note": "",
     "validated": false
   },
-  "w-paamu": {
-    "maori": "pāmu",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-pana": {
     "maori": "pana",
     "english": "",
@@ -4264,14 +4271,6 @@
     "note": "",
     "validated": false
   },
-  "w-paangarau": {
-    "maori": "pāngarau",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-pango": {
     "maori": "pango",
     "english": "black",
@@ -4287,14 +4286,6 @@
     "exampleTranslation": "",
     "note": "",
     "validated": false
-  },
-  "w-panui": {
-    "maori": "pānui",
-    "english": "1) to read\n2) to publish, notice",
-    "example": "Kei te pānui pukapuka au.",
-    "exampleTranslation": "I am reading a book.",
-    "note": "",
-    "validated": true
   },
   "w-paoro": {
     "maori": "paoro",
@@ -4312,11 +4303,11 @@
     "note": "",
     "validated": true
   },
-  "w-papa-father": {
-    "maori": "pāpā",
-    "english": "father, uncle",
-    "example": "Kei hea tō pāpā?",
-    "exampleTranslation": "Where is your father?",
+  "w-paraaoa": {
+    "maori": "parāoa",
+    "english": "bread, flour",
+    "example": "Homai he parāoa.",
+    "exampleTranslation": "Give me some bread.",
     "note": "",
     "validated": true
   },
@@ -4328,13 +4319,13 @@
     "note": "",
     "validated": true
   },
-  "w-paraoa": {
-    "maori": "parāoa",
-    "english": "bread, flour",
-    "example": "Homai he parāoa.",
-    "exampleTranslation": "Give me some bread.",
+  "w-parauri": {
+    "maori": "parauri",
+    "english": "brown",
+    "example": "He parauri tōna makawe.",
+    "exampleTranslation": "His/her hair is brown.",
     "note": "",
-    "validated": true
+    "validated": false
   },
   "w-pare": {
     "maori": "pare",
@@ -4384,46 +4375,6 @@
     "note": "",
     "validated": false
   },
-  "w-paatai": {
-    "maori": "pātai",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-paatata": {
-    "maori": "pātata",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-paatene": {
-    "maori": "pātene",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-paatiki": {
-    "maori": "pātiki",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-paatiitii": {
-    "maori": "pātītī",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-patu": {
     "maori": "patu",
     "english": "",
@@ -4448,14 +4399,6 @@
     "note": "",
     "validated": false
   },
-  "w-paaua": {
-    "maori": "pāua",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-pea": {
     "maori": "pea",
     "english": "",
@@ -4472,40 +4415,8 @@
     "note": "",
     "validated": false
   },
-  "w-peita": {
-    "maori": "peita",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-peka": {
-    "maori": "peka",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-peekana": {
     "maori": "pēkana",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-pekapeka": {
-    "maori": "pekapeka",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-peke": {
-    "maori": "peke",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -4528,29 +4439,13 @@
     "note": "",
     "validated": false
   },
-  "w-pene": {
-    "maori": "pene",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-penei": {
+  "w-peenei": {
     "maori": "pēnei",
     "english": "like this",
     "example": "Kia pēnei te mahi.",
     "exampleTranslation": "Do it like this.",
     "note": "",
     "validated": true
-  },
-  "w-pepa": {
-    "maori": "pepa",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
   },
   "w-peepi": {
     "maori": "pēpi",
@@ -4568,14 +4463,6 @@
     "note": "",
     "validated": false
   },
-  "w-pere": {
-    "maori": "pere",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-peewhea": {
     "maori": "pēwhea",
     "english": "",
@@ -4584,24 +4471,64 @@
     "note": "",
     "validated": false
   },
+  "w-peita": {
+    "maori": "peita",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-peka": {
+    "maori": "peka",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-pekapeka": {
+    "maori": "pekapeka",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-peke": {
+    "maori": "peke",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-pene": {
+    "maori": "pene",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-pepa": {
+    "maori": "pepa",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-pere": {
+    "maori": "pere",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
   "w-pii": {
     "maori": "pī",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-piki": {
-    "maori": "piki",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-pikitia": {
-    "maori": "pikitia",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -4618,6 +4545,22 @@
   },
   "w-piirangi": {
     "maori": "pīrangi",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-piki": {
+    "maori": "piki",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-pikitia": {
+    "maori": "pikitia",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -4680,32 +4623,8 @@
     "note": "",
     "validated": false
   },
-  "w-poo": {
-    "maori": "pō",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-poaka": {
     "maori": "poaka",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-poohatu": {
-    "maori": "pōhatu",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-pooheehee": {
-    "maori": "pōhēhē",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -4736,6 +4655,54 @@
     "note": "",
     "validated": false
   },
+  "w-poo": {
+    "maori": "pō",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-poohatu": {
+    "maori": "pōhatu",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-pooheehee": {
+    "maori": "pōhēhē",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-pooro": {
+    "maori": "pōro",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-pootae": {
+    "maori": "pōtae",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-poouri": {
+    "maori": "pōuri",
+    "english": "sad",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
   "w-poraka": {
     "maori": "poraka",
     "english": "",
@@ -4752,14 +4719,6 @@
     "note": "",
     "validated": false
   },
-  "w-pooro": {
-    "maori": "pōro",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-porohita": {
     "maori": "porohita",
     "english": "",
@@ -4770,14 +4729,6 @@
   },
   "w-porowhita": {
     "maori": "porowhita",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-pootae": {
-    "maori": "pōtae",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -4832,22 +4783,6 @@
     "note": "",
     "validated": false
   },
-  "w-poouri": {
-    "maori": "pōuri",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-puu": {
-    "maori": "pū",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-puare": {
     "maori": "puare",
     "english": "",
@@ -4872,14 +4807,6 @@
     "note": "",
     "validated": false
   },
-  "w-puukaha": {
-    "maori": "pūkaha",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-pukapuka": {
     "maori": "pukapuka",
     "english": "",
@@ -4896,14 +4823,6 @@
     "note": "",
     "validated": false
   },
-  "w-puukenga": {
-    "maori": "pūkenga",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-puku": {
     "maori": "puku",
     "english": "",
@@ -4912,9 +4831,9 @@
     "note": "",
     "validated": false
   },
-  "w-puumau": {
-    "maori": "pūmau",
-    "english": "",
+  "w-pukuriri": {
+    "maori": "pukuriri",
+    "english": "angry",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4922,14 +4841,6 @@
   },
   "w-puna": {
     "maori": "puna",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-puungaawerewere": {
-    "maori": "pūngāwerewere",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -4952,14 +4863,6 @@
     "note": "",
     "validated": false
   },
-  "w-pupuu": {
-    "maori": "pupū",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-pupuhi": {
     "maori": "pupuhi",
     "english": "",
@@ -4976,8 +4879,8 @@
     "note": "",
     "validated": false
   },
-  "w-puuraakau": {
-    "maori": "pūrākau",
+  "w-pupuu": {
+    "maori": "pupū",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -4994,22 +4897,6 @@
   },
   "w-purei": {
     "maori": "purei",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-puurere": {
-    "maori": "pūrere",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-puurerehua": {
-    "maori": "pūrerehua",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -5040,32 +4927,8 @@
     "note": "",
     "validated": false
   },
-  "w-puutaiao": {
-    "maori": "pūtaiao",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-puutake": {
-    "maori": "pūtake",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-putanga": {
     "maori": "putanga",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-puutea": {
-    "maori": "pūtea",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -5088,7 +4951,95 @@
     "note": "",
     "validated": false
   },
-  "w-ra": {
+  "w-puu": {
+    "maori": "pū",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puukaha": {
+    "maori": "pūkaha",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puukenga": {
+    "maori": "pūkenga",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puumau": {
+    "maori": "pūmau",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puungaawerewere": {
+    "maori": "pūngāwerewere",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puuraakau": {
+    "maori": "pūrākau",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puurere": {
+    "maori": "pūrere",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puurerehua": {
+    "maori": "pūrerehua",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puutaiao": {
+    "maori": "pūtaiao",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puutake": {
+    "maori": "pūtake",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-puutea": {
+    "maori": "pūtea",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-raa": {
     "maori": "rā",
     "english": "1) day\n2) sun\n3) there (location)",
     "example": "He mahana te rā.",
@@ -5096,19 +5047,59 @@
     "note": "Has multiple uses including as one of the [[ref|positional particles|puhea]].",
     "validated": true
   },
+  "w-raakau": {
+    "maori": "rākau",
+    "english": "1) tree, timber\n2) weapon, bat",
+    "example": "He maha ngā rākau i te ngahere.",
+    "exampleTranslation": "There are many trees in the forest.",
+    "note": "",
+    "validated": true
+  },
+  "w-raanei": {
+    "maori": "rānei",
+    "english": "or",
+    "example": "He āporo, he pea rānei?",
+    "exampleTranslation": "An apple or a pear?",
+    "note": "Used to present alternatives, typically follows the second phrase or word.",
+    "validated": true
+  },
+  "w-raarangi": {
+    "maori": "rārangi",
+    "english": "1) to list, arrange\n2) line, row",
+    "example": "Rarangi maunga tu tonu, tu tonu; rarangi tangata ngaro noa, ngaro noa.",
+    "exampleTranslation": "A mountain range (line of mountains) stands for eternity but a line of people just disappears.",
+    "note": "",
+    "validated": true
+  },
+  "w-raatou": {
+    "maori": "rātou",
+    "english": "they, them (three or more)",
+    "example": "Kei te haere rātou ki te kura.",
+    "exampleTranslation": "They are going to school.",
+    "note": "This is the tūkapi kiritūrā takitini (plural third person [[ref|pronoun|tukapi]]) in te reo Māori.",
+    "validated": true
+  },
+  "w-raaua": {
+    "maori": "rāua",
+    "english": "those two, they, them (two people)",
+    "example": "Kei te kōrero rāua.",
+    "exampleTranslation": "They (two) are talking.",
+    "note": "This is the tūkapi kiritūrā takirua (dual third person [[ref|pronoun|tukapi]]) in te reo Māori.",
+    "validated": true
+  },
+  "w-raawhiti": {
+    "maori": "rāwhiti",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
   "w-rahi": {
     "maori": "rahi",
     "english": "large",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": true
-  },
-  "w-rakau": {
-    "maori": "rākau",
-    "english": "1) tree, timber\n2) weapon, bat",
-    "example": "He maha ngā rākau i te ngahere.",
-    "exampleTranslation": "There are many trees in the forest.",
     "note": "",
     "validated": true
   },
@@ -5127,14 +5118,6 @@
     "exampleTranslation": "",
     "note": "",
     "validated": false
-  },
-  "w-ranei": {
-    "maori": "rānei",
-    "english": "or",
-    "example": "He āporo, he pea rānei?",
-    "exampleTranslation": "An apple or a pear?",
-    "note": "Used to present alternatives, typically follows the second phrase or word.",
-    "validated": true
   },
   "w-rangatahi": {
     "maori": "rangatahi",
@@ -5192,14 +5175,6 @@
     "note": "",
     "validated": false
   },
-  "w-rarangi": {
-    "maori": "rārangi",
-    "english": "1) to list, arrange\n2) line, row",
-    "example": "Rarangi maunga tu tonu, tu tonu; rarangi tangata ngaro noa, ngaro noa.",
-    "exampleTranslation": "A mountain range (line of mountains) stands for eternity but a line of people just disappears.",
-    "note": "",
-    "validated": true
-  },
   "w-raro": {
     "maori": "raro",
     "english": "under, beneath",
@@ -5232,28 +5207,12 @@
     "note": "",
     "validated": false
   },
-  "w-ratou": {
-    "maori": "rātou",
-    "english": "they, them (three or more)",
-    "example": "Kei te haere rātou ki te kura.",
-    "exampleTranslation": "They are going to school.",
-    "note": "This is the tūkapi kiritūrā takitini (plural third person [[ref|pronoun|tukapi]]) in te reo Māori.",
-    "validated": true
-  },
   "w-rau": {
     "maori": "rau",
     "english": "1) leaf\n2) hundred\n3) to put into, gather into",
     "example": "He rau tāngata i te hui.",
     "exampleTranslation": "There were a hundred people at the meeting.",
     "note": "",
-    "validated": true
-  },
-  "w-raua": {
-    "maori": "rāua",
-    "english": "those two, they, them (two people)",
-    "example": "Kei te kōrero rāua.",
-    "exampleTranslation": "They (two) are talking.",
-    "note": "This is the tūkapi kiritūrā takirua (dual third person [[ref|pronoun|tukapi]]) in te reo Māori.",
     "validated": true
   },
   "w-rawa": {
@@ -5266,14 +5225,6 @@
   },
   "w-rawe": {
     "maori": "rawe",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-raawhiti": {
-    "maori": "rāwhiti",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -5328,7 +5279,7 @@
     "note": "",
     "validated": true
   },
-  "w-rereke": {
+  "w-rerekee": {
     "maori": "rerekē",
     "english": "different, changed",
     "example": "He rerekē tōna āhua.",
@@ -5384,6 +5335,22 @@
     "note": "",
     "validated": false
   },
+  "w-riipene": {
+    "maori": "rīpene",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-riiwai": {
+    "maori": "rīwai",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
   "w-rima": {
     "maori": "rima",
     "english": "five",
@@ -5410,14 +5377,6 @@
   },
   "w-rino": {
     "maori": "rino",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-riipene": {
-    "maori": "rīpene",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -5455,22 +5414,6 @@
     "exampleTranslation": "",
     "note": "",
     "validated": false
-  },
-  "w-riiwai": {
-    "maori": "rīwai",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-ro": {
-    "maori": "rō",
-    "english": "in",
-    "example": "Kei rō whare.",
-    "exampleTranslation": "Inside the house.",
-    "note": "Shortened form of \"roto i te/ngā\" in eastern dialect.\nSee [[ref|locative nouns|tuwahi]].",
-    "validated": true
   },
   "w-roa": {
     "maori": "roa",
@@ -5528,7 +5471,15 @@
     "note": "",
     "validated": false
   },
-  "w-ropu": {
+  "w-roo": {
+    "maori": "rō",
+    "english": "in",
+    "example": "Kei rō whare.",
+    "exampleTranslation": "Inside the house.",
+    "note": "Shortened form of \"roto i te/ngā\" in eastern dialect.\nSee [[ref|locative nouns|tuwahi]].",
+    "validated": true
+  },
+  "w-roopuu": {
     "maori": "rōpū",
     "english": "group",
     "example": "Nō tēhea rōpū koe?",
@@ -5576,14 +5527,6 @@
     "note": "",
     "validated": false
   },
-  "w-ruma": {
-    "maori": "rūma",
-    "english": "room",
-    "example": "He rūma nui tēnei.",
-    "exampleTranslation": "This is a big room.",
-    "note": "",
-    "validated": true
-  },
   "w-runga": {
     "maori": "runga",
     "english": "on, above",
@@ -5592,7 +5535,15 @@
     "note": "See [[ref|locative nouns|tuwahi]].",
     "validated": true
   },
-  "w-ta": {
+  "w-ruuma": {
+    "maori": "rūma",
+    "english": "room",
+    "example": "He rūma nui tēnei.",
+    "exampleTranslation": "This is a big room.",
+    "note": "",
+    "validated": true
+  },
+  "w-taa": {
     "maori": "tā",
     "english": "1) Used to indicate [[ref|'a' category|a-o-categories]] possession of something singular - to form [[ref|tūkapi riro|tukapi-riro]] such as tā mātou.\n2) to draw/paint/publish/print\n3) according to, as said by",
     "example": "Kei te tā whakaahua ia.",
@@ -5664,6 +5615,142 @@
     "note": "This is an [[ref|'ā' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'tāua' which is the tūkapi kauawhi kiritūnei takirua (dual first person inclusive pronoun).",
     "validated": true
   },
+  "w-taahau": {
+    "maori": "tāhau",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-taahuhu": {
+    "maori": "tāhuhu",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-taaia": {
+    "maori": "tāia",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-taakaro": {
+    "maori": "tākaro",
+    "english": "to play",
+    "example": "Kei te tākaro ngā tamariki.",
+    "exampleTranslation": "The children are playing.",
+    "note": "",
+    "validated": true
+  },
+  "w-taaku": {
+    "maori": "tāku",
+    "english": "my (singular 'a' category possession)",
+    "example": "Kei hea tāku pukapuka?",
+    "exampleTranslation": "Where is my book?",
+    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'au' which is the tūkapi kiritūnei takitahi (singular first person pronoun).",
+    "validated": true
+  },
+  "w-taakuta": {
+    "maori": "tākuta",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-taana": {
+    "maori": "tāna",
+    "english": "his/her/their (singular ā category possession)",
+    "example": "Kei hea tāna pukapuka?",
+    "exampleTranslation": "Where is her book?",
+    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'ia' which is the tūkapi kiritūrā takitahi (singular third person pronoun).",
+    "validated": true
+  },
+  "w-taane": {
+    "maori": "tāne",
+    "english": "man, husband",
+    "example": "He tāne nui ia.",
+    "exampleTranslation": "He is a big man.",
+    "note": "",
+    "validated": true
+  },
+  "w-taangata": {
+    "maori": "tāngata",
+    "english": "people",
+    "example": "He maha ngā tāngata i te hui.",
+    "exampleTranslation": "There were many people at the meeting.",
+    "note": "Plural form of 'person' (tangata).",
+    "validated": true
+  },
+  "w-taaone": {
+    "maori": "tāone",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-taapiri": {
+    "maori": "tāpiri",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-taara": {
+    "maori": "tāra",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-taatahi": {
+    "maori": "tātahi",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-taatai": {
+    "maori": "tātai",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-taatou": {
+    "maori": "tātou",
+    "english": "we, us (inclusive, three or more)",
+    "example": "Ka haere tātou ki te tāone.",
+    "exampleTranslation": "We will go to town.",
+    "note": "This is the tūkapi kaupawhi kiritūnei takitini (plural first person inclusive [[ref|pronoun|tukapi]]) in te reo Māori.",
+    "validated": true
+  },
+  "w-taau": {
+    "maori": "tāu",
+    "english": "your (singular ā category possession)",
+    "example": "Kei hea tāu pukapuka?",
+    "exampleTranslation": "Where is your book?",
+    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
+    "validated": true
+  },
+  "w-taaua": {
+    "maori": "tāua",
+    "english": "we, us (inclusive, two people)",
+    "example": "Ka haere tāua ki te kāinga.",
+    "exampleTranslation": "You and I will go home.",
+    "note": "This is the tūkapi kaukauawhipare kiritūnei takirua (dual first person inclusive [[ref|pronoun|tukapi]]) in te reo Māori.",
+    "validated": true
+  },
   "w-tae": {
     "maori": "tae",
     "english": "to reach, arrive",
@@ -5696,14 +5783,6 @@
     "note": "",
     "validated": false
   },
-  "w-taahau": {
-    "maori": "tāhau",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-tahi": {
     "maori": "tahi",
     "english": "one",
@@ -5711,14 +5790,6 @@
     "exampleTranslation": "There is one book.",
     "note": "The number one, often with prefix 'ko-' as 'kotahi'.",
     "validated": true
-  },
-  "w-taahuhu": {
-    "maori": "tāhuhu",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
   },
   "w-tahuri": {
     "maori": "tahuri",
@@ -5730,14 +5801,6 @@
   },
   "w-tai": {
     "maori": "tai",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-taaia": {
-    "maori": "tāia",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -5775,14 +5838,6 @@
     "exampleTranslation": "",
     "note": "",
     "validated": false
-  },
-  "w-takaro": {
-    "maori": "tākaro",
-    "english": "to play",
-    "example": "Kei te tākaro ngā tamariki.",
-    "exampleTranslation": "The children are playing.",
-    "note": "",
-    "validated": true
   },
   "w-take": {
     "maori": "take",
@@ -5823,22 +5878,6 @@
     "exampleTranslation": "Where is my book?",
     "note": "This is a neutral [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'au' which is the tūkapi kiritūnei takitahi (singular first person pronoun).",
     "validated": true
-  },
-  "w-taaku": {
-    "maori": "tāku",
-    "english": "my (singular 'a' category possession)",
-    "example": "Kei hea tāku pukapuka?",
-    "exampleTranslation": "Where is my book?",
-    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'au' which is the tūkapi kiritūnei takitahi (singular first person pronoun).",
-    "validated": true
-  },
-  "w-taakuta": {
-    "maori": "tākuta",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
   },
   "w-tama": {
     "maori": "tama",
@@ -5896,36 +5935,12 @@
     "note": "This is a neutral [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'ia' which is the tūkapi kiritūrā takitahi (singular third person pronoun).",
     "validated": true
   },
-  "w-taana": {
-    "maori": "tāna",
-    "english": "his/her/their (singular ā category possession)",
-    "example": "Kei hea tāna pukapuka?",
-    "exampleTranslation": "Where is her book?",
-    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'ia' which is the tūkapi kiritūrā takitahi (singular third person pronoun).",
-    "validated": true
-  },
-  "w-tane": {
-    "maori": "tāne",
-    "english": "man, husband",
-    "example": "He tāne nui ia.",
-    "exampleTranslation": "He is a big man.",
-    "note": "",
-    "validated": true
-  },
   "w-tangata": {
     "maori": "tangata",
     "english": "person",
     "example": "Ko wai tērā tangata?",
     "exampleTranslation": "Who is that person?",
     "note": "Takes the irregular plural \"tāngata\".",
-    "validated": true
-  },
-  "w-tangata-pl": {
-    "maori": "tāngata",
-    "english": "people",
-    "example": "He maha ngā tāngata i te hui.",
-    "exampleTranslation": "There were many people at the meeting.",
-    "note": "Plural form of 'person' (tangata).",
     "validated": true
   },
   "w-tangi": {
@@ -5968,14 +5983,6 @@
     "note": "",
     "validated": false
   },
-  "w-taaone": {
-    "maori": "tāone",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-taonga": {
     "maori": "taonga",
     "english": "1) treasure\n2) possession, goods",
@@ -6008,14 +6015,6 @@
     "note": "",
     "validated": false
   },
-  "w-taapiri": {
-    "maori": "tāpiri",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-tapu": {
     "maori": "tapu",
     "english": "",
@@ -6034,14 +6033,6 @@
   },
   "w-tapuwae": {
     "maori": "tapuwae",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-taara": {
-    "maori": "tāra",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -6104,22 +6095,6 @@
     "note": "Indicates proximity in space or time.",
     "validated": true
   },
-  "w-taatahi": {
-    "maori": "tātahi",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-taatai": {
-    "maori": "tātai",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-tatari": {
     "maori": "tatari",
     "english": "",
@@ -6136,14 +6111,6 @@
     "note": "",
     "validated": false
   },
-  "w-tatou": {
-    "maori": "tātou",
-    "english": "we, us (inclusive, three or more)",
-    "example": "Ka haere tātou ki te tāone.",
-    "exampleTranslation": "We will go to town.",
-    "note": "This is the tūkapi kaupawhi kiritūnei takitini (plural first person inclusive [[ref|pronoun|tukapi]]) in te reo Māori.",
-    "validated": true
-  },
   "w-tau": {
     "maori": "tau",
     "english": "1) year, age, number,\n2) beloved, darling\n3) to land, to come to rest, to settle down",
@@ -6152,28 +6119,12 @@
     "note": "",
     "validated": true
   },
-  "w-taau": {
-    "maori": "tāu",
-    "english": "your (singular ā category possession)",
-    "example": "Kei hea tāu pukapuka?",
-    "exampleTranslation": "Where is your book?",
-    "note": "This is an [[ref|'a' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
-    "validated": true
-  },
   "w-taua": {
     "maori": "taua",
     "english": "that (previously mentioned)",
     "example": "Kei hea taua pukapuka?",
     "exampleTranslation": "Where is that book (we were talking about)?",
     "note": "Used to refer back to something already mentioned in the conversation.",
-    "validated": true
-  },
-  "w-taaa": {
-    "maori": "tāua",
-    "english": "we, us (inclusive, two people)",
-    "example": "Ka haere tāua ki te kāinga.",
-    "exampleTranslation": "You and I will go home.",
-    "note": "This is the tūkapi kaukauawhipare kiritūnei takirua (dual first person inclusive [[ref|pronoun|tukapi]]) in te reo Māori.",
     "validated": true
   },
   "w-tauhou": {
@@ -6272,6 +6223,54 @@
     "note": "",
     "validated": false
   },
+  "w-teenaa": {
+    "maori": "tēnā",
+    "english": "that (by listener)",
+    "example": "He aha tēnā?",
+    "exampleTranslation": "What is that?",
+    "note": "[[ref|Position definitive|demonstrative-determiners]] for something close to the person being addressed.",
+    "validated": true
+  },
+  "w-teenei": {
+    "maori": "tēnei",
+    "english": "this",
+    "example": "He aha tēnei?",
+    "exampleTranslation": "What is this?",
+    "note": "[[ref|Position definitive|demonstrative-determiners]] for something close to the speaker.",
+    "validated": true
+  },
+  "w-teepu": {
+    "maori": "tēpu",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-teeraa": {
+    "maori": "tērā",
+    "english": "that (away from both)",
+    "example": "He aha tērā?",
+    "exampleTranslation": "What is that over there?",
+    "note": "[[ref|Position definitive|demonstrative-determiners]] for something away from both speaker and listener.",
+    "validated": true
+  },
+  "w-teetahi": {
+    "maori": "tētahi",
+    "english": "a, one, some",
+    "example": "Homai tētahi pukapuka.",
+    "exampleTranslation": "Give me a book.",
+    "note": "[[ref|Indefinite article|punoa]] (pūnoa) similar to 'a' or 'an' in English.",
+    "validated": true
+  },
+  "w-teetehi": {
+    "maori": "tētehi",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
   "w-teina": {
     "maori": "teina",
     "english": "",
@@ -6296,38 +6295,6 @@
     "note": "",
     "validated": false
   },
-  "w-tena": {
-    "maori": "tēnā",
-    "english": "that (by listener)",
-    "example": "He aha tēnā?",
-    "exampleTranslation": "What is that?",
-    "note": "[[ref|Position definitive|demonstrative-determiners]] for something close to the person being addressed.",
-    "validated": true
-  },
-  "w-tenei": {
-    "maori": "tēnei",
-    "english": "this",
-    "example": "He aha tēnei?",
-    "exampleTranslation": "What is this?",
-    "note": "[[ref|Position definitive|demonstrative-determiners]] for something close to the speaker.",
-    "validated": true
-  },
-  "w-teepu": {
-    "maori": "tēpu",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-tera": {
-    "maori": "tērā",
-    "english": "that (away from both)",
-    "example": "He aha tērā?",
-    "exampleTranslation": "What is that over there?",
-    "note": "[[ref|Position definitive|demonstrative-determiners]] for something away from both speaker and listener.",
-    "validated": true
-  },
   "w-tere": {
     "maori": "tere",
     "english": "1) to drift, float, flow\n3) to move fast, quickly",
@@ -6336,16 +6303,16 @@
     "note": "",
     "validated": true
   },
-  "w-tetahi": {
-    "maori": "tētahi",
-    "english": "a, one, some",
-    "example": "Homai tētahi pukapuka.",
-    "exampleTranslation": "Give me a book.",
-    "note": "[[ref|Indefinite article|punoa]] (pūnoa) similar to 'a' or 'an' in English.",
-    "validated": true
+  "w-tiaki": {
+    "maori": "tiaki",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
   },
-  "w-teetehi": {
-    "maori": "tētehi",
+  "w-tihi": {
+    "maori": "tihi",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -6360,16 +6327,48 @@
     "note": "",
     "validated": false
   },
-  "w-tiaki": {
-    "maori": "tiaki",
+  "w-tiikina": {
+    "maori": "tīkina",
     "english": "",
     "example": "",
     "exampleTranslation": "",
     "note": "",
     "validated": false
   },
-  "w-tihi": {
-    "maori": "tihi",
+  "w-tiima": {
+    "maori": "tīma",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-tiimata": {
+    "maori": "tīmata",
+    "english": "to begin, start",
+    "example": "Kua tīmata te hui.",
+    "exampleTranslation": "The meeting has started.",
+    "note": "",
+    "validated": true
+  },
+  "w-tiimatanga": {
+    "maori": "tīmatanga",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-tiini": {
+    "maori": "tīni",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-tiipuna": {
+    "maori": "tīpuna",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -6400,38 +6399,6 @@
     "note": "",
     "validated": true
   },
-  "w-tiikina": {
-    "maori": "tīkina",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-tiima": {
-    "maori": "tīma",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-timata": {
-    "maori": "tīmata",
-    "english": "to begin, start",
-    "example": "Kua tīmata te hui.",
-    "exampleTranslation": "The meeting has started.",
-    "note": "",
-    "validated": true
-  },
-  "w-tiimatanga": {
-    "maori": "tīmatanga",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-tina": {
     "maori": "tina",
     "english": "",
@@ -6450,14 +6417,6 @@
   },
   "w-tini": {
     "maori": "tini",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-tiini": {
-    "maori": "tīni",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -6498,14 +6457,6 @@
   },
   "w-tipuna": {
     "maori": "tipuna",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-tiipuna": {
-    "maori": "tīpuna",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -6566,78 +6517,6 @@
     "example": "Titiro mai.",
     "exampleTranslation": "Look here.",
     "note": "",
-    "validated": true
-  },
-  "w-too": {
-    "maori": "tō",
-    "english": "your (singular neutral possession)",
-    "example": "Kei hea tō kī?",
-    "exampleTranslation": "Where is your key?",
-    "note": "This is a neutral [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
-    "validated": true
-  },
-  "w-too-koorua": {
-    "maori": "tō kōrua",
-    "english": "your [speaking to two people] (singular ō category possession)",
-    "example": "Kei hea tō kōrua mātua?",
-    "exampleTranslation": "Where are your parents? (The parents of you two.)",
-    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'kōrua' which is the tūkapi kiritūnā takirua (dual second person pronoun).",
-    "validated": true
-  },
-  "w-too-koutou": {
-    "maori": "tō koutou",
-    "english": "your [speaking to three or more people] (singular ō category possession)",
-    "example": "Kei hea tō koutou whare?",
-    "exampleTranslation": "Where is your house? (The house belonging to you three or more people).",
-    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'koutou' which is the tūkapi kiritūnā takitini (plural second person pronoun).",
-    "validated": true
-  },
-  "w-too-maatou": {
-    "maori": "tō mātou",
-    "english": "our [mine and two or more others'] (singular ō category possession, excludes listener)",
-    "example": "Kei hea tō mātou whare?",
-    "exampleTranslation": "Where is our house? (The house belonging to me and 2+ others, not including the listener).",
-    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'mātou' which is the tūkapi kaupare kiritūnei takitini (plural first person exclusive pronoun).",
-    "validated": true
-  },
-  "w-too-maaua": {
-    "maori": "tō māua",
-    "english": "our [mine and someone else's] (singular ō category possession, excludes listener)",
-    "example": "Kei hea tō māua whare?",
-    "exampleTranslation": "Where is our house?",
-    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'māua' which is the tūkapi kaupare kiritūnei takirua (dual first person exclusive pronoun).",
-    "validated": true
-  },
-  "w-too-raatou": {
-    "maori": "tō rātou",
-    "english": "their [referring to three or more people] (singular ō category possession)",
-    "example": "Kei hea tō rātou motokā?",
-    "exampleTranslation": "Where is their car? (The car belonging to those three or more people).",
-    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'rātou' which is the tūkapi kiritūrā takitini (plural third person pronoun).",
-    "validated": true
-  },
-  "w-too-raaua": {
-    "maori": "tō rāua",
-    "english": "their [referring to two people] (singular ō category possession)",
-    "example": "Kei hea tō rāua whare?",
-    "exampleTranslation": "Where is their house? (The house belonging to those two.)",
-    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'rāua' which is the tūkapi kiritūrā takirua (dual third person pronoun).",
-    "validated": true
-  },
-  "w-too-taatou": {
-    "maori": "tō tātou",
-    "english": "our [mine and two or more others'] (singular ō category possession, includes listener)",
-    "example": "Kei hea tō tātou kuia?",
-    "exampleTranslation": "Where is our grandmother? (The grandmother of me and 2+ others, including the listener).",
-    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'tātou' which is the tūkapi kauawhi kiritūnei takitini (plural first person inclusive pronoun).",
-    "validated": true
-  },
-  "w-too-taaua": {
-    "maori": "tō tāua",
-    "english": "our [mine and yours] (singular ō category possession, includes listener)",
-    "example": "Kei hea tō tāua whare?",
-    "exampleTranslation": "Where is our house?",
-    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'tāua' which is the tūkapi kauawhi kiritūnei takirua (dual first person inclusive pronoun).",
     "validated": true
   },
   "w-toa": {
@@ -6720,14 +6599,6 @@
     "note": "",
     "validated": false
   },
-  "w-tookena": {
-    "maori": "tōkena",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-tokomaha": {
     "maori": "tokomaha",
     "english": "",
@@ -6752,14 +6623,6 @@
     "note": "",
     "validated": false
   },
-  "w-tooku": {
-    "maori": "tōku",
-    "english": "my (singular 'o' category possession)",
-    "example": "Kei hea tōku pōtae?",
-    "exampleTranslation": "Where is my hat?",
-    "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'au' which is the tūkapi kiritūnei takitahi (singular first person pronoun).",
-    "validated": true
-  },
   "w-tomo": {
     "maori": "tomo",
     "english": "",
@@ -6767,14 +6630,6 @@
     "exampleTranslation": "",
     "note": "",
     "validated": false
-  },
-  "w-toona": {
-    "maori": "tōna",
-    "english": "his/her/their (singular ō category possession)",
-    "example": "Kei hea tōna whare?",
-    "exampleTranslation": "Where is his house?",
-    "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'ia' which is the tūkapi kiritūrā takitahi (singular third person pronoun).",
-    "validated": true
   },
   "w-tonga": {
     "maori": "tonga",
@@ -6816,6 +6671,118 @@
     "note": "",
     "validated": false
   },
+  "w-too": {
+    "maori": "tō",
+    "english": "your (singular neutral possession)",
+    "example": "Kei hea tō kī?",
+    "exampleTranslation": "Where is your key?",
+    "note": "This is a neutral [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
+    "validated": true
+  },
+  "w-too-koorua": {
+    "maori": "tō kōrua",
+    "english": "your [speaking to two people] (singular ō category possession)",
+    "example": "Kei hea tō kōrua mātua?",
+    "exampleTranslation": "Where are your parents? (The parents of you two.)",
+    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'kōrua' which is the tūkapi kiritūnā takirua (dual second person pronoun).",
+    "validated": true
+  },
+  "w-too-koutou": {
+    "maori": "tō koutou",
+    "english": "your [speaking to three or more people] (singular ō category possession)",
+    "example": "Kei hea tō koutou whare?",
+    "exampleTranslation": "Where is your house? (The house belonging to you three or more people).",
+    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'koutou' which is the tūkapi kiritūnā takitini (plural second person pronoun).",
+    "validated": true
+  },
+  "w-too-maatou": {
+    "maori": "tō mātou",
+    "english": "our [mine and two or more others'] (singular ō category possession, excludes listener)",
+    "example": "Kei hea tō mātou whare?",
+    "exampleTranslation": "Where is our house? (The house belonging to me and 2+ others, not including the listener).",
+    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'mātou' which is the tūkapi kaupare kiritūnei takitini (plural first person exclusive pronoun).",
+    "validated": true
+  },
+  "w-too-maaua": {
+    "maori": "tō māua",
+    "english": "our [mine and someone else's] (singular ō category possession, excludes listener)",
+    "example": "Kei hea tō māua whare?",
+    "exampleTranslation": "Where is our house?",
+    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'māua' which is the tūkapi kaupare kiritūnei takirua (dual first person exclusive pronoun).",
+    "validated": true
+  },
+  "w-too-raatou": {
+    "maori": "tō rātou",
+    "english": "their [referring to three or more people] (singular ō category possession)",
+    "example": "Kei hea tō rātou motokā?",
+    "exampleTranslation": "Where is their car? (The car belonging to those three or more people).",
+    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'rātou' which is the tūkapi kiritūrā takitini (plural third person pronoun).",
+    "validated": true
+  },
+  "w-too-raaua": {
+    "maori": "tō rāua",
+    "english": "their [referring to two people] (singular ō category possession)",
+    "example": "Kei hea tō rāua whare?",
+    "exampleTranslation": "Where is their house? (The house belonging to those two.)",
+    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'rāua' which is the tūkapi kiritūrā takirua (dual third person pronoun).",
+    "validated": true
+  },
+  "w-too-taatou": {
+    "maori": "tō tātou",
+    "english": "our [mine and two or more others'] (singular ō category possession, includes listener)",
+    "example": "Kei hea tō tātou kuia?",
+    "exampleTranslation": "Where is our grandmother? (The grandmother of me and 2+ others, including the listener).",
+    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'tātou' which is the tūkapi kauawhi kiritūnei takitini (plural first person inclusive pronoun).",
+    "validated": true
+  },
+  "w-too-taaua": {
+    "maori": "tō tāua",
+    "english": "our [mine and yours] (singular ō category possession, includes listener)",
+    "example": "Kei hea tō tāua whare?",
+    "exampleTranslation": "Where is our house?",
+    "note": "This is an [[ref|'ō' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'tāua' which is the tūkapi kauawhi kiritūnei takirua (dual first person inclusive pronoun).",
+    "validated": true
+  },
+  "w-tookena": {
+    "maori": "tōkena",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-tooku": {
+    "maori": "tōku",
+    "english": "my (singular 'o' category possession)",
+    "example": "Kei hea tōku pōtae?",
+    "exampleTranslation": "Where is my hat?",
+    "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'au' which is the tūkapi kiritūnei takitahi (singular first person pronoun).",
+    "validated": true
+  },
+  "w-toona": {
+    "maori": "tōna",
+    "english": "his/her/their (singular ō category possession)",
+    "example": "Kei hea tōna whare?",
+    "exampleTranslation": "Where is his house?",
+    "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'ia' which is the tūkapi kiritūrā takitahi (singular third person pronoun).",
+    "validated": true
+  },
+  "w-tootika": {
+    "maori": "tōtika",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-toou": {
+    "maori": "tōu",
+    "english": "your (singular ō category possession)",
+    "example": "Kei hea tōu whare?",
+    "exampleTranslation": "Where is your house?",
+    "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
+    "validated": true
+  },
   "w-toro": {
     "maori": "toro",
     "english": "",
@@ -6848,14 +6815,6 @@
     "note": "",
     "validated": false
   },
-  "w-tootika": {
-    "maori": "tōtika",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-toto": {
     "maori": "toto",
     "english": "",
@@ -6864,22 +6823,6 @@
     "note": "",
     "validated": false
   },
-  "w-toou": {
-    "maori": "tōu",
-    "english": "your (singular ō category possession)",
-    "example": "Kei hea tōu whare?",
-    "exampleTranslation": "Where is your house?",
-    "note": "This is an [[ref|'o' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'koe' which is the tūkapi kiritūnā takitahi (singular second person pronoun).",
-    "validated": true
-  },
-  "w-tu": {
-    "maori": "tū",
-    "english": "1) to stand\n2) to be wounded",
-    "example": "Tū ake.",
-    "exampleTranslation": "Stand up.",
-    "note": "",
-    "validated": true
-  },
   "w-tua": {
     "maori": "tua",
     "english": "beyond",
@@ -6887,6 +6830,14 @@
     "exampleTranslation": "Beyond the river.",
     "note": "",
     "validated": true
+  },
+  "w-tuahine": {
+    "maori": "tuahine",
+    "english": "sister (of a male)",
+    "example": "Kei te kura taku tuahine.",
+    "exampleTranslation": "My sister is at school.",
+    "note": "Used by male speakers to refer to their sisters",
+    "validated": false
   },
   "w-tuakana": {
     "maori": "tuakana",
@@ -7024,14 +6975,6 @@
     "note": "",
     "validated": false
   },
-  "w-tuumanako": {
-    "maori": "tūmanako",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-tumeke": {
     "maori": "tumeke",
     "english": "",
@@ -7050,10 +6993,10 @@
   },
   "w-tungaane": {
     "maori": "tungāne",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
+    "english": "brother (of a female)",
+    "example": "Kei hea tō tungāne?",
+    "exampleTranslation": "Where is your brother?",
+    "note": "Used by female speakers to refer to their brothers",
     "validated": false
   },
   "w-tunu": {
@@ -7064,16 +7007,56 @@
     "note": "",
     "validated": false
   },
-  "w-tuupato": {
-    "maori": "tūpato",
+  "w-tupu": {
+    "maori": "tupu",
     "english": "",
     "example": "",
     "exampleTranslation": "",
     "note": "",
     "validated": false
   },
-  "w-tupu": {
-    "maori": "tupu",
+  "w-ture": {
+    "maori": "ture",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-turituri": {
+    "maori": "turituri",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-tutuki": {
+    "maori": "tutuki",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-tuu": {
+    "maori": "tū",
+    "english": "1) to stand\n2) to be wounded",
+    "example": "Tū ake.",
+    "exampleTranslation": "Stand up.",
+    "note": "",
+    "validated": true
+  },
+  "w-tuumanako": {
+    "maori": "tūmanako",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-tuupato": {
+    "maori": "tūpato",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -7096,24 +7079,8 @@
     "note": "",
     "validated": false
   },
-  "w-ture": {
-    "maori": "ture",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-tuurehu": {
     "maori": "tūrehu",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-turituri": {
-    "maori": "turituri",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -7136,29 +7103,13 @@
     "note": "",
     "validated": false
   },
-  "w-tutuki": {
-    "maori": "tutuki",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-tuturu": {
+  "w-tuuturu": {
     "maori": "tūturu",
     "english": "1) real, authentic\n2) fixed, permanent",
     "example": "He kōrero tūturu tēnei.",
     "exampleTranslation": "This is a true story.",
     "note": "",
     "validated": true
-  },
-  "w-uu": {
-    "maori": "ū",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
   },
   "w-ua": {
     "maori": "ua",
@@ -7264,6 +7215,14 @@
     "note": "",
     "validated": false
   },
+  "w-uu": {
+    "maori": "ū",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
   "w-uwha": {
     "maori": "uwha",
     "english": "",
@@ -7272,13 +7231,53 @@
     "note": "",
     "validated": false
   },
-  "w-wa": {
+  "w-waa": {
     "maori": "wā",
     "english": "1) time, interval\n2) place, area, region",
     "example": "He aha te wā?",
     "exampleTranslation": "What is the time?",
     "note": "",
     "validated": true
+  },
+  "w-waahanga": {
+    "maori": "wāhanga",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-waahi": {
+    "maori": "wāhi",
+    "english": "1) place\n2) part, portion\n3) to break, to split",
+    "example": "He wāhi pai tēnei.",
+    "exampleTranslation": "This is a good place.",
+    "note": "",
+    "validated": true
+  },
+  "w-waahine": {
+    "maori": "wāhine",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-waananga": {
+    "maori": "wānanga",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-waatea": {
+    "maori": "wātea",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
   },
   "w-waea": {
     "maori": "waea",
@@ -7320,22 +7319,6 @@
     "note": "",
     "validated": false
   },
-  "w-waahanga": {
-    "maori": "wāhanga",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-wahi": {
-    "maori": "wāhi",
-    "english": "1) place\n2) part, portion\n3) to break, to split",
-    "example": "He wāhi pai tēnei.",
-    "exampleTranslation": "This is a good place.",
-    "note": "",
-    "validated": true
-  },
   "w-wahie": {
     "maori": "wahie",
     "english": "",
@@ -7351,14 +7334,6 @@
     "exampleTranslation": "She is a beautiful woman.",
     "note": "",
     "validated": true
-  },
-  "w-waahine": {
-    "maori": "wāhine",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
   },
   "w-waho": {
     "maori": "waho",
@@ -7416,6 +7391,14 @@
     "note": "",
     "validated": false
   },
+  "w-waiporoporo": {
+    "maori": "waiporoporo",
+    "english": "purple",
+    "example": "He waiporoporo te puāwai.",
+    "exampleTranslation": "The flower is purple.",
+    "note": "",
+    "validated": false
+  },
   "w-wairua": {
     "maori": "wairua",
     "english": "",
@@ -7431,14 +7414,6 @@
     "exampleTranslation": "Where is your car/canoe?",
     "note": "",
     "validated": true
-  },
-  "w-waananga": {
-    "maori": "wānanga",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
   },
   "w-wao": {
     "maori": "wao",
@@ -7458,14 +7433,6 @@
   },
   "w-waru": {
     "maori": "waru",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-waatea": {
-    "maori": "wātea",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -7520,6 +7487,14 @@
     "note": "",
     "validated": false
   },
+  "w-wera": {
+    "maori": "wera",
+    "english": "hot",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
   "w-wero": {
     "maori": "wero",
     "english": "",
@@ -7528,27 +7503,11 @@
     "note": "",
     "validated": false
   },
-  "w-wha": {
+  "w-whaa": {
     "maori": "whā",
     "english": "four",
     "example": "E whā ngā pukapuka.",
     "exampleTranslation": "There are four books.",
-    "note": "",
-    "validated": true
-  },
-  "w-whaea": {
-    "maori": "whaea",
-    "english": "mother, aunt",
-    "example": "Kei hea tō whaea?",
-    "exampleTranslation": "Where is your mother?",
-    "note": "",
-    "validated": true
-  },
-  "w-whai": {
-    "maori": "whai",
-    "english": "to follow, to chase",
-    "example": "Whai mai i a au.",
-    "exampleTranslation": "Follow me.",
     "note": "",
     "validated": true
   },
@@ -7575,6 +7534,54 @@
     "exampleTranslation": "",
     "note": "",
     "validated": false
+  },
+  "w-whaaki": {
+    "maori": "whāki",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-whaanau": {
+    "maori": "whānau",
+    "english": "1) family\n2) to be born",
+    "example": "He nui tōku whānau.",
+    "exampleTranslation": "My family is large.",
+    "note": "",
+    "validated": true
+  },
+  "w-whaangai": {
+    "maori": "whāngai",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-whaanui": {
+    "maori": "whānui",
+    "english": "broad, wide",
+    "example": "He huarahi whānui tēnā.",
+    "exampleTranslation": "That is a wide road.",
+    "note": "",
+    "validated": true
+  },
+  "w-whaea": {
+    "maori": "whaea",
+    "english": "mother, aunt",
+    "example": "Kei hea tō whaea?",
+    "exampleTranslation": "Where is your mother?",
+    "note": "",
+    "validated": true
+  },
+  "w-whai": {
+    "maori": "whai",
+    "english": "to follow, to chase",
+    "example": "Whai mai i a au.",
+    "exampleTranslation": "Follow me.",
+    "note": "",
+    "validated": true
   },
   "w-whakaae": {
     "maori": "whakaae",
@@ -7704,22 +7711,6 @@
     "note": "",
     "validated": false
   },
-  "w-whakamahi": {
-    "maori": "whakamahi",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-whakamahia": {
-    "maori": "whakamahia",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
   "w-whakamaaori": {
     "maori": "whakamāori",
     "english": "",
@@ -7728,7 +7719,7 @@
     "note": "",
     "validated": false
   },
-  "w-whakamarama": {
+  "w-whakamaarama": {
     "maori": "whakamārama",
     "english": "to explain",
     "example": "Whakamārama mai.",
@@ -7746,6 +7737,22 @@
   },
   "w-whakamaatautau": {
     "maori": "whakamātautau",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-whakamahi": {
+    "maori": "whakamahi",
+    "english": "",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
+  },
+  "w-whakamahia": {
+    "maori": "whakamahia",
     "english": "",
     "example": "",
     "exampleTranslation": "",
@@ -8056,22 +8063,6 @@
     "note": "",
     "validated": true
   },
-  "w-whaaki": {
-    "maori": "whāki",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-whanau": {
-    "maori": "whānau",
-    "english": "1) family\n2) to be born",
-    "example": "He nui tōku whānau.",
-    "exampleTranslation": "My family is large.",
-    "note": "",
-    "validated": true
-  },
   "w-whanaunga": {
     "maori": "whanaunga",
     "english": "relative, relation",
@@ -8087,22 +8078,6 @@
     "exampleTranslation": "",
     "note": "",
     "validated": false
-  },
-  "w-whaangai": {
-    "maori": "whāngai",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
-  },
-  "w-whanui": {
-    "maori": "whānui",
-    "english": "broad, wide",
-    "example": "He huarahi whānui tēnā.",
-    "exampleTranslation": "That is a wide road.",
-    "note": "",
-    "validated": true
   },
   "w-whara": {
     "maori": "whara",
@@ -8168,7 +8143,7 @@
     "note": "",
     "validated": true
   },
-  "w-whetu": {
+  "w-whetuu": {
     "maori": "whetū",
     "english": "star",
     "example": "Tirohia ngā whetū.",
