@@ -32,10 +32,10 @@ Under the following terms:
 *   **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 **Clarification on Commercial Use**
-While this project uses a NonCommercial license, we explicitly **grant permission** for organizations and businesses to use this material for **internal educational purposes** (e.g., staff training or workshops). You are free to use these resources within your organization provided you do not sell the content, charge fees for access to it, or use it as part of a paid product.
+While this project uses a NonCommercial license, we explicitly **grant permission** for organisations and businesses to use this material for **internal educational purposes** (e.g., staff training or workshops). You are free to use these resources within your organization provided you do not sell the content, charge fees for access to it, or use it as part of a paid product.
 
-### Kaitiakitanga (Guardianship) & Māori Data Sovereignty
-Te reo Māori is a **taonga** (treasure) protected under Te Tiriti o Waitangi. While this repository uses an open license to facilitate education, we ask all users to respect the following cultural principles:
+### Kaitiakitanga (Guardianship)
+Te reo Māori is a **taonga** (treasure). While this repository uses an open license to facilitate education, we ask all users to respect the following cultural principles:
 
 *   **Integrity**: Respect the mana of the language. Do not misappropriate or alter content in ways that distort its meaning or cultural context.
 *   **Benefit**: This resource is intended to uplift the community and learners, not for personal or corporate profit.
