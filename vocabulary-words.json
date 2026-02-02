@@ -1025,27 +1025,27 @@
   },
   "w-hiainu": {
     "maori": "hiainu",
-    "english": "thirsty",
-    "example": "",
-    "exampleTranslation": "",
+    "english": "thirsty, thirst",
+    "example": "Kei te hiainu koe?",
+    "exampleTranslation": "Are you thirsty?",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-hiakai": {
     "maori": "hiakai",
-    "english": "hungry",
-    "example": "",
-    "exampleTranslation": "",
+    "english": "hungry, hunger",
+    "example": "Kei te hiakai au.",
+    "exampleTranslation": "I am hungry.",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-hiamoe": {
     "maori": "hiamoe",
-    "english": "sleepy",
-    "example": "",
-    "exampleTranslation": "",
+    "english": "sleepy, drowsy",
+    "example": "Kua hiamoe ngā tamariki.",
+    "exampleTranslation": "The children have become sleepy.",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-hii": {
     "maori": "hī",
@@ -1066,9 +1066,9 @@
   "w-hika": {
     "maori": "hika",
     "english": "term of address",
-    "example": "E hika, haere mai!",
-    "exampleTranslation": "Hey there, come here!",
-    "note": "An informal address term used for people of any gender.",
+    "example": "E hika mā! Kua tō te rā.",
+    "exampleTranslation": "Friends! The sun has set.",
+    "note": "A term of address to people of any gender, commonly used in eastern dialects. It can also be used as an exclamation of surprise (e.g., 'E hika!').",
     "validated": true
   },
   "w-hiki": {
@@ -1090,16 +1090,16 @@
   "w-hine": {
     "maori": "hine",
     "english": "term of address for a girl",
-    "example": "E hine, haere mai.",
-    "exampleTranslation": "Girl, come here.",
+    "example": "E hine, kei te pēhea koe?",
+    "exampleTranslation": "Hey girl, how are you?",
     "note": "Used when addressing a young female.",
     "validated": true
   },
   "w-hinengaro": {
     "maori": "hinengaro",
-    "english": "mind, intellect",
-    "example": "He pai tōna hinengaro.",
-    "exampleTranslation": "Her mind is good.",
+    "english": "mind, intellect, consciousness",
+    "example": "He taonga te hinengaro.",
+    "exampleTranslation": "The mind is a treasure.",
     "note": "",
     "validated": true
   },
@@ -1137,9 +1137,9 @@
   },
   "w-hoariri": {
     "maori": "hoariri",
-    "english": "enemy",
-    "example": "Ko ia te hoariri nui o te iwi.",
-    "exampleTranslation": "He/She is the great enemy of the people/tribe",
+    "english": "enemy, opponent",
+    "example": "Rutua te hoariri!",
+    "exampleTranslation": "Tackle the opponent!",
     "note": "Any word derived from \"hoa\" is in the [[ref|'o' category|a-o-categories]].",
     "validated": true
   },
@@ -1148,7 +1148,7 @@
     "english": "to give (away from speaker)",
     "example": "Hoatu te pukapuka ki a ia.",
     "exampleTranslation": "Give the book to him/her.",
-    "note": "Directional verb indicating giving away from the speaker (compare with 'hōmai').",
+    "note": "Directional verb indicating giving away from the speaker (compare with 'homai').",
     "validated": true
   },
   "w-hoe": {
@@ -1540,8 +1540,8 @@
     "english": "not (negative for verb sentences)",
     "example": "Kāhore au i te haere.",
     "exampleTranslation": "I am not going.",
-    "note": "The main negative marker for verbal sentences.",
-    "validated": false
+    "note": "The main negative marker for verbal sentences. A variation of {{kāore}}.",
+    "validated": true
   },
   "w-kaainga": {
     "maori": "kāinga",
@@ -2221,23 +2221,23 @@
     "example": "Kei te kimi ahau i aku kī.",
     "exampleTranslation": "I am looking for my keys.",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-kimihia": {
     "maori": "kimihia",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "english": "be sought, be looked for, be searched for",
+    "example": "Kimihia te huarahi e tika ana māu.",
+    "exampleTranslation": "Seek the path that's right for you.",
+    "note": "Kimi + passive suffix -hia.",
+    "validated": true
   },
   "w-kino": {
     "maori": "kino",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
+    "english": "bad, evil, wicked, faulty",
+    "example": "He whakaaro kino tēnā.",
+    "exampleTranslation": "That is a bad idea.",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-kiore": {
     "maori": "kiore",
@@ -3193,11 +3193,11 @@
   },
   "w-meatia": {
     "maori": "meatia",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "english": "be done, be made, be said",
+    "example": "I meatia tērā e ia.",
+    "exampleTranslation": "That was done by him/her.",
+    "note": "Mea + passive suffix -tia.",
+    "validated": true
   },
   "w-meenaa": {
     "maori": "mēnā",
@@ -3217,15 +3217,15 @@
   },
   "w-meneti": {
     "maori": "meneti",
-    "english": "",
-    "example": "",
-    "exampleTranslation": "",
+    "english": "minute",
+    "example": "E rima meneti e toe ana.",
+    "exampleTranslation": "Five minutes remaining.",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-mere": {
     "maori": "mere",
-    "english": "",
+    "english": "short stone club",
     "example": "",
     "exampleTranslation": "",
     "note": "",
