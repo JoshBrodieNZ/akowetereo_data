@@ -2183,6 +2183,14 @@
     "note": "A particle with a wide range of uses.",
     "validated": true
   },
+  "w-kia-ora": {
+    "maori": "kia ora",
+    "english": "hello, best wishes",
+    "example": "",
+    "exampleTranslation": ".",
+    "note": "",
+    "validated": true
+  },
   "w-kii": {
     "maori": "kī",
     "english": "1) to say\n2) to be full",

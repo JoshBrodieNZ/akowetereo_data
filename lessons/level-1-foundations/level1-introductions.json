@@ -21,7 +21,7 @@
           "type": "example",
           "sentence": "Kia ora!",
           "translation": "Hello! Cheers!",
-          "note": "Listen to the [recording](https://maoridictionary.co.nz/word/2608) on Te Aka and note how the two vowels in ki**a o**ra blend into one another!"
+          "note": "Listen to the [recording](https://maoridictionary.co.nz/word/2608) on Te Aka and note how the two vowels in {{ki**a o**ra}} blend into one another!"
         },
         {
           "type": "example",

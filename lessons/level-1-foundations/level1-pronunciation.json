@@ -37,11 +37,22 @@
       "elements": [
         {
           "type": "text",
-          "content": "Some vowels, when placed next to other vowels, require us to blend the two sounds together into a single syllable, while other vowels combinations require us to pronounce both vowels independently.\n\nWe blend the vowel into a single syllable when:\n* a is followed by any other vowel ([tae](https://maoridictionary.co.nz/word/7020), [tai](https://maoridictionary.co.nz/word/7091), [hao](https://maoridictionary.co.nz/word/848), [hau](https://maoridictionary.co.nz/word/924)).\n* e is followed by i or u ([kei](https://maoridictionary.co.nz/word/2514), [heu](https://maoridictionary.co.nz/word/1122)).\n* o is followed by e, i or u ([koe](https://maoridictionary.co.nz/word/2761), [koi](https://maoridictionary.co.nz/word/2818), [hou](https://maoridictionary.co.nz/word/1464)).\n\nListen to the difference at the links above between hau/hou/hao, between koe/koi, as well as between tae and kai as these vowel blends can often be mixed up.\n\nAdditionally, some long vowels are blended with a short vowel, such as:\n* ā followed by any other vowel ([pāera](https://maoridictionary.co.nz/word/4882), [kāinga](https://maoridictionary.co.nz/word/1971), [māori](https://maoridictionary.co.nz/word/3646), [māu](https://maoridictionary.co.nz/word/3931)).\n* ō followed by i or u ([ōi](https://maoridictionary.co.nz/word/4717), [tōu](https://maoridictionary.co.nz/word/8547)).\n* ē followed by i ([tēina](https://maoridictionary.co.nz/word/7891)).\n\nWith other vowel combinations, we pronounce both vowels as separate syllables. In the common greeting `kia ora`, `kia` has both of its vowels pronounced but the **a** of `ki**a**` and the **o** of `**o**ra` are often blended together when speaking faster. You'll often hear this with vowels at the end of a word and start of the next word.\n"
+          "content": "Some vowels, when placed next to other vowels, require us to blend the two sounds together into a single syllable, while other vowels combinations require us to pronounce both vowels independently.\n\nWe blend the vowel into a single syllable when:\n* a is followed by any other vowel ([tae](https://maoridictionary.co.nz/word/7020), [tai](https://maoridictionary.co.nz/word/7091), [hao](https://maoridictionary.co.nz/word/848), [hau](https://maoridictionary.co.nz/word/924)).\n* e is followed by i or u ([kei](https://maoridictionary.co.nz/word/2514), [heu](https://maoridictionary.co.nz/word/1122)).\n* o is followed by e, i or u ([koe](https://maoridictionary.co.nz/word/2761), [koi](https://maoridictionary.co.nz/word/2818), [hou](https://maoridictionary.co.nz/word/1464)).\n\nListen to the difference at the links above between hau/hou/hao, between koe/koi, as well as between tae and kai as these vowel blends can often be mixed up.\n\nAdditionally, some long vowels are blended with a short vowel, such as:\n* ā followed by any other vowel ([pāera](https://maoridictionary.co.nz/word/4882), [kāinga](https://maoridictionary.co.nz/word/1971), [māori](https://maoridictionary.co.nz/word/3646), [māu](https://maoridictionary.co.nz/word/3931)).\n* ō followed by i or u ([ōi](https://maoridictionary.co.nz/word/4717), [tōu](https://maoridictionary.co.nz/word/8547)).\n* ē followed by i ([tēina](https://maoridictionary.co.nz/word/7891)).\n\nWith other vowel combinations, we pronounce both vowels as separate syllables. In the common greeting [[word|kia ora|w-kia-ora]], {{kia}} has both of its vowels pronounced but the **a** of {{ki**a**}} and the **o** of {{**o**ra}} are often blended together when speaking faster. You'll often hear this with vowels at the end of a word and start of the next word.\n"
         },
         {
           "type": "note",
           "content": "A blend of two vowels is called a dipthong or [oro tōpū](https://paekupu.co.nz/word/oro-topu)"
+        }
+      ]
+    },
+    {
+      "title": "Pronunciation Exercise",
+      "elements": [
+        {
+          "type": "exercise-ref",
+          "content": "## New Slide Content\n\nAdd your content here.",
+          "exerciseId": "exercise-pronunciation",
+          "title": "Pronunciation Exercise"
         }
       ]
     },
@@ -67,5 +78,7 @@
         }
       ]
     }
-  ]
+  ],
+  "courseId": "level-1-foundations",
+  "path": "/data/lessons/level-1-foundations/level1-pronunciation.json"
 }

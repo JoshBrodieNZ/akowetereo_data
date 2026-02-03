@@ -295,5 +295,50 @@
         "incorrectFeedback": "That's not correct. The statement is actually false because [explanation placeholder]."
       }
     ]
-  }
+  },
+{
+  "id": "exercise-pronunciation",
+  "title": "Pronunciation",
+  "questions": [
+    {
+      "type": "multiple-choice",
+      "questionText": "Which of the following sounds is correct for pronouncing the Māori word [[word|ko|w-ko]]?",
+      "options": [
+        "The \"o\" in \"door\".",
+        "The \"o\" in \"hot\".",
+        "The \"o\" in \"computer\".",
+        "The \"o\" in \"go\"."
+      ],
+      "correctAnswer": "The \"o\" in \"door\".",
+      "correctFeedback": "Correct! Well done.",
+      "incorrectFeedback": "That's not correct. Try again."
+    },
+    {
+      "type": "multiple-choice",
+      "questionText": "Which of the following words sounds like the Māori word [[word|hau|w-hau]]?",
+      "options": [
+        "How",
+        "Hoo",
+        "Hoe",
+        "Huh"
+      ],
+      "correctAnswer": "Hoe",
+      "correctFeedback": "Correct! Well done.",
+      "incorrectFeedback": "That's not correct. Try again."
+    },
+    {
+      "type": "multiple-choice",
+      "questionText": "Which of the following words sounds like the Māori word [[word|hao|w-hao]]? \n\n(This might look a little like the previous question, but it's different!)",
+      "options": [
+        "How",
+        "Hoo",
+        "Hoe",
+        "Huh"
+      ],
+      "correctAnswer": "How",
+      "correctFeedback": "Correct! Well done.",
+      "incorrectFeedback": "That's not correct. Try again."
+    }
+  ]
+}
 ]
