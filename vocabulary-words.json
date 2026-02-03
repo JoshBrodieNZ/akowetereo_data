@@ -2801,11 +2801,11 @@
   },
   "w-maatau": {
     "maori": "mātau",
-    "english": "",
+    "english": "1) to know, understand\n2) we, us (variant of mātou, the tūkapi kaupare kiritūnei takitini (plural first person exclusive [[ref|pronoun|tukapi]]))",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-maatauranga": {
     "maori": "mātauranga",
@@ -2833,11 +2833,11 @@
   },
   "w-maau": {
     "maori": "māu",
-    "english": "",
+    "english": "for you, by you",
     "example": "",
-    "exampleTranslation": "",
+    "exampleTranslation": "Used for ā category possession.",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-maaua": {
     "maori": "māua",
@@ -2853,7 +2853,7 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-maha": {
     "maori": "maha",
@@ -2993,11 +2993,11 @@
   },
   "w-manu": {
     "maori": "manu",
-    "english": "",
+    "english": "bird",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-manuhiri": {
     "maori": "manuhiri",
@@ -3229,7 +3229,7 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-mihi": {
     "maori": "mihi",
@@ -3241,11 +3241,11 @@
   },
   "w-miiere": {
     "maori": "mīere",
-    "english": "",
+    "english": "honey",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-miiharo": {
     "maori": "mīharo",
@@ -3257,51 +3257,51 @@
   },
   "w-miihini": {
     "maori": "mīhini",
-    "english": "",
+    "english": "machine",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-miiti": {
     "maori": "mīti",
-    "english": "",
+    "english": "meat",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-miraka": {
     "maori": "miraka",
-    "english": "",
+    "english": "milk",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-miriona": {
     "maori": "miriona",
-    "english": "",
+    "english": "million",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-miro": {
     "maori": "miro",
-    "english": "",
+    "english": "1) brown pine\n2) thread",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-mita": {
     "maori": "mita",
-    "english": "",
+    "english": "metre",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-moana": {
     "maori": "moana",
@@ -3321,51 +3321,51 @@
   },
   "w-moemoeaa": {
     "maori": "moemoeā",
-    "english": "",
+    "english": "1) to dream\n2) dream",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-moenga": {
     "maori": "moenga",
-    "english": "",
+    "english": "bed",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "moe + nominal suffix -nga",
+    "validated": true
   },
   "w-moka": {
     "maori": "moka",
-    "english": "",
+    "english": "1) end, extremity\n2) piece, portion\n3) mocha (coffee)",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-mokemoke": {
     "maori": "mokemoke",
-    "english": "",
+    "english": "lonely",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-moko": {
     "maori": "moko",
-    "english": "",
+    "english": "1) Lizard\n2) Traditional tattoo\n3) Term of address to a grandchild: E moko.",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-mokomoko": {
     "maori": "mokomoko",
-    "english": "",
+    "english": "lizard",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-mokopuna": {
     "maori": "mokopuna",
@@ -3409,43 +3409,43 @@
   },
   "w-moohiotanga": {
     "maori": "mōhiotanga",
-    "english": "",
+    "english": "knowledge",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "mōhio + nominal suffix -tanga",
+    "validated": true
   },
   "w-moohiotia": {
     "maori": "mōhiotia",
-    "english": "",
+    "english": "to be known",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "mōhio + passive suffix -tia",
+    "validated": true
   },
   "w-mookai": {
     "maori": "mōkai",
-    "english": "",
+    "english": "pet",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-mooku": {
     "maori": "mōku",
-    "english": "",
+    "english": "for me",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "unrealised o category possession",
+    "validated": true
   },
   "w-moona": {
     "maori": "mōna",
-    "english": "",
+    "english": "for him/her",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "unrealised o category possession",
+    "validated": true
   },
   "w-motokaa": {
     "maori": "motokā",
@@ -3465,19 +3465,19 @@
   },
   "w-motuhake": {
     "maori": "motuhake",
-    "english": "",
+    "english": "1) to separated, set side\n2) separated, distinct, special",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-moutere": {
     "maori": "moutere",
-    "english": "",
+    "english": "island",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-mua": {
     "maori": "mua",
@@ -3489,11 +3489,11 @@
   },
   "w-mura": {
     "maori": "mura",
-    "english": "",
+    "english": "1) be aflame, on fire\n2) blaze, flame",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-muri": {
     "maori": "muri",
@@ -3545,27 +3545,27 @@
   },
   "w-naawai": {
     "maori": "nāwai",
-    "english": "",
+    "english": "presently, in due course, after a while",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-nama": {
     "maori": "nama",
-    "english": "",
+    "english": "number",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-nanakia": {
     "maori": "nanakia",
-    "english": "",
+    "english": "1) crafty, cunning\n2) scoundrel, rascal",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-nau": {
     "maori": "nau",
@@ -3601,11 +3601,11 @@
   },
   "w-nekeneke": {
     "maori": "nekeneke",
-    "english": "",
+    "english": "to move gradually",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ngaa": {
     "maori": "ngā",
@@ -3625,27 +3625,27 @@
   },
   "w-ngaarara": {
     "maori": "ngārara",
-    "english": "",
+    "english": "reptile, monster",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ngaatahi": {
     "maori": "ngātahi",
-    "english": "",
+    "english": "together",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ngaati": {
     "maori": "Ngāti",
-    "english": "",
+    "english": "tribal name prefix",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ngaawari": {
     "maori": "ngāwari",
@@ -3673,35 +3673,35 @@
   },
   "w-ngaru": {
     "maori": "ngaru",
-    "english": "",
+    "english": "wave",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ngata": {
     "maori": "ngata",
-    "english": "",
+    "english": "1) snail\n2) to be satisfied",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ngau": {
     "maori": "ngau",
-    "english": "",
+    "english": "to bite",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ngaungau": {
     "maori": "ngaungau",
-    "english": "",
+    "english": "1) to chew repeatedly\n2) a snack",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ngenge": {
     "maori": "ngenge",
@@ -3709,7 +3709,7 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-noa": {
     "maori": "noa",
@@ -3729,11 +3729,11 @@
   },
   "w-noke": {
     "maori": "noke",
-    "english": "",
+    "english": "worm",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-noo": {
     "maori": "nō",
@@ -3769,19 +3769,19 @@
   },
   "w-nuku": {
     "maori": "nuku",
-    "english": "",
+    "english": "to move",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-nunui": {
     "maori": "nunui",
-    "english": "",
+    "english": "big, large",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "plural form of nui",
+    "validated": true
   },
   "w-o": {
     "maori": "o",
@@ -3793,43 +3793,43 @@
   },
   "w-oho": {
     "maori": "oho",
-    "english": "",
+    "english": "to wake up",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ohorere": {
     "maori": "ohorere",
-    "english": "",
+    "english": "to start suddenly, be startled",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-oma": {
     "maori": "oma",
-    "english": "",
+    "english": "to run",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-one": {
     "maori": "one",
-    "english": "",
+    "english": "beach, sand",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-oneone": {
     "maori": "oneone",
-    "english": "",
+    "english": "earth, soil",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ono": {
     "maori": "ono",
@@ -3929,11 +3929,11 @@
   },
   "w-oorite": {
     "maori": "ōrite",
-    "english": "",
+    "english": "to be identical, to be equal",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-oou": {
     "maori": "ōu",
@@ -3945,11 +3945,11 @@
   },
   "w-ope": {
     "maori": "ope",
-    "english": "",
+    "english": "brigade, troop, group of people moving together",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ora": {
     "maori": "ora",
@@ -3961,27 +3961,27 @@
   },
   "w-oranga": {
     "maori": "oranga",
-    "english": "",
+    "english": "health, life",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "ora + nominal suffix -nga",
+    "validated": true
   },
   "w-oreore": {
     "maori": "oreore",
-    "english": "",
+    "english": "to shake, quiver",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-otaota": {
     "maori": "otaota",
-    "english": "",
+    "english": "vegetation, herbs, grass, weeds",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-oti": {
     "maori": "oti",
@@ -3993,11 +3993,11 @@
   },
   "w-otiraa": {
     "maori": "otirā",
-    "english": "",
+    "english": "but",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paa": {
     "maori": "pā",
@@ -4009,11 +4009,11 @@
   },
   "w-paahi": {
     "maori": "pāhi",
-    "english": "",
+    "english": "1) to pass, to enact\n2) purse, wallet",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paakehaa": {
     "maori": "Pākehā",
@@ -4025,27 +4025,27 @@
   },
   "w-paakete": {
     "maori": "pākete",
-    "english": "",
+    "english": "packet, bucket",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paamu": {
     "maori": "pāmu",
-    "english": "",
+    "english": "farm",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paangarau": {
     "maori": "pāngarau",
-    "english": "",
+    "english": "mathematics",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paanui": {
     "maori": "pānui",
@@ -4065,83 +4065,83 @@
   },
   "w-paatai": {
     "maori": "pātai",
-    "english": "",
+    "english": "1) to ask a question\n2) question",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paatata": {
     "maori": "pātata",
-    "english": "",
+    "english": "to be near, close",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paatene": {
     "maori": "pātene",
-    "english": "",
+    "english": "button",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paatiitii": {
     "maori": "pātītī",
-    "english": "",
+    "english": "grass",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paatiki": {
     "maori": "pātiki",
-    "english": "",
+    "english": "flounder",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "A general term for flounder-type fish.",
+    "validated": true
   },
   "w-paaua": {
     "maori": "pāua",
-    "english": "",
+    "english": "abalone",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pae": {
     "maori": "pae",
-    "english": "",
+    "english": "1) shelf, horizon, anything horizontal\n2) to lay horizontally\n3) to be cast ashore\n4) circumference",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paepae": {
     "maori": "paepae",
-    "english": "",
+    "english": "1) container\n2) speakers’ bench on the marae",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pahi": {
     "maori": "pahi",
-    "english": "",
+    "english": "bus",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pahuu": {
     "maori": "pahū",
-    "english": "",
+    "english": "1) to explore, burst\n2) bomb\n3) drum",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pai": {
     "maori": "pai",
@@ -4153,43 +4153,43 @@
   },
   "w-painga": {
     "maori": "painga",
-    "english": "",
+    "english": "benefit, skill",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "pai + nominal suffix -nga",
+    "validated": true
   },
   "w-paipa": {
     "maori": "paipa",
-    "english": "",
+    "english": "pipe",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pakanga": {
     "maori": "pakanga",
-    "english": "",
+    "english": "to fight, battle, wage war",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pakari": {
     "maori": "pakari",
-    "english": "",
+    "english": "1) strong\n2) mature, ripe",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pakaru": {
     "maori": "pakaru",
-    "english": "",
+    "english": "to be smashed, broken",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pakeke": {
     "maori": "pakeke",
@@ -4201,75 +4201,75 @@
   },
   "w-paki": {
     "maori": "paki",
-    "english": "",
+    "english": "to slap, to pat",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pakipaki": {
     "maori": "pakipaki",
-    "english": "",
+    "english": "1) to applaud, to clap\n2) applause",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pakitara": {
     "maori": "pakitara",
-    "english": "",
+    "english": "wall",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pakiwaitara": {
     "maori": "pakiwaitara",
-    "english": "",
+    "english": "story, legend, fiction",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paku": {
     "maori": "paku",
-    "english": "",
+    "english": "small",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pakupaku": {
     "maori": "pakupaku",
-    "english": "",
+    "english": "very small",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pana": {
     "maori": "pana",
-    "english": "",
+    "english": "to push away, to expel",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-panana": {
     "maori": "panana",
-    "english": "",
+    "english": "banana",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-panga": {
     "maori": "panga",
-    "english": "",
+    "english": "1) to throw\n2) puzzle, riddle",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pango": {
     "maori": "pango",
@@ -4281,19 +4281,19 @@
   },
   "w-pani": {
     "maori": "pani",
-    "english": "",
+    "english": "1) to be orphaned\n2) orphan",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paoro": {
     "maori": "paoro",
-    "english": "",
+    "english": "ball",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-papa": {
     "maori": "papa",
@@ -4329,115 +4329,115 @@
   },
   "w-pare": {
     "maori": "pare",
-    "english": "",
+    "english": "1) to turn aside, ward off\n2) headband, garland",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pari": {
     "maori": "pari",
-    "english": "",
+    "english": "cliff",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-parirau": {
     "maori": "parirau",
-    "english": "",
+    "english": "wing",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paru": {
     "maori": "paru",
-    "english": "",
+    "english": "dirt, mud",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-paruparu": {
     "maori": "paruparu",
-    "english": "",
+    "english": "dirt, mud",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pata": {
     "maori": "pata",
-    "english": "",
+    "english": "butter",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-patu": {
     "maori": "patu",
-    "english": "",
+    "english": "to strike, beat, kill",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-patua": {
     "maori": "patua",
-    "english": "",
+    "english": "to be struck, beaten",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "patu + passive suffix -a",
+    "validated": true
   },
   "w-pau": {
     "maori": "pau",
-    "english": "",
+    "english": "to be consumed, used up completely, all gone",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pea": {
     "maori": "pea",
-    "english": "",
+    "english": "1) maybe, perhaps\n2) pear\n3) bear\n4) pair",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-peehea": {
     "maori": "pēhea",
-    "english": "",
+    "english": "how?",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-peekana": {
     "maori": "pēkana",
-    "english": "",
+    "english": "bacon",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-peeke": {
     "maori": "pēke",
-    "english": "",
+    "english": "bag",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-peenaa": {
     "maori": "pēnā",
-    "english": "",
+    "english": "like that, near listener",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-peenei": {
     "maori": "pēnei",
@@ -4449,387 +4449,387 @@
   },
   "w-peepi": {
     "maori": "pēpi",
-    "english": "",
+    "english": "baby",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-peeraa": {
     "maori": "pērā",
-    "english": "",
+    "english": "like that, yonder",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-peewhea": {
     "maori": "pēwhea",
-    "english": "",
+    "english": "how?",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "A variant of pēhea.",
+    "validated": true
   },
   "w-peita": {
     "maori": "peita",
-    "english": "",
+    "english": "paint",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-peka": {
     "maori": "peka",
-    "english": "",
+    "english": "branch",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pekapeka": {
     "maori": "pekapeka",
-    "english": "",
+    "english": "bat",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-peke": {
     "maori": "peke",
-    "english": "",
+    "english": "to jump",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pene": {
     "maori": "pene",
-    "english": "",
+    "english": "pen",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pepa": {
     "maori": "pepa",
-    "english": "",
+    "english": "like this, near speaker",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pere": {
     "maori": "pere",
-    "english": "",
+    "english": "bell",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pii": {
     "maori": "pī",
-    "english": "",
+    "english": "bee",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-piipii": {
     "maori": "pīpī",
-    "english": "",
+    "english": "chick, baby",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-piirangi": {
     "maori": "pīrangi",
-    "english": "",
+    "english": "to want, desire",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-piki": {
     "maori": "piki",
-    "english": "",
+    "english": "1) to climb\n2) to increase",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pikitia": {
     "maori": "pikitia",
-    "english": "",
+    "english": "picture, film",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pirau": {
     "maori": "pirau",
-    "english": "",
+    "english": "to be rotten, infected",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-piri": {
     "maori": "piri",
-    "english": "",
+    "english": "to stick to, to cling",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pirihimana": {
     "maori": "pirihimana",
-    "english": "",
+    "english": "police officer",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-piriti": {
     "maori": "piriti",
-    "english": "",
+    "english": "bridge",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-piro": {
     "maori": "piro",
-    "english": "",
+    "english": "to be stinking, putrid",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pito": {
     "maori": "pito",
-    "english": "",
+    "english": "1) end, extremity\n2) pole (of a magnet)\n3) belly button",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-piupiu": {
     "maori": "piupiu",
-    "english": "",
+    "english": "flax skirt",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poaka": {
     "maori": "poaka",
-    "english": "",
+    "english": "pig",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poi": {
     "maori": "poi",
-    "english": "",
+    "english": "a light ball on a string, swung rhythmically to accompany singing",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poka": {
     "maori": "poka",
-    "english": "",
+    "english": "to puncture, make a hole",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pono": {
     "maori": "pono",
-    "english": "",
+    "english": "true, faithful",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poo": {
     "maori": "pō",
-    "english": "",
+    "english": "night",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poohatu": {
     "maori": "pōhatu",
-    "english": "",
+    "english": "stone",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pooheehee": {
     "maori": "pōhēhē",
-    "english": "",
+    "english": "to misunderstand, think mistakenly",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pooro": {
     "maori": "pōro",
-    "english": "",
+    "english": "ball",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pootae": {
     "maori": "pōtae",
-    "english": "",
+    "english": "hat",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poouri": {
     "maori": "pōuri",
-    "english": "sad",
+    "english": "sad, dark",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poraka": {
     "maori": "poraka",
-    "english": "",
+    "english": "1) frog\n2) jersey",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poro": {
     "maori": "poro",
-    "english": "",
+    "english": "to cut off, to cut short",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-porohita": {
     "maori": "porohita",
-    "english": "",
+    "english": "circle, round ",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-porowhita": {
     "maori": "porowhita",
-    "english": "",
+    "english": "circle, round ",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poti": {
     "maori": "poti",
-    "english": "",
+    "english": "1) cat\n2) boat",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-poto": {
     "maori": "poto",
-    "english": "",
+    "english": "short",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pou": {
     "maori": "pou",
-    "english": "",
+    "english": "pole, post",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pouaka": {
     "maori": "pouaka",
-    "english": "",
+    "english": "box",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pouaka whakaata": {
     "maori": "pouaka whakaata",
-    "english": "",
+    "english": "television",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pounamu": {
     "maori": "pounamu",
-    "english": "",
+    "english": "greenstone",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puare": {
     "maori": "puare",
-    "english": "",
+    "english": "to be open, exposed",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puehu": {
     "maori": "puehu",
-    "english": "",
+    "english": "dust",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puhi": {
     "maori": "puhi",
-    "english": "",
+    "english": "to shoot, blow",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pukapuka": {
     "maori": "pukapuka",
-    "english": "",
+    "english": "1) book\n2) lungs",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puke": {
     "maori": "puke",
-    "english": "",
+    "english": "hill",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puku": {
     "maori": "puku",
-    "english": "",
+    "english": "stomach, belly",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pukuriri": {
     "maori": "pukuriri",
@@ -4837,207 +4837,207 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puna": {
     "maori": "puna",
-    "english": "",
+    "english": "pool, spring",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-punua": {
     "maori": "punua",
-    "english": "",
+    "english": "1) quite small\n2) young (of animals)",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "A foal is a punua hōiho. A piglet is a punua poaka.",
+    "validated": true
   },
   "w-puoro": {
     "maori": "puoro",
-    "english": "",
+    "english": "1) to sing\n2) song, music",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pupuhi": {
     "maori": "pupuhi",
-    "english": "",
+    "english": "1) to swell, expand\n2) to shoot, blow, spout (as a whale)",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pupuri": {
     "maori": "pupuri",
-    "english": "",
+    "english": "to hold onto",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-pupuu": {
     "maori": "pupū",
-    "english": "",
+    "english": "to boil, bubble",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-purapura": {
     "maori": "purapura",
-    "english": "",
+    "english": "seed",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-purei": {
     "maori": "purei",
-    "english": "",
+    "english": "to play",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puru": {
     "maori": "puru",
-    "english": "",
+    "english": "1) to block up, plug\n2) to put, place somewhere",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-purua": {
     "maori": "purua",
-    "english": "",
+    "english": "to be placed somewhere",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "puru + passive suffix -a",
+    "validated": true
   },
   "w-puta": {
     "maori": "puta",
-    "english": "",
+    "english": "to appear, to come out",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-putanga": {
     "maori": "putanga",
-    "english": "",
+    "english": "opening, exit",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "puta + nominal suffix -nga",
+    "validated": true
   },
   "w-putiputi": {
     "maori": "putiputi",
-    "english": "",
+    "english": "flower",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-putu": {
     "maori": "putu",
-    "english": "",
+    "english": "to heap up",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puu": {
     "maori": "pū",
-    "english": "",
+    "english": "1) letter of the alphabet\n2) gun\n3) to blow gently",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puukaha": {
     "maori": "pūkaha",
-    "english": "",
+    "english": "engine",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puukenga": {
     "maori": "pūkenga",
-    "english": "",
+    "english": "skilled, expert",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puumau": {
     "maori": "pūmau",
-    "english": "",
+    "english": "fixed, permanent",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puungaawerewere": {
     "maori": "pūngāwerewere",
-    "english": "",
+    "english": "spider",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puuraakau": {
     "maori": "pūrākau",
-    "english": "",
+    "english": "traditional story",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puurere": {
     "maori": "pūrere",
-    "english": "",
+    "english": "appliance, machine",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puurerehua": {
     "maori": "pūrerehua",
-    "english": "",
+    "english": "butterfly",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puutaiao": {
     "maori": "pūtaiao",
-    "english": "",
+    "english": "science",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puutake": {
     "maori": "pūtake",
-    "english": "",
+    "english": "1) reason, cause\n2) root",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-puutea": {
     "maori": "pūtea",
-    "english": "",
+    "english": "budget, resources",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-raa": {
     "maori": "rā",
@@ -5089,11 +5089,11 @@
   },
   "w-raawhiti": {
     "maori": "rāwhiti",
-    "english": "",
+    "english": "east",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rahi": {
     "maori": "rahi",
@@ -5105,19 +5105,19 @@
   },
   "w-raki": {
     "maori": "raki",
-    "english": "",
+    "english": "1) north\n2) to be dried up, dehydrated",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rama": {
     "maori": "rama",
-    "english": "",
+    "english": "light, torch",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rangatahi": {
     "maori": "rangatahi",
@@ -5145,35 +5145,35 @@
   },
   "w-rango": {
     "maori": "rango",
-    "english": "",
+    "english": "fly, blowfly",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rangona": {
     "maori": "rangona",
-    "english": "",
+    "english": "to be heard",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "passive form of rongo",
+    "validated": true
   },
   "w-rapa": {
     "maori": "rapa",
-    "english": "",
+    "english": "to look for",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rapu": {
     "maori": "rapu",
-    "english": "",
+    "english": "to look for",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-raro": {
     "maori": "raro",
@@ -5185,27 +5185,27 @@
   },
   "w-raru": {
     "maori": "raru",
-    "english": "",
+    "english": "1) trouble\n2) to be in difficulty",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-raruraru": {
     "maori": "raruraru",
-    "english": "",
+    "english": "1) trouble\n2) to be in difficulty",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rata": {
     "maori": "rata",
-    "english": "",
+    "english": "friendly, quiet, calm",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rau": {
     "maori": "rau",
@@ -5225,43 +5225,43 @@
   },
   "w-rawe": {
     "maori": "rawe",
-    "english": "",
+    "english": "lovely, excellent",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-reehia": {
     "maori": "rēhia",
-    "english": "",
+    "english": "pleasure, amusement",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-reira": {
     "maori": "reira",
-    "english": "",
+    "english": "there (previously mentioned)",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-reka": {
     "maori": "reka",
-    "english": "",
+    "english": "sweet",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rekareka": {
     "maori": "rekareka",
-    "english": "",
+    "english": "pleasant, delighted",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-reo": {
     "maori": "reo",
@@ -5289,67 +5289,67 @@
   },
   "w-rerenga": {
     "maori": "rerenga",
-    "english": "",
+    "english": "1) voyage\n2) escape\n3) sentence",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rererangi": {
     "maori": "rererangi",
-    "english": "",
+    "english": "airplane",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-reri": {
     "maori": "reri",
-    "english": "",
+    "english": "ready",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-reta": {
     "maori": "reta",
-    "english": "",
+    "english": "letter",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-reti": {
     "maori": "reti",
-    "english": "",
+    "english": "to skate, slide",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-retireti": {
     "maori": "retireti",
-    "english": "",
+    "english": "skates, skating",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-riipene": {
     "maori": "rīpene",
-    "english": "",
+    "english": "ribbon, tape",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-riiwai": {
     "maori": "rīwai",
-    "english": "",
+    "english": "potato",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rima": {
     "maori": "rima",
@@ -5369,27 +5369,27 @@
   },
   "w-ringaringa": {
     "maori": "ringaringa",
-    "english": "",
+    "english": "hand, arm",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rino": {
     "maori": "rino",
-    "english": "",
+    "english": "iron",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-riri": {
     "maori": "riri",
-    "english": "",
+    "english": "anger, angry",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-riro": {
     "maori": "riro",
@@ -5401,19 +5401,19 @@
   },
   "w-rita": {
     "maori": "rita",
-    "english": "",
+    "english": "litre",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rite": {
     "maori": "rite",
-    "english": "",
+    "english": "to be alike",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-roa": {
     "maori": "roa",
@@ -5425,27 +5425,27 @@
   },
   "w-roanga": {
     "maori": "roanga",
-    "english": "",
+    "english": "length of time",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "roa + nominal suffix -nga",
+    "validated": true
   },
   "w-rohe": {
     "maori": "rohe",
-    "english": "",
+    "english": "district, area",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-roimata": {
     "maori": "roimata",
-    "english": "",
+    "english": "tears",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rongo": {
     "maori": "rongo",
@@ -5457,19 +5457,19 @@
   },
   "w-rongoaa": {
     "maori": "rongoā",
-    "english": "",
+    "english": "medicine",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rongonui": {
     "maori": "rongonui",
-    "english": "",
+    "english": "famous",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-roo": {
     "maori": "rō",
@@ -5489,19 +5489,19 @@
   },
   "w-rori": {
     "maori": "rori",
-    "english": "",
+    "english": "road",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-rorohiko": {
     "maori": "rorohiko",
-    "english": "",
+    "english": "computer",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-roto": {
     "maori": "roto",
@@ -5521,11 +5521,11 @@
   },
   "w-ruku": {
     "maori": "ruku",
-    "english": "",
+    "english": "to dive",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-runga": {
     "maori": "runga",
@@ -5617,27 +5617,27 @@
   },
   "w-taahau": {
     "maori": "tāhau",
-    "english": "",
+    "english": "your",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "singular ā category possession (variant of tāu)",
+    "validated": true
   },
   "w-taahuhu": {
     "maori": "tāhuhu",
-    "english": "",
+    "english": "ridgepole of a house",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taaia": {
     "maori": "tāia",
-    "english": "",
+    "english": "to belong to",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tā + passive suffix -ia",
+    "validated": true
   },
   "w-taakaro": {
     "maori": "tākaro",
@@ -5657,11 +5657,11 @@
   },
   "w-taakuta": {
     "maori": "tākuta",
-    "english": "",
+    "english": "doctor",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taana": {
     "maori": "tāna",
@@ -5689,43 +5689,43 @@
   },
   "w-taaone": {
     "maori": "tāone",
-    "english": "",
+    "english": "town",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taapiri": {
     "maori": "tāpiri",
-    "english": "",
+    "english": "to add on, append, join",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taara": {
     "maori": "tāra",
-    "english": "",
+    "english": "dollar",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taatahi": {
     "maori": "tātahi",
-    "english": "",
+    "english": "seaside, beach",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taatai": {
     "maori": "tātai",
-    "english": "",
+    "english": "1) to arrange\n2) to measure",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taatou": {
     "maori": "tātou",
@@ -5769,19 +5769,19 @@
   },
   "w-taenga": {
     "maori": "taenga",
-    "english": "",
+    "english": "arrival ",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tae + nominal suffix -nga",
+    "validated": true
   },
   "w-taha": {
     "maori": "taha",
-    "english": "",
+    "english": "side, edge, margin",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tahi": {
     "maori": "tahi",
@@ -5793,51 +5793,51 @@
   },
   "w-tahuri": {
     "maori": "tahuri",
-    "english": "",
+    "english": "1) to turn around, to turn over\n2) to capsize",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tai": {
     "maori": "tai",
-    "english": "",
+    "english": "1) the sea, coast\n2) tide",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taiapa": {
     "maori": "taiapa",
-    "english": "",
+    "english": "fence",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taihoa": {
     "maori": "taihoa",
-    "english": "",
+    "english": "wait",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taitama": {
     "maori": "taitama",
-    "english": "",
+    "english": "young man",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taka": {
     "maori": "taka",
-    "english": "",
+    "english": "1) to fall, drop\n2) to come around in a cycle",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-take": {
     "maori": "take",
@@ -5849,27 +5849,27 @@
   },
   "w-taki": {
     "maori": "taki",
-    "english": "",
+    "english": "1) to recite, to recount\n2) to lead, to bring along",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-takiwaa": {
     "maori": "takiwā",
-    "english": "",
+    "english": "district, region",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-takoto": {
     "maori": "takoto",
-    "english": "",
+    "english": "to lie down",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taku": {
     "maori": "taku",
@@ -5889,11 +5889,11 @@
   },
   "w-tamaahine": {
     "maori": "tamāhine",
-    "english": "",
+    "english": "daughter",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tamaiti": {
     "maori": "tamaiti",
@@ -5913,19 +5913,19 @@
   },
   "w-tamataane": {
     "maori": "tamatāne",
-    "english": "",
+    "english": "boy",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tame": {
     "maori": "tame",
-    "english": "",
+    "english": "male animal",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tana": {
     "maori": "tana",
@@ -5953,19 +5953,19 @@
   },
   "w-tango": {
     "maori": "tango",
-    "english": "",
+    "english": "to take hold of",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tangohia": {
     "maori": "tangohia",
-    "english": "",
+    "english": "to be taken ahold of",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tango + passive suffix -hia",
+    "validated": true
   },
   "w-taniwha": {
     "maori": "taniwha",
@@ -5977,11 +5977,11 @@
   },
   "w-tao": {
     "maori": "tao",
-    "english": "",
+    "english": "to cook",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taonga": {
     "maori": "taonga",
@@ -5993,99 +5993,99 @@
   },
   "w-tapa": {
     "maori": "tapa",
-    "english": "",
+    "english": "1) side, edge\n2) to call, name",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tapahi": {
     "maori": "tapahi",
-    "english": "",
+    "english": "to cut, chop",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tapahia": {
     "maori": "tapahia",
-    "english": "",
+    "english": "to be cut, chopped",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tapahi + passive suffix -a",
+    "validated": true
   },
   "w-tapu": {
     "maori": "tapu",
-    "english": "",
+    "english": "sacred",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taputapu": {
     "maori": "taputapu",
-    "english": "",
+    "english": "utensil, tool, appliance, equipment",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tapuwae": {
     "maori": "tapuwae",
-    "english": "",
+    "english": "footprint",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taraiwa": {
     "maori": "taraiwa",
-    "english": "",
+    "english": "1) to drive\n2) driver",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taraka": {
     "maori": "taraka",
-    "english": "",
+    "english": "truck",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tarau": {
     "maori": "tarau",
-    "english": "",
+    "english": "trousers",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tari": {
     "maori": "tari",
-    "english": "",
+    "english": "office, study, department",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taringa": {
     "maori": "taringa",
-    "english": "",
+    "english": "ear",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taro": {
     "maori": "taro",
-    "english": "",
+    "english": "presently",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tata": {
     "maori": "tata",
@@ -6097,19 +6097,19 @@
   },
   "w-tatari": {
     "maori": "tatari",
-    "english": "",
+    "english": "to wait",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tatau": {
     "maori": "tatau",
-    "english": "",
+    "english": "1) door\n2) to count",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tau": {
     "maori": "tau",
@@ -6129,67 +6129,67 @@
   },
   "w-tauhou": {
     "maori": "tauhou",
-    "english": "",
+    "english": "strange, unfamiliar",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tauira": {
     "maori": "tauira",
-    "english": "",
+    "english": "1) student\n2) example",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taumaha": {
     "maori": "taumaha",
-    "english": "",
+    "english": "1) to be heavy\n2) to be very ill",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taumata": {
     "maori": "taumata",
-    "english": "",
+    "english": "1) peak, pinnacle\n2) level, grade",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taunga": {
     "maori": "taunga",
-    "english": "",
+    "english": "1) landing place, resting place\n2) fishing ground\n3) to be accustomed to, familiar with",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tau + nominal suffix -nga",
+    "validated": true
   },
   "w-taupoki": {
     "maori": "taupoki",
-    "english": "",
+    "english": "1) to cover, close with a lid\n2) cover, lid",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-taura": {
     "maori": "taura",
-    "english": "",
+    "english": "rope, cable",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tautoko": {
     "maori": "tautoko",
-    "english": "",
+    "english": "to support",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tawhiti": {
     "maori": "tawhiti",
@@ -6201,11 +6201,11 @@
   },
   "w-tawhito": {
     "maori": "tawhito",
-    "english": "",
+    "english": "old, former",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-te": {
     "maori": "te",
@@ -6217,11 +6217,11 @@
   },
   "w-teehea": {
     "maori": "tēhea",
-    "english": "",
+    "english": "which, singular",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-teenaa": {
     "maori": "tēnā",
@@ -6241,11 +6241,11 @@
   },
   "w-teepu": {
     "maori": "tēpu",
-    "english": "",
+    "english": "table",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-teeraa": {
     "maori": "tērā",
@@ -6265,35 +6265,35 @@
   },
   "w-teetehi": {
     "maori": "tētehi",
-    "english": "",
+    "english": "a, one specific thing",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "Variant of tētahi.",
+    "validated": true
   },
   "w-teina": {
     "maori": "teina",
-    "english": "",
+    "english": "younger sibling, same sex",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-teitei": {
     "maori": "teitei",
-    "english": "",
+    "english": "tall, high, lofty",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tekau": {
     "maori": "tekau",
-    "english": "",
+    "english": "ten",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tere": {
     "maori": "tere",
@@ -6305,43 +6305,43 @@
   },
   "w-tiaki": {
     "maori": "tiaki",
-    "english": "",
+    "english": "to look after, to care for",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tihi": {
     "maori": "tihi",
-    "english": "",
+    "english": "1) summit\n2) topknot",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tii": {
     "maori": "tī",
-    "english": "",
+    "english": "1) tea\n2) cabbage tree",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tiikina": {
     "maori": "tīkina",
-    "english": "",
+    "english": "to be fetched",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tiki + passive suffix -na",
+    "validated": true
   },
   "w-tiima": {
     "maori": "tīma",
-    "english": "",
+    "english": "team",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tiimata": {
     "maori": "tīmata",
@@ -6353,27 +6353,27 @@
   },
   "w-tiimatanga": {
     "maori": "tīmatanga",
-    "english": "",
+    "english": "beginning",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tīmata + nominal suffix -nga",
+    "validated": true
   },
   "w-tiini": {
     "maori": "tīni",
-    "english": "",
+    "english": "to change",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tiipuna": {
     "maori": "tīpuna",
-    "english": "",
+    "english": "grandparents, ancestors",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "Plural form of tipuna.",
+    "validated": true
   },
   "w-tika": {
     "maori": "tika",
@@ -6401,11 +6401,11 @@
   },
   "w-tina": {
     "maori": "tina",
-    "english": "",
+    "english": "dinner, lunch",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tinana": {
     "maori": "tinana",
@@ -6417,19 +6417,19 @@
   },
   "w-tini": {
     "maori": "tini",
-    "english": "",
+    "english": "very many",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tinihanga": {
     "maori": "tinihanga",
-    "english": "",
+    "english": "1) to deceive, cheat, trick\n",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tino": {
     "maori": "tino",
@@ -6449,35 +6449,35 @@
   },
   "w-tipua": {
     "maori": "tipua",
-    "english": "",
+    "english": "1) strange, supernatural\n2) goblin, demon",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tipuna": {
     "maori": "tipuna",
-    "english": "",
+    "english": "grandparent, ancestor",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tira": {
     "maori": "tira",
-    "english": "",
+    "english": "group or row of people, travelling party, troupe",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tiriti": {
     "maori": "tiriti",
-    "english": "",
+    "english": "1) treaty\n2) street",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tiro": {
     "maori": "tiro",
@@ -6489,27 +6489,27 @@
   },
   "w-tirohanga": {
     "maori": "tirohanga",
-    "english": "",
+    "english": "view",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tiro + nominal suffix -hanga",
+    "validated": true
   },
   "w-tirohia": {
     "maori": "tirohia",
-    "english": "",
+    "english": "to be looked at",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tiro + passive suffix -hia",
+    "validated": true
   },
   "w-tirotiro": {
     "maori": "tirotiro",
-    "english": "",
+    "english": "to look about, to investigate",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-titiro": {
     "maori": "titiro",
@@ -6529,131 +6529,131 @@
   },
   "w-toe": {
     "maori": "toe",
-    "english": "",
+    "english": "to remain, be left over",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-toenga": {
     "maori": "toenga",
-    "english": "",
+    "english": "leftovers, remnants",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "toe + nominal suffix -nga",
+    "validated": true
   },
   "w-tohoraa": {
     "maori": "tohorā",
-    "english": "",
+    "english": "whale",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tohu": {
     "maori": "tohu",
-    "english": "",
+    "english": "1) a sign, mark\n2) qualification, degree\n3) to indicate, point out",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tohua": {
     "maori": "tohua",
-    "english": "",
+    "english": "to be pointed out",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tohu + passive suffix -a",
+    "validated": true
   },
   "w-tohunga": {
     "maori": "tohunga",
-    "english": "",
+    "english": "expert, priest",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tohutohu": {
     "maori": "tohutohu",
-    "english": "",
+    "english": "1) to instruct\n2) directions, instructions",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-toi": {
     "maori": "toi",
-    "english": "",
+    "english": "1) art, knowledge\n2) native, indigenous",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-toka": {
     "maori": "toka",
-    "english": "",
+    "english": "rock",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tokomaha": {
     "maori": "tokomaha",
-    "english": "",
+    "english": "many (of people)",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tokorua": {
     "maori": "tokorua",
-    "english": "",
+    "english": "two (of people)",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tokotoru": {
     "maori": "tokotoru",
-    "english": "",
+    "english": "three (people)",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tomo": {
     "maori": "tomo",
-    "english": "",
+    "english": "to enter, go into",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tonga": {
     "maori": "tonga",
-    "english": "",
+    "english": "south",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tono": {
     "maori": "tono",
-    "english": "",
+    "english": "1) to send, to command\n2) to ask for, to request\n3) to apply for",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tonoa": {
     "maori": "tonoa",
-    "english": "",
+    "english": "to be commanded",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tono + passive suffix -a",
+    "validated": true
   },
   "w-tonu": {
     "maori": "tonu",
@@ -6665,11 +6665,11 @@
   },
   "w-tonutia": {
     "maori": "tonutia",
-    "english": "",
+    "english": "still (used in passive construction)",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tonu + passive suffix -tia",
+    "validated": true
   },
   "w-too": {
     "maori": "tō",
@@ -6745,11 +6745,11 @@
   },
   "w-tookena": {
     "maori": "tōkena",
-    "english": "",
+    "english": "stockings, socks",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tooku": {
     "maori": "tōku",
@@ -6769,11 +6769,11 @@
   },
   "w-tootika": {
     "maori": "tōtika",
-    "english": "",
+    "english": "straight, direct, right",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-toou": {
     "maori": "tōu",
@@ -6785,19 +6785,19 @@
   },
   "w-toro": {
     "maori": "toro",
-    "english": "",
+    "english": "to stretch out, to extend",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-toroa": {
     "maori": "toroa",
-    "english": "",
+    "english": "albatross",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-toru": {
     "maori": "toru",
@@ -6809,19 +6809,19 @@
   },
   "w-tote": {
     "maori": "tote",
-    "english": "",
+    "english": "salt",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-toto": {
     "maori": "toto",
-    "english": "",
+    "english": "blood",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tua": {
     "maori": "tua",
@@ -6841,27 +6841,27 @@
   },
   "w-tuakana": {
     "maori": "tuakana",
-    "english": "",
+    "english": "older sibling of the same sex",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuanui": {
     "maori": "tuanui",
-    "english": "",
+    "english": "roof",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuaraa": {
     "maori": "tuarā",
-    "english": "",
+    "english": "back",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuarua": {
     "maori": "tuarua",
@@ -6881,19 +6881,19 @@
   },
   "w-tuatoru": {
     "maori": "tuatoru",
-    "english": "",
+    "english": "third",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuawhaa": {
     "maori": "tuawhā",
-    "english": "",
+    "english": "fourth",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuhi": {
     "maori": "tuhi",
@@ -6905,43 +6905,43 @@
   },
   "w-tuhia": {
     "maori": "tuhia",
-    "english": "",
+    "english": "to write, to draw",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuhinga": {
     "maori": "tuhinga",
-    "english": "",
+    "english": "writing, text",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tuhi + nominal suffix -nga",
+    "validated": true
   },
   "w-tuhituhi": {
     "maori": "tuhituhi",
-    "english": "",
+    "english": "to write, draw",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuhituhinga": {
     "maori": "tuhituhinga",
-    "english": "",
+    "english": "writing, text",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tuhituhi + nominal suffix -nga",
+    "validated": true
   },
   "w-tuki": {
     "maori": "tuki",
-    "english": "",
+    "english": "to hit, to knock",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuku": {
     "maori": "tuku",
@@ -6953,43 +6953,43 @@
   },
   "w-tukua": {
     "maori": "tukua",
-    "english": "",
+    "english": "to be allowed",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tuku + passive suffix -a",
+    "validated": true
   },
   "w-tukuna": {
     "maori": "tukuna",
-    "english": "",
+    "english": "to be allowed",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "tuku + passive suffix -na",
+    "validated": true
   },
   "w-tukutuku": {
     "maori": "tukutuku",
-    "english": "",
+    "english": "woven wall panels",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tumeke": {
     "maori": "tumeke",
-    "english": "",
+    "english": "to be surprised",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuna": {
     "maori": "tuna",
-    "english": "",
+    "english": "eel",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tungaane": {
     "maori": "tungāne",
@@ -7001,43 +7001,43 @@
   },
   "w-tunu": {
     "maori": "tunu",
-    "english": "",
+    "english": "to cook, roast",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tupu": {
     "maori": "tupu",
-    "english": "",
+    "english": "to grow, develop",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "Variant of tipu.",
+    "validated": true
   },
   "w-ture": {
     "maori": "ture",
-    "english": "",
+    "english": "law, rule",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-turituri": {
     "maori": "turituri",
-    "english": "",
+    "english": "Be quiet!",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tutuki": {
     "maori": "tutuki",
-    "english": "",
+    "english": "to complete, to achieve",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuu": {
     "maori": "tū",
@@ -7049,59 +7049,59 @@
   },
   "w-tuumanako": {
     "maori": "tūmanako",
-    "english": "",
+    "english": "to hope for, anticipate, expect",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuupato": {
     "maori": "tūpato",
-    "english": "",
+    "english": "to be careful",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuupuna": {
     "maori": "tūpuna",
-    "english": "",
+    "english": "grandparents",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "Plural form of tupuna. Variant of tīpuna.",
+    "validated": true
   },
   "w-tuuranga": {
     "maori": "tūranga",
-    "english": "",
+    "english": "1) position, job\n2) stopping place",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "{{Tūranga pahi}} is a bus stop.\ntū + nominal suffix -ranga",
+    "validated": true
   },
   "w-tuurehu": {
     "maori": "tūrehu",
-    "english": "",
+    "english": "fairy",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuuru": {
     "maori": "tūru",
-    "english": "",
+    "english": "chair, seat",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuutaki": {
     "maori": "tūtaki",
-    "english": "",
+    "english": "1) to meet\n2) to close up, to block",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-tuuturu": {
     "maori": "tūturu",
@@ -7113,123 +7113,123 @@
   },
   "w-ua": {
     "maori": "ua",
-    "english": "",
+    "english": "1) to rain\n2) rain",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uaua": {
     "maori": "uaua",
-    "english": "",
+    "english": "difficult",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uhi": {
     "maori": "uhi",
-    "english": "",
+    "english": "to cover",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uhia": {
     "maori": "uhia",
-    "english": "",
+    "english": "to be covered",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "uhi + passive suffix -a",
+    "validated": true
   },
   "w-ui": {
     "maori": "ui",
-    "english": "",
+    "english": "to ask, enquire",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uira": {
     "maori": "uira",
-    "english": "",
+    "english": "lightning",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uku": {
     "maori": "uku",
-    "english": "",
+    "english": "1) to wash\n2) clay",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-umere": {
     "maori": "umere",
-    "english": "",
+    "english": "to shout, applaud",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-upoko": {
     "maori": "upoko",
-    "english": "",
+    "english": "1) head\n2) chapter of a book\n2) verse of a song",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uri": {
     "maori": "uri",
-    "english": "",
+    "english": "descendant, offspring",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uru": {
     "maori": "uru",
-    "english": "",
+    "english": "1) to enter, to go into\n2) west",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uta": {
     "maori": "uta",
-    "english": "",
+    "english": "1) shore, land\n2) to load",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-utu": {
     "maori": "utu",
-    "english": "",
+    "english": "1) to pay for\n2) cost, price",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uu": {
     "maori": "ū",
-    "english": "",
+    "english": "1) to land, to reach land\n2) to be firm, fixed\n3) breast, udder",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-uwha": {
     "maori": "uwha",
-    "english": "",
+    "english": "female animal",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waa": {
     "maori": "wā",
@@ -7241,11 +7241,11 @@
   },
   "w-waahanga": {
     "maori": "wāhanga",
-    "english": "",
+    "english": "1) part, portion, section\n2) chapter, episode",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waahi": {
     "maori": "wāhi",
@@ -7257,27 +7257,27 @@
   },
   "w-waahine": {
     "maori": "wāhine",
-    "english": "",
+    "english": "women, wives",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "Plural form of wahine.",
+    "validated": true
   },
   "w-waananga": {
     "maori": "wānanga",
-    "english": "",
+    "english": "place of learning",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waatea": {
     "maori": "wātea",
-    "english": "",
+    "english": "to be clear",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waea": {
     "maori": "waea",
@@ -7289,11 +7289,11 @@
   },
   "w-waenga": {
     "maori": "waenga",
-    "english": "",
+    "english": "middle, dividing line",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waenganui": {
     "maori": "waenganui",
@@ -7313,19 +7313,19 @@
   },
   "w-waha": {
     "maori": "waha",
-    "english": "",
+    "english": "mouth",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-wahie": {
     "maori": "wahie",
-    "english": "",
+    "english": "driftwood",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-wahine": {
     "maori": "wahine",
@@ -7353,11 +7353,11 @@
   },
   "w-waiariki": {
     "maori": "waiariki",
-    "english": "",
+    "english": "hot spring",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waiata": {
     "maori": "waiata",
@@ -7369,27 +7369,27 @@
   },
   "w-waihanga": {
     "maori": "waihanga",
-    "english": "",
+    "english": "to make, build something",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waiho": {
     "maori": "waiho",
-    "english": "",
+    "english": "to leave something somewhere",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waimarie": {
     "maori": "waimarie",
-    "english": "",
+    "english": "lucky, fortunate",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waiporoporo": {
     "maori": "waiporoporo",
@@ -7401,11 +7401,11 @@
   },
   "w-wairua": {
     "maori": "wairua",
-    "english": "",
+    "english": "spirit",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-waka": {
     "maori": "waka",
@@ -7417,11 +7417,11 @@
   },
   "w-wao": {
     "maori": "wao",
-    "english": "",
+    "english": "forest",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-wareware": {
     "maori": "wareware",
@@ -7433,75 +7433,75 @@
   },
   "w-waru": {
     "maori": "waru",
-    "english": "",
+    "english": "eight",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-wawata": {
     "maori": "wawata",
-    "english": "",
+    "english": "to long for, yearn for",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-wawe": {
     "maori": "wawe",
-    "english": "",
+    "english": "early, soon",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-wehe": {
     "maori": "wehe",
-    "english": "",
+    "english": "to separate, divide",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-wehenga": {
     "maori": "wehenga",
-    "english": "",
+    "english": "departure, leaving, separation",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "wehe + nominal suffix -nga",
+    "validated": true
   },
   "w-wehi": {
     "maori": "wehi",
-    "english": "",
+    "english": "1) to be afraid\n2) terrible",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-weka": {
     "maori": "weka",
-    "english": "",
+    "english": "a native woodhen",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-wera": {
     "maori": "wera",
-    "english": "hot",
+    "english": "1) hot\n2) to burn",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-wero": {
     "maori": "wero",
-    "english": "",
+    "english": "1) to challenge\n2) a formal challenge during [[word|pōwhiri|powhiri]]\n3) to pierce",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whaa": {
     "maori": "whā",
@@ -7513,35 +7513,35 @@
   },
   "w-whaaia": {
     "maori": "whāia",
-    "english": "",
+    "english": "to be followed or chased",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whai + passive suffix -a",
+    "validated": true
   },
   "w-whaainga": {
     "maori": "whāinga",
-    "english": "",
+    "english": "objective, aim, purpose",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whai + nominal suffix -nga",
+    "validated": true
   },
   "w-whaaiti": {
     "maori": "whāiti",
-    "english": "",
+    "english": "narrow, crowded together",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whaaki": {
     "maori": "whāki",
-    "english": "",
+    "english": "to reveal, to disclose, to confess",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whaanau": {
     "maori": "whānau",
@@ -7553,11 +7553,11 @@
   },
   "w-whaangai": {
     "maori": "whāngai",
-    "english": "",
+    "english": "to feed, to foster",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whaanui": {
     "maori": "whānui",
@@ -7601,11 +7601,11 @@
   },
   "w-whakaari": {
     "maori": "whakaari",
-    "english": "",
+    "english": "1) to display, to exhibit\n2) play, performance",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakaaro": {
     "maori": "whakaaro",
@@ -7625,51 +7625,51 @@
   },
   "w-whakaaturanga": {
     "maori": "whakaaturanga",
-    "english": "",
+    "english": "1) display\n2) television programme",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whakaatu + nominal suffix -ranga",
+    "validated": true
   },
   "w-whakahaere": {
     "maori": "whakahaere",
-    "english": "",
+    "english": "to run something, manage",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakahau": {
     "maori": "whakahau",
-    "english": "",
+    "english": "to command, order",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakaheke": {
     "maori": "whakaheke",
-    "english": "",
+    "english": "to decrease, drop, lower",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakahiihii": {
     "maori": "whakahīhī",
-    "english": "",
+    "english": "arrogant",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakahirahira": {
     "maori": "whakahirahira",
-    "english": "",
+    "english": "great, magnificent, wonderful",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakahoki": {
     "maori": "whakahoki",
@@ -7681,43 +7681,43 @@
   },
   "w-whakahokia": {
     "maori": "whakahokia",
-    "english": "",
+    "english": "to be returned",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whakahoki + passive suffix -a",
+    "validated": true
   },
   "w-whakairo": {
     "maori": "whakairo",
-    "english": "",
+    "english": "to carve, a carving",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakakii": {
     "maori": "whakakī",
-    "english": "",
+    "english": "to fill something",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamaa": {
     "maori": "whakamā",
-    "english": "",
+    "english": "to be embarrassed, ashamed",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamaaori": {
     "maori": "whakamāori",
-    "english": "",
+    "english": "to translate into Māori",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamaarama": {
     "maori": "whakamārama",
@@ -7729,203 +7729,203 @@
   },
   "w-whakamaatau": {
     "maori": "whakamātau",
-    "english": "",
+    "english": "to test, examine",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamaatautau": {
     "maori": "whakamātautau",
-    "english": "",
+    "english": "examination, test",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamahi": {
     "maori": "whakamahi",
-    "english": "",
+    "english": "to operate, to make something work",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamahia": {
     "maori": "whakamahia",
-    "english": "",
+    "english": "to be made to work",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whakamahi + passive suffix -a",
+    "validated": true
   },
   "w-whakamau": {
     "maori": "whakamau",
-    "english": "",
+    "english": "to fix, fasten, put on",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamaua": {
     "maori": "whakamaua",
-    "english": "",
+    "english": "to be put on, fastened",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whakamau + passive suffix -a",
+    "validated": true
   },
   "w-whakamiiharo": {
     "maori": "whakamīharo",
-    "english": "",
+    "english": "amazing, astonishing",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamua": {
     "maori": "whakamua",
-    "english": "",
+    "english": "frontward, towards the front",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamuri": {
     "maori": "whakamuri",
-    "english": "",
+    "english": "backward, towards the back",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakamutunga": {
     "maori": "whakamutunga",
-    "english": "",
+    "english": "ending, conclusion",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whakamutu + nominal suffix -nga",
+    "validated": true
   },
   "w-whakangaa": {
     "maori": "whakangā",
-    "english": "",
+    "english": "to rest",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakangahau": {
     "maori": "whakangahau",
-    "english": "",
+    "english": "to entertain, to amuse",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakanui": {
     "maori": "whakanui",
-    "english": "",
+    "english": "1) to enlarge\n2) to honour, to praise",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakaora": {
     "maori": "whakaora",
-    "english": "",
+    "english": "to rescue, to cure",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakapae": {
     "maori": "whakapae",
-    "english": "",
+    "english": "lying crosswise, horizontal",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakapai": {
     "maori": "whakapai",
-    "english": "",
+    "english": "to improve, to fix up",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakapaipai": {
     "maori": "whakapaipai",
-    "english": "",
+    "english": "to decorate, to adorn",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakapakari": {
     "maori": "whakapakari",
-    "english": "",
+    "english": "to strengthen",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakapapa": {
     "maori": "whakapapa",
-    "english": "",
+    "english": "genealogy",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakapiri": {
     "maori": "whakapiri",
-    "english": "",
+    "english": "to cling to, stick to",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakapono": {
     "maori": "whakapono",
-    "english": "",
+    "english": "1) faith\n2) to believe",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakaputa": {
     "maori": "whakaputa",
-    "english": "",
+    "english": "to produce",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakararo": {
     "maori": "whakararo",
-    "english": "",
+    "english": "downwards",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakarite": {
     "maori": "whakarite",
-    "english": "",
+    "english": "1) to arrange\n2) to prepare\n3) to compare",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakaritea": {
     "maori": "whakaritea",
-    "english": "",
+    "english": "Passive form of [[word|whakarite|w-whakarite]].",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whakarite + passive suffix -a",
+    "validated": true
   },
   "w-whakarongo": {
     "maori": "whakarongo",
@@ -7937,19 +7937,19 @@
   },
   "w-whakarunga": {
     "maori": "whakarunga",
-    "english": "",
+    "english": "upwards",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakataa": {
     "maori": "whakatā",
-    "english": "",
+    "english": "to rest",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakataetae": {
     "maori": "whakataetae",
@@ -7961,19 +7961,19 @@
   },
   "w-whakatakoto": {
     "maori": "whakatakoto",
-    "english": "",
+    "english": "to lay something down",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakatata": {
     "maori": "whakatata",
-    "english": "",
+    "english": "to come closer to",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakatau": {
     "maori": "whakatau",
@@ -7993,59 +7993,59 @@
   },
   "w-whakatikatika": {
     "maori": "whakatikatika",
-    "english": "",
+    "english": "to rearrange, to put in order, to fix",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakatipu": {
     "maori": "whakatipu",
-    "english": "",
+    "english": "to raise",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakatoi": {
     "maori": "whakatoi",
-    "english": "",
+    "english": "to give cheek",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakatuu": {
     "maori": "whakatū",
-    "english": "",
+    "english": "to establish, stand something up, put someone or something in position",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakatuupato": {
     "maori": "whakatūpato",
-    "english": "",
+    "english": "to warn, to caution",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakatuuria": {
     "maori": "whakatūria",
-    "english": "",
+    "english": "Passive form of [[word|whakatū|w-whakatuu]].",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whakatū + passive suffix -ria",
+    "validated": true
   },
   "w-whakauru": {
     "maori": "whakauru",
-    "english": "",
+    "english": "to enter, join, enrol",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whakautu": {
     "maori": "whakautu",
@@ -8073,19 +8073,19 @@
   },
   "w-whanga": {
     "maori": "whanga",
-    "english": "",
+    "english": "1) to wait\n2) bay",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whara": {
     "maori": "whara",
-    "english": "",
+    "english": "to be injured",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whare": {
     "maori": "whare",
@@ -8097,11 +8097,11 @@
   },
   "w-wharekura": {
     "maori": "wharekura",
-    "english": "",
+    "english": "house of learning, school",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whatu": {
     "maori": "whatu",
@@ -8113,19 +8113,19 @@
   },
   "w-whawhai": {
     "maori": "whawhai",
-    "english": "",
+    "english": "1) to fight\n2) a battle",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whea": {
     "maori": "whea",
-    "english": "",
+    "english": "where?",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "Variant of [[word|hea|w-hea]].",
+    "validated": true
   },
   "w-whenua": {
     "maori": "whenua",
@@ -8153,11 +8153,11 @@
   },
   "w-whiti": {
     "maori": "whiti",
-    "english": "",
+    "english": "to cross",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whitu": {
     "maori": "whitu",
@@ -8169,19 +8169,19 @@
   },
   "w-whiu": {
     "maori": "whiu",
-    "english": "",
+    "english": "to throw, to fling",
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-whiua": {
     "maori": "whiua",
-    "english": "",
+    "english": "to be thrown",
     "example": "",
     "exampleTranslation": "",
-    "note": "",
-    "validated": false
+    "note": "whiu + passive suffix -a",
+    "validated": true
   },
   "w-whiwhi": {
     "maori": "whiwhi",

@@ -1112,7 +1112,7 @@
   },
   {
     "id": "tukapi",
-    "title": "Tuukapi - Pronouns",
+    "title": "Tūkapi - Pronouns",
     "description": "Words that substitute for nouns or noun phrases, conveying person, number, and inclusivity/exclusivity.",
     "category": "core",
     "wordIds": [
@@ -1133,7 +1133,7 @@
   },
   {
     "id": "possessive-pronouns",
-    "title": "Tuukapi Riro - Possessive Pronouns",
+    "title": "Tūkapi Riro - Possessive Pronouns",
     "description": "A set of words which describe ownership, possession and other relationships.",
     "category": "thematic",
     "wordIds": [
