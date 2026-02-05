@@ -1,6 +1,6 @@
 {
   "id": "level1-introductions",
-  "title": "Introductions",
+  "title": "Introductions and Pronouns",
   "description": "A quick overview of some simple greetings and introductions while we're getting familiar with the features of the platform.",
   "exercise": null,
   "tags": [
@@ -26,7 +26,8 @@
         {
           "type": "example",
           "sentence": "Kia ora e hoa mā.",
-          "translation": "Hello, friends."
+          "translation": "Hello, friends.",
+          "note": "This can be said to a group of people. If you're only talking to one friend, you drop {{mā}} and say {{kia ora, e hoa!}}"
         },
         {
           "type": "example",
@@ -35,7 +36,7 @@
           "breakdown": {
             "phrase": []
           },
-          "note": "{{Koutou}} is a term used to address three or more people, so this form of the greeting is only used if you're talking to that many people."
+          "note": ""
         },
         {
           "type": "note",
@@ -73,17 +74,39 @@
       ]
     },
     {
+      "title": "Tēnā Koe/Kōrua/Koutou and Pronouns",
+      "elements": [
+        {
+          "type": "text",
+          "content": "A common and more formal way to greet (or thank) someone is to use {{tēnā koe}} which roughly translates to \"there you are\".\n\nHowever, this is only the correct form of this greeting if you are speaking to one person. If you are speaking to more than one person, you use a different word instead of {{koe}}. This is because of the way that pronouns work in te reo Māori.\n\nIn English we use the word \"you\" as our second person pronoun. Unlike the first person pronoun where we change the word depending on whether we're talking about one person or multiple people (\"I\" or \"we\"), we use the word \"you\" for singular and plural cases (unless you use y'all). The second person pronoun in te reo Māori is more precise and a different form of the word is used depending on whether you're referring to one person, two people, or three or more people.\n\nSo we have [[word|koe|w-koe]] for one person, [[word|kōrua|w-koorua]] for two people, and [[word|koutou|w-koutou]] for three or more people. Depending on how many people you are speaking to you might use one of the following:"
+        },
+        {
+          "type": "example",
+          "sentence": "Tēnā koe",
+          "translation": "Hello/Thank you (to one person)"
+        },
+        {
+          "type": "example",
+          "sentence": "Tēnā kōrua",
+          "translation": "Hello/Thank you (to two people)"
+        },
+        {
+          "type": "example",
+          "sentence": "Tēnā koutou",
+          "translation": "Hello/Thank you (to three or more people)"
+        },
+        {
+          "type": "text",
+          "content": "There are a number of other differences between pronouns in English and te reo Māori, but let's keep it simple for now and focus on those ones!"
+        }
+      ]
+    },
+    {
       "title": "Greetings and Farewells - Formal",
       "elements": [
         {
           "type": "text",
           "content": "These are some examples of more formal greetings and farewells:"
-        },
-        {
-          "type": "example",
-          "sentence": "Tēnā koe/kōrua/koutou",
-          "translation": "Hello to one/two/three or more people",
-          "note": "In te reo Māori, you use a different term for `you` depending on how many people you are talking to, so you change between {{koe}}/{{kōrua}}/{{koutou}} depending on the situation."
         },
         {
           "type": "example",
@@ -130,6 +153,10 @@
           "translation": "My name is Mere."
         },
         {
+          "type": "text",
+          "content": "This is a good opportunity to learn another pronoun you'll want to know how to use. [[word|Au|w-au]] or [[word|ahau|w-ahau]] is how you say \"I\" or \"me\" in te reo Māori. You can use either one interchangeably and can pick one based on what feels most natural in the flow of the sentence. Which word you choose can make some minor differences to the surrounding words that get paired with them, but that's something we can look at later. For now, they can be considered to be equivalent to one another.\n\nIn English, when someone asks \"who are you?\" you might say \"I am Mary\".\n\nTake a look at how a similar sentence looks in te reo Māori:"
+        },
+        {
           "type": "example",
           "sentence": "Ko wai koe?",
           "translation": "Who are you?"
@@ -141,7 +168,7 @@
         },
         {
           "type": "note",
-          "content": "Observe that in both pairs of examples, the answer takes a similar format to the question. This is a common question/answer format in te reo Māori and we'll investigate how it works as we progress through the lessons."
+          "content": "Observe that in both pairs of examples, the answer takes a similar format to the question. The sentence structure is very similar in both cases, with a different pronoun and the question word {{wai}} or \"who\" swapped out for the answer. This is a common question/answer format in te reo Māori and we'll investigate how it works as we progress through the lessons."
         }
       ]
     },
@@ -156,13 +183,17 @@
           "type": "example",
           "sentence": "Nō hea koe?",
           "translation": "Where are you from?",
-          "note": "Note that {{nō}} is a possessive term, so the question is literally asking `to where do you belong?`\n\nBecause of this detail, it can be considered improper for non-Māori to use nō to claim a connection to somewhere in Aotearoa. Not every listener is going to be find this inappropriate, but it can be more respectful to use an alternative way of describing where you come from such as some of the  options below."
+          "note": "Note that {{nō}} is a possessive term, so the question is literally asking `to where do you belong?`\n\nBecause of this detail, it can be considered improper for non-Māori to use {{nō}} to claim a connection to somewhere in Aotearoa. Not every listener is going to be find this inappropriate, but it can be more respectful to use an alternative way of describing where you come from such as some of the  options on the next page."
+        },
+        {
+          "type": "text",
+          "content": "The final pronoun we'll introduce in this exercise is [[word|ia|w-ia]] which is the singular third-person pronoun used for he, she and singular they:"
         },
         {
           "type": "example",
           "sentence": "Nō hea ia?",
-          "translation": "Where is he/she/they (singular) from?",
-          "note": "The [[ref|tūkapi|tukapi]] (pronoun) ia refers to one person without reference to their gender, unlike he/she in English."
+          "translation": "Where is she from?",
+          "note": "The [[ref|tūkapi|tukapi]] (pronoun) {{ia}} refers to one person without reference to their gender, unlike he/she in English."
         },
         {
           "type": "example",
@@ -173,7 +204,16 @@
           "type": "example",
           "sentence": "Nō Ngāti Kahungunu au.",
           "translation": "I am of Ngāti Kahungunu.",
-          "note": "You can use {{nō}} to describe a line of connection to a place or an {{iwi}} (tribe)."
+          "note": "You can use {{nō}} to describe a line of connection to a place or to an {{iwi}} (tribe)."
+        }
+      ]
+    },
+    {
+      "title": "Where are you from?",
+      "elements": [
+        {
+          "type": "text",
+          "content": "These are some other ways to describe where you live and where you come from:"
         },
         {
           "type": "example",
@@ -224,8 +264,23 @@
           "translation": "I am sad."
         },
         {
+          "type": "text",
+          "content": "Note that once again we have the repeated structure. The question word {{pēhea}} is replaced by a word describing a feeling such as [[word|harikoa|w-harikoa]] (happy) or [[word|pōuri|w-poouri]] (sad) and the word {{koe}} (you) in the sentence is replaced with {{au}} or {{ahau}} (me) for the answer."
+        },
+        {
           "type": "note",
-          "content": "Some other words to describe feelings include:\n* {{pai}} (good)\n* {{ora}} (well)\n* {{māuiui}} (sick)\n* {{hiakai}} (hungry)\n* {{pukuriri}} (angry)\n\nThese words can replace {{pōuri}} or {{harikoa}} in the sentences above. This class of word is described more in [[ref|tūmahi ahua|tumahi-ahua]].\n\nIf you want to learn additional words to describe feelings and emotions, there's a [[vocab|feelings vocab list|feelings]] that you can use to practice.\n"
+          "content": "Some other words to describe feelings include:\n* [[word|pai|w-pai]] (good)\n* [[word|ora|w-ora]] (well)\n* [[word|māuiui|w-maauiui]] (sick)\n* [[word|hiakai|w-hiakai]] (hungry)\n* [[word|pukuriri|w-pukuriri]] (angry)\n\nThese words can replace {{pōuri}} or {{harikoa}} in the sentences above. This class of word is described more in [[ref|tūmahi ahua|tumahi-ahua]].\n\nIf you want to learn additional words to describe feelings and emotions, there's a [[vocab|feelings vocab list|feelings]] that you can use to practice.\n"
+        }
+      ]
+    },
+    {
+      "title": "Exercise: Introductions and Pronouns",
+      "elements": [
+        {
+          "type": "exercise-ref",
+          "content": "## New Slide Content\n\nAdd your content here.",
+          "exerciseId": "exercise-introduction-pronouns",
+          "title": "Exercise: Introductions and Pronouns"
         }
       ]
     },
@@ -238,5 +293,7 @@
         }
       ]
     }
-  ]
+  ],
+  "courseId": "level-1-foundations",
+  "path": "/data/lessons/level-1-foundations/level1-introductions.json"
 }

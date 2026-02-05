@@ -1372,7 +1372,7 @@
     "english": "1) body hair, fur\n2) feather",
     "example": "He ao te rangi ka uhia a ma te huruhuru te manu ka rere ai.",
     "exampleTranslation": "It requires clouds to clothe heaven and feathers to make a bird fly.",
-    "note": "",
+    "note": "In Kāi Tahu dialect, this includes hair on the head.",
     "validated": true
   },
   "w-huu": {
@@ -8197,6 +8197,222 @@
     "example": "Kua whiwhi ia i te taonga.",
     "exampleTranslation": "He has received the prize.",
     "note": "",
+    "validated": true
+  },
+  "w-atamai": {
+    "maori": "atamai",
+    "english": "clever",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-haakoro": {
+    "maori": "hākoro",
+    "english": "father",
+    "example": "Ko Te Rā tōku hākoro.",
+    "exampleTranslation": "Te Rā is my father.",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-haakui": {
+    "maori": "hākui",
+    "english": "mother",
+    "example": "Kō Meri tōku hākui.",
+    "exampleTranslation": "Meri is my mother.",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-hiamo": {
+    "maori": "hiamo",
+    "english": "excited, thrilled",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-huanui": {
+    "maori": "huanui",
+    "english": "path, road",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-hutawa": {
+    "maori": "hutawa",
+    "english": "legs",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-kuuaha": {
+    "maori": "kūaha",
+    "english": "door",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-kai-1": {
+    "maori": "kai",
+    "english": "(particle) at, on, in (of present position or time)",
+    "example": "Kai te pēhea koe?",
+    "exampleTranslation": "How are you?",
+    "note": "Kāi Tahu variation of kei",
+    "validated": true
+  },
+  "w-kauraka": {
+    "maori": "kauraka",
+    "english": "don't",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu variation of kaua.",
+    "validated": true
+  },
+  "w-kokomo": {
+    "maori": "kokomo",
+    "english": "shirt",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-maahita": {
+    "maori": "māhita",
+    "english": "teacher",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-mahiti": {
+    "maori": "mahiti",
+    "english": "used up, gone, consumed",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-naaia": {
+    "maori": "nāia",
+    "english": "here it is",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-noonatahiraa": {
+    "maori": "nōnatahirā",
+    "english": "the day before yesterday",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-naki": {
+    "maori": "naki",
+    "english": "cat",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-pooua": {
+    "maori": "pōua",
+    "english": "grandfather",
+    "example": "Kō Wiremu tōku pōua.",
+    "exampleTranslation": "Wiremu is my grandfather.",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-para": {
+    "maori": "para",
+    "english": "to play, game",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-rara": {
+    "maori": "rara",
+    "english": "bed",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-tuukeke": {
+    "maori": "tūkeke",
+    "english": "lazy, tired, ill",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-taaua-2": {
+    "maori": "tāua",
+    "english": "grandmother",
+    "example": "Ko Ngaire tōku tāua.",
+    "exampleTranslation": "Ngaire is my grandmother.",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-taauti-mai": {
+    "maori": "tāuti mai",
+    "english": "welcome, come hither",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-taina": {
+    "maori": "taina",
+    "english": "younger sibling, same sex",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu variation of teina.",
+    "validated": true
+  },
+  "w-taotao": {
+    "maori": "taotao",
+    "english": "fingers, toes",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-watua": {
+    "maori": "watua",
+    "english": "give away",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-weruweru": {
+    "maori": "weruweru",
+    "english": "clothing",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-whare-kuuhaa": {
+    "maori": "whare kūhā",
+    "english": "trousers",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-whareama": {
+    "maori": "whareama",
+    "english": "hat",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   }
 }

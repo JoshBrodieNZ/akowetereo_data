@@ -1189,5 +1189,44 @@
       "w-aa-raatou",
       "w-oo-raatou"
     ]
+  },
+  {
+    "id":"vocab-kai-tahu",
+    "title": "Kāi Tahu Kupu",
+    "description": "Words used in the Kāi Tahu dialect. (These words may not be exclusively Kāi Tahu and need to be validated still).",
+    "category": "thematic",
+    "wordIds": [
+  "w-atamai",
+  "w-haakoro",
+  "w-haakui",
+  "w-hai",
+  "w-hiamo",
+  "w-huanui",
+  "w-huruhuru",
+  "w-hutawa",
+  "w-kai-1",
+  "w-kauraka",
+  "w-kokomo",
+  "w-kuuaha",
+  "w-maahita",
+  "w-mahiti",
+  "w-meenaa",
+  "w-naaia",
+  "w-naki",
+  "w-noonatahiraa",
+  "w-para",
+  "w-poohatu",
+  "w-pooua",
+  "w-rara",
+  "w-taaua-2",
+  "w-taauti-mai",
+  "w-taina",
+  "w-taotao",
+  "w-tuukeke",
+  "w-watua",
+  "w-weruweru",
+  "w-whare-kuuhaa",
+  "w-whareama"
+]
   }
 ]

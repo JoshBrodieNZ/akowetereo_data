@@ -1,301 +1,4 @@
 [
-  {
-    "id": "exercise-1",
-    "title": "Basic Sentence Structure Practice",
-    "questions": [
-      {
-        "type": "multiple-choice",
-        "questionText": "Which of the following is a correct verbal sentence in te reo Māori?",
-        "options": [
-          "Au kei te haere ki te kura.",
-          "Kei te haere au ki te kura.",
-          "Haere kei te au ki te kura.",
-          "Ki te kura au kei te haere."
-        ],
-        "correctAnswer": "Kei te haere au ki te kura.",
-        "correctFeedback": "Ka pai! That's correct. In verbal sentences, the verb marker and verb typically come before the subject.",
-        "incorrectFeedback": "Not quite right. In te reo Māori verbal sentences, the verb marker and verb typically come before the subject.",
-        "explanation": "The correct structure is: [Verb Marker] + [Verb] + [Subject] + [Object/Location]. In this case \"Kei te haere (verb marker + verb) au (subject) ki te kura (location)\"."
-      },
-      {
-        "type": "multiple-choice",
-        "questionText": "What does the sentence \"He kaiako ia\" mean?",
-        "options": [
-          "She is happy.",
-          "He is a teacher.",
-          "They are learning.",
-          "It is cold."
-        ],
-        "correctAnswer": "He is a teacher.",
-        "correctFeedback": "Excellent! \"He kaiako ia\" is a nominal sentence that means \"He/She is a teacher\".",
-        "incorrectFeedback": "That's not correct. \"He kaiako ia\" is a nominal sentence."
-      },
-      {
-        "type": "matching",
-        "questionText": "Match each te reo Māori sentence part with its function:",
-        "pairs": [
-          {
-            "left": "Kei te",
-            "right": "Present continuous marker"
-          },
-          {
-            "left": "au",
-            "right": "First person pronoun (I/me)"
-          },
-          {
-            "left": "i te",
-            "right": "Object marker + article"
-          },
-          {
-            "left": "reo Māori",
-            "right": "The Māori language"
-          },
-          {
-            "left": "He",
-            "right": "Indefinite article (a/an)"
-          }
-        ],
-        "correctFeedback": "Ka pai! You've correctly matched all the sentence parts with their functions.",
-        "incorrectFeedback": "Some matches are incorrect. Review the sentence parts and their functions."
-      },
-      {
-        "type": "word-arrangement",
-        "questionText": "Arrange the words to form a correct sentence in te reo Māori following VSO order.",
-        "sourceText": "Mary is eating the apple.",
-        "targetLanguage": "te reo Māori",
-        "words": [
-          "Kei",
-          "te",
-          "kai",
-          "a",
-          "Mere",
-          "i",
-          "te",
-          "āporo"
-        ],
-        "correctSentence": "Kei te kai a Mere i te āporo",
-        "correctFeedback": "Ka pai! You've correctly applied the Verb-Subject-Object order in te reo Māori.",
-        "incorrectFeedback": "Not quite right. Remember that te reo Māori uses Verb-Subject-Object order, so the verb phrase \"Kei te kai\" comes first, followed by the subject \"a Mere\", and then the object \"i te āporo\"."
-      },
-      {
-        "type": "section-selection",
-        "questionText": "Identify the subject in this sentence:",
-        "sections": [
-          "Kei te",
-          "mahi",
-          "a Hemi",
-          "i te",
-          "whare",
-          "nui"
-        ],
-        "correctSectionIndex": 2,
-        "instructionText": "Click on the part of the sentence that tells us who is performing the action.",
-        "note": "The subject is the person or thing doing the action in the sentence.",
-        "correctFeedback": "Tino pai! \"a Hemi\" is the subject of this sentence. In te reo Māori, the subject typically follows the verb phrase.",
-        "incorrectFeedback": "That's not right. The subject is \"a Hemi\" - the person who is performing the action of working."
-      }
-    ]
-  },
-  {
-    "id": "exercise-2",
-    "title": "Verb Markers Practice",
-    "questions": [
-      {
-        "type": "multiple-choice",
-        "questionText": "What tense does \"Kei te\" indicate in te reo Māori?",
-        "options": [
-          "Past tense",
-          "Future tense",
-          "Present continuous tense",
-          "Perfect tense"
-        ],
-        "correctAnswer": "Present continuous tense",
-        "correctFeedback": "Tino pai! \"Kei te\" indicates present continuous tense - actions happening right now.",
-        "incorrectFeedback": "That's not correct. \"Kei te\" indicates actions happening in the present (right now)."
-      },
-      {
-        "type": "matching",
-        "questionText": "Match each verb marker with its correct meaning:",
-        "pairs": [
-          {
-            "left": "Kei te",
-            "right": "Present continuous (is/am/are doing)"
-          },
-          {
-            "left": "I",
-            "right": "Past tense (did/was/were)"
-          },
-          {
-            "left": "Ka",
-            "right": "Future or narrative present (will/does)"
-          },
-          {
-            "left": "Kua",
-            "right": "Perfect tense (has/have done)"
-          }
-        ],
-        "correctFeedback": "Excellent work! You understand the different verb markers and their meanings.",
-        "incorrectFeedback": "Some matches are incorrect. Review the verb markers and their meanings."
-      }
-    ]
-  },
-  {
-    "id": "exercise-3",
-    "title": "Advanced Sentence Structure Practice",
-    "questions": [
-      {
-        "type": "word-arrangement",
-        "questionText": "Arrange the words to form a correct sentence in English.",
-        "sourceText": "Kei te haere au ki te whare pukapuka.",
-        "targetLanguage": "English",
-        "words": [
-          "I",
-          "am",
-          "going",
-          "to",
-          "the",
-          "library"
-        ],
-        "correctSentence": "I am going to the library",
-        "correctFeedback": "Ka pai! That's the correct English translation.",
-        "incorrectFeedback": "That's not quite right. The correct translation is \"I am going to the library\"."
-      },
-      {
-        "type": "section-selection",
-        "questionText": "Identify the verb phrase in this sentence:",
-        "sections": [
-          "Kei te",
-          "kōrero",
-          "te tamaiti",
-          "ki",
-          "tōna hoa"
-        ],
-        "correctSectionIndex": 1,
-        "instructionText": "Click on the part of the sentence that functions as the verb.",
-        "note": "The verb phrase indicates the action being performed.",
-        "correctFeedback": "Excellent! \"kōrero\" (to speak/talk) is indeed the verb in this sentence.",
-        "incorrectFeedback": "Not quite. The verb in this sentence is \"kōrero\", which means \"to speak\" or \"to talk\"."
-      }
-    ]
-  },
-  {
-    "id": "exercise-sample-1",
-    "title": "Practice: First Concept",
-    "questions": [
-      {
-        "type": "multiple-choice",
-        "questionText": "Sample question about the first concept?",
-        "options": [
-          "Option 1 [placeholder]",
-          "Option 2 [placeholder] (CORRECT)",
-          "Option 3 [placeholder]",
-          "Option 4 [placeholder]"
-        ],
-        "correctAnswer": "Option 2 [placeholder] (CORRECT)",
-        "correctFeedback": "Correct! [Explanation placeholder]",
-        "incorrectFeedback": "Not quite. [Explanation placeholder]"
-      },
-      {
-        "type": "multiple-choice",
-        "questionText": "Second sample question about the first concept?",
-        "options": [
-          "Option A [placeholder]",
-          "Option B [placeholder]",
-          "Option C [placeholder] (CORRECT)"
-        ],
-        "correctAnswer": "Option C [placeholder] (CORRECT)",
-        "correctFeedback": "That's right! [Explanation placeholder]",
-        "incorrectFeedback": "Try again. [Explanation placeholder]"
-      }
-    ]
-  },
-  {
-    "id": "exercise-sample-2",
-    "title": "Practice: Second Concept",
-    "instructions": "Answer the following questions about the second grammar concept.",
-    "questions": [
-      {
-        "type": "multiple-choice",
-        "questionText": "Sample question about the second concept?",
-        "options": [
-          "Option 1 [placeholder] (CORRECT)",
-          "Option 2 [placeholder]",
-          "Option 3 [placeholder]"
-        ],
-        "correctAnswer": "Option 1 [placeholder] (CORRECT)",
-        "correctFeedback": "Good job! [Explanation placeholder]",
-        "incorrectFeedback": "Not quite right. [Explanation placeholder]"
-      },
-      {
-        "type": "true-false",
-        "questionText": "TRUE Sample true/false statement: \"This is a statement about the second concept that students need to evaluate as true or false.\" [placeholder]",
-        "correctAnswer": true,
-        "correctFeedback": "Correct! This statement is true. [Explanation placeholder]",
-        "incorrectFeedback": "Actually, this statement is true. [Explanation placeholder]"
-      }
-    ]
-  },
-  {
-    "id": "exercise-sample-combined",
-    "title": "Practice: Combined Concepts",
-    "instructions": "This exercise tests your understanding of both concepts and how they work together.",
-    "questions": [
-      {
-        "type": "multiple-choice",
-        "questionText": "Sample question combining both concepts?",
-        "options": [
-          "Option 1 [placeholder]",
-          "Option 2 [placeholder]",
-          "Option 3 [placeholder] (CORRECT)",
-          "Option 4 [placeholder]"
-        ],
-        "correctAnswer": "Option 3 [placeholder] (CORRECT)",
-        "correctFeedback": "Excellent! [Explanation placeholder]",
-        "incorrectFeedback": "Not quite. [Explanation placeholder]"
-      },
-      {
-        "type": "matching",
-        "questionText": "Match these examples with the correct concept.",
-        "pairs": [
-          {
-            "left": "Example 1 [placeholder]",
-            "right": "Concept 1 [placeholder]"
-          },
-          {
-            "left": "Example 2 [placeholder]",
-            "right": "Concept 2 [placeholder]"
-          },
-          {
-            "left": "Example 3 [placeholder]",
-            "right": "Concept 3 [placeholder]"
-          },
-          {
-            "left": "Example 4 [placeholder]",
-            "right": "Concept 4 [placeholder]"
-          }
-        ]
-      },
-      {
-        "type": "multiple-choice",
-        "questionText": "Final question applying both concepts to a new situation?",
-        "options": [
-          "Option A [placeholder]",
-          "Option B [placeholder] (CORRECT)",
-          "Option C [placeholder]"
-        ],
-        "correctAnswer": "Option B [placeholder] (CORRECT)",
-        "correctFeedback": "Perfect! [Explanation placeholder]",
-        "incorrectFeedback": "That's not correct. [Explanation placeholder]"
-      },
-      {
-        "type": "true-false",
-        "questionText": "FALSE When applying both concepts we learned, this statement would be considered true: \"[Example statement combining both concepts placeholder]\"",
-        "correctAnswer": false,
-        "correctFeedback": "Correct! This statement is false because [explanation placeholder].",
-        "incorrectFeedback": "That's not correct. The statement is actually false because [explanation placeholder]."
-      }
-    ]
-  },
 {
   "id": "exercise-pronunciation",
   "title": "Pronunciation",
@@ -338,6 +41,44 @@
       "correctAnswer": "How",
       "correctFeedback": "Correct! Well done.",
       "incorrectFeedback": "That's not correct. Try again."
+    }
+  ]
+},
+{
+  "id": "exercise-introduction-pronouns",
+  "title": "Introductions: Pronouns",
+  "questions": [
+    {
+      "type": "matching",
+      "questionText": "Match the following Māori sentences to their English translations:",
+      "pairs": [
+        {
+          "left": "Tēnā koe",
+          "right": "Hello (to one person)"
+        },
+        {
+          "left": "Tēna kōrua",
+          "right": "Hello (to two people)"
+        },
+        {
+          "left": "Tēnā koutou",
+          "right": "Hello (to three or more people)"
+        },
+        {
+          "left": "Ko Wiremu ia",
+          "right": "He is Wiremu"
+        },
+        {
+          "left": "Ko Wiremu au",
+          "right": "I am Wiremu"
+        },
+        {
+          "left": "Ko Wiremu koe",
+          "right": "You are Wiremu"
+        }
+      ],
+      "correctFeedback": "Great job! You've matched all items correctly.",
+      "incorrectFeedback": "Some matches are incorrect. Try again."
     }
   ]
 }
