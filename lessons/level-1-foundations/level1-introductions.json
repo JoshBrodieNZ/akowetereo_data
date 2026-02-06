@@ -274,6 +274,41 @@
       ]
     },
     {
+      "title": "How are you?",
+      "elements": [
+        {
+          "type": "text",
+          "content": "Another way to ask \"how are you?\" is to say:"
+        },
+        {
+          "type": "example",
+          "sentence": "E pēhea ana koe?",
+          "translation": "How are you?",
+          "breakdown": {
+            "sentence": [],
+            "clause": [],
+            "phrase": [],
+            "word": []
+          }
+        },
+        {
+          "type": "text",
+          "content": "Which is answered using the format:"
+        },
+        {
+          "type": "example",
+          "sentence": "E harikoa ana au.",
+          "translation": "I am happy.",
+          "breakdown": {
+            "sentence": [],
+            "clause": [],
+            "phrase": [],
+            "word": []
+          }
+        }
+      ]
+    },
+    {
       "title": "Exercise: Introductions and Pronouns",
       "elements": [
         {
