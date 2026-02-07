@@ -15,7 +15,71 @@
       "elements": [
         {
           "type": "text",
-          "content": "In te reo Māori, like in English, a sentence is a grammatical unit which represents a complete statement, question, command or exclamation. You're probably pretty familiar with sentences, because they're something you have to keep in mind when writing in English and determining where to put the full stop to separate complex ideas into separate elements.\n\nSentences are made up of clauses, which most people spend less time being conscious of. They're the building blocks of sentences which need to contain two key ingredients:\n\n* **A subject**: This is what the clause is about. In the clause \"dinner was delicious\", *dinner* is the subject. In the clause \"the cat meowed\", *the* *cat* is the subject.\n\n* **The predicate**: This is what you're wanting to say about the subject. In the clause \"dinner was delicious\", the predicate is \"*was delicious*\". In the clause \"the cat meowed\", the predicate is \"*meowed*\". It's the information about the subject which the sentence is designed to communicate. In English, the predicate must contain a verb, but in te reo Māori, that's not always the case.\n\nThe sentence \"John went to the market to buy milk\" is made up of two clauses:\n\n* \"John went to the market\" is the main clause; it's what the sentence is about. The subject is *John* and the predicate is *went to the market.*\n\n* \"to buy milk\" is a dependent clause, which expands on and adds context to the main clause. The subject is still *John* and doesn't need to be explicitly stated where it's understood to be the same as the subject of the main clause. The predicate is \"to buy milk\".\n\nIn English, the next smallest unit is the word. However, te reo Māori has another grammatical unit which is the building block of the clause. This building block is called the **phrase**. The exercises on this website will focus on the phrase a lot as these lessons are based around the idea that understanding **the phrase is the key to being able to parse and analyse sentences in Māori.**"
+          "content": "In te reo Māori, like in English, a sentence is a grammatical unit which represents a complete statement, question, command or exclamation. You're probably pretty familiar with sentences, because they're something you have to keep in mind when writing in English and determining where to put the full stop to separate complex ideas into separate elements.\n\nSentences are made up of clauses, which most people spend less time being conscious of. They're the building blocks of sentences which need to contain two key ingredients:\n\n* **A subject**: This is what the clause is about. In the clause \"dinner was delicious\", *dinner* is the subject. In the clause \"the cat meowed\", *the* *cat* is the subject.\n\n* **The predicate**: This is what you're wanting to say about the subject. In the clause \"dinner was delicious\", the predicate is \"*was delicious*\". In the clause \"the cat meowed\", the predicate is \"*meowed*\". It's the information about the subject which the clause is designed to communicate. In English, the predicate must contain a verb, but in te reo Māori, that's not always the case.\n\n"
+        },
+        {
+          "type": "text",
+          "content": "An example of a clause with its subject and predicate in te reo Māori might be:"
+        },
+        {
+          "type": "interactive-sentence",
+          "parts": [
+            {"type": "group",
+            "label": "Clause",
+          "kind":"clause",
+        "parts":[{
+              "type": "group",
+              "label": "Predicate",
+              "kind": "predicate",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "He "
+                },
+                {
+                  "type": "slot",
+                  "id": "slot-1",
+                  "options": [
+                    "reka",
+                    "pai",
+                    "nui"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Subject",
+              "kind": "subject",
+              "parts": [
+                {
+                  "type": "slot",
+                  "id": "slot-2",
+                  "options": [
+                    " te kai",
+                    " te tina",
+                    " te āporo"
+                  ]
+                }
+              ]
+            }]}
+            
+          ],
+          "translations": {
+            "He reka te kai": "The food is delicious",
+            "He reka te tina": "The dinner is delicious",
+            "He reka te āporo": "The apple is sweet",
+            "He pai te kai": "The food is good",
+            "He pai te tina": "The dinner is good",
+            "He pai te āporo": "The apple is good",
+            "He nui te kai": "There is a lot of food",
+            "He nui te tina": "There is a lot of dinner",
+            "He nui te āporo": "The apple is big"
+          }
+        },
+        {
+          "type": "text",
+          "content": "The sentence \"John went to the market to buy milk\" is made up of two clauses:\n\n* \"John went to the market\" is the main clause; it's what the sentence is about. The subject is *John* and the predicate is *went to the market.*\n\n* \"to buy milk\" is a dependent clause, which expands on and adds context to the main clause. The subject is still *John* and doesn't need to be explicitly stated where it's understood to be the same as the subject of the main clause. The predicate is \"to buy milk\".\n\nIn English, the next smallest unit is the word. However, te reo Māori has another grammatical unit which is the building block of the clause. This building block is called the **phrase**. The exercises on this website will focus on the phrase a lot as these lessons are based around the idea that understanding **the phrase is the key to being able to parse and analyse sentences in Māori.**"
         },
         {
           "type": "note",
@@ -37,7 +101,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "For example, in the sentence {{e oma ana te rāpeti}} (the rabbit is running) there are two phrases: {{e oma ana}} and {{te rāpeti}}.\n\nIn the first phrase, {{e oma ana}}, the nucleus is the word {{oma}} which means run.\n\n{{E}} and {{ana}} are a pair of *[[ref|particles|punga]]* which contribute additional context, in this case communicating that the situation being described (the running of the rabbit) is ongoing. \n\nThis is an example of a base word, flanked by two particles. If we instead changed this phrase from {{e oma ana}} to {{i oma}}, the particle {{i}} would communicate that the running was something that happened in the past.\n\nThe second phrase in this sentence is {{te rāpeti}} which means \"the rabbit\". {{Rāpeti}} is the nucleus of the phrase and it is preceded by the word {{te}} which is called the *[[ref|definite article|putohu]]*, roughly translatable in this sentence to the. There isn't a following word in this phrase, because the preceding and following parts of the phrase are optional. However, we could modify the phrase to be {{te rāpeti nei}} using the particle {{nei}} which signifies that we're talking about something near the speaker and changes the meaning to be \"this rabbit (near me)\" instead of \"the rabbit.\""
+          "content": "For example, in the sentence {{e oma ana te rāpeti}} (the rabbit is running) there are two phrases: {{e oma ana}} and {{te rāpeti}}.\n\nIn the first phrase, {{e oma ana}}, the nucleus is the word {{oma}} which means run.\n\n{{E}} and {{ana}} are a pair of *[[ref\\|particles\\|punga]]* which contribute additional context, in this case communicating that the situation being described (the running of the rabbit) is ongoing.\n\nThis is an example of a base word, flanked by two particles. If we instead changed this phrase from {{e oma ana}} to {{i oma}}, the particle {{i}} would communicate that the running was something that happened in the past.\n\nThe second phrase in this sentence is {{te rāpeti}} which means \"the rabbit\". {{Rāpeti}} is the nucleus of the phrase and it is preceded by the word {{te}} which is called the *[[ref\\|definite article\\|putohu]]*, roughly translatable in this sentence to \"the\". There isn't a following word in this phrase, because the preceding and following parts of the phrase are optional. However, we could modify the phrase to be {{te rāpeti nei}} using the particle {{nei}} which signifies that we're talking about something near the speaker and changes the meaning to be \"this rabbit (near me)\" instead of \"the rabbit.\"\n\nYou can use the Sentence Analyser below to review the sentence, breaking it down into different elements for review. For this example, the Sentence Analyser will show you the full sentence or the individual phrases, but future uses of the Sentence Analyser might also break sentences down into clauses or words."
         },
         {
           "type": "example",
@@ -87,5 +151,7 @@
         }
       ]
     }
-  ]
+  ],
+  "courseId": "level-1-foundations",
+  "path": "/data/lessons/level-1-foundations/level1-phrases.json"
 }

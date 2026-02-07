@@ -78,22 +78,31 @@
       "elements": [
         {
           "type": "text",
-          "content": "A common and more formal way to greet (or thank) someone is to use {{tēnā koe}} which roughly translates to \"there you are\".\n\nHowever, this is only the correct form of this greeting if you are speaking to one person. If you are speaking to more than one person, you use a different word instead of {{koe}}. This is because of the way that pronouns work in te reo Māori.\n\nIn English we use the word \"you\" as our second person pronoun. Unlike the first person pronoun where we change the word depending on whether we're talking about one person or multiple people (\"I\" or \"we\"), we use the word \"you\" for singular and plural cases (unless you use y'all). The second person pronoun in te reo Māori is more precise and a different form of the word is used depending on whether you're referring to one person, two people, or three or more people.\n\nSo we have [[word|koe|w-koe]] for one person, [[word|kōrua|w-koorua]] for two people, and [[word|koutou|w-koutou]] for three or more people. Depending on how many people you are speaking to you might use one of the following:"
+          "content": "A common and more formal way to greet (or thank) someone is to use {{tēnā koe}} which roughly translates to \"there you are\".\n\nHowever, this is only the correct form of this greeting if you are speaking to one person. If you are speaking to more than one person, you use a different word instead of {{koe}}. This is because of the way that pronouns work in te reo Māori.\n\nIn English we use the word \"you\" as our second person pronoun. Unlike the first person pronoun where we change the word depending on whether we're talking about one person or multiple people (\"I\" or \"we\"), we use the word \"you\" for singular and plural cases (unless you use y'all). The second person pronoun in te reo Māori is more precise and a different form of the word is used depending on whether you're referring to one person, two people, or three or more people.\n\nSo we have [[word|koe|w-koe]] for one person, [[word|kōrua|w-koorua]] for two people, and [[word|koutou|w-koutou]] for three or more people. \n\nDepending on how many people you are speaking to you might use one of the following phrases (the highlighted word can be scrolled up or down to change the sentence):"
         },
         {
-          "type": "example",
-          "sentence": "Tēnā koe",
-          "translation": "Hello/Thank you (to one person)"
-        },
-        {
-          "type": "example",
-          "sentence": "Tēnā kōrua",
-          "translation": "Hello/Thank you (to two people)"
-        },
-        {
-          "type": "example",
-          "sentence": "Tēnā koutou",
-          "translation": "Hello/Thank you (to three or more people)"
+          "type": "interactive-sentence",
+          "parts": [
+            {
+              "type": "text",
+              "content": "Tēnā "
+            },
+            {
+              "type": "slot",
+              "id": "slot-2",
+              "options": [
+                "koe",
+                "kōrua",
+                "koutou"
+              ]
+            }
+          ],
+          "translations": {
+            "Tēnā koe": "Hello/Thank you (to one person)",
+            "Tēnā kōrua": "Hello/Thank you (to two people)",
+            "Tēnā koutou": "Hello/Thank you (to three or more people)",
+            "default": "Translation..."
+          }
         },
         {
           "type": "text",
@@ -254,14 +263,44 @@
           "translation": "How are you?"
         },
         {
-          "type": "example",
-          "sentence": "Kei te harikoa au.",
-          "translation": "I am happy."
+          "type": "text",
+          "content": "Try to answer the question using the following interactive sentence:"
         },
         {
-          "type": "example",
-          "sentence": "Kei te pōuri au.",
-          "translation": "I am sad."
+          "type": "interactive-sentence",
+          "parts": [
+            {
+              "type": "text",
+              "content": "Kei te "
+            },
+            {
+              "type": "slot",
+              "id": "slot-2",
+              "options": [
+                "harikoa",
+                "pai",
+                "pōuri",
+                "ora",
+                "māuiui",
+                "hiakai",
+                "pukuriri"
+              ]
+            },
+            {
+              "type": "text",
+              "content": " au"
+            }
+          ],
+          "translations": {
+            "Kei te harikoa au": "I am happy",
+            "Kei te pai au": "I am good",
+            "Kei te pōuri au": "I am sad",
+            "Kei te ora au": "I am well",
+            "Kei te māuiui au": "I am sick",
+            "Kei te hiakai au": "I am hungry",
+            "Kei te pukuriri au": "I am angry",
+            "default": "Translation..."
+          }
         },
         {
           "type": "text",
@@ -269,7 +308,7 @@
         },
         {
           "type": "note",
-          "content": "Some other words to describe feelings include:\n* [[word|pai|w-pai]] (good)\n* [[word|ora|w-ora]] (well)\n* [[word|māuiui|w-maauiui]] (sick)\n* [[word|hiakai|w-hiakai]] (hungry)\n* [[word|pukuriri|w-pukuriri]] (angry)\n\nThese words can replace {{pōuri}} or {{harikoa}} in the sentences above. This class of word is described more in [[ref|tūmahi ahua|tumahi-ahua]].\n\nIf you want to learn additional words to describe feelings and emotions, there's a [[vocab|feelings vocab list|feelings]] that you can use to practice.\n"
+          "content": "If you want to learn additional words to describe feelings and emotions, there's a [[vocab|feelings vocab list|feelings]] that you can use to practice. This class of word is described more in [[ref|tūmahi ahua|tumahi-ahua]]\n"
         }
       ]
     },
@@ -324,7 +363,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "This has provided a quick overview of how to introduce yourself in te reo Māori and introduced some of the features of the platform, including how to look at grammar references and use the Sentence Analyser."
+          "content": "This has provided a quick overview of how to introduce yourself in te reo Māori and introduced some of the features of the platform, including how to look at grammar references, navigate to vocabulary lists and use interactive sentences."
         }
       ]
     }
