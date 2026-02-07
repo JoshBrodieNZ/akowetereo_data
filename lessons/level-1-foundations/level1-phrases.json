@@ -24,46 +24,49 @@
         {
           "type": "interactive-sentence",
           "parts": [
-            {"type": "group",
-            "label": "Clause",
-          "kind":"clause",
-        "parts":[{
-              "type": "group",
-              "label": "Predicate",
-              "kind": "predicate",
-              "parts": [
-                {
-                  "type": "text",
-                  "content": "He "
-                },
-                {
-                  "type": "slot",
-                  "id": "slot-1",
-                  "options": [
-                    "reka",
-                    "pai",
-                    "nui"
-                  ]
-                }
-              ]
-            },
             {
               "type": "group",
-              "label": "Subject",
-              "kind": "subject",
+              "label": "Clause",
+              "kind": "clause",
               "parts": [
                 {
-                  "type": "slot",
-                  "id": "slot-2",
-                  "options": [
-                    " te kai",
-                    " te tina",
-                    " te āporo"
+                  "type": "group",
+                  "label": "Predicate",
+                  "kind": "predicate",
+                  "parts": [
+                    {
+                      "type": "text",
+                      "content": "He "
+                    },
+                    {
+                      "type": "slot",
+                      "id": "slot-1",
+                      "options": [
+                        "reka",
+                        "pai",
+                        "nui"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "label": "Subject",
+                  "kind": "subject",
+                  "parts": [
+                    {
+                      "type": "slot",
+                      "id": "slot-2",
+                      "options": [
+                        " te kai",
+                        " te tina",
+                        " te āporo"
+                      ]
+                    }
                   ]
                 }
               ]
-            }]}
-            
+            }
           ],
           "translations": {
             "He reka te kai": "The food is delicious",
@@ -79,11 +82,67 @@
         },
         {
           "type": "text",
-          "content": "The sentence \"John went to the market to buy milk\" is made up of two clauses:\n\n* \"John went to the market\" is the main clause; it's what the sentence is about. The subject is *John* and the predicate is *went to the market.*\n\n* \"to buy milk\" is a dependent clause, which expands on and adds context to the main clause. The subject is still *John* and doesn't need to be explicitly stated where it's understood to be the same as the subject of the main clause. The predicate is \"to buy milk\".\n\nIn English, the next smallest unit is the word. However, te reo Māori has another grammatical unit which is the building block of the clause. This building block is called the **phrase**. The exercises on this website will focus on the phrase a lot as these lessons are based around the idea that understanding **the phrase is the key to being able to parse and analyse sentences in Māori.**"
+          "content": "The sentence \"John went to the market to buy milk\" is made up of two clauses:\n\n* \"John went to the market\" is the main clause; it's what the sentence is about. The subject is *John* and the predicate is *went to the market.*\n\n* \"to buy milk\" is a dependent clause, which expands on and adds context to the main clause. The subject is still *John* and doesn't need to be explicitly stated where it's understood to be the same as the subject of the main clause. The predicate is \"to buy milk\"."
         },
         {
-          "type": "note",
-          "content": "In Let's Learn Māori, Bruce Biggs notes: The phrase, not the word, is the unit of Maori speech that must be emphasised in learning. It is the natural grammatical unit of the language, and even more importantly, it is the natural pause unit of speech."
+          "type": "text",
+          "content": "An example of a sentence with two clauses in te reo Māori might look like:"
+        },
+        {
+          "type": "interactive-sentence",
+          "parts": [
+            {
+              "type": "group",
+              "label": "Main Clause",
+              "kind": "clause",
+              "parts": [
+                {
+                  "type": "slot",
+                  "id": "slot-1",
+                  "options": [
+                    "I haere a Hone ki te mākete",
+                    "I haere a Hone ki te whare pukapuka",
+                    "I haere a Hone ki te puna kaukau"
+                  ]
+                },
+                {
+                  "type": "text",
+                  "content": " "
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Dependent Clause",
+              "kind": "clause",
+              "parts": [
+                {
+                  "type": "slot",
+                  "id": "slot-2",
+                  "options": [
+                    "ki te hoko hua heihei",
+                    "ki te hoko miraka",
+                    "ki te whakahoki i tētahi pukapuka",
+                    "ki te kaukau"
+                  ]
+                }
+              ]
+            }
+          ],
+          "translations": {
+            "I haere a Hone ki te mākete ki te hoko hua heihei": "Hone went to the market to buy (chicken) eggs",
+            "I haere a Hone ki te mākete ki te hoko miraka": "Hone went to the market to buy milk",
+            "I haere a Hone ki te mākete ki te whakahoki i tētahi pukapuka": "Hone went to the market to return a book",
+            "I haere a Hone ki te mākete ki te kaukau": "Hone went to the market to swim",
+            "I haere a Hone ki te whare pukapuka ki te hoko hua heihei": "Hone went to the library to buy (chicken) eggs",
+            "I haere a Hone ki te whare pukapuka ki te hoko miraka": "Hone went to the library to buy milk",
+            "I haere a Hone ki te whare pukapuka ki te whakahoki i tētahi pukapuka": "Hone went to the library to return a book",
+            "I haere a Hone ki te whare pukapuka ki te kaukau": "Hone went to the library to swim",
+            "I haere a Hone ki te puna kaukau ki te hoko hua heihei": "Hone went to the pool to buy (chicken) eggs",
+            "I haere a Hone ki te puna kaukau ki te hoko miraka": "Hone went to the pool to buy milk",
+            "I haere a Hone ki te puna kaukau ki te whakahoki i tētahi pukapuka": "Hone went to the pool to return a book",
+            "I haere a Hone ki te puna kaukau ki te kaukau": "Hone went to the pool to swim"
+          }
         }
       ]
     },
@@ -92,7 +151,61 @@
       "elements": [
         {
           "type": "text",
-          "content": "A phrase can be broken down into three components.\n\nIt must always have a main word which is called the **nucleus**. This is generally a noun, verb or pronoun. These types of words all belong to the class *[[ref|base words|tumu]]* or {{tumu}} (sometimes called {{kupu kiko}} or content words) and they contribute the central meaning to the phrase.\n\nThe nucleus can optionally have words **preceding** it and **following** it.\n\nThese words which flank the nucleus are said to be in the \"periphery\" and are technically referred to as the *preposed periphery* and the *postposed periphery*. We'll return to using this terminology in the more advanced lessons, but for now we're just calling them *preceding words* and *following words* and introducing the technical words so you know what they are if you see them somewhere else.\n\nIn the same way the nucleus must contain a base word, the preceding and following words must be [[ref|particles|punga]] or {{punga}}. Some particles are required to precede the nucleus, while others are required to follow it.\n\nParticles are the glue which hold the sentences together, communicating additional context such as:\n\n* whether the sentence is past, present or future tense\n\n* whether an activity being described is ongoing or has ended\n\n* whether the sentence is about a specific object such as \"the cat\" or is less specific such as \"a cat\".\n\n* whether a possessive relationship is being described such as \"my car\", \"the student's work\" or \"your cat\"."
+          "content": "\n\nIn English, the next smallest unit of grammar after the clause is the word. However, te reo Māori has another grammatical unit which is the building block of the clause. This building block is called the **phrase**.\n\nThe exercises on this website will focus on the phrase a lot as these lessons are based around the idea that understanding **the phrase is the key to being able to parse and analyse sentences in Māori.**"
+        },
+        {
+          "type": "note",
+          "content": "In Let's Learn Māori, Bruce Biggs notes: The phrase, not the word, is the unit of Maori speech that must be emphasised in learning. It is the natural grammatical unit of the language, and even more importantly, it is the natural pause unit of speech."
+        },
+        {
+          "type": "text",
+          "content": "A phrase can be broken down into three components."
+        },
+        {
+          "type": "interactive-sentence",
+          "content": "## New Text Content\n\nAdd your content here.",
+          "parts": [
+            {
+              "type": "group",
+              "label": "Preceding Words",
+              "kind": "preposed-periphery",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "ki"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Nucleus",
+              "kind": "nucleus",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": " runga "
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Following Words",
+              "kind": "postposed-periphery",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "ake"
+                }
+              ]
+            }
+          ],
+          "translations": {
+            "ki runga ake": "upwards"
+          }
+        },
+        {
+          "type": "text",
+          "content": "It must always have a main word which is called the **nucleus**. This is generally a noun, verb or pronoun. These types of words all belong to the class *[[ref\\|base words\\|tumu]]* or {{tumu}} (sometimes called {{kupu kiko}} or content words) and they contribute the central meaning to the phrase.\n\nThe nucleus can optionally have words **preceding** it and **following** it.\n\nThese words which flank the nucleus are said to be in the \"periphery\" and are technically referred to as the *preposed periphery* and the *postposed periphery*. We'll return to using this terminology in the more advanced lessons, but for now we're just calling them *preceding words* and *following words* and introducing the technical words so you know what they are if you see them somewhere else.\n\nIn the same way the nucleus must contain a base word, the preceding and following words must be [[ref\\|particles\\|punga]] or {{punga}}. Some particles can only precede the nucleus, while others can only follow it.\n\nParticles are the glue which hold the sentences together, communicating additional context such as:\n\n* whether the sentence is past, present or future tense\n\n* whether an activity being described is ongoing or has ended\n\n* whether the sentence is about a specific object such as \"the cat\" or is less specific such as \"a cat\".\n\n* whether a possessive relationship is being described such as \"my car\", \"the student's work\" or \"your cat\"."
         }
       ]
     },
@@ -118,7 +231,7 @@
             "phrase": [
               {
                 "text": "E oma ana",
-                "explanation": "This is a verb phrase ([[ref|kīanga tūmahi|kianga-tumahi]]) with the [[ref|continuous tense marker|pumahi]] {{e...ana}} and the verb {{oma}}.",
+                "explanation": "This is a verb phrase ([[ref|kīanga tūmahi|kianga-tumahi]]) with the [[ref|continuous tense marker|pumahi]] {{e...ana}} and the verb {{oma}}. As the predicate, it communicates that the subject is running.",
                 "translation": "is running",
                 "structure": {
                   "preposed": "E",
@@ -128,7 +241,7 @@
               },
               {
                 "text": "te rāpeti",
-                "explanation": "This is a proper noun phrase ([[ref|kīanga tūingoa|kianga-tuingoa]]) with the definite article {{te}} and the proper noun {{rāpeti}}.",
+                "explanation": "This is a proper noun phrase ([[ref|kīanga tūingoa|kianga-tuingoa]]) with the definite article {{te}} and the proper noun {{rāpeti}}. It is the subject of the sentence.",
                 "translation": "the rabbit",
                 "structure": {
                   "preposed": "te",
@@ -139,6 +252,84 @@
             ]
           },
           "simpleLanguage": true
+        }
+      ]
+    },
+    {
+      "title": "The Nucleus",
+      "elements": [
+        {
+          "type": "text",
+          "content": "The nucleus of a phrase almost always contains one or more [[ref\\|tumu\\|tumu]] (base words). In cases where there is more than one base, one of the bases is the **head** of the phrase and provides the main context for the phrase, with the other bases acting as modifiers on that."
+        },
+        {
+          "type": "interactive-sentence",
+          "content": "## New Text Content\n\nAdd your content here.",
+          "parts": [
+            {
+              "type": "group",
+              "label": "Preceding Words",
+              "kind": "preposed-periphery",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "te"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Nucleus",
+              "kind": "nucleus",
+              "parts": [
+                {
+                  "type": "group",
+                  "label": "Head",
+                  "kind": "head",
+                  "parts": [
+                    {
+                      "type": "text",
+                      "content": " waka "
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "label": "Modifying Bases",
+                  "kind": "base",
+                  "parts": [
+                    {
+                      "type": "slot",
+                      "id": "modifier",
+                      "options": [
+                        "rererangi",
+                        "tūroro",
+                        "topaki"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {"type":"group",
+          "label":"Following Words",
+        "kind":"postposed-periphery",
+      "parts":[]}
+          ],
+          "translations": {
+            "te waka rererangi": "airplane",
+            "te waka tūroro": "ambulance",
+            "te waka topaki": "hovercraft"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Types of Phrase",
+      "elements": [
+        {
+          "type": "text",
+          "content": "Although there are many ways of describing different phrase types, they can broadly be broken up into [[ref\\|kīanga tūmahi\\|kianga-tumahi]] (verbal phrases), [[ref\\|kīanga tūingoa\\|kianga-tuingoa]] (noun phrases) and [[ref\\|kīanga pūhono\\|kianga-puhono]] (prepositional phrases)."
         }
       ]
     },
