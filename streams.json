@@ -5,11 +5,11 @@
     "description": "Foundational concepts including basic phrases, pronunciation, and simple sentence structures using ko and he.",
     "level": 1,
     "lessons": [
-      "level1-pronunciation", 
-      "level1-introductions", 
-      "level1-phrases",
+      "level1-pronunciation",
+      "level1-introductions",
       "level1-word-classification",
-      "level1-ko-sentences", 
+      "level1-phrases",
+      "level1-ko-sentences",
       "level1-he-sentences"
     ],
     "wrapUpContent": {

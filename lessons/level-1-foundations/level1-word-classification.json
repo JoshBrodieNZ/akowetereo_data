@@ -6,8 +6,16 @@
   "validated": false,
   "content": [
     {
-      "title": "First Slide",
-      "text": "## New Lesson Content\n\nThis is the first slide of your new lesson. Edit this content to get started."
+      "title": "Overview",
+      "text": "## New Lesson Content\n\nThis is the first slide of your new lesson. Edit this content to get started.",
+      "elements": [
+        {
+          "type": "text",
+          "content": "This lesson will provide a very high level summary of word classes in te reo Māori. We'll dive into each word class in a lot more depth later.\n\nMost words in te reo Māori are either [[ref\\|tumu\\|tumu]] (bases) or [[ref\\|punga\\|punga]] (particles).\n\nBases are words like nouns, verbs or pronouns and communicate the central meaning of the sentence. They are also known as {{kupu kiko}} (content words). Meanwhile, particles are the glue which hold sentences together, communicating additional meaning. They are also known as {{kupu kōiwi}} (function words).\n\nFor example in the sentence {{Kei te kai au}} (I am eating), the verb [[word\\|kai\\|w-kai]] (eat) and the personal pronoun [[word\\|au\\|w-au]] (I) are the key pieces of information. The tense marker {{kei te}} provides additional grammatical structure but its job is to support {{kai}} and {{au}} and communicate the context linking these things."
+        }
+      ]
     }
-  ]
+  ],
+  "courseId": "level-1-foundations",
+  "path": "/data/lessons/level-1-foundations/level1-word-classification.json"
 }

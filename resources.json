@@ -1,6 +1,6 @@
 [
   {
-    "id": "resource-1744282653714",
+    "id": "resource-discord",
     "title": "Te Reo Māori Discord",
     "url": "https://discord.gg/9pDHB32k69",
     "imageSrc": "/img/Tino_Rangatiratanga.svg",
@@ -15,7 +15,7 @@
     "featured": true
   },
   {
-    "id": "resource-1744283237876",
+    "id": "resource-reddit",
     "title": "/r/ReoMaori",
     "url": "https://www.reddit.com/r/ReoMaori/",
     "imageSrc": "/img/reddit_banner.png",
@@ -30,7 +30,7 @@
     "featured": false
   },
   {
-    "id": "resource-001",
+    "id": "resource-te-aka",
     "title": "Te Aka Māori-English Dictionary",
     "url": "https://maoridictionary.co.nz/",
     "imageSrc": "/img/teaka.jpg",
@@ -45,7 +45,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744271438386",
+    "id": "resource-paekupu",
     "title": "Paekupu",
     "url": "https://paekupu.co.nz/",
     "imageSrc": "/img/paekupu.jpg",
@@ -61,7 +61,7 @@
     "featured": true
   },
   {
-    "id": "resource-003",
+    "id": "resource-9781775502036",
     "title": "A Māori Reference Grammar",
     "author": "Ray Harlow",
     "url": "https://huia.co.nz/products/a-maori-reference-grammar",
@@ -78,7 +78,7 @@
     "featured": true
   },
   {
-    "id": "resource-1744264390097",
+    "id": "resource-9781869401863",
     "title": "Let's Learn Māori",
     "author": "Bruce Biggs",
     "url": "https://aucklanduniversitypress.co.nz/lets-learn-maori-revised-edition/",
@@ -94,7 +94,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265313081",
+    "id": "resource-9780473342081",
     "title": "He Iti Kahurangi",
     "author": "Hēni Jacob",
     "url": "https://tetakupu.wananga.com/products/he-iti-kahurangi",
@@ -112,7 +112,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265599519",
+    "id": "resource-9780415599993",
     "title": "Māori",
     "author": "Winifred Bauer",
     "url": "https://www.routledge.com/Maori/Bauer/p/book/9780415599993",
@@ -128,7 +128,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265645548",
+    "id": "resource-reed",
     "title": "The Reed Reference Grammar of Māori",
     "author": "Winifred Bauer",
     "url": "",
@@ -144,7 +144,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744264453860",
+    "id": "resource-9780473208738",
     "title": "Mai i te Kākano",
     "url": "https://tetakupu.wananga.com/products/e-mai-i-te-kakano",
     "imageSrc": "/img/9780473208738.webp",
@@ -160,7 +160,7 @@
     "featured": true
   },
   {
-    "id": "resource-1744264561462",
+    "id": "resource-9780995101104",
     "title": "Te Rito",
     "url": "https://tetakupu.wananga.com/products/te-rito",
     "imageSrc": "/img/9780995101104.webp",
@@ -176,7 +176,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265340939",
+    "id": "resource-9780143771470",
     "title": "Māori at Home",
     "url": "https://www.penguin.co.nz/books/maori-at-home-9780143771470",
     "imageSrc": "/img/9780143771470.jpg",
@@ -191,7 +191,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265385523",
+    "id": "resource-9780947506919",
     "title": "He Iti te Kupu",
     "url": "https://maimoa.nz/products/he-iti-te-kupu-maori-metaphors-and-similes",
     "imageSrc": "/img/9780947506919.jpg",
@@ -206,7 +206,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265443154",
+    "id": "resource-9780143567912",
     "title": "The Raupō Book of Māori Proverbs",
     "url": "https://www.penguin.co.nz/books/the-raupo-book-of-maori-proverbs-9780143567912",
     "imageSrc": "/img/9780143567912.jpg",
@@ -221,7 +221,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265489743",
+    "id": "resource-9781990042591",
     "title": "Ngā Hapa Reo",
     "url": "https://maimoa.nz/products/nga-hapa-reo-common-maori-language-errors",
     "imageSrc": "/img/9781990042591.webp",
@@ -236,7 +236,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265526604",
+    "id": "resource-9781990042379",
     "title": "Te Reo Kapekape",
     "url": "https://maimoa.nz/products/te-reo-kapekape-maori-wit-and-humour",
     "imageSrc": "/img/9781990042379.webp",
@@ -251,7 +251,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265555201",
+    "id": "resource-9780143570912",
     "title": "Māori Made Easy Series",
     "url": "https://www.penguin.co.nz/books/maori-made-easy-9780143570912",
     "imageSrc": "/img/9780143570912.jpg",
@@ -266,7 +266,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744265580561",
+    "id": "resource-9780143773412",
     "title": "A Māori Phrase a Day",
     "url": "https://www.penguin.co.nz/books/a-maori-phrase-a-day-9780143773412",
     "imageSrc": "/img/9780143773412.jpg",
@@ -281,7 +281,7 @@
     "featured": false
   },
   {
-    "id": "resource-1744282287769",
+    "id": "resource-taringa",
     "title": "Taringa Podcast",
     "url": "https://www.taringapodcast.com/",
     "imageSrc": "/img/taringa.png",
@@ -296,7 +296,7 @@
     "featured": false
   },
   {
-    "id": "resource-1769914193108",
+    "id": "resource-9780947506698",
     "title": "Te Reo Māori: The Basics Explained",
     "author": "David Kārena-Holmes",
     "url": "https://oratia.co.nz/product-tag/david-karena-holmes/",
