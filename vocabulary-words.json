@@ -423,6 +423,14 @@
     "note": "",
     "validated": true
   },
+  "w-aparia": {
+    "maori": "aparia",
+    "english": "layer, heap up",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "apa + passive suffix \"ria\"",
+    "validated": true
+  },
   "w-ara": {
     "maori": "ara",
     "english": "1) path, road, way\n2) to rise",
@@ -469,6 +477,14 @@
     "example": "I te ata, ka haere au ki te kura.",
     "exampleTranslation": "In the morning I will go to school.",
     "note": "",
+    "validated": true
+  },
+  "w-atamai": {
+    "maori": "atamai",
+    "english": "clever",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   },
   "w-atawhai": {
@@ -671,6 +687,22 @@
     "note": "",
     "validated": true
   },
+  "w-haakoro": {
+    "maori": "hākoro",
+    "english": "father",
+    "example": "Ko Te Rā tōku hākoro.",
+    "exampleTranslation": "Te Rā is my father.",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-haakui": {
+    "maori": "hākui",
+    "english": "mother",
+    "example": "Kō Meri tōku hākui.",
+    "exampleTranslation": "Meri is my mother.",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-haamama": {
     "maori": "hāmama",
     "english": "1) to shout, open the mouth\n2) open, gaping",
@@ -759,6 +791,14 @@
     "note": "",
     "validated": true
   },
+  "w-haira": {
+    "maori": "haira",
+    "english": "cider",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-haka": {
     "maori": "haka",
     "english": "performance, dance",
@@ -785,10 +825,10 @@
   },
   "w-hangaia": {
     "maori": "hangaia",
-    "english": "to build, construct (passive form)",
+    "english": "to build, construct (passive form)\n\nmake, prepare, create",
     "example": "Kua hangaia e ia tētahi whare hou.",
     "exampleTranslation": "He has built a new house.",
-    "note": "Passive form of \"hanga\" (to build)",
+    "note": "hanga + passive suffix \"ia\"",
     "validated": true
   },
   "w-hangarau": {
@@ -967,6 +1007,30 @@
     "note": "",
     "validated": true
   },
+  "w-heihei-kotikoti": {
+    "maori": "heihei kotikoti",
+    "english": "diced chicken",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-heihei-ngakungaku": {
+    "maori": "heihei ngakungaku",
+    "english": "shredded chicken",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-heihi": {
+    "maori": "heihi",
+    "english": "sage",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-heke": {
     "maori": "heke",
     "english": "1) to descend, go down\n2) rafter",
@@ -1037,6 +1101,14 @@
     "example": "Kei te hiakai au.",
     "exampleTranslation": "I am hungry.",
     "note": "",
+    "validated": true
+  },
+  "w-hiamo": {
+    "maori": "hiamo",
+    "english": "excited, thrilled",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   },
   "w-hiamoe": {
@@ -1119,11 +1191,43 @@
     "note": "",
     "validated": true
   },
+  "w-hinu-kanoora": {
+    "maori": "hinu kanōra",
+    "english": "canola oil",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-hinu-oriwia": {
+    "maori": "hinu oriwia",
+    "english": "olive oil",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-hinu-rahopuuru": {
+    "maori": "hinu rahopūru",
+    "english": "avocado oil",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-hipi": {
     "maori": "hipi",
     "english": "sheep",
     "example": "He nui ngā hipi i te pāmu.",
     "exampleTranslation": "There are many sheep on the farm.",
+    "note": "",
+    "validated": true
+  },
+  "w-hirikakaa": {
+    "maori": "hirikakā",
+    "english": "chilli",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -1247,6 +1351,14 @@
     "note": "Directional verb indicating giving toward the speaker.",
     "validated": true
   },
+  "w-hoopane": {
+    "maori": "hōpane",
+    "english": "saucepan",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-hopu": {
     "maori": "hopu",
     "english": "to catch",
@@ -1295,6 +1407,14 @@
     "note": "Passive form of \"huaki\"",
     "validated": true
   },
+  "w-huanui": {
+    "maori": "huanui",
+    "english": "path, road",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-huarahi": {
     "maori": "huarahi",
     "english": "path, road",
@@ -1317,6 +1437,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "A culturally significant bird in te ao Māori.",
+    "validated": true
+  },
+  "w-huihia": {
+    "maori": "huihia",
+    "english": "cover",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "huihi + passive suffix \"a\"",
     "validated": true
   },
   "w-huka": {
@@ -1351,6 +1479,14 @@
     "note": "Describes rotation, changing direction, or transformation.",
     "validated": true
   },
+  "w-hurihia": {
+    "maori": "hurihia",
+    "english": "flip over, turn",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "huri + passive suffix \"hia\"",
+    "validated": true
+  },
   "w-hurihuri": {
     "maori": "hurihuri",
     "english": "to turn around and around, repeatedly",
@@ -1375,11 +1511,27 @@
     "note": "In Kāi Tahu dialect, this includes hair on the head.",
     "validated": true
   },
+  "w-hutawa": {
+    "maori": "hutawa",
+    "english": "legs",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-huu": {
     "maori": "hū",
     "english": "shoe",
     "example": "He pai ō hū.",
     "exampleTranslation": "Your shoes are nice.",
+    "note": "",
+    "validated": true
+  },
+  "w-huuhaa-heihei": {
+    "maori": "hūhā heihei",
+    "english": "chicken thigh",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -1695,6 +1847,14 @@
     "note": "",
     "validated": true
   },
+  "w-kahi": {
+    "maori": "kahi",
+    "english": "wedge",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-kahu": {
     "maori": "kahu",
     "english": "cloak, cape, covering",
@@ -1717,6 +1877,14 @@
     "example": "He reka te kai.",
     "exampleTranslation": "The food is delicious.",
     "note": "",
+    "validated": true
+  },
+  "w-kai-1": {
+    "maori": "kai",
+    "english": "(particle) at, on, in (of present position or time)",
+    "example": "Kai te pēhea koe?",
+    "exampleTranslation": "How are you?",
+    "note": "Kāi Tahu variation of kei",
     "validated": true
   },
   "w-kaiako": {
@@ -2047,6 +2215,14 @@
     "note": "",
     "validated": true
   },
+  "w-kauhurihia": {
+    "maori": "kauhurihia",
+    "english": "flip over, turn",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "kauhuri + passive suffix \"hia\"",
+    "validated": true
+  },
   "w-kaukau": {
     "maori": "kaukau",
     "english": "to bathe",
@@ -2069,6 +2245,14 @@
     "example": "He aha te kaupapa o te hui?",
     "exampleTranslation": "What is the topic/agenda of the meeting?",
     "note": "",
+    "validated": true
+  },
+  "w-kauraka": {
+    "maori": "kauraka",
+    "english": "don't",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu variation of kaua.",
     "validated": true
   },
   "w-kaute": {
@@ -2212,6 +2396,14 @@
     "english": "to be said",
     "example": "He aha te kupu i kīia?",
     "exampleTranslation": "What was the word that was said?",
+    "note": "",
+    "validated": true
+  },
+  "w-kiinaki-toomato": {
+    "maori": "kīnaki tōmato",
+    "english": "tomato sauce",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -2391,6 +2583,14 @@
     "note": "A variation of {{koia nei}}.",
     "validated": true
   },
+  "w-kokomo": {
+    "maori": "kokomo",
+    "english": "shirt",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-konaa": {
     "maori": "konā",
     "english": "there, by listener",
@@ -2471,9 +2671,25 @@
     "note": "",
     "validated": true
   },
+  "w-koonumitia": {
+    "maori": "kōnumitia",
+    "english": "fold",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "kōnumi + passive suffix \"tia\"",
+    "validated": true
+  },
   "w-koopae": {
     "maori": "kōpae",
     "english": "1) anything disc-shaped\n2) CD",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-koopaki": {
+    "maori": "kōpaki",
+    "english": "pie",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -2509,6 +2725,22 @@
     "example": "Kōrerotia te pukapuka ki te tamaiti.",
     "exampleTranslation": "Read the book to the child.",
     "note": "Kōrero + passive suffix -tia",
+    "validated": true
+  },
+  "w-kooripitia": {
+    "maori": "kōripitia",
+    "english": "slice",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "kōripi + passive suffix \"tia\"",
+    "validated": true
+  },
+  "w-koororirorihia": {
+    "maori": "kōrorirorihia",
+    "english": "stir, mix",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "kōrorirori + passive suffix \"hia\"",
     "validated": true
   },
   "w-koorua": {
@@ -2583,6 +2815,14 @@
     "note": "This is the tūkapi kiritūnā takitini (plural second person [[ref|pronoun|tukapi]]).",
     "validated": true
   },
+  "w-koutua": {
+    "maori": "koutua",
+    "english": "dip",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "koutu + passive suffix \"a\"",
+    "validated": true
+  },
   "w-kua": {
     "maori": "kua",
     "english": "A verbal particle indicating completed action or that something has changed state.",
@@ -2631,6 +2871,14 @@
     "note": "Usually kūmea in the passive form.",
     "validated": true
   },
+  "w-kumana": {
+    "maori": "kumana",
+    "english": "cumin",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-kupu": {
     "maori": "kupu",
     "english": "word",
@@ -2653,6 +2901,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
+    "validated": true
+  },
+  "w-kuuaha": {
+    "maori": "kūaha",
+    "english": "door",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   },
   "w-kuumara": {
@@ -2701,6 +2957,14 @@
     "example": "Māhau tēnei kaputī.",
     "exampleTranslation": "This cup of tea is for you.",
     "note": "Variant of māu.",
+    "validated": true
+  },
+  "w-maahita": {
+    "maori": "māhita",
+    "english": "teacher",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   },
   "w-maahunga": {
@@ -2823,6 +3087,14 @@
     "note": "",
     "validated": true
   },
+  "w-maatotoru": {
+    "maori": "mātotoru",
+    "english": "to be thick, dense",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-maatou": {
     "maori": "mātou",
     "english": "we, us (three or more, excluding addressee)",
@@ -2911,6 +3183,14 @@
     "note": "Mahi + passive suffix -a",
     "validated": true
   },
+  "w-mahiti": {
+    "maori": "mahiti",
+    "english": "used up, gone, consumed",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-mahue": {
     "maori": "mahue",
     "english": "to be left behind",
@@ -2925,6 +3205,14 @@
     "example": "Haere mai ki konei.",
     "exampleTranslation": "Come here.",
     "note": "Directional particle indicating movement toward the speaker.\n\nSee [[ref|mai|mai]].",
+    "validated": true
+  },
+  "w-makaia": {
+    "maori": "makaia",
+    "english": "put in",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "maka + passive suffix \"ia\"",
     "validated": true
   },
   "w-makariri": {
@@ -3012,6 +3300,14 @@
     "english": "guest",
     "example": "I tae mai ngā manuhiri i te ata.",
     "exampleTranslation": "The guests arrived in the morning.",
+    "note": "",
+    "validated": true
+  },
+  "w-maonga": {
+    "maori": "maonga",
+    "english": "to be cooked",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -3279,6 +3575,30 @@
     "note": "",
     "validated": true
   },
+  "w-miiti-moorohe": {
+    "maori": "mīti mōrohe",
+    "english": "beef mince",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-miiti-poaka": {
+    "maori": "mīti poaka",
+    "english": "pork",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-mimiti": {
+    "maori": "mimiti",
+    "english": "to be reduced",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-miraka": {
     "maori": "miraka",
     "english": "milk",
@@ -3527,6 +3847,14 @@
     "note": "Indicates possession or agency, often in questions about ownership.[[ref|'Ā' category possessive|a-o-categories]].",
     "validated": true
   },
+  "w-naaia": {
+    "maori": "nāia",
+    "english": "here it is",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-naaianei": {
     "maori": "nāianei",
     "english": "now",
@@ -3559,6 +3887,14 @@
     "note": "",
     "validated": true
   },
+  "w-naki": {
+    "maori": "naki",
+    "english": "cat",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-nama": {
     "maori": "nama",
     "english": "number",
@@ -3567,9 +3903,25 @@
     "note": "",
     "validated": true
   },
+  "w-namunamuaa": {
+    "maori": "namunamuā",
+    "english": "flavouring, spice",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-nanakia": {
     "maori": "nanakia",
     "english": "1) crafty, cunning\n2) scoundrel, rascal",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-natimeke": {
+    "maori": "natimeke",
+    "english": "nutmeg",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -3765,6 +4117,14 @@
     "example": "Nōna tēnei whare.",
     "exampleTranslation": "This house is his/hers.",
     "note": "Indicates third person ownership in the [[ref|'o' category|a-o-categories]].",
+    "validated": true
+  },
+  "w-noonatahiraa": {
+    "maori": "nōnatahirā",
+    "english": "the day before yesterday",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   },
   "w-nui": {
@@ -4023,6 +4383,22 @@
     "note": "",
     "validated": true
   },
+  "w-paahiri": {
+    "maori": "pāhiri",
+    "english": "parsley",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-paakaa-heihei": {
+    "maori": "pākā heihei",
+    "english": "chicken burger",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-paakehaa": {
     "maori": "Pākehā",
     "english": "Pākehā (New Zealander of European descent)",
@@ -4050,6 +4426,14 @@
   "w-paangarau": {
     "maori": "pāngarau",
     "english": "mathematics",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-paani": {
+    "maori": "pāni",
+    "english": "burger bun",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4138,6 +4522,14 @@
   "w-pahi": {
     "maori": "pahi",
     "english": "bus",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-pahunga-paraaoa": {
+    "maori": "pahunga parāoa",
+    "english": "breadcrumbs",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4311,12 +4703,52 @@
     "note": "",
     "validated": true
   },
+  "w-paparika": {
+    "maori": "paparika",
+    "english": "paprika",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-para": {
+    "maori": "para",
+    "english": "to play, game",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-paraaoa": {
     "maori": "parāoa",
     "english": "bread, flour",
     "example": "Homai he parāoa.",
     "exampleTranslation": "Give me some bread.",
     "note": "",
+    "validated": true
+  },
+  "w-paraaoa-piirori": {
+    "maori": "parāoa pīrori",
+    "english": "bread roll",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-parai": {
+    "maori": "parai",
+    "english": "1) to fry\n\n2)frying pan",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-paraihetia": {
+    "maori": "paraihetia",
+    "english": "brush",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "paraihe + passive suffix \"tia\"",
     "validated": true
   },
   "w-parakuihi": {
@@ -4354,6 +4786,14 @@
   "w-parirau": {
     "maori": "parirau",
     "english": "wing",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-parirau-heihei": {
+    "maori": "parirau heihei",
+    "english": "chicken wing",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4402,6 +4842,30 @@
   "w-pau": {
     "maori": "pau",
     "english": "to be consumed, used up completely, all gone",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-paura-aniana": {
+    "maori": "paura aniana",
+    "english": "onion powder",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-paura-hirikakaa": {
+    "maori": "paura hirikakā",
+    "english": "chilli powder",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-paura-kaariki": {
+    "maori": "paura kāriki",
+    "english": "garlic powder",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4519,9 +4983,41 @@
     "note": "",
     "validated": true
   },
+  "w-penupenuhia": {
+    "maori": "penupenuhia",
+    "english": "mash",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "penupenu + passive suffix \"hia\"",
+    "validated": true
+  },
   "w-pepa": {
     "maori": "pepa",
     "english": "like this, near speaker",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-pepa-1": {
+    "maori": "pepa",
+    "english": "pepper",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-pepakonu": {
+    "maori": "pepakonu",
+    "english": "aluminium foil",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-pepatunu": {
+    "maori": "pepatunu",
+    "english": "baking paper",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4543,6 +5039,14 @@
     "note": "",
     "validated": true
   },
+  "w-piini-keene": {
+    "maori": "pīni kēne",
+    "english": "canned beans",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-piipii": {
     "maori": "pīpī",
     "english": "chick, baby",
@@ -4554,6 +5058,14 @@
   "w-piirangi": {
     "maori": "pīrangi",
     "english": "to want, desire",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-piitiki": {
+    "maori": "pītiki",
+    "english": "chickpea",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4655,6 +5167,22 @@
     "note": "",
     "validated": true
   },
+  "w-pokepoke": {
+    "maori": "pokepoke",
+    "english": "mixture",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-pokepokea": {
+    "maori": "pokepokea",
+    "english": "knead",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "pokepoke + passive suffix \"a\"",
+    "validated": true
+  },
   "w-pono": {
     "maori": "pono",
     "english": "true, faithful",
@@ -4666,6 +5194,14 @@
   "w-poo": {
     "maori": "pō",
     "english": "night",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-poohaa-aparau": {
+    "maori": "pōhā aparau",
+    "english": "flaky pastry",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4701,6 +5237,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
+    "validated": true
+  },
+  "w-pooua": {
+    "maori": "pōua",
+    "english": "grandfather",
+    "example": "Kō Wiremu tōku pōua.",
+    "exampleTranslation": "Wiremu is my grandfather.",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   },
   "w-poouri": {
@@ -4802,6 +5346,14 @@
   "w-puehu": {
     "maori": "puehu",
     "english": "dust",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puehu-paraaoa": {
+    "maori": "puehu parāoa",
+    "english": "flour",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -5047,6 +5599,14 @@
     "note": "",
     "validated": true
   },
+  "w-puuwhakaranu": {
+    "maori": "pūwhakaranu",
+    "english": "blender",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-raa": {
     "maori": "rā",
     "english": "1) day\n2) sun\n3) there (location)",
@@ -5183,6 +5743,14 @@
     "note": "",
     "validated": true
   },
+  "w-rara": {
+    "maori": "rara",
+    "english": "bed",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-raro": {
     "maori": "raro",
     "english": "under, beneath",
@@ -5223,6 +5791,14 @@
     "note": "",
     "validated": true
   },
+  "w-rauangi": {
+    "maori": "rauangi",
+    "english": "to be tender",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-rawa": {
     "maori": "rawa",
     "english": "quite, very",
@@ -5247,6 +5823,14 @@
     "note": "",
     "validated": true
   },
+  "w-reihuka-itiiti": {
+    "maori": "reihuka itiiti",
+    "english": "low lactose",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-reira": {
     "maori": "reira",
     "english": "there (previously mentioned)",
@@ -5266,6 +5850,14 @@
   "w-rekareka": {
     "maori": "rekareka",
     "english": "pleasant, delighted",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-renga": {
+    "maori": "renga",
+    "english": "turmeric",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -5487,6 +6079,14 @@
     "note": "Shortened form of \"roto i te/ngā\" in eastern dialect.\nSee [[ref|locative nouns|tuwahi]].",
     "validated": true
   },
+  "w-roohimere": {
+    "maori": "rōhimere",
+    "english": "rosemary",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-roopuu": {
     "maori": "rōpū",
     "english": "group",
@@ -5631,6 +6231,14 @@
     "note": "singular ā category possession (variant of tāu)",
     "validated": true
   },
+  "w-taahorotia": {
+    "maori": "tāhorotia",
+    "english": "pour",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "tāhoro + passive suffix \"tia\"",
+    "validated": true
+  },
   "w-taahuhu": {
     "maori": "tāhuhu",
     "english": "ridgepole of a house",
@@ -5645,6 +6253,22 @@
     "example": "",
     "exampleTranslation": "",
     "note": "tā + passive suffix -ia",
+    "validated": true
+  },
+  "w-taaima": {
+    "maori": "tāima",
+    "english": "thyme",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-taakaia": {
+    "maori": "tākaia",
+    "english": "wrap",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "tākai + passive suffix \"a\"",
     "validated": true
   },
   "w-taakaro": {
@@ -5666,6 +6290,14 @@
   "w-taakuta": {
     "maori": "tākuta",
     "english": "doctor",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-taamure": {
+    "maori": "tāmure",
+    "english": "snapper",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -5709,6 +6341,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
+    "validated": true
+  },
+  "w-taapuia": {
+    "maori": "tāpuia",
+    "english": "set aside",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "tāpui + passive suffix \"a\"",
     "validated": true
   },
   "w-taara": {
@@ -5757,6 +6397,38 @@
     "example": "Ka haere tāua ki te kāinga.",
     "exampleTranslation": "You and I will go home.",
     "note": "This is the tūkapi kaukauawhipare kiritūnei takirua (dual first person inclusive [[ref|pronoun|tukapi]]) in te reo Māori.",
+    "validated": true
+  },
+  "w-taaua-2": {
+    "maori": "tāua",
+    "english": "grandmother",
+    "example": "Ko Ngaire tōku tāua.",
+    "exampleTranslation": "Ngaire is my grandmother.",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-taauhiuhitia": {
+    "maori": "tāuhiuhitia",
+    "english": "sprinkle",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "tāuhiuhi + passive suffix \"tia\"",
+    "validated": true
+  },
+  "w-taauti-mai": {
+    "maori": "tāuti mai",
+    "english": "welcome, come hither",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-taawhiuwhiuhia": {
+    "maori": "tāwhiuwhiuhia",
+    "english": "beat/whisk",
+    "example": "Tāwhiuwhiuhia ngā hēki",
+    "exampleTranslation": "Beat the eggs",
+    "note": "tāwhiuwhiu + passive suffix hia",
     "validated": true
   },
   "w-tae": {
@@ -5829,6 +6501,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
+    "validated": true
+  },
+  "w-taina": {
+    "maori": "taina",
+    "english": "younger sibling, same sex",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu variation of teina.",
     "validated": true
   },
   "w-taitama": {
@@ -5999,6 +6679,14 @@
     "note": "",
     "validated": true
   },
+  "w-taotao": {
+    "maori": "taotao",
+    "english": "fingers, toes",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-tapa": {
     "maori": "tapa",
     "english": "1) side, edge\n2) to call, name",
@@ -6021,6 +6709,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "tapahi + passive suffix -a",
+    "validated": true
+  },
+  "w-tapatapahia": {
+    "maori": "tapatapahia",
+    "english": "cut into pieces",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "tapatapahi + passive suffix \"a\"",
     "validated": true
   },
   "w-tapu": {
@@ -6335,6 +7031,22 @@
     "note": "",
     "validated": true
   },
+  "w-tiihake": {
+    "maori": "tīhake",
+    "english": "pot, dish, bowl",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-tiihi": {
+    "maori": "tīhi",
+    "english": "cheese",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-tiikina": {
     "maori": "tīkina",
     "english": "to be fetched",
@@ -6381,6 +7093,22 @@
     "example": "",
     "exampleTranslation": "",
     "note": "Plural form of tipuna.",
+    "validated": true
+  },
+  "w-tiitaritarihia": {
+    "maori": "tītaritarihia",
+    "english": "shred",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "tītaritari + passive suffix \"hia\"",
+    "validated": true
+  },
+  "w-tiitipi": {
+    "maori": "tītipi",
+    "english": "(potato) fries",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-tika": {
@@ -6524,6 +7252,14 @@
     "english": "to look at",
     "example": "Titiro mai.",
     "exampleTranslation": "Look here.",
+    "note": "",
+    "validated": true
+  },
+  "w-tiu": {
+    "maori": "tiu",
+    "english": "stew, casserole",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -7015,6 +7751,14 @@
     "note": "",
     "validated": true
   },
+  "w-tunua": {
+    "maori": "tunua",
+    "english": "cook/bake",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "tunu + passive suffix \"a\"",
+    "validated": true
+  },
   "w-tupu": {
     "maori": "tupu",
     "english": "to grow, develop",
@@ -7053,6 +7797,14 @@
     "example": "Tū ake.",
     "exampleTranslation": "Stand up.",
     "note": "",
+    "validated": true
+  },
+  "w-tuukeke": {
+    "maori": "tūkeke",
+    "english": "lazy, tired, ill",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   },
   "w-tuumanako": {
@@ -7359,6 +8111,22 @@
     "note": "Has multiple meanings including water and the [[ref|interrogative|tupatai]] 'who?\"",
     "validated": true
   },
+  "w-wai-raima": {
+    "maori": "wai raima",
+    "english": "lime juice",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-wai-reemana": {
+    "maori": "wai rēmana",
+    "english": "lemon juice",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-waiariki": {
     "maori": "waiariki",
     "english": "hot spring",
@@ -7407,12 +8175,36 @@
     "note": "",
     "validated": true
   },
+  "w-wairenga-heihei": {
+    "maori": "wairenga heihei",
+    "english": "chicken stock",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-wairenga-piiwhi": {
+    "maori": "wairenga pīwhi",
+    "english": "beef stock",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-wairua": {
     "maori": "wairua",
     "english": "spirit",
     "example": "",
     "exampleTranslation": "",
     "note": "",
+    "validated": true
+  },
+  "w-waitaawharatia": {
+    "maori": "waitāwharatia",
+    "english": "flavour, season",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "waitāwhara + passive suffix \"tia\"",
     "validated": true
   },
   "w-waka": {
@@ -7439,12 +8231,28 @@
     "note": "",
     "validated": true
   },
+  "w-warowaihaa-itiiti": {
+    "maori": "warowaihā itiiti",
+    "english": "low carb",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-waru": {
     "maori": "waru",
     "english": "eight",
     "example": "",
     "exampleTranslation": "",
     "note": "",
+    "validated": true
+  },
+  "w-watua": {
+    "maori": "watua",
+    "english": "give away",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   },
   "w-wawata": {
@@ -7509,6 +8317,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
+    "validated": true
+  },
+  "w-weruweru": {
+    "maori": "weruweru",
+    "english": "clothing",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
     "validated": true
   },
   "w-whaa": {
@@ -7695,6 +8511,14 @@
     "note": "whakahoki + passive suffix -a",
     "validated": true
   },
+  "w-whakahokia-1": {
+    "maori": "whakahokia",
+    "english": "put back",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "whakahoki + passive suffix \"a\"",
+    "validated": true
+  },
   "w-whakairo": {
     "maori": "whakairo",
     "english": "to carve, a carving",
@@ -7749,6 +8573,22 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
+    "validated": true
+  },
+  "w-whakamaaturutia": {
+    "maori": "whakamāturutia",
+    "english": "drizzle",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "whakamāturu + passive suffix \"tia\"",
+    "validated": true
+  },
+  "w-whakamahanatia": {
+    "maori": "whakamahanatia",
+    "english": "heat up",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "whakamahana + passive suffix \"tia\"",
     "validated": true
   },
   "w-whakamahi": {
@@ -7911,12 +8751,36 @@
     "note": "",
     "validated": true
   },
+  "w-whakapuukara": {
+    "maori": "whakapūkara",
+    "english": "marinate, marinade",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-whakaranumia": {
+    "maori": "whakaranumia",
+    "english": "stir, mix",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "whakaranu + passive suffix \"mia\"",
+    "validated": true
+  },
   "w-whakararo": {
     "maori": "whakararo",
     "english": "downwards",
     "example": "",
     "exampleTranslation": "",
     "note": "",
+    "validated": true
+  },
+  "w-whakarewaia": {
+    "maori": "whakarewaia",
+    "english": "melt",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "whakarewai + passive suffix \"a\"",
     "validated": true
   },
   "w-whakarite": {
@@ -7965,6 +8829,14 @@
     "example": "He whakataetae tēnei.",
     "exampleTranslation": "This is a competition.",
     "note": "",
+    "validated": true
+  },
+  "w-whakatahaia": {
+    "maori": "whakatahaia",
+    "english": "put to one side",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "whakataha + passive suffix \"a\"",
     "validated": true
   },
   "w-whakatakoto": {
@@ -8103,6 +8975,22 @@
     "note": "",
     "validated": true
   },
+  "w-whare-kuuhaa": {
+    "maori": "whare kūhā",
+    "english": "trousers",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-whareama": {
+    "maori": "whareama",
+    "english": "hat",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
   "w-wharekura": {
     "maori": "wharekura",
     "english": "house of learning, school",
@@ -8197,222 +9085,6 @@
     "example": "Kua whiwhi ia i te taonga.",
     "exampleTranslation": "He has received the prize.",
     "note": "",
-    "validated": true
-  },
-  "w-atamai": {
-    "maori": "atamai",
-    "english": "clever",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-haakoro": {
-    "maori": "hākoro",
-    "english": "father",
-    "example": "Ko Te Rā tōku hākoro.",
-    "exampleTranslation": "Te Rā is my father.",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-haakui": {
-    "maori": "hākui",
-    "english": "mother",
-    "example": "Kō Meri tōku hākui.",
-    "exampleTranslation": "Meri is my mother.",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-hiamo": {
-    "maori": "hiamo",
-    "english": "excited, thrilled",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-huanui": {
-    "maori": "huanui",
-    "english": "path, road",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-hutawa": {
-    "maori": "hutawa",
-    "english": "legs",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-kuuaha": {
-    "maori": "kūaha",
-    "english": "door",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-kai-1": {
-    "maori": "kai",
-    "english": "(particle) at, on, in (of present position or time)",
-    "example": "Kai te pēhea koe?",
-    "exampleTranslation": "How are you?",
-    "note": "Kāi Tahu variation of kei",
-    "validated": true
-  },
-  "w-kauraka": {
-    "maori": "kauraka",
-    "english": "don't",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu variation of kaua.",
-    "validated": true
-  },
-  "w-kokomo": {
-    "maori": "kokomo",
-    "english": "shirt",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-maahita": {
-    "maori": "māhita",
-    "english": "teacher",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-mahiti": {
-    "maori": "mahiti",
-    "english": "used up, gone, consumed",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-naaia": {
-    "maori": "nāia",
-    "english": "here it is",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-noonatahiraa": {
-    "maori": "nōnatahirā",
-    "english": "the day before yesterday",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-naki": {
-    "maori": "naki",
-    "english": "cat",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-pooua": {
-    "maori": "pōua",
-    "english": "grandfather",
-    "example": "Kō Wiremu tōku pōua.",
-    "exampleTranslation": "Wiremu is my grandfather.",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-para": {
-    "maori": "para",
-    "english": "to play, game",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-rara": {
-    "maori": "rara",
-    "english": "bed",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-tuukeke": {
-    "maori": "tūkeke",
-    "english": "lazy, tired, ill",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-taaua-2": {
-    "maori": "tāua",
-    "english": "grandmother",
-    "example": "Ko Ngaire tōku tāua.",
-    "exampleTranslation": "Ngaire is my grandmother.",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-taauti-mai": {
-    "maori": "tāuti mai",
-    "english": "welcome, come hither",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-taina": {
-    "maori": "taina",
-    "english": "younger sibling, same sex",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu variation of teina.",
-    "validated": true
-  },
-  "w-taotao": {
-    "maori": "taotao",
-    "english": "fingers, toes",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-watua": {
-    "maori": "watua",
-    "english": "give away",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-weruweru": {
-    "maori": "weruweru",
-    "english": "clothing",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-whare-kuuhaa": {
-    "maori": "whare kūhā",
-    "english": "trousers",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
-    "validated": true
-  },
-  "w-whareama": {
-    "maori": "whareama",
-    "english": "hat",
-    "example": "",
-    "exampleTranslation": "",
-    "note": "Kāi Tahu dialect.",
     "validated": true
   }
 }

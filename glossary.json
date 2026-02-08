@@ -652,10 +652,10 @@
     "validated": true
   },
   {
-    "id": "verb-classification",
-    "term": "Verb Classification",
+    "id": "verb-taxonomy-background",
+    "term": "Verb Taxonomy Background",
     "maoriTerm": "",
-    "shortDefinition": "The categorization of te reo Māori verbs into different classes based on their grammatical behavior.",
+    "shortDefinition": "The categorization of te reo Māori verbs into different classes based on their grammatical behaviour over time.",
     "validated": true,
     "elements": [
       {
