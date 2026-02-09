@@ -100,14 +100,10 @@
                   "type": "slot",
                   "id": "slot-1",
                   "options": [
-                    "I haere a Hone ki te mākete",
-                    "I haere a Hone ki te whare pukapuka",
-                    "I haere a Hone ki te puna kaukau"
+                    "I haere a Hone ki te mākete ",
+                    "I haere a Hone ki te whare pukapuka ",
+                    "I haere a Hone ki te puna kaukau "
                   ]
-                },
-                {
-                  "type": "text",
-                  "content": " "
                 }
               ]
             },
@@ -231,7 +227,7 @@
             "phrase": [
               {
                 "text": "E oma ana",
-                "explanation": "This is a verb phrase ([[ref|kīanga tūmahi|kianga-tumahi]]) with the [[ref|continuous tense marker|pumahi]] {{e...ana}} and the verb {{oma}}. As the predicate, it communicates that the subject is running.",
+                "explanation": "This is a verb phrase ([[ref|kīanga tūmahi|kiianga-tuumahi]]) with the [[ref|continuous tense marker|pumahi]] {{e...ana}} and the verb {{oma}}. As the predicate, it communicates that the subject is running.",
                 "translation": "is running",
                 "structure": {
                   "preposed": "E",
@@ -241,7 +237,7 @@
               },
               {
                 "text": "te rāpeti",
-                "explanation": "This is a proper noun phrase ([[ref|kīanga tūingoa|kianga-tuingoa]]) with the definite article {{te}} and the proper noun {{rāpeti}}. It is the subject of the sentence.",
+                "explanation": "This is a proper noun phrase ([[ref|kīanga tūingoa|kiianga-tuuingoa]]) with the definite article {{te}} and the proper noun {{rāpeti}}. It is the subject of the sentence.",
                 "translation": "the rabbit",
                 "structure": {
                   "preposed": "te",
@@ -335,7 +331,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "Although there are many ways of describing different phrase types, they can broadly be broken up into [[ref\\|kīanga tūmahi\\|kianga-tumahi]] (verb phrases), [[ref\\|kīanga tūingoa\\|kianga-tuingoa]] (noun phrases) and [[ref\\|kīanga pūhono\\|kianga-puhono]] (prepositional phrases).\n\nVerb phrases are any phrase where the head word functions as a verb. They include [[ref\\|pūmahi\\|pumahi]] (verbal particles) and commonly act as the predicate of a clause.\n\nNoun phrases are any phrase where the head word functions as a noun. They include [[ref\\|pūmau\\|pumau]] (determiners) as particles and commonly act as the subject of a clause.\n\nPrepositional phrases are phrases which are introduced by [[ref\\|pūhono\\|puhono]] (prepositions). They are used for a variety of purposes to add additional context to a clause."
+          "content": "Although there are many ways of describing different phrase types, they can broadly be broken up into [[ref\\|kīanga tūmahi\\|kiianga-tuumahi]] (verb phrases), [[ref\\|kīanga tūingoa\\|kiianga-tuuingoa]] (noun phrases) and [[ref\\|kīanga pūhono\\|kiianga-puuhono]] (prepositional phrases).\n\nVerb phrases are any phrase where the head word functions as a verb. They include [[ref\\|pūmahi\\|pumahi]] (verbal particles) and commonly act as the predicate of a clause.\n\nNoun phrases are any phrase where the head word functions as a noun. They include [[ref\\|pūmau\\|pumau]] (determiners) as particles and commonly act as the subject of a clause.\n\nPrepositional phrases are phrases which are introduced by [[ref\\|pūhono\\|puhono]] (prepositions). They are used for a variety of purposes to add additional context to a clause."
         },
         {
           "type": "interactive-sentence",

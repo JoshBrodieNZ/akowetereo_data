@@ -156,7 +156,7 @@
     "english": "there, by you",
     "example": "Ānā, kei a koe.",
     "exampleTranslation": "There, it's with you.",
-    "note": "Sometimes 'anā' is used instead. Refer to [[ref|Ānei, ānā, arā|anei-ana-ara]] for more detail.",
+    "note": "Sometimes 'anā' is used instead. Refer to [[ref|Ānei, ānā, arā|aanei-aanaa-aaraa]] for more detail.",
     "validated": true
   },
   "w-aanei": {
@@ -164,7 +164,7 @@
     "english": "here (by me)",
     "example": "Anei tō pukapuka.",
     "exampleTranslation": "Here is your book.",
-    "note": "Sometimes \"anei\" is used instead. Refer to [[ref|Ānei, ānā, arā|anei-ana-ara]] for more detail.",
+    "note": "Sometimes \"anei\" is used instead. Refer to [[ref|Ānei, ānā, arā|aanei-aanaa-aaraa]] for more detail.",
     "validated": true
   },
   "w-aapoopoo": {
@@ -404,7 +404,7 @@
     "english": "again, also, too, self",
     "example": "Haere mai anō.",
     "exampleTranslation": "Come again.",
-    "note": "Has various meanings including repetition or addition. See [[ref|anō|ano]].",
+    "note": "Has various meanings including repetition or addition. See [[ref|anō|anoo]].",
     "validated": true
   },
   "w-ao": {
@@ -444,7 +444,7 @@
     "english": "over there, that is",
     "example": "Arā te whare.",
     "exampleTranslation": "There is the house.",
-    "note": "Indicates something at a distance from both speaker and listener.\n\nSee [[ref|ānei, ānā, arā|anei-ana-ara]].",
+    "note": "Indicates something at a distance from both speaker and listener.\n\nSee [[ref|ānei, ānā, arā|aanei-aanaa-aaraa]].",
     "validated": true
   },
   "w-ariki": {
@@ -2300,7 +2300,7 @@
     "english": "already, instead",
     "example": "Kua kai kē au.",
     "exampleTranslation": "I have already eaten.",
-    "note": "See [[ref|kē|ke]]",
+    "note": "See [[ref|kē|kee]]",
     "validated": true
   },
   "w-keehua": {
