@@ -15,8 +15,7 @@
     "tuingoa": [
       "common-nouns",
       "personal-nouns",
-      "tuwahi",
-      "tukapi"
+      "tuwahi"
     ],
     "tumahi": [
       "tumahi-whiti",
@@ -28,9 +27,7 @@
     ],
     "tuahua": [],
     "tupatai": [],
-    "tukapi": [
-      "demonstrative-pronouns"
-    ],
+    "tukapi": [],
     "kiianga": [
       "kiianga-tuuingoa",
       "kiianga-tuumahi",
@@ -44,7 +41,11 @@
       "rerepātai",
       "rerewhakahau",
       "rerepaatai",
-      "actor-emphatic"
+      "rerehaanguu",
+      "actor-emphatic",
+      "he",
+      "kei",
+      "ko"
     ],
     "aho": [
       "predicate-subject-comment"
@@ -117,11 +118,6 @@
       "t-class-determiners",
       "tukapi-riro"
     ],
-    "sentence-structures": [
-      "he",
-      "kei",
-      "ko"
-    ],
     "other-particles": [
       "anake",
       "anoo",
@@ -140,6 +136,9 @@
       "puu-tautuhi",
       "puunoa",
       "puumoko"
+    ],
+    "personal-nouns": [
+      "tukapi"
     ]
   },
   "content": [
@@ -454,7 +453,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "Nouns are the words we use to describe things, people, animals and ideas. Nouns are sometimes separated into:\n\n* {{tūingoa ōkiko}} (concrete nouns) for material things like cats, trees, tables\n* {{tūingoa tūrehurehu}} (abstract nouns) for intangible things like ideas, emotions, concepts\n* {{tūmoko}} (proper nouns) for names of people, places, iwi, waka and the months"
+          "content": "Nouns are the words we use to describe things, people, animals and ideas. They are the words we use for naming things. Nouns are sometimes separated into:\n\n* {{tūingoa ōkiko}} (concrete nouns) for material things like cats, trees, tables\n* {{tūingoa tūrehurehu}} (abstract nouns) for intangible things like ideas, emotions, concepts\n* {{tūmoko}} (proper nouns) for names of people, places, iwi, waka and the months"
         },
         {
           "type": "example",
@@ -532,7 +531,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "Pronouns are words such as \"he\", \"she\" or \"them\" that take the place of nouns or noun phrases. Tūkapi (pronouns) in te reo Māori are an important class of [[ref|tumu|tumu]] (base words) that communicate a significant amount of contextual information within a compact form. They convey different information than those in English.\n\nThey distinguish:\n\n1. Person - Whether you're talking about:\n\n* {{Kiritūnei}} (first person) - the speaker - \"I/we\"\n* {{Kiritūnei}} (second person) - the listener - \"you\"\n* {{Kiritūrā}} (third person) - someone else - \"he/she/they\"\n\n2. Number - Whether you're referring to:\n\n* {{Takitahi}} (singular) - one person\n* {{Takirua}} (dual) - two people\n* {{Takitini}} (plural) - three or more people\n\n3. Inclusivity/Exclusivity: For first person dual and plural, whether:\n\n* {{Kauawhi}} (inclusive) - including the listener (\"you and I\"/\"you and us\")\n* {{Kaupare}} (exclusive) - excluding the listener (\"someone else and I\"/\"others and I\")\n\nUsing these terms to create the reo Māori term for the first person exclusive dual pronoun as an example would give you: {{tūkapi kaupare kiritūnei takirua}}.\n\nThis creates a more detailed pronoun system than in English. The full set of personal pronouns is:\n\n|  | takitahi (singular) | takirua (dual) | takitini (plural) |\n| --- | --- | --- | --- |\n| tūkapi kauawhi kiritūnei *first person inclusive pronoun* |  | [[word|tāua|w-taaua]] | [[word|tātou|w-taatou]] |\n| tūkapi kaupare kiritūnei *first person exclusive pronoun* | [[word|au|w-au]], [[word|ahau|w-ahau]] | [[word|māua|w-maaua]] | [[word|mātou|w-maatou]] |\n| tūkapi kiritūnā second person pronoun | [[word|koe|w-koe]] | [[word|kōrua|w-koorua]] | [[word|koutou|w-koutou]] |\n| tūkapi kiritūrā third person pronoun | [[word|ia|w-ia]] | [[word|rāua|w-raaua]] | [[word|rātou|w-raatou]] |\n"
+          "content": "Pronouns are words such as \"he\", \"she\" or \"them\" that take the place of nouns or noun phrases. Tūkapi (pronouns) in te reo Māori are an important class of [[ref\\|tumu\\|tumu]] (base words) that communicate a significant amount of contextual information within a compact form. They convey different information than those in English.\n\nThey distinguish:\n\n1. Person - Whether you're talking about:\n\n* {{Kiritūnei}} (first person) - the speaker - \"I/we\"\n* {{Kiritūnei}} (second person) - the listener - \"you\"\n* {{Kiritūrā}} (third person) - someone else - \"he/she/they\"\n\n2. Number - Whether you're referring to:\n\n* {{Takitahi}} (singular) - one person\n* {{Takirua}} (dual) - two people\n* {{Takitini}} (plural) - three or more people\n\n3. Inclusivity/Exclusivity: For first person dual and plural, whether:\n\n* {{Kauawhi}} (inclusive) - including the listener (\"you and I\"/\"you and us\")\n* {{Kaupare}} (exclusive) - excluding the listener (\"someone else and I\"/\"others and I\")\n\nUsing these terms to create the reo Māori term for the first person exclusive dual pronoun as an example would give you: {{tūkapi kaupare kiritūnei takirua}}.\n\nThis creates a more detailed pronoun system than in English. The full set of personal pronouns is:\n\n|  | takitahi (singular) | takirua (dual) | takitini (plural) |\n| --- | --- | --- | --- |\n| tūkapi kauawhi kiritūnei *first person inclusive pronoun* |  | [[word\\|tāua\\|w-taaua]] | [[word\\|tātou\\|w-taatou]] |\n| tūkapi kaupare kiritūnei *first person exclusive pronoun* | [[word\\|au\\|w-au]], [[word\\|ahau\\|w-ahau]] | [[word\\|māua\\|w-maaua]] | [[word\\|mātou\\|w-maatou]] |\n| tūkapi kiritūnā second person pronoun | [[word\\|koe\\|w-koe]] | [[word\\|kōrua\\|w-koorua]] | [[word\\|koutou\\|w-koutou]] |\n| tūkapi kiritūrā third person pronoun | [[word\\|ia\\|w-ia]] | [[word\\|rāua\\|w-raaua]] | [[word\\|rātou\\|w-raatou]] |\n"
         },
         {
           "type": "example",
@@ -557,6 +556,10 @@
           "maori": "Ka haere mātou ki te hui.",
           "english": "We (not including you) will go to the meeting.",
           "explanation": "The pronoun \"mātou\" is first person plural exclusive, meaning \"we\" excluding the person being spoken to."
+        },
+        {
+          "type": "text",
+          "content": "## Demonstrative Pronouns\n\nThere is a subclass of pronouns formed when we use the [[ref\\|T-Class Determiners\\|t-class-determiners]] in the position of a pronoun."
         }
       ],
       "relatedTerms": [
@@ -583,22 +586,6 @@
       ],
       "relatedTerms": [
         "tukapi"
-      ]
-    },
-    {
-      "id": "demonstrative-pronouns",
-      "term": "Demonstrative Pronouns",
-      "maoriTerm": "",
-      "shortDefinition": "Demonstrative pronouns communicate location or position relative to the speaker and listener",
-      "validated": false,
-      "elements": [
-        {
-          "type": "text",
-          "content": ""
-        }
-      ],
-      "relatedTerms": [
-        "demonstrative-determiners"
       ]
     },
     {
@@ -1323,12 +1310,12 @@
       "id": "rerenga",
       "term": "Sentences",
       "maoriTerm": "Rerenga",
-      "shortDefinition": "Complete grammatical units of speech or writing in te reo Māori.",
-      "validated": false,
+      "shortDefinition": "Complete grammatical units of speech or writing.",
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": ""
+          "content": "A sentence is a complete unit of communication. Functionally, it is an utterance that contains at least one [[ref\\|Predicate\\|predicate-subject-comment]](the main statement or action). It can consist of a single [[ref\\|clause\\|aho]] in the case of a Simple Sentence or {{reremāmā}} which generally expresses one idea, or multiple clauses in the case of a Complex Sentence or {{rerepūhui}} to link together several related pieces of information.\n\nAn example of a simple sentence might be: {{he kaiako ia}} (he/she is a teacher)\n\nAn example of a complex sentence might be: {{kia oti te mahi, ka hoki tātou}} (when the work is done, we will go home)\n\nThere are a number of other sentence related words that you might come across in your study:\n\n* A {{rerehāoho}} is an Active Sentence, a sentence which uses the active [[ref\\|voice\\|reo]] or {{reo hāoho}}. This is a sentence where the agent is the subject of the sentence as in \"Sarah threw the ball.\"\n* A {{rerehāngū}} is a [[ref\\|Passive Sentence\\|rerehaanguu]], a sentence which uses the passive [[ref\\|voice\\|reo]] or {{reo hāngū}}. This is a sentence where the subject of the sentence is the receiver of the action as in \"the ball was thrown by Sarah\".\n* You might see {{reremahi}} used to describe verbal sentences focused on describing actions and {{reremahi āhua}} to describe sentences focused on using stative verbs to describe states of being."
         }
       ],
       "relatedTerms": [
@@ -1649,13 +1636,7 @@
       "elements": [
         {
           "type": "text",
-          "content": ""
-        },
-        {
-          "type": "example",
-          "maori": "Haere ki te moe!",
-          "english": "Go to sleep!",
-          "explanation": "Direct command using the base verb \"haere\" (go) with a directional phrase."
+          "content": "Command sentences give a direction or instruction to someone. The structure of the command depends on the type of base word being used.\n\nIf the base word is an [[ref\\|Intransitive Verbs\\|tumahi-poro]], the command is structured with the verb as the nucleus of the first phrase. If the verb and any particles in the phrase (other than rā which is not counted) is longer than two [[ref\\|morae\\|mora]], the phrase is introduced with [[ref\\|e\\|puumahi_e]]."
         },
         {
           "type": "example",
@@ -1665,33 +1646,19 @@
         },
         {
           "type": "example",
-          "maori": "Horoia ngā rīhi!",
-          "english": "Wash the dishes!",
-          "explanation": "Passive command using \"horoia\" (the passive form of \"horoi\" - wash)."
+          "maori": "Haere ki waho!",
+          "english": "Go outside!",
+          "explanation": "The word {{haere}} is longer than two morae, so it is used without a verbal particle."
+        },
+        {
+          "type": "text",
+          "content": "If the base word is a [[ref\\|Transitive Verbs\\|tumahi-whiti]] and no direct object is specified, the command can be structured the same as a command with an intransitive verb:"
         },
         {
           "type": "example",
-          "maori": "Me hoki koe ki te kāinga ināianei.",
-          "english": "You should return home now.",
-          "explanation": "Softer command using \"me\" to suggest what should be done rather than giving a direct order."
-        },
-        {
-          "type": "example",
-          "maori": "Kia māhaki!",
-          "english": "Be calm!",
-          "explanation": "Command using \"kia\" with a stative verb \"māhaki\" (calm)."
-        },
-        {
-          "type": "example",
-          "maori": "Whakarongo mai koa.",
-          "english": "Please listen.",
-          "explanation": "Polite request using \"koa\" (please) to soften the command."
-        },
-        {
-          "type": "example",
-          "maori": "Me haere tātou ki te tākaro.",
-          "english": "Let's go play.",
-          "explanation": "Inclusive command using \"tātou\" (we, including the listener) to make it a group suggestion."
+          "maori": "E kai!",
+          "english": "Eat!",
+          "explanation": ""
         }
       ],
       "relatedTerms": [
@@ -2125,19 +2092,6 @@
     {
       "id": "common-nouns",
       "term": "Common Nouns",
-      "maoriTerm": "",
-      "shortDefinition": "",
-      "validated": false,
-      "elements": [
-        {
-          "type": "text",
-          "content": "Enter the main definition and explanation here."
-        }
-      ]
-    },
-    {
-      "id": "sentence-structures",
-      "term": "Specific Sentence Structures",
       "maoriTerm": "",
       "shortDefinition": "",
       "validated": false,
@@ -2633,12 +2587,42 @@
       "id": "kupu",
       "term": "Words",
       "maoriTerm": "Kupu",
+      "shortDefinition": "The smallest grammatical unit.",
+      "validated": true,
+      "elements": [
+        {
+          "type": "text",
+          "content": "In te reo Māori, words generally fall into the category of being either [[ref\\|Base Words\\|tumu]] or [[ref\\|Particles\\|punga]]. There are a number of different ways to think about the differences between these words. Conceptually, base words describe things that are part of our experience: objects in the world, emotions, actions that can be taken. In contrast, particles are the \"little words\" that provide structure to sentences.\n\nGrammatically, base words are words which occupy the nucleus of a [[ref\\|Phrase\\|kiianga]] while particles are the words which occupy the peripheries.\n\nDifferent authors of grammar textbooks take different approaches to cataloguing the behaviours of words. This resource will not align perfectly with any specific text on the subject, but will pick and choose from a variety of sources. In particular, it will take the following positions:\n\n* Te reo Māori does not have a word class for [[ref\\|Adjectives\\|tuahua]]. It has sub-classes of nouns and verbs which can be used in a similar way to how adjectives are used in English but which are not a distinct adjective class.\n* There are a number of words with the same spelling and pronunciation. In many cases they have related meanings. One example is the word [[word\\|kai\\|w-kai]]. {{Kai}} can be used as a verb meaning \"to eat\" but it can also be used as a noun meaning \"food\". Additionally, there is a verbal particle {{kai}} which is a variant of {{kei}} used in some dialects. Some authors take the view that some verbs can be used as nouns (or vice-versa). Others take the view that words such as {{kai}} belong to a \"universals\" class of words with multiple functions. This resource will take the position that {{kai}} (noun), {{kai}} (verb) and {{kai}} (verbal particle) are all separate words, even though some of their meanings are related."
+        },
+        {
+          "type": "note",
+          "content": "Harlow (2001) says:\n\n> Further, there are a number of cases of **homophony**, pairs of words which are identical in form, but which have different, though often related, meanings and belong to different parts of speech. For example, *patu* meaning 'strike, kill' is a verb, but *patu* 'kind of weapon, club' is a noun; *kai* 'eat' is a verb, *kai* 'food' is a noun."
+        }
+      ]
+    },
+    {
+      "id": "reo",
+      "term": "Voice",
+      "maoriTerm": "Reo",
       "shortDefinition": "",
       "validated": false,
       "elements": [
         {
           "type": "text",
-          "content": "In te reo Māori, words generally fall into the category of being either [[ref\\|Base Words\\|tumu]] or [[ref\\|Particles\\|punga]]. There are a number of different ways to think about the differences between these words. Conceptually, base words describe things that are part of our experience: objects in the world, emotions, actions that can be taken. In contrast, particles are the \"little words\" that provide structure to sentences.\n\nGrammatically, base words are words which occupy the nucleus of a [[ref\\|Phrase\\|kiianga]] while particles are the words which occupy the periperhies."
+          "content": "Enter the main definition and explanation here."
+        }
+      ]
+    },
+    {
+      "id": "rerehaanguu",
+      "term": "Passive Sentences",
+      "maoriTerm": "Rerehāngū",
+      "shortDefinition": "",
+      "validated": false,
+      "elements": [
+        {
+          "type": "text",
+          "content": "Enter the main definition and explanation here."
         }
       ]
     }
