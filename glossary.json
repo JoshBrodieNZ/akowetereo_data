@@ -7,20 +7,20 @@
       "rerenga"
     ],
     "tumu": [
-      "tuingoa",
-      "tumahi",
+      "tuuingoa",
+      "tuumahi",
       "tuahua",
       "tupatai"
     ],
-    "tuingoa": [
+    "tuuingoa": [
       "common-nouns",
       "personal-nouns",
       "tuwahi"
     ],
-    "tumahi": [
-      "tumahi-whiti",
-      "tumahi-poro",
-      "tumahi-ahua",
+    "tuumahi": [
+      "tuumahi-whiti",
+      "tuumahi-poro",
+      "tuumahi-ahua",
       "verb-classification",
       "tohutau",
       "verb-taxonomy-background"
@@ -151,7 +151,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "These are phrases which contain [[ref\\|Nouns\\|tuingoa]] as the base and which are introduced with [[ref\\|Determiners\\|pumau]]. They often function as the [[ref\\|subject\\|predicate-subject-comment]] of a [[ref\\|clause\\|aho]]."
+          "content": "These are phrases which contain [[ref\\|Nouns\\|tuuingoa]] as the base and which are introduced with [[ref\\|Determiners\\|pumau]]. They often function as the [[ref\\|subject\\|predicate-subject-comment]] of a [[ref\\|clause\\|aho]]."
         },
         {
           "type": "stub",
@@ -162,7 +162,7 @@
         "kiianga",
         "kiianga-tuumahi",
         "kiianga-puuhono",
-        "tuingoa",
+        "tuuingoa",
         "pumau"
       ],
       "aliases": [
@@ -180,7 +180,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "These are phrases which contain [[ref\\|Verbs\\|tumahi]] as the base and which are introduced with [[ref\\|Verbal Particles\\|pumahi]]. They often function as the [[ref\\|predicate\\|predicate-subject-comment]]of a [[ref\\|clause\\|aho]]."
+          "content": "These are phrases which contain [[ref\\|Verbs\\|tuumahi]] as the base and which are introduced with [[ref\\|Verbal Particles\\|pumahi]]. They often function as the [[ref\\|predicate\\|predicate-subject-comment]] of a [[ref\\|clause\\|aho]]."
         },
         {
           "type": "stub",
@@ -192,7 +192,7 @@
         "kiianga-tuuingoa",
         "kiianga-puuhono",
         "pumahi",
-        "tumahi"
+        "tuumahi"
       ]
     },
     {
@@ -397,7 +397,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "In te reo Māori, words are typically classified as either tumu (bases) or [[ref\\|punga\\|punga]] (particles). These are essential word categories to understand when considering [[ref\\|phrases\\|kianga]] because a phrase is made up of a base surrounded by optional particles.\n\nTumu (base words) convey the core meaning of the sentence and are also known as \"kupu kiko\" or \"content words.\" They are the essential building blocks that carry the main information in communication.\n\nBase words include:\n\n* [[ref\\|Tūingoa\\|tuingoa]] (nouns) - Words referring to things, people, animals, or ideas\n* [[ref\\|Tūmahi\\|tumahi]] (verbs) - Words describing actions or states of being\n\nFor example, in the sentence {{Kei te kai au i te āporo}} (I am eating the apple),\\\nthe words [[word\\|kai\\|w-kai]] (eat), [[word\\|au\\|w-au]] (I), and [[word\\|āporo\\|w-aaporo]] (apple) are {{tumu}}—they provide the key information about **who** is doing what **to** what. The other words are particles that provide grammatical structure."
+          "content": "In te reo Māori, words are typically classified as either tumu (bases) or [[ref\\|punga\\|punga]] (particles). These are essential word categories to understand when considering [[ref\\|phrases\\|kianga]] because a phrase is made up of a base surrounded by optional particles.\n\nTumu (base words) convey the core meaning of the sentence and are also known as \"kupu kiko\" or \"content words.\" They are the essential building blocks that carry the main information in communication.\n\nBase words include:\n\n* [[ref\\|Tūingoa\\|tuuingoa]] (nouns) - Words referring to things, people, animals, or ideas\n* [[ref\\|Tūmahi\\|tuumahi]] (verbs) - Words describing actions or states of being\n\nFor example, in the sentence {{Kei te kai au i te āporo}} (I am eating the apple),\\\nthe words [[word\\|kai\\|w-kai]] (eat), [[word\\|au\\|w-au]] (I), and [[word\\|āporo\\|w-aaporo]] (apple) are {{tumu}}—they provide the key information about **who** is doing what **to** what. The other words are particles that provide grammatical structure."
         },
         {
           "type": "example",
@@ -445,11 +445,12 @@
       ]
     },
     {
-      "id": "tuingoa",
+      "id": "tuuingoa",
       "term": "Nouns",
       "maoriTerm": "Tūingoa",
       "shortDefinition": "Words that name people, places, things, animals, or abstract concepts in te reo Māori.",
       "validated": false,
+      "label": "noun",
       "elements": [
         {
           "type": "text",
@@ -517,7 +518,7 @@
         }
       ],
       "relatedTerms": [
-        "tuingoa",
+        "tuuingoa",
         "puuwaahi",
         "kiianga-puuhono"
       ]
@@ -564,7 +565,7 @@
       ],
       "relatedTerms": [
         "tukapi-riro",
-        "tuingoa"
+        "tuuingoa"
       ],
       "categoryInfo": "Part of the Base Words (Tumu) series"
     },
@@ -589,12 +590,13 @@
       ]
     },
     {
-      "id": "tumahi",
+      "id": "tuumahi",
       "term": "Verbs",
       "maoriTerm": "Tūmahi",
       "shortDefinition": "Words that describe actions, occurrences, or states of being.",
       "categoryInfo": "Part of the Base Words (Tumu) series",
-      "longDefinition": "\nTūmahi (verbs) are a fundamental type of [[ref|tumu|tumu]] (base word) in te reo Māori that express actions, occurrences, or states of being. Also known as \"kupumahi,\" they form the core of verbal phrases and sentences.\n\nA key characteristic of te reo Māori verbs is that, unlike English verbs, they do not change form to indicate tense, person, or number. Instead, [[ref|pūmahi|pumahi]] (verbal particles) such as \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" are used before the verb to indicate when and how the action takes place.\n\nTe reo Māori verbs are classified into several important categories ([[ref|see Verb Classification for detailed information|verb-classification]]):\n\n1. **[[ref|Tūmahi Whiti (Transitive Verbs)|tumahi-whiti]]** - Describe actions that directly affect another person or thing - Take a direct object (often marked with \"i\") - Can be used in passive voice with special suffixes - Examples: tapahi (cut), whakapaipai (decorate), patu (hit)\n\n2. **[[ref|Tūmahi Poro (Intransitive Verbs)|tumahi-poro]]** - Describe actions that don't require a direct object - The action can be completed with only one participant - Examples: moe (sleep), hīkoi (walk), takoto (lie down)\n\n3. **[[ref|Tūmahi Āhua (Stative Verbs)|tumahi-ahua]]** - Describe emotions or attributes of people or things - Examples: pōuri (sad), riri (angry), pūhaehae (jealous)\n\n4. **[[ref|Tūmahi Oti (Neuter Verbs)|tumahi-oti]]** - Describe the completion of an action or a state of being - Examples: mate (die/dead), pau (be consumed), pakaru (broken)\n\nUnderstanding the different classes of verbs is essential for forming grammatically \ncorrect sentences and for using appropriate verbal particles and constructions. ",
+      "longDefinition": "\nTūmahi (verbs) are a fundamental type of [[ref|tumu|tumu]] (base word) in te reo Māori that express actions, occurrences, or states of being. Also known as \"kupumahi,\" they form the core of verbal phrases and sentences.\n\nA key characteristic of te reo Māori verbs is that, unlike English verbs, they do not change form to indicate tense, person, or number. Instead, [[ref|pūmahi|pumahi]] (verbal particles) such as \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" are used before the verb to indicate when and how the action takes place.\n\nTe reo Māori verbs are classified into several important categories ([[ref|see Verb Classification for detailed information|verb-classification]]):\n\n1. **[[ref|Tūmahi Whiti (Transitive Verbs)|tuumahi-whiti]]** - Describe actions that directly affect another person or thing - Take a direct object (often marked with \"i\") - Can be used in passive voice with special suffixes - Examples: tapahi (cut), whakapaipai (decorate), patu (hit)\n\n2. **[[ref|Tūmahi Poro (Intransitive Verbs)|tuumahi-poro]]** - Describe actions that don't require a direct object - The action can be completed with only one participant - Examples: moe (sleep), hīkoi (walk), takoto (lie down)\n\n3. **[[ref|Tūmahi Āhua (Stative Verbs)|tuumahi-ahua]]** - Describe emotions or attributes of people or things - Examples: pōuri (sad), riri (angry), pūhaehae (jealous)\n\n4. **[[ref|Tūmahi Oti (Neuter Verbs)|tuumahi-oti]]** - Describe the completion of an action or a state of being - Examples: mate (die/dead), pau (be consumed), pakaru (broken)\n\nUnderstanding the different classes of verbs is essential for forming grammatically \ncorrect sentences and for using appropriate verbal particles and constructions. ",
+      "label":"verb",
       "examples": [
         {
           "maori": "Kei te kai a Mere i te āporo.",
@@ -625,7 +627,7 @@
       "validated": false
     },
     {
-      "id": "tumahi-ahua",
+      "id": "tuumahi-ahua",
       "term": "Stative Verbs",
       "maoriTerm": "Tūmahi Āhua",
       "shortDefinition": "Verbs that describe states, conditions, emotions, or qualities rather than actions.",
@@ -661,15 +663,15 @@
         }
       ],
       "relatedTerms": [
-        "tumahi",
-        "tumahi-whiti",
-        "tumahi-poro",
-        "tumahi-oti"
+        "tuumahi",
+        "tuumahi-whiti",
+        "tuumahi-poro",
+        "tuumahi-oti"
       ],
       "categoryInfo": "Part of the series on Verbs (Tūmahi)"
     },
     {
-      "id": "tumahi-poro",
+      "id": "tuumahi-poro",
       "term": "Intransitive Verbs",
       "maoriTerm": "Tūmahi Poro",
       "shortDefinition": "Verbs that describe actions that do not affect another person or thing and do not require a direct object.",
@@ -705,10 +707,10 @@
         }
       ],
       "relatedTerms": [
-        "tumahi",
-        "tumahi-whiti",
-        "tumahi-ahua",
-        "tumahi-oti"
+        "tuumahi",
+        "tuumahi-whiti",
+        "tuumahi-ahua",
+        "tuumahi-oti"
       ],
       "categoryInfo": "Part of the series on Verbs (Tūmahi)"
     },
@@ -725,11 +727,11 @@
         }
       ],
       "relatedTerms": [
-        "tumahi",
-        "tumahi-whiti",
-        "tumahi-poro",
-        "tumahi-ahua",
-        "tumahi-oti"
+        "tuumahi",
+        "tuumahi-whiti",
+        "tuumahi-poro",
+        "tuumahi-ahua",
+        "tuumahi-oti"
       ],
       "categoryInfo": "Part of the series on Verbs (Tūmahi)"
     },
@@ -768,14 +770,14 @@
         }
       ],
       "relatedTerms": [
-        "tumahi",
+        "tuumahi",
         "kiianga-tuumahi",
         "whakakahore"
       ],
       "validated": false
     },
     {
-      "id": "tumahi-whiti",
+      "id": "tuumahi-whiti",
       "term": "Transitive Verbs",
       "maoriTerm": "Tūmahi Whiti",
       "shortDefinition": "Verbs that describe an action affecting someone or something else, requiring a direct object.",
@@ -811,8 +813,8 @@
         }
       ],
       "relatedTerms": [
-        "tumahi",
-        "tumahi-poro",
+        "tuumahi",
+        "tuumahi-poro",
         "rerehaaoho",
         "rerehaangu",
         "kiianga-tuumahi"
@@ -828,7 +830,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "Tūāhua (adjectives) are considered by some grammars to be a category of tumu (base words) in te reo Māori that describe the qualities, attributes, or characteristics of nouns. They help to provide more detailed information about people, places, objects, or concepts. Although some authorities take the view that words such as [[word|pai|w-pai]] should be considered to be adjectives, we'll be taking the view detailed in Te Reo Māori: The Basics Explained by David Kārena-Holmes, which is that some verbs and nouns can be used adjectivally, but that it's not necessary to consider these to be adjectives.\n\nQualities that would be expressed as adjectives in English are expressed as [[ref|tūmahi āhua|tumahi-ahua]] (stative verbs) or [[ref|tūingoa|tuingoa]] (nouns) in te reo Māori."
+          "content": "Tūāhua (adjectives) are considered by some grammars to be a category of tumu (base words) in te reo Māori that describe the qualities, attributes, or characteristics of nouns. They help to provide more detailed information about people, places, objects, or concepts. Although some authorities take the view that words such as [[word|pai|w-pai]] should be considered to be adjectives, we'll be taking the view detailed in Te Reo Māori: The Basics Explained by David Kārena-Holmes, which is that some verbs and nouns can be used adjectivally, but that it's not necessary to consider these to be adjectives.\n\nQualities that would be expressed as adjectives in English are expressed as [[ref|tūmahi āhua|tuumahi-ahua]] (stative verbs) or [[ref|tūingoa|tuuingoa]] (nouns) in te reo Māori."
         },
         {
           "type": "example",
@@ -856,7 +858,7 @@
         }
       ],
       "relatedTerms": [
-        "tumahi-ahua",
+        "tuumahi-ahua",
         "kianga-tuahua"
       ],
       "categoryInfo": "Part of the Base Words (Tumu) series"
@@ -987,7 +989,7 @@
       "relatedTerms": [
         "puhono",
         "puuhea",
-        "tuingoa"
+        "tuuingoa"
       ],
       "categoryInfo": "Part of the Nominal Particles (Pūingoa) series"
     },
@@ -1102,7 +1104,7 @@
         }
       ],
       "relatedTerms": [
-        "tumahi",
+        "tuumahi",
         "kiianga-tuumahi"
       ],
       "categoryInfo": "Part of the Verbal Particles (Pūmahi) series"
@@ -1636,7 +1638,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "Command sentences give a direction or instruction to someone. The structure of the command depends on the type of base word being used.\n\nIf the base word is an [[ref\\|Intransitive Verbs\\|tumahi-poro]], the command is structured with the verb as the nucleus of the first phrase. If the verb and any particles in the phrase (other than rā which is not counted) is longer than two [[ref\\|morae\\|mora]], the phrase is introduced with [[ref\\|e\\|puumahi_e]]."
+          "content": "Command sentences give a direction or instruction to someone. The structure of the command depends on the type of base word being used.\n\nIf the base word is an [[ref\\|Intransitive Verbs\\|tuumahi-poro]], the command is structured with the verb as the nucleus of the first phrase. If the verb and any particles in the phrase (other than rā which is not counted) is longer than two [[ref\\|morae\\|mora]], the phrase is introduced with [[ref\\|e\\|puumahi_e]]."
         },
         {
           "type": "example",
@@ -1652,7 +1654,7 @@
         },
         {
           "type": "text",
-          "content": "If the base word is a [[ref\\|Transitive Verbs\\|tumahi-whiti]] and no direct object is specified, the command can be structured the same as a command with an intransitive verb:"
+          "content": "If the base word is a [[ref\\|Transitive Verbs\\|tuumahi-whiti]] and no direct object is specified, the command can be structured the same as a command with an intransitive verb:"
         },
         {
           "type": "example",
@@ -2157,6 +2159,7 @@
     {
       "id": "puumoko",
       "term": "Proper Article",
+      "label": "particle",
       "maoriTerm": "Pūmoko",
       "shortDefinition": "",
       "validated": false,

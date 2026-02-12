@@ -5,7 +5,8 @@
     "example": "Kei te haere a Mere.",
     "exampleTranslation": "Mere is going.",
     "note": "Not directly translatable into English.",
-    "validated": true
+    "validated": true,
+    "type": "puumoko"
   },
   "w-aa": {
     "maori": "ā",
@@ -1871,14 +1872,26 @@
     "note": "",
     "validated": true
   },
-  "w-kai": {
-    "maori": "kai",
-    "english": "1) food\n2) eat",
-    "example": "He reka te kai.",
-    "exampleTranslation": "The food is delicious.",
-    "note": "",
-    "validated": true
-  },
+  "w-kai": [
+    {
+      "maori": "kai",
+      "english": "food",
+      "example": "He reka te kai.",
+      "exampleTranslation": "The food is delicious.",
+      "note": "",
+      "validated": true,
+      "type":"tuuingoa"
+    },
+    {
+      "maori": "kai",
+      "english": "to eat",
+      "example": "Kei te kai rātou.",
+      "exampleTranslation": "They are eating.",
+      "note": "",
+      "validated": true,
+      "type": "tuumahi"
+    }
+],
   "w-kai-1": {
     "maori": "kai",
     "english": "(particle) at, on, in (of present position or time)",
