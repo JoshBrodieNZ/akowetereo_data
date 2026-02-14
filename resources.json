@@ -64,6 +64,7 @@
     "id": "resource-9781775502036",
     "title": "A Māori Reference Grammar",
     "author": "Ray Harlow",
+    "alias": "Harlow",
     "url": "https://huia.co.nz/products/a-maori-reference-grammar",
     "imageSrc": "/img/9781775502036.webp",
     "imageOffset": -50,
@@ -81,6 +82,7 @@
     "id": "resource-9781869401863",
     "title": "Let's Learn Māori",
     "author": "Bruce Biggs",
+    "alias": "Biggs",
     "url": "https://aucklanduniversitypress.co.nz/lets-learn-maori-revised-edition/",
     "imageSrc": "/img/9781869401863.jpg",
     "blurb": "A detailed grammar reference for students of te reo Māori, focused on the phrase as the essential unit of speech.",
@@ -131,6 +133,7 @@
     "id": "resource-reed",
     "title": "The Reed Reference Grammar of Māori",
     "author": "Winifred Bauer",
+    "alias": "Bauer",
     "url": "",
     "imageSrc": "/img/reed.jpg",
     "blurb": "The authoritative reference grammar for te reo Māori.",
@@ -146,6 +149,7 @@
   {
     "id": "resource-9780473208738",
     "title": "Mai i te Kākano",
+    "author": "Hēni Jacob",
     "url": "https://tetakupu.wananga.com/products/e-mai-i-te-kakano",
     "imageSrc": "/img/9780473208738.webp",
     "imageOffset": -100,
@@ -173,7 +177,8 @@
       "i te reo Māori"
     ],
     "favourite": false,
-    "featured": false
+    "featured": false,
+    "author": "Hēni Jacob"
   },
   {
     "id": "resource-9780143771470",
@@ -188,7 +193,8 @@
       "textbook"
     ],
     "favourite": false,
-    "featured": false
+    "featured": false,
+    "author": "Scotty Morrison and Stacey Morrison"
   },
   {
     "id": "resource-9780947506919",
@@ -203,7 +209,8 @@
       "textbook"
     ],
     "favourite": false,
-    "featured": false
+    "featured": false,
+    "author": "Hona Black"
   },
   {
     "id": "resource-9780143567912",
@@ -218,7 +225,8 @@
       "textbook"
     ],
     "favourite": false,
-    "featured": false
+    "featured": false,
+    "author": "A.W. Reed"
   },
   {
     "id": "resource-9781990042591",
@@ -233,7 +241,8 @@
       "textbook"
     ],
     "favourite": false,
-    "featured": false
+    "featured": false,
+    "author": "Hona Black and Te Aorangi Murphy-Fell"
   },
   {
     "id": "resource-9781990042379",
@@ -248,7 +257,8 @@
       "textbook"
     ],
     "favourite": false,
-    "featured": false
+    "featured": false,
+    "author": "Hona Black"
   },
   {
     "id": "resource-9780143570912",
@@ -263,7 +273,8 @@
       "textbook"
     ],
     "favourite": false,
-    "featured": false
+    "featured": false,
+    "author": "Scotty Morrison"
   },
   {
     "id": "resource-9780143773412",
@@ -278,7 +289,8 @@
       "textbook"
     ],
     "favourite": false,
-    "featured": false
+    "featured": false,
+    "author": "Hemi Kelly"
   },
   {
     "id": "resource-taringa",
@@ -299,6 +311,7 @@
     "id": "resource-9780947506698",
     "title": "Te Reo Māori: The Basics Explained",
     "author": "David Kārena-Holmes",
+    "alias": "Kaarena-Holmes",
     "url": "https://oratia.co.nz/product-tag/david-karena-holmes/",
     "imageSrc": "/img/9780947506698.webp",
     "imageOffset": -100,

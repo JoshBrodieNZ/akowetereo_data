@@ -596,7 +596,7 @@
       "shortDefinition": "Words that describe actions, occurrences, or states of being.",
       "categoryInfo": "Part of the Base Words (Tumu) series",
       "longDefinition": "\nTūmahi (verbs) are a fundamental type of [[ref|tumu|tumu]] (base word) in te reo Māori that express actions, occurrences, or states of being. Also known as \"kupumahi,\" they form the core of verbal phrases and sentences.\n\nA key characteristic of te reo Māori verbs is that, unlike English verbs, they do not change form to indicate tense, person, or number. Instead, [[ref|pūmahi|pumahi]] (verbal particles) such as \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" are used before the verb to indicate when and how the action takes place.\n\nTe reo Māori verbs are classified into several important categories ([[ref|see Verb Classification for detailed information|verb-classification]]):\n\n1. **[[ref|Tūmahi Whiti (Transitive Verbs)|tuumahi-whiti]]** - Describe actions that directly affect another person or thing - Take a direct object (often marked with \"i\") - Can be used in passive voice with special suffixes - Examples: tapahi (cut), whakapaipai (decorate), patu (hit)\n\n2. **[[ref|Tūmahi Poro (Intransitive Verbs)|tuumahi-poro]]** - Describe actions that don't require a direct object - The action can be completed with only one participant - Examples: moe (sleep), hīkoi (walk), takoto (lie down)\n\n3. **[[ref|Tūmahi Āhua (Stative Verbs)|tuumahi-ahua]]** - Describe emotions or attributes of people or things - Examples: pōuri (sad), riri (angry), pūhaehae (jealous)\n\n4. **[[ref|Tūmahi Oti (Neuter Verbs)|tuumahi-oti]]** - Describe the completion of an action or a state of being - Examples: mate (die/dead), pau (be consumed), pakaru (broken)\n\nUnderstanding the different classes of verbs is essential for forming grammatically \ncorrect sentences and for using appropriate verbal particles and constructions. ",
-      "label":"verb",
+      "label": "verb",
       "examples": [
         {
           "maori": "Kei te kai a Mere i te āporo.",
@@ -1166,7 +1166,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "The phrase is the essential unit of both grammar and speech in te reo Māori.\n\nIt can be considered to have three sections, a central section called the nucleus which is surrounded on either side by the preposed periphery and the postposed periphery. The nucleus can only contain bases (content words such as verbs and nouns) while the peripheries can only contain particles (words with grammatical functions that add extra context and structure).\n\nAll base words have an English translation, but that is not true of all particles, some of which can be roughly compared to English words like \"at\" or \"to\" but many of which do not make sense to translate and must be understood in terms of their structural function."
+          "content": "The phrase is the essential unit of both grammar and speech in te reo Māori. [[cite|3|resource-9781869401863]]\n\nIt can be considered to have three sections, a central section called the nucleus which is surrounded on either side by the preposed periphery and the postposed periphery. The nucleus can only contain bases (content words such as verbs and nouns) while the peripheries can only contain particles (words with grammatical functions that add extra context and structure).\n\nAll base words have an English translation, but that is not true of all particles, some of which can be roughly compared to English words like \"at\" or \"to\" but many of which do not make sense to translate and must be understood in terms of their structural function."
         },
         {
           "type": "interactive-sentence",
@@ -1638,7 +1638,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "Command sentences give a direction or instruction to someone. The structure of the command depends on the type of base word being used.\n\nIf the base word is an [[ref\\|Intransitive Verbs\\|tuumahi-poro]], the command is structured with the verb as the nucleus of the first phrase. If the verb and any particles in the phrase (other than rā which is not counted) is longer than two [[ref\\|morae\\|mora]], the phrase is introduced with [[ref\\|e\\|puumahi_e]]."
+          "content": "Command sentences give a direction or instruction to someone. The structure of the command depends on the type of base word being used.\n\n### Intransitive Verb\n\nIf the base word is an [[ref\\|Intransitive Verb\\|tuumahi-poro]], the command is structured with the verb as the nucleus of the first phrase. If the verb and any particles in the phrase (other than rā which is not counted) is longer than two [[ref\\|morae\\|mora]], the phrase is introduced with [[ref\\|e\\|puumahi_e]]."
         },
         {
           "type": "example",
@@ -1654,13 +1654,39 @@
         },
         {
           "type": "text",
-          "content": "If the base word is a [[ref\\|Transitive Verbs\\|tuumahi-whiti]] and no direct object is specified, the command can be structured the same as a command with an intransitive verb:"
+          "content": "### Transitive Verb (without Direct Object)\n\nIf the base word is a [[ref\\|Transitive Verb\\|tuumahi-whiti]] and no direct object is specified, the command can be structured the same as a command with an intransitive verb:"
         },
         {
           "type": "example",
           "maori": "E kai!",
           "english": "Eat!",
           "explanation": ""
+        },
+        {
+          "type": "text",
+          "content": "### Transitive Verb (with Direct Object and Ki)\n\nIf the base word is a transitive verb and it has a direct object, the way you structure the command depends on whether the object takes {{}i} or {{ki}} as its [[ref\\|preposition\\|puhono]]. If it takes {{ki}} you structure the command the same way as one with an intransitive verb. "
+        },
+        {
+          "type": "example",
+          "maori": "Whakarongo ki a au!",
+          "english": "Listen to me!",
+          "explanation": ""
+        },
+        {
+          "type": "text",
+          "content": "### Transitive Verb (with Direct Object and I)\n\nIf it takes {{i}} then you use the [[ref\\|passive\\|rerehaanguu]]construction. You make the verb passive and remove the preposition {{i}}. The object then becomes the subject of this passive sentence.\n\nThis construction is used even if the object of the command is only implied."
+        },
+        {
+          "type": "example",
+          "maori": "Horoia ngā rīhi!",
+          "english": "Wash the dishes!",
+          "explanation": ""
+        },
+        {
+          "type": "example",
+          "maori": "Katia!",
+          "english": "Close/Shut!",
+          "explanation": "Even though {{te tatau}} (the door) is not specified, the passive construction is used."
         }
       ],
       "relatedTerms": [
@@ -2595,7 +2621,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "In te reo Māori, words generally fall into the category of being either [[ref\\|Base Words\\|tumu]] or [[ref\\|Particles\\|punga]]. There are a number of different ways to think about the differences between these words. Conceptually, base words describe things that are part of our experience: objects in the world, emotions, actions that can be taken. In contrast, particles are the \"little words\" that provide structure to sentences.\n\nGrammatically, base words are words which occupy the nucleus of a [[ref\\|Phrase\\|kiianga]] while particles are the words which occupy the peripheries.\n\nDifferent authors of grammar textbooks take different approaches to cataloguing the behaviours of words. This resource will not align perfectly with any specific text on the subject, but will pick and choose from a variety of sources. In particular, it will take the following positions:\n\n* Te reo Māori does not have a word class for [[ref\\|Adjectives\\|tuahua]]. It has sub-classes of nouns and verbs which can be used in a similar way to how adjectives are used in English but which are not a distinct adjective class.\n* There are a number of words with the same spelling and pronunciation. In many cases they have related meanings. One example is the word [[word\\|kai\\|w-kai]]. {{Kai}} can be used as a verb meaning \"to eat\" but it can also be used as a noun meaning \"food\". Additionally, there is a verbal particle {{kai}} which is a variant of {{kei}} used in some dialects. Some authors take the view that some verbs can be used as nouns (or vice-versa). Others take the view that words such as {{kai}} belong to a \"universals\" class of words with multiple functions. This resource will take the position that {{kai}} (noun), {{kai}} (verb) and {{kai}} (verbal particle) are all separate words, even though some of their meanings are related."
+          "content": "In te reo Māori, words generally fall into the category of being either [[ref\\|Base Words\\|tumu]] or [[ref\\|Particles\\|punga]]. There are a number of different ways to think about the differences between these words. Conceptually, base words describe things that are part of our experience: objects in the world, emotions, actions that can be taken. In contrast, particles are the \"little words\" that provide structure to sentences.\n\nGrammatically, base words are words which occupy the nucleus of a [[ref\\|Phrase\\|kiianga]] while particles are the words which occupy the peripheries.\n\nDifferent authors of grammar textbooks take different approaches to cataloguing the behaviours of words. This resource will not align perfectly with any specific text on the subject, but will pick and choose from a variety of sources. In particular, it will take the following positions:\n\n* Te reo Māori does not have a word class for [[ref\\|Adjectives\\|tuahua]]. It has sub-classes of nouns and verbs which can be used in a similar way to how adjectives are used in English but which are not a distinct adjective class. [[cite|47|Kaarena-Holmes]]\n* There are a number of words with the same spelling and pronunciation. In many cases they have related meanings. One example is the word [[word\\|kai\\|w-kai]]. {{Kai}} can be used as a verb meaning \"to eat\" but it can also be used as a noun meaning \"food\". Additionally, there is a verbal particle {{kai}} which is a variant of {{kei}} used in some dialects. Some authors take the view that some verbs can be used as nouns (or vice-versa). Others take the view that words such as {{kai}} belong to a \"universals\" class of words with multiple functions. This resource will take the position that {{kai}} (noun), {{kai}} (verb) and {{kai}} (verbal particle) are all separate words, even though some of their meanings are related."
         },
         {
           "type": "note",
