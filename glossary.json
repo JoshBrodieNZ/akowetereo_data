@@ -22,7 +22,6 @@
       "tuumahi-poro",
       "tuumahi-ahua",
       "verb-classification",
-      "tohutau",
       "verb-taxonomy-background"
     ],
     "tuahua": [],
@@ -52,22 +51,22 @@
     ],
     "sentence-components": [],
     "pumahi": [
-      "puumahi_e",
-      "puumahi_ka",
-      "puumahi_kua",
-      "puumahi_i",
-      "puumahi_me",
-      "puumahi_kia",
-      "puumahi_kei",
-      "puumahi_ana",
+      "puumahi-e",
+      "puumahi-ka",
+      "puumahi-kua",
+      "puumahi-i",
+      "puumahi-me",
+      "puumahi-kia",
+      "puumahi-kei",
+      "puumahi-ana",
       "ai",
-      "puumahi_he"
+      "puumahi-he"
     ],
     "puuwaahi": [
-      "puuwaahi_ki",
-      "puuwaahi_kei",
-      "puuwaahi_i",
-      "puuwaahi_hei"
+      "puuwaahi-ki",
+      "puuwaahi-kei",
+      "puuwaahi-i",
+      "puuwaahi-hei"
     ],
     "puutuukee": [
       "puutuukee-tino",
@@ -88,16 +87,16 @@
     ],
     "puhono": [
       "possessive-prepositions",
-      "puuhono_ko",
-      "puuhono_me",
-      "puuhono_e_vocative",
-      "puuhono_e_agentic",
-      "puuhono_i_connective",
-      "puuhono_i_from",
-      "puuhono_i_of",
-      "puuhono_aa",
-      "puuhono_raa",
-      "puuhono_too"
+      "puuhono-ko",
+      "puuhono-me",
+      "puuhono-e-vocative",
+      "puuhono-e-agentive",
+      "puuhono-i-connective",
+      "puuhono-i-from",
+      "puuhono-i-of",
+      "puuhono-aa",
+      "puuhono-raa",
+      "puuhono-too"
     ],
     "puriro": [],
     "punga": [
@@ -139,6 +138,12 @@
     ],
     "personal-nouns": [
       "tukapi"
+    ],
+    "tuumahi-whiti": [
+      "tuumahi-wheako"
+    ],
+    "tuumahi-ahua": [
+      "tohutau"
     ]
   },
   "content": [
@@ -723,7 +728,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "Many different attempts have been made to classify the base word classes of te reo Māori, with differing philosophies on the best taxonomy to use. In particular, the behaviour of verbs is documented differently by different linguists.\n\nThere are a number of verbs which behave very similarly for many purposes, but with subtle differences in how they work from a technical perspective.\n\nSome linguists have considered statives, neuter verbs and adjectives to all be one class of word. Others break them out into complex subgroups. For ease of reference these are typically grouped into three classes based on an example word that belongs to each class, you have the {{mutu}} class, the {{ora}} class and the {{haere}} class. These have been considered in different ways over time:\n\n|  | mutu | haere | ora |\n| :---- | :---- | :---- | :---- |\n| Maunsell (1842) (considered this grouping tentative) | **neuter**<br>(the term at the time for what we now call intransitive) | **neuter**<br>(the term at the time for what we now call intransitive) | **neuter**<br>(the term at the time for what we now call intransitive) |\n| Williams (1862) | **participles**<br>(but observed they behave like neuter \\[intransitive\\] verbs) | **intransitive**<br>(first establishing a distinction between neuter and intransitive) | **adjectives**<br>(but observed they behave like neuter \\[intransitive\\] verbs) |\n| [[resource|Biggs (1969)|resource-9781869401863]] | **stative**<br>(this label introduced to describe verbs that don't take the passive ending) | **universals** | **stative**<br>(this label introduced to describe verbs that don't take the passive ending) |\n| Hohepa (1969) | **stative verbs** | not mentioned | **stative adjectives** |\n| Hooper (1982) \\[convention adopted by [[resource|Bauer 1997|resource-reed]]\\] | **neuter verb** | **action intransitives** | **state intransitives** |\n| [[resource|Harlow (2001)|resource-9781775502036]] | **neuter verbs**<br>(often called statives) | **intransitive** | **adjectives** |\n| [[resource|Jacob (2015)|resource-9780473342081]] | **tūmahi oti (neuter verbs)**<br>\\[Jacob doesn't reference {{mutu}} gives {{pakaru}}, {{pau}} and {{mahue}} as examples which other texts pair with {{mutu}} class verbs\\] | **tūmahi poro** | split into **tūmahi āhua (statives)** \\[which is referred to as a type of tūmahi poro\\] and **tūāhua (adjectives)** based on whether they pair with a verbal particle or a noun. |\n| [[resource|Kārena-Holmes (2020)|resource-9780947506698]] | **participle-type stative verb (P-type)** | **intransitive action verb** | **adjective-type stative verb (A-type)** |\n\nThis source will follow the precedent set by David Kārena-Holmes in [[resource|Te Reo Māori: The Basics Explained|resource-9780947506698]] as this taxonomy best embraces the unique behaviour of Māori word classes."
+          "content": "Many different attempts have been made to classify the base word classes of te reo Māori, with differing philosophies on the best taxonomy to use. In particular, the behaviour of verbs is documented differently by different linguists.\n\nThere are a number of verbs which behave very similarly for many purposes, but with subtle differences in how they work from a technical perspective.\n\nSome linguists have considered statives, neuter verbs and adjectives to all be one class of word. Others break them out into complex subgroups. For ease of reference these are typically grouped into three classes based on an example word that belongs to each class, you have the {{mutu}} class, the {{ora}} class and the {{haere}} class. These have been considered in different ways over time[[cite|490|Bauer]]:\n\n|  | mutu | haere | ora |\n| --- | --- | --- | --- |\n| Maunsell (1842) (considered this grouping tentative) | **neuter**<br>(the term at the time for what we now call intransitive) | **neuter**<br>(the term at the time for what we now call intransitive) | **neuter**<br>(the term at the time for what we now call intransitive) |\n| Williams (1862) | **participles**<br>(but observed they behave like neuter \\[intransitive\\] verbs) | **intransitive**<br>(first establishing a distinction between neuter and intransitive) | **adjectives**<br>(but observed they behave like neuter \\[intransitive\\] verbs) |\n| [[resource\\|Biggs (1969)\\|resource-9781869401863]] | **stative**<br>(this label introduced to describe verbs that don't take the passive ending) | **universals** | **stative**<br>(this label introduced to describe verbs that don't take the passive ending) |\n| Hohepa (1969) | **stative verbs** | not mentioned | **stative adjectives** |\n| Hooper (1982) \\[convention adopted by [[resource\\|Bauer 1997\\|resource-reed]]\\] | **neuter verb** | **action intransitives** | **state intransitives** |\n| [[resource\\|Harlow (2001)\\|resource-9781775502036]] | **neuter verbs**<br>(often called statives) | **intransitive** | **adjectives** |\n| [[resource\\|Jacob (2015)\\|resource-9780473342081]] | **tūmahi oti (neuter verbs)**<br>\\[Jacob doesn't reference {{mutu}} gives {{pakaru}}, {{pau}} and {{mahue}} as examples which other texts pair with {{mutu}} class verbs\\] | **tūmahi poro** | split into **tūmahi āhua (statives)** \\[which is referred to as a type of tūmahi poro\\] and **tūāhua (adjectives)** based on whether they pair with a verbal particle or a noun. |\n| [[resource\\|Kārena-Holmes (2020)\\|resource-9780947506698]] | **participle-type stative verb (P-type)** | **intransitive action verb** | **adjective-type stative verb (A-type)** |\n\nThis source will follow the precedent set by David Kārena-Holmes in [[resource\\|Te Reo Māori: The Basics Explained\\|resource-9780947506698]] as this taxonomy best embraces the unique behaviour of Māori word classes."
         }
       ],
       "relatedTerms": [
@@ -1400,7 +1405,7 @@
         },
         {
           "type": "interactive-sentence",
-          "note": "In this example, we use {{ka}} to indicate the future tense. This follows the common introductory approach to Māori grammar. More detail on the use of this particle can be found in the [[ref|ka|puumahi_ka]] entry.",
+          "note": "In this example, we use {{ka}} to indicate the future tense. This follows the common introductory approach to Māori grammar. More detail on the use of this particle can be found in the [[ref|ka|puumahi-ka]] entry.",
           "parts": [
             {
               "type": "group",
@@ -1579,47 +1584,65 @@
       "term": "Interrogative Sentences",
       "maoriTerm": "Rerepātai",
       "shortDefinition": "Sentences that ask questions in order to obtain information, confirmation, or clarification.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": ""
+          "content": "Questions in te reo Māori can take one of three forms:\n\n* Asking a yes/no question.\n* Asking a multi-choice question.\n* Asking for a piece of information.\n\n### Yes/No Questions\n\nAs in many languages, asking a yes/no question is achieved using a sentence which when written without a question mark at the end would be a statement. Adding a question mark in writing, or changing the intonation in speech, turns it into a yes/no question about whether the statement is correct."
         },
         {
           "type": "example",
-          "maori": "Kei hea tō pōtae?",
-          "english": "Where is your hat?",
-          "explanation": "Information question using the interrogative \"hea\" (where) with the present location marker \"kei\"."
+          "maori": "Kei te haere koe ki te marae.",
+          "english": "You are going to the marae.",
+          "explanation": ""
         },
         {
           "type": "example",
-          "maori": "Kei te haere koe ki te hui āpōpō?",
-          "english": "Are you going to the meeting tomorrow?",
-          "explanation": "Yes/no question formed with a regular sentence structure but understood as a question through context or intonation."
+          "maori": "Kei te haere koe ki te marae?",
+          "english": "Are you going to the marae?",
+          "explanation": ""
+        },
+        {
+          "type": "text",
+          "content": "Another form of the yes/no question is the leading question. This involves making a statement, followed by an expression which asks the listener to confirm whether or not they agree with the statement. The indicate that a statement is a leading question, the particle {{nē}} is used following a comma."
         },
         {
           "type": "example",
-          "maori": "Ko wai tō ingoa?",
-          "english": "What is your name?",
-          "explanation": "Information question using \"ko wai\" (who) in an identification structure."
+          "maori": "He pai tēnei kai, nē?",
+          "english": "This food is good, isn't it?",
+          "explanation": ""
+        },
+        {
+          "type": "text",
+          "content": "### Multi-Choice Questions\n\nIn English, we would use the word \"or\" for this purpose, in a sentence such as \"are you going to walk to the movie or drive?\" In te reo Māori, the word {{rānei}} has this function."
         },
         {
           "type": "example",
-          "maori": "E hia ngā tamariki i te kura?",
-          "english": "How many children are at school?",
-          "explanation": "Information question using \"e hia\" (how many) to ask about quantity."
+          "maori": "Ka haere koe ki te kiriata mā runga motokā, mā raro rānei?",
+          "english": "Are you going to the movie by car or on foot?",
+          "explanation": ""
+        },
+        {
+          "type": "text",
+          "content": "### Interrogatives\n\nTe reo Māori has a series of words with a similar function to English's \"who\", \"what\", \"where\", \"when\", etc. These [[ref\\|interrogative\\|tupatai]]words are used in questions when you are trying to obtain a specific piece of information. As a general rule, the specific interrogative you use depends on the piece of information you wish to obtain and what part of speech the answer is expected to be."
         },
         {
           "type": "example",
-          "maori": "Ka haere koe mā runga pahi, mā runga waka rānei?",
-          "english": "Will you go by bus or by car?",
-          "explanation": "Alternative question using \"rānei\" (or) to present choices."
+          "maori": "He aha te take mō tēnei?",
+          "english": "What is the reason for this?",
+          "explanation": "This construction can be used to ask \"why?\""
         },
         {
           "type": "example",
-          "maori": "Kāore anō koe kia kite i a Mere?",
-          "english": "Haven't you seen Mary yet?",
-          "explanation": "Negative question using \"kāore anō...kia\" indicating an expected but not yet realized action."
+          "maori": "Kei te aha koe?",
+          "english": "What are you doing?",
+          "explanation": "The interrogative {{aha}} can be used to ask questions where a noun or a verb is the answer."
+        },
+        {
+          "type": "example",
+          "maori": "Ko wai koe?",
+          "english": "Who are you?",
+          "explanation": "The interrogative {{wai}} is used to ask questions about the identity of someone where the answer is a personal noun."
         }
       ],
       "relatedTerms": [
@@ -1634,11 +1657,11 @@
       "term": "Command Sentences",
       "maoriTerm": "Rerewhakahau",
       "shortDefinition": "Sentences that give directions, instructions, or orders to the listener.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Command sentences give a direction or instruction to someone. The structure of the command depends on the type of base word being used.\n\n### Intransitive Verb\n\nIf the base word is an [[ref\\|Intransitive Verb\\|tuumahi-poro]], the command is structured with the verb as the nucleus of the first phrase. If the verb and any particles in the phrase (other than rā which is not counted) is longer than two [[ref\\|morae\\|mora]], the phrase is introduced with [[ref\\|e\\|puumahi_e]]."
+          "content": "Command sentences give a direction or instruction to someone. The structure of the command depends on the type of base word being used. Generally in a command sentence, it's clear who the action should be performed by in context, although you're also able to explicitly specify who the command is directed to:\n\n* {{E noho!}} (Sit! \\[to the person spoken to\\])\n* {{Haere koutou ki waho}} (Go outside, all of you!)\n\n### Intransitive Verb\n\nIf the base word is an [[ref\\|Intransitive Verb\\|tuumahi-poro]], the command is structured with the verb as the nucleus of the first phrase. If the verb and any particles in the phrase (other than rā which is not counted) is longer than two [[ref\\|morae\\|mora]], the phrase is introduced with [[ref\\|e\\|puumahi-e]]."
         },
         {
           "type": "example",
@@ -1664,7 +1687,7 @@
         },
         {
           "type": "text",
-          "content": "### Transitive Verb (with Direct Object and Ki)\n\nIf the base word is a transitive verb and it has a direct object, the way you structure the command depends on whether the object takes {{}i} or {{ki}} as its [[ref\\|preposition\\|puhono]]. If it takes {{ki}} you structure the command the same way as one with an intransitive verb. "
+          "content": "### Transitive Verb (with Direct Object and Ki)\n\nIf the base word is a transitive verb and it has a direct object, the way you structure the command depends on whether the object takes {{i}} or {{ki}} as its [[ref\\|preposition\\|puhono]]. If it takes {{ki}} you structure the command the same way as one with an intransitive verb. "
         },
         {
           "type": "example",
@@ -1687,6 +1710,48 @@
           "maori": "Katia!",
           "english": "Close/Shut!",
           "explanation": "Even though {{te tatau}} (the door) is not specified, the passive construction is used."
+        },
+        {
+          "type": "text",
+          "content": "### Pseudo-Imperative for Statives and Experience Verbs\n\nThe verbal particle [[ref\\|kia\\|puumahi-kia]] can be used with [[ref\\|Stative Verbs\\|tuumahi-ahua]] and [[ref\\|Experience Verbs\\|tuumahi-wheako]] to express a hope or wish that the state or experience described by the verb will occur."
+        },
+        {
+          "type": "example",
+          "maori": "Kia tere!",
+          "english": "Be quick! Hurry!",
+          "explanation": ""
+        },
+        {
+          "type": "example",
+          "maori": "Kia ora!",
+          "english": "Be well!",
+          "explanation": ""
+        },
+        {
+          "type": "text",
+          "content": "A notable property of this pseudo-imperative structure is that it can also be used to instruct someone as to how you would them to perform a specific task, by [[ref\\|nominalising\\|nominalisation]] the action (preceding the verb with {{te}} and using it as the subject of the sentence. [[cite|196|Harlow]]"
+        },
+        {
+          "type": "example",
+          "maori": "Kia tūpato te taraiwa!",
+          "english": "Drive carefully!",
+          "explanation": ""
+        },
+        {
+          "type": "text",
+          "content": "### Weak Imperatives\n\nThe verbal particle [[ref\\|me\\|puumahi-me]] can be used to express a weak imperative similar to the English words \"should\" or \"let's\"."
+        },
+        {
+          "type": "example",
+          "maori": "Me noho",
+          "english": "We should sit.",
+          "explanation": "\"We\" in this case is implied."
+        },
+        {
+          "type": "example",
+          "maori": "Me kai tātou.",
+          "english": "Let's all eat.",
+          "explanation": ""
         }
       ],
       "relatedTerms": [
@@ -2197,7 +2262,7 @@
       ]
     },
     {
-      "id": "puuhono_ko",
+      "id": "puuhono-ko",
       "term": "ko",
       "maoriTerm": "ko",
       "shortDefinition": "",
@@ -2210,7 +2275,7 @@
       ]
     },
     {
-      "id": "puuhono_me",
+      "id": "puuhono-me",
       "term": "me",
       "maoriTerm": "me",
       "shortDefinition": "",
@@ -2223,7 +2288,7 @@
       ]
     },
     {
-      "id": "puuhono_e_vocative",
+      "id": "puuhono-e-vocative",
       "term": "e (vocative)",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2236,8 +2301,8 @@
       ]
     },
     {
-      "id": "puuhono_e_agentic",
-      "term": "e (agentic)",
+      "id": "puuhono-e-agentive",
+      "term": "e (agentive)",
       "maoriTerm": "",
       "shortDefinition": "",
       "validated": false,
@@ -2249,7 +2314,7 @@
       ]
     },
     {
-      "id": "puuhono_i_connective",
+      "id": "puuhono-i-connective",
       "term": "i (connective)",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2262,7 +2327,7 @@
       ]
     },
     {
-      "id": "puuhono_i_from",
+      "id": "puuhono-i-from",
       "term": "i (from)",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2275,7 +2340,7 @@
       ]
     },
     {
-      "id": "puuhono_i_of",
+      "id": "puuhono-i-of",
       "term": "i (of)",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2288,7 +2353,7 @@
       ]
     },
     {
-      "id": "puuhono_aa",
+      "id": "puuhono-aa",
       "term": "ā",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2301,7 +2366,7 @@
       ]
     },
     {
-      "id": "puuhono_raa",
+      "id": "puuhono-raa",
       "term": "rā",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2314,7 +2379,7 @@
       ]
     },
     {
-      "id": "puuhono_too",
+      "id": "puuhono-too",
       "term": "tō",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2327,7 +2392,7 @@
       ]
     },
     {
-      "id": "puuwaahi_ki",
+      "id": "puuwaahi-ki",
       "term": "ki",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2340,7 +2405,7 @@
       ]
     },
     {
-      "id": "puuwaahi_kei",
+      "id": "puuwaahi-kei",
       "term": "kei",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2353,7 +2418,7 @@
       ]
     },
     {
-      "id": "puuwaahi_i",
+      "id": "puuwaahi-i",
       "term": "i",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2366,7 +2431,7 @@
       ]
     },
     {
-      "id": "puuwaahi_hei",
+      "id": "puuwaahi-hei",
       "term": "hei",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2379,7 +2444,7 @@
       ]
     },
     {
-      "id": "puumahi_e",
+      "id": "puumahi-e",
       "term": "e",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2392,7 +2457,7 @@
       ]
     },
     {
-      "id": "puumahi_ka",
+      "id": "puumahi-ka",
       "term": "ka",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2405,7 +2470,7 @@
       ]
     },
     {
-      "id": "puumahi_kua",
+      "id": "puumahi-kua",
       "term": "kua",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2418,7 +2483,7 @@
       ]
     },
     {
-      "id": "puumahi_i",
+      "id": "puumahi-i",
       "term": "i",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2431,7 +2496,7 @@
       ]
     },
     {
-      "id": "puumahi_me",
+      "id": "puumahi-me",
       "term": "me",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2444,7 +2509,7 @@
       ]
     },
     {
-      "id": "puumahi_kia",
+      "id": "puumahi-kia",
       "term": "kia",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2457,7 +2522,7 @@
       ]
     },
     {
-      "id": "puumahi_kei",
+      "id": "puumahi-kei",
       "term": "kei",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2470,7 +2535,7 @@
       ]
     },
     {
-      "id": "puumahi_he",
+      "id": "puumahi-he",
       "term": "he",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2483,7 +2548,7 @@
       ]
     },
     {
-      "id": "puumahi_ana",
+      "id": "puumahi-ana",
       "term": "ana",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2616,16 +2681,20 @@
       "id": "kupu",
       "term": "Words",
       "maoriTerm": "Kupu",
-      "shortDefinition": "The smallest grammatical unit.",
+      "shortDefinition": "The smallest independent grammatical unit.",
       "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "In te reo Māori, words generally fall into the category of being either [[ref\\|Base Words\\|tumu]] or [[ref\\|Particles\\|punga]]. There are a number of different ways to think about the differences between these words. Conceptually, base words describe things that are part of our experience: objects in the world, emotions, actions that can be taken. In contrast, particles are the \"little words\" that provide structure to sentences.\n\nGrammatically, base words are words which occupy the nucleus of a [[ref\\|Phrase\\|kiianga]] while particles are the words which occupy the peripheries.\n\nDifferent authors of grammar textbooks take different approaches to cataloguing the behaviours of words. This resource will not align perfectly with any specific text on the subject, but will pick and choose from a variety of sources. In particular, it will take the following positions:\n\n* Te reo Māori does not have a word class for [[ref\\|Adjectives\\|tuahua]]. It has sub-classes of nouns and verbs which can be used in a similar way to how adjectives are used in English but which are not a distinct adjective class. [[cite|47|Kaarena-Holmes]]\n* There are a number of words with the same spelling and pronunciation. In many cases they have related meanings. One example is the word [[word\\|kai\\|w-kai]]. {{Kai}} can be used as a verb meaning \"to eat\" but it can also be used as a noun meaning \"food\". Additionally, there is a verbal particle {{kai}} which is a variant of {{kei}} used in some dialects. Some authors take the view that some verbs can be used as nouns (or vice-versa). Others take the view that words such as {{kai}} belong to a \"universals\" class of words with multiple functions. This resource will take the position that {{kai}} (noun), {{kai}} (verb) and {{kai}} (verbal particle) are all separate words, even though some of their meanings are related."
+          "content": "In te reo Māori, words generally fall into the category of being either [[ref\\|Base Words\\|tumu]] or [[ref\\|Particles\\|punga]]. There are a number of different ways to think about the differences between these words. Conceptually, base words describe things that are part of our experience: objects in the world, emotions, actions that can be taken. In contrast, particles are the \"little words\" that provide structure to sentences.\n\nGrammatically, base words are words which occupy the nucleus of a [[ref\\|Phrase\\|kiianga]] while particles are the words which occupy the peripheries.\n\nDifferent authors of grammar textbooks take different approaches to cataloguing the behaviours of words. This resource will not align perfectly with any specific text on the subject, but will pick and choose from a variety of sources. In particular, it will take the following positions:\n\n* Te reo Māori does not have a word class for [[ref\\|Adjectives\\|tuahua]]. It has a sub-class of stative verbs which can be used in a similar way to how adjectives are used in English but which are not a distinct adjective class. [[cite|47|Kaarena-Holmes]] Although Kārena-Holmes in [[resource\\|Te Reo Māori: The Basics Explained\\|resource-9780947506698]] refers to the possibility of adjective-type nouns, these are not expanded on and won't be used as a word class by this resource.\n* There are a number of words with the same spelling and pronunciation. In many cases they have related meanings. One example is the word [[word\\|kai\\|w-kai]]. {{Kai}} can be used as a verb meaning \"to eat\" but it can also be used as a noun meaning \"food\". Additionally, there is a verbal particle {{kai}} which is a variant of {{kei}} used in some dialects. Some authors take the view that some verbs can be used as nouns (or vice-versa). Others take the view that words such as {{kai}} belong to a \"universals\" class of words with multiple functions. This resource will take the position that {{kai}} (noun), {{kai}} (verb) and {{kai}} (verbal particle) are all separate words, even though some of their meanings are related."
         },
         {
           "type": "note",
           "content": "Harlow (2001) says:\n\n> Further, there are a number of cases of **homophony**, pairs of words which are identical in form, but which have different, though often related, meanings and belong to different parts of speech. For example, *patu* meaning 'strike, kill' is a verb, but *patu* 'kind of weapon, club' is a noun; *kai* 'eat' is a verb, *kai* 'food' is a noun."
+        },
+        {
+          "type": "text",
+          "content": "* For now, this resource will classify [[ref\\|Experience Verbs\\|tuumahi-wheako]] as a subclass of [[ref\\|Transitive Verbs\\|tuumahi-whiti]] until a property of this verb class is encountered which makes this impractical. The [Te Aka entry](https://maoridictionary.co.nz/word/45394) for {{tūmahi wheako}} notes: *\"Although experience verbs function like transitive verbs (tūmahi whiti) in some ways, they differ in others.\"* while [[resource\\|Te Reo Māori: The Basics Explained\\|resource-9780947506698]] says *\"Both i and ki are used to connect a Direct Object in a sentence with a Transitive Action Verb. For most Transitive Verbs this preposition will be i, but for others (those sometimes called ‘experience verbs’) the preposition will be ki.\".*"
         }
       ]
     },
@@ -2646,6 +2715,147 @@
       "id": "rerehaanguu",
       "term": "Passive Sentences",
       "maoriTerm": "Rerehāngū",
+      "shortDefinition": "",
+      "validated": false,
+      "elements": [
+        {
+          "type": "text",
+          "content": "When a sentence is written in active voice or {{te reo hāoho}} it is structured to emphasise that the subject is performing the action described by the verb such as \"John ate the hamburger.\"\n\nWhen a sentence is written in passive voice or {{te reo hāngu}} it is structured to emphasise that the subject receives the action of the verb such as \"the hamburger was eaten by John\".\n\nThis is often described in grammatical terms as a sentence with a patient (the person or thing upon which the action is performed) and an agent (the person or thing performing the action). In a passive sentence, the emphasis is on the patient which becomes the subject of the sentence.\n\nFor example, as {{rerehāoho}} (active sentence) we might say:"
+        },
+        {
+          "type": "interactive-sentence",
+          "parts": [
+            {
+              "type": "group",
+              "label": "Verb Phrase",
+              "kind": "verb-phrase",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "Kei te kai"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Noun Phrase",
+              "kind": "noun-phrase",
+              "parts": [
+                {
+                  "type": "group",
+                  "label": "Agent",
+                  "kind": "agent",
+                  "parts": [
+                    {
+                      "type": "text",
+                      "content": " a John "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Prepositional Phrase",
+              "kind": "prepositional-phrase",
+              "parts": [
+                {
+                  "type": "group",
+                  "label": "Patient",
+                  "kind": "patient",
+                  "parts": [
+                    {
+                      "type": "text",
+                      "content": "i te hamupeka."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "translations": {
+            "Kei te kai a John i te hamupeka.": "John is eating the hamburger."
+          }
+        },
+        {
+          "type": "text",
+          "content": "To form the passive version of this sentence, we rearrange it so that it's a verbal sentence with the patient as the subject and we add a comment using the [[ref\\|agentive particle\\|puuhono-e-agentive]] {{e}}.\n\nIn the passive form, transitive and intransitive verbs are modified by appending a passive suffix to them (or in some cases changing the form more significantly). The possible forms of the passive suffix are: -a, -hanga, -hia, -hina, -ina, -kia, -kina, -mia, -na, -nga, -ngia, -ria, -rina, -tia, -whia, -whina and -ea. There are no rules about which suffix any given word takes, so as you are learning verbs it's important to also learn what their passive form is.\n\nTo make our example sentence passive, we need to know that the passive form of {{kai}} (to eat) is {{kainga}} (to be eaten). This gives us:"
+        },
+        {
+          "type": "interactive-sentence",
+          "parts": [
+            {
+              "type": "group",
+              "label": "Verb Phrase",
+              "kind": "verb-phrase",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "Kei te kainga"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Noun Phrase",
+              "kind": "noun-phrase",
+              "parts": [
+                {
+                  "type": "group",
+                  "label": "Patient",
+                  "kind": "patient",
+                  "parts": [
+                    {
+                      "type": "text",
+                      "content": " te hamupeka "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Prepositional Phrase",
+              "kind": "prepositional-phrase",
+              "parts": [
+                {
+                  "type": "group",
+                  "label": "Agent",
+                  "kind": "agent",
+                  "parts": [
+                    {
+                      "type": "text",
+                      "content": "e John."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "translations": {
+            "Kei te kainga te hamupeka e John.": "The hamburger is being eaten by John."
+          }
+        }
+      ]
+    },
+    {
+      "id": "tuumahi-wheako",
+      "term": "Experience Verbs",
+      "maoriTerm": "Tūmahi Wheako",
+      "shortDefinition": "",
+      "validated": false,
+      "elements": [
+        {
+          "type": "text",
+          "content": "Enter the main definition and explanation here."
+        }
+      ],
+      "relatedTerms": []
+    },
+    {
+      "id": "nominalisation",
+      "term": "Nominalisation",
+      "maoriTerm": "",
       "shortDefinition": "",
       "validated": false,
       "elements": [

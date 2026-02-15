@@ -316,13 +316,30 @@
     "imageSrc": "/img/9780947506698.webp",
     "imageOffset": -100,
     "blurb": "This is a nice accessible introduction to some key details of te reo Māori grammar.",
-    "description": "This is a nice accessible introduction to some key details of te reo Māori grammar.",
+    "description": "This is a nice accessible introduction to some key details of te reo Māori grammar. It is also one of the most recently released grammar references for te reo Māori and makes a number of choices about its taxonomy which better align with a modern understanding of the language than earlier grammars did.",
     "category": "learning",
     "tags": [
       "textbook",
       "grammar"
     ],
     "favourite": true,
+    "featured": false
+  },
+  {
+    "id": "resource-1771150203880",
+    "title": "Making Maori Sentences",
+    "author": "Lyndsay Head",
+    "alias": "Head",
+    "url": "https://newzealandcurriculum.tahurangi.education.govt.nz/te-whakaipurangi-rauemi---grammar-progression-tables/5637169347.p",
+    "imageSrc": "/img/0582858178.png",
+    "imageOffset": 0,
+    "blurb": "A useful introduction to Māori grammar focused on sentence patterns.",
+    "description": "Making Maori Sentences is a great introduction to Māori sentence structures and provides a handy overview of grammatical terms.",
+    "category": "learning",
+    "tags": [
+      "grammar"
+    ],
+    "favourite": false,
     "featured": false
   }
 ]
