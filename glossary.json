@@ -41,9 +41,9 @@
       "rerepaatai",
       "rerehaanguu",
       "actor-emphatic",
-      "he",
-      "kei",
-      "ko"
+      "rerenga_he",
+      "rerenga_kei",
+      "rerenga_ko"
     ],
     "aho": [
       "predicate-subject-comment"
@@ -455,31 +455,13 @@
       "id": "tuuingoa",
       "term": "Nouns",
       "maoriTerm": "Tūingoa",
-      "shortDefinition": "Words that name people, places, things, animals, or abstract concepts in te reo Māori.",
+      "shortDefinition": "Words that name people, places, things, animals, or abstract concepts.",
       "validated": false,
       "label": "noun",
       "elements": [
         {
           "type": "text",
           "content": "Nouns are the words we use to describe things, people, animals and ideas. They are the words we use for naming things. Nouns are sometimes separated into:\n\n* {{tūingoa ōkiko}} (concrete nouns) for material things like cats, trees, tables\n* {{tūingoa tūrehurehu}} (abstract nouns) for intangible things like ideas, emotions, concepts\n* {{tūmoko}} (proper nouns) for names of people, places, iwi, waka and the months"
-        },
-        {
-          "type": "example",
-          "maori": "Kei te oma te kurī.",
-          "english": "The dog is running.",
-          "explanation": "The noun \"kurī\" (dog) is a tūingoa ōkiko (concrete noun) functioning as the subject of the sentence."
-        },
-        {
-          "type": "example",
-          "maori": "He tino nui tō rātou aroha ki te whenua.",
-          "english": "Their love for the land is very great.",
-          "explanation": "The nouns \"aroha\" (love) and \"whenua\" (land) represent a tūingoa tūrehurehu (abstract noun) and a tūingoa ōkiko (concrete noun) respectively."
-        },
-        {
-          "type": "example",
-          "maori": "I haere a Mere ki Tāmaki Makaurau inanahi.",
-          "english": "Mary went to Auckland yesterday.",
-          "explanation": "The words \"Mere\" (Mary) and \"Tāmaki Makaurau\" (Auckland) are tūmoko (proper nouns) for a person and a place."
         }
       ],
       "relatedTerms": [
@@ -600,30 +582,13 @@
       "id": "tuumahi",
       "term": "Verbs",
       "maoriTerm": "Tūmahi",
+      "label":"verb",
       "shortDefinition": "Words that describe actions, occurrences, or states of being.",
-      "categoryInfo": "Part of the Base Words (Tumu) series",
-      "longDefinition": "\nTūmahi (verbs) are a fundamental type of [[ref|tumu|tumu]] (base word) in te reo Māori that express actions, occurrences, or states of being. Also known as \"kupumahi,\" they form the core of verbal phrases and sentences.\n\nA key characteristic of te reo Māori verbs is that, unlike English verbs, they do not change form to indicate tense, person, or number. Instead, [[ref|pūmahi|pumahi]] (verbal particles) such as \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" are used before the verb to indicate when and how the action takes place.\n\nTe reo Māori verbs are classified into several important categories ([[ref|see Verb Classification for detailed information|verb-classification]]):\n\n1. **[[ref|Tūmahi Whiti (Transitive Verbs)|tuumahi-whiti]]** - Describe actions that directly affect another person or thing - Take a direct object (often marked with \"i\") - Can be used in passive voice with special suffixes - Examples: tapahi (cut), whakapaipai (decorate), patu (hit)\n\n2. **[[ref|Tūmahi Poro (Intransitive Verbs)|tuumahi-poro]]** - Describe actions that don't require a direct object - The action can be completed with only one participant - Examples: moe (sleep), hīkoi (walk), takoto (lie down)\n\n3. **[[ref|Tūmahi Āhua (Stative Verbs)|tuumahi-ahua]]** - Describe emotions or attributes of people or things - Examples: pōuri (sad), riri (angry), pūhaehae (jealous)\n\n4. **[[ref|Tūmahi Oti (Neuter Verbs)|tuumahi-oti]]** - Describe the completion of an action or a state of being - Examples: mate (die/dead), pau (be consumed), pakaru (broken)\n\nUnderstanding the different classes of verbs is essential for forming grammatically \ncorrect sentences and for using appropriate verbal particles and constructions. ",
-      "label": "verb",
-      "examples": [
+      "validated": false,
+      "elements": [
         {
-          "maori": "Kei te kai a Mere i te āporo.",
-          "english": "Mary is eating the apple.",
-          "explanation": "The verb \"kai\" (eat) is a tūmahi whiti (transitive verb) with \"i te āporo\" as its direct object."
-        },
-        {
-          "maori": "Kei te moe te pēpi.",
-          "english": "The baby is sleeping.",
-          "explanation": "The verb \"moe\" (sleep) is a tūmahi poro (intransitive verb) that does not require a direct object."
-        },
-        {
-          "maori": "Kei te pōuri a Tama.",
-          "english": "Tama is sad.",
-          "explanation": "The verb \"pōuri\" (sad) is a tūmahi āhua (stative verb) describing an emotional state."
-        },
-        {
-          "maori": "Kua pakaru te wini.",
-          "english": "The window is broken.",
-          "explanation": "The verb \"pakaru\" (broken) is a tūmahi oti (neuter verb) describing a state resulting from a completed action."
+          "type": "text",
+          "content": "\nTūmahi (verbs) are a fundamental type of [[ref|tumu|tumu]] (base word) in te reo Māori that express actions, occurrences, or states of being. Also known as \"kupumahi,\" they form the core of verbal phrases and sentences.\n\nA key characteristic of te reo Māori verbs is that, unlike English verbs, they do not change form to indicate tense, person, or number. Instead, [[ref|pūmahi|pumahi]] (verbal particles) such as \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" are used before the verb to indicate when and how the action takes place.\n\nTe reo Māori verbs are classified into several important categories ([[ref|see Verb Classification for detailed information|verb-classification]]):\n\n1. **[[ref|Tūmahi Whiti (Transitive Verbs)|tuumahi-whiti]]** - Describe actions that directly affect another person or thing - Take a direct object (often marked with \"i\") - Can be used in passive voice with special suffixes - Examples: tapahi (cut), whakapaipai (decorate), patu (hit)\n\n2. **[[ref|Tūmahi Poro (Intransitive Verbs)|tuumahi-poro]]** - Describe actions that don't require a direct object - The action can be completed with only one participant - Examples: moe (sleep), hīkoi (walk), takoto (lie down)\n\n3. **[[ref|Tūmahi Āhua (Stative Verbs)|tuumahi-ahua]]** - Describe emotions or attributes of people or things - Examples: pōuri (sad), riri (angry), pūhaehae (jealous)\n\n4. **[[ref|Tūmahi Oti (Neuter Verbs)|tuumahi-oti]]** - Describe the completion of an action or a state of being - Examples: mate (die/dead), pau (be consumed), pakaru (broken)\n\nUnderstanding the different classes of verbs is essential for forming grammatically \ncorrect sentences and for using appropriate verbal particles and constructions. "
         }
       ],
       "relatedTerms": [
@@ -631,7 +596,7 @@
         "pumahi",
         "verb-classification"
       ],
-      "validated": false
+      "categoryInfo": "Part of the Base Words (Tumu) series"
     },
     {
       "id": "tuumahi-ahua",
@@ -643,30 +608,6 @@
         {
           "type": "text",
           "content": "These are verbs which are commonly used to describe emotions or attributes of people or things. This class includes words such as: pōuri, riri, pūhaehae.\n\nTūmahi āhua (stative verbs) are a distinct class of verbs in te reo Māori that describe states, conditions, emotions, or qualities rather than actions. These verbs are sometimes called \"state intransitives\" or \"neuter verbs\" in some grammars."
-        },
-        {
-          "type": "example",
-          "maori": "Kua pōuri a Hemi.",
-          "english": "James is sad.",
-          "explanation": "The stative verb \"pōuri\" (sad) describes an emotional state that James is experiencing."
-        },
-        {
-          "type": "example",
-          "maori": "He māmā te kete.",
-          "english": "The basket is light.",
-          "explanation": "The stative verb \"māmā\" (light in weight) describes a physical quality of the basket."
-        },
-        {
-          "type": "example",
-          "maori": "E hiakai ana au.",
-          "english": "I am hungry.",
-          "explanation": "The stative verb \"hiakai\" (hungry) describes a physical state with the continuous marker \"e...ana\"."
-        },
-        {
-          "type": "example",
-          "maori": "I pōuri ia i te kōrero.",
-          "english": "She was sad because of the news.",
-          "explanation": "The stative verb \"pōuri\" (sad) with the cause marked by \"i te kōrero\" (because of the news)."
         }
       ],
       "relatedTerms": [
@@ -687,30 +628,6 @@
         {
           "type": "text",
           "content": "These are verbs that don't require a direct object (a noun, pronoun or noun phrase) to act upon. The action described by the verb can be completed with only one participant such as sneezing (tihe) or sleeping (moe). The action doesn't directly act upon anyone or anything else. This includes words such as: moe, hīkoi, takoto and whiowhio.\n\nTūmahi poro (intransitive verbs) form a major category of verbs in te reo Māori.\\\nThey describe actions that do not affect another person or thing and do not require a direct object to complete their meaning. The action described by the verb can be completed with only one participant such as sneezing (tihe) or sleeping (moe). The action doesn't directly act upon anyone or anything else. This includes words such as: moe, hīkoi, takoto and whiowhio."
-        },
-        {
-          "type": "example",
-          "maori": "Kei te moe a Mere.",
-          "english": "Mary is sleeping.",
-          "explanation": "The intransitive verb \"moe\" (sleep) describes an action that Mary does without affecting any object."
-        },
-        {
-          "type": "example",
-          "maori": "I kata ngā tamariki.",
-          "english": "The children laughed.",
-          "explanation": "The intransitive verb \"kata\" (laugh) describes an action that occurs without a direct object."
-        },
-        {
-          "type": "example",
-          "maori": "Kei te kōrero ia ki te kaiako.",
-          "english": "He is talking to the teacher.",
-          "explanation": "The intransitive verb \"kōrero\" (speak) with \"ki te kaiako\" as the recipient of communication, not a direct object."
-        },
-        {
-          "type": "example",
-          "maori": "Ka haere mātou ki te hui āpōpō.",
-          "english": "We will go to the meeting tomorrow.",
-          "explanation": "The intransitive verb \"haere\" (go) with a destination indicated by \"ki\"."
         }
       ],
       "relatedTerms": [
@@ -793,30 +710,6 @@
         {
           "type": "text",
           "content": "These are verbs which describe an interaction between the participant carrying that action out and some other person or thing. This includes words such as: tapahi, whakapaipai.\n\nTransitive verbs can be used in either active or passive forms depending on the type of sentence or \"voice\" they are being used in. When used in an active sentence they are called \"tūmahi hāoho\" (active verbs) and when used in a passive sentence they are called \"tūmahi hāngū\" (passive verbs). To make an tūmahi hāoho into a tūmahi hāngū you add a special kūmuri (suffix) or whiore (tail) to the word such as in adding the suffix \"-tia\" to \"whakapai\" to get the tūmahi hāngū whakapaitia. Each tūmahi hāoho can only take a limited subset of suffixes and a dictionary is required to know which are appropriate for each word. Some tūmahi hāoho have irregular passive forms where the word is transformed more than adding a simple suffix.\n\n\\\nTūmahi whiti (transitive verbs) are a major class of verbs in te reo Māori that describe actions which affect or are directed toward another person or thing. These verbs require a direct object—someone or something that receives the action of the verb. Transitive verbs can be used in either active or passive forms depending on the type of sentence or \"voice\" they are being used in. When used in an active sentence they are called \"tūmahi hāoho\" (active verbs) and when used in a passive sentence they are called \"tūmahi hāngū\" (passive verbs). To make an tūmahi hāoho into a tūmahi hāngū you add a special kūmuri (suffix) or whiore (tail) to the word such as in adding the suffix \"-tia\" to \"whakapai\" to get the tūmahi hāngū whakapaitia. Each tūmahi hāoho can only take a limited subset of suffixes and a dictionary is required to know which are appropriate for each word. Some tūmahi hāoho have irregular passive forms where the word is transformed more than adding a simple suffix.\n\nMāori has a special construction for expressing transitive actions where the second participant (patient) is indefinite and non-specific (where the listener has no information about which particular individual is involved), for example:\n\n* Kei te ruku kōura rātou. - They are diving for crayfish. (Not a specific crayfish.)\n\nNon-specific patients form compound verbs, so the object 'kōura' is incorporated into the verb to form the compound verb \"ruku kōura\" or \"crayfish diving\"."
-        },
-        {
-          "type": "example",
-          "maori": "Kei te whakarongo a Pita i te waiata.",
-          "english": "Peter is listening to the song.",
-          "explanation": "The transitive verb \"whakarongo\" (listen) affects the direct object \"waiata\" (song), which is marked with \"i\"."
-        },
-        {
-          "type": "example",
-          "maori": "I pānui ia i te pukapuka.",
-          "english": "She read the book.",
-          "explanation": "The transitive verb \"pānui\" (read) has \"pukapuka\" (book) as its direct object."
-        },
-        {
-          "type": "example",
-          "maori": "Ka kōrerotia e Hone te reo Māori āpōpō.",
-          "english": "John will speak Māori tomorrow.",
-          "explanation": "The passive form of the transitive verb \"kōrero\" (speak) is \"kōrerotia\", shifting focus to \"te reo Māori\" while marking the agent with \"e\"."
-        },
-        {
-          "type": "example",
-          "maori": "Kei te whakamārama te kaiako i te tikanga.",
-          "english": "The teacher is explaining the meaning.",
-          "explanation": "The transitive verb \"whakamārama\" (explain) affects the direct object \"tikanga\" (meaning/custom)."
         }
       ],
       "relatedTerms": [
@@ -2077,20 +1970,88 @@
       ]
     },
     {
-      "id": "ko",
+      "id": "rerenga_ko",
       "term": "Ko Sentences",
       "maoriTerm": "",
-      "shortDefinition": "",
-      "validated": false,
+      "shortDefinition": "Identifying sentences are used to make statements about the identity of something.",
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "A basic identity or 'ko' sentence states that the first phrase of the sentence and the second phrase of the sentence are equal or the same thing.\n\n\"\\[Ko Josh\\] \\[ahau\\]\" is saying that \"Josh\" and \"Me\" refer to the same thing.\n\n\"\\[Ko Mere\\] \\[tāku hoa\\]\" is saying that \"Mere\" and \"my friend\" are both labels that apply to the same person.\n\n\"\\[Ko koe\\] \\[te tangata tika\\]\" is saying that \"you\" and \"the right person\" are the same. A basic 'ko' sentence is made up of two phrases. The first phrase is one of:\n\n* Ko \\[personal name or place name\\] - Ko Mere\n\n* Ko \\[pronoun\\] - Ko koe\n\n* Ko \\[definitive\\] \\[noun\\] - Ko te waka\n\n* Ko \\[t-class definitive\\] - Ko (t)ēnei\n\nThe second phrase is one of:\n\n* \\[definitive\\] \\[noun\\] - te wā\n\n* \\[t-class definitive\\] - (t)ēnā"
+          "content": "### Identifying Sentences with 'Ko'\n\nA simple identifying sentence using {{ko}} states that the first phrase of the sentence and the second phrase of the sentence are equal or the same thing."
+        },
+        {
+          "type": "interactive-sentence",
+          "parts": [
+            {
+              "type": "group",
+              "label": "First Phrase",
+              "kind": "phrase",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "Ko Mere"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Second Phrase",
+              "kind": "phrase",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "tāku hoa"
+                }
+              ]
+            }
+          ],
+          "translations": {
+            "Ko Mere tāku hoa": "Mere is my friend"
+          }
+        },
+        {
+          "type": "text",
+          "content": "The sentence {{Ko Mere tāku hoa}} is saying that \"Mere\" and \"my friend\" are both labels that apply to the same person."
+        },
+        {
+          "type": "interactive-sentence",
+          "parts": [
+            {
+              "type": "group",
+              "label": "First Phrase",
+              "kind": "phrase",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "Ko koe"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Second Phrase",
+              "kind": "phrase",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "te tangata tika"
+                }
+              ]
+            }
+          ],
+          "translations": {
+            "Ko koe te tangata tika": "You are the right person"
+          }
+        },
+        {
+          "type": "text",
+          "content": "\nSimilarly {{Ko koe te tangata tika}} is saying that \"you\" and \"the right person\" are the same."
         }
       ]
     },
     {
-      "id": "he",
+      "id": "rerenga_he",
       "term": "He Sentences",
       "maoriTerm": "",
       "shortDefinition": "Sentences used to say that things are part of a specific class of things.",
@@ -2172,7 +2133,7 @@
       ]
     },
     {
-      "id": "kei",
+      "id": "rerenga_kei",
       "term": "Kei Sentences",
       "maoriTerm": "",
       "shortDefinition": "",
@@ -2180,7 +2141,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "[[ref\\|Kei\\|puuwaahi-kei]] is a locative particle which introduces a locational sentence. The simplest use of {{kei}} is to describe where something is."
+          "content": "### Locative Sentences with 'Kei'\n\n[[ref\\|Kei\\|puuwaahi-kei]] is a locative particle which introduces a locational sentence. The simplest use of {{kei}} is to describe where something is."
         },
         {
           "type": "example",
