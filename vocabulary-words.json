@@ -1880,7 +1880,7 @@
       "exampleTranslation": "The food is delicious.",
       "note": "",
       "validated": true,
-      "type":"tuuingoa"
+      "type": "tuuingoa"
     },
     {
       "maori": "kai",
@@ -1891,7 +1891,7 @@
       "validated": true,
       "type": "tuumahi"
     }
-],
+  ],
   "w-kai-1": {
     "maori": "kai",
     "english": "(particle) at, on, in (of present position or time)",
@@ -2332,14 +2332,26 @@
     "note": "",
     "validated": true
   },
-  "w-kei": {
-    "maori": "kei",
-    "english": "1) present time and location preposition\n2) verbal particle for continuing present/future action",
-    "example": "Kei te tiro kē au.",
-    "exampleTranslation": "I am already looking.",
-    "note": "",
-    "validated": true
-  },
+  "w-kei": [
+    {
+      "maori": "kei",
+      "english": "present time and location preposition",
+      "example": "Kei Pōneke au.",
+      "exampleTranslation": "I am in Wellington.",
+      "note": "",
+      "validated": true,
+      "type": "puuhono"
+    },
+    {
+      "maori": "kei",
+      "english": "lest",
+      "example": "",
+      "exampleTranslation": "",
+      "note": "Precautionary particle.",
+      "validated": false,
+      "type": "puumahi"
+    }
+  ],
   "w-keke": {
     "maori": "keke",
     "english": "cake",

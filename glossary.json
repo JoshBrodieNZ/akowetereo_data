@@ -84,7 +84,7 @@
       "puuhea-nā",
       "puuhea-rā"
     ],
-    "puhono": [
+    "puuhono": [
       "possessive-prepositions",
       "puuhono-ko",
       "puuhono-me",
@@ -100,7 +100,7 @@
     "puriro": [],
     "punga": [
       "putohu",
-      "puhono",
+      "puuhono",
       "puuwaahi",
       "puriro",
       "pumahi",
@@ -211,7 +211,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "These are phrases which begin with [[ref\\|Prepositions\\|puhono]]. They add additional context such as the where, when, how, or why of the sentence. They typically function as a [[ref\\|comment\\|predicate-subject-comment]]on a [[ref\\|clause\\|aho]]."
+          "content": "These are phrases which begin with [[ref\\|Prepositions\\|puuhono]]. They add additional context such as the where, when, how, or why of the sentence. They typically function as a [[ref\\|comment\\|predicate-subject-comment]]on a [[ref\\|clause\\|aho]]."
         },
         {
           "type": "stub",
@@ -222,7 +222,7 @@
         "kiianga",
         "kiianga-tuumahi",
         "kiianga-tuuingoa",
-        "puhono",
+        "puuhono",
         "kianga-whakamahinga"
       ]
     },
@@ -887,16 +887,17 @@
         }
       ],
       "relatedTerms": [
-        "puhono",
+        "puuhono",
         "puuhea",
         "tuuingoa"
       ],
       "categoryInfo": "Part of the Nominal Particles (Pūingoa) series"
     },
     {
-      "id": "puhono",
+      "id": "puuhono",
       "term": "Prepositions",
       "maoriTerm": "Pūhono",
+      "label":"preposition",
       "shortDefinition": "Particles that show the relationship between a noun and other elements in a sentence.",
       "validated": false,
       "elements": [
@@ -1582,7 +1583,7 @@
         },
         {
           "type": "text",
-          "content": "### Transitive Verb (with Direct Object and Ki)\n\nIf the base word is a transitive verb and it has a direct object, the way you structure the command depends on whether the object takes {{i}} or {{ki}} as its [[ref\\|preposition\\|puhono]]. If it takes {{ki}} you structure the command the same way as one with an intransitive verb. "
+          "content": "### Transitive Verb (with Direct Object and Ki)\n\nIf the base word is a transitive verb and it has a direct object, the way you structure the command depends on whether the object takes {{i}} or {{ki}} as its [[ref\\|preposition\\|puuhono]]. If it takes {{ki}} you structure the command the same way as one with an intransitive verb. "
         },
         {
           "type": "example",
