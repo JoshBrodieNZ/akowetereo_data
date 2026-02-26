@@ -253,7 +253,7 @@
     "english": "what?",
     "example": "He aha tēnā?",
     "exampleTranslation": "What is that?",
-    "note": "An [[ref|interrogative word|tupatai]], used to ask questions about things.",
+    "note": "An [[ref|interrogative word|tuupaatai]], used to ask questions about things.",
     "validated": true
   },
   "w-ahakoa": {
@@ -447,6 +447,14 @@
     "exampleTranslation": "There is the house.",
     "note": "Indicates something at a distance from both speaker and listener.\n\nSee [[ref|ānei, ānā, arā|aanei-aanaa-aaraa]].",
     "validated": true
+  },
+  "w-ariariaa": {
+    "maori": "ariariā",
+    "english": "to resemble",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
   },
   "w-ariki": {
     "maori": "ariki",
@@ -965,7 +973,7 @@
     "english": "where?",
     "example": "Kei hea tō whare?",
     "exampleTranslation": "Where is your house?",
-    "note": "[[ref|Interrogative word|tupatai]] used to ask about location.",
+    "note": "[[ref|Interrogative word|tuupaatai]] used to ask about location.",
     "validated": true
   },
   "w-hee": {
@@ -1077,7 +1085,7 @@
     "english": "how many?",
     "example": "E hia ngā tangata?",
     "exampleTranslation": "How many people?",
-    "note": "[[ref|Interrogative word|tupatai]] used to ask about quantity.",
+    "note": "[[ref|Interrogative word|tuupaatai]] used to ask about quantity.",
     "validated": true
   },
   "w-hiahia": {
@@ -1127,6 +1135,14 @@
     "exampleTranslation": "We went fishing.",
     "note": "",
     "validated": true
+  },
+  "w-hiihiri": {
+    "maori": "hīhiri",
+    "english": "to long for",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
   },
   "w-hiikoi": {
     "maori": "hīkoi",
@@ -3463,6 +3479,14 @@
     "exampleTranslation": "Bring some water for me.",
     "note": "",
     "validated": true
+  },
+  "w-mauaahara": {
+    "maori": "mauāhara",
+    "english": "to hate, loath",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
   },
   "w-mauii": {
     "maori": "mauī",
@@ -8133,7 +8157,7 @@
     "english": "1) who?\n2) water\n3) juice",
     "example": "He wai māori tēnei.",
     "exampleTranslation": "This is fresh water.",
-    "note": "Has multiple meanings including water and the [[ref|interrogative|tupatai]] 'who?\"",
+    "note": "Has multiple meanings including water and the [[ref|interrogative|tuupaatai]] 'who?\"",
     "validated": true
   },
   "w-wai-raima": {
@@ -8559,6 +8583,14 @@
     "exampleTranslation": "",
     "note": "",
     "validated": true
+  },
+  "w-whakakino": {
+    "maori": "whakakino",
+    "english": "to dislike",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": false
   },
   "w-whakamaa": {
     "maori": "whakamā",

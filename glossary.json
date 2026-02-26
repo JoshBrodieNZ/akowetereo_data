@@ -10,7 +10,7 @@
       "tuuingoa",
       "tuumahi",
       "tuahua",
-      "tupatai"
+      "tuupaatai"
     ],
     "tuuingoa": [
       "common-nouns",
@@ -24,7 +24,7 @@
       "verb-classification"
     ],
     "tuahua": [],
-    "tupatai": [],
+    "tuupaatai": [],
     "tukapi": [],
     "kiianga": [
       "kiianga-tuuingoa",
@@ -99,7 +99,7 @@
     ],
     "puriro": [],
     "punga": [
-      "putohu",
+      "puutohu",
       "puuhono",
       "puuwaahi",
       "puriro",
@@ -130,7 +130,7 @@
       "rawa",
       "tonu"
     ],
-    "putohu": [
+    "puutohu": [
       "puu-tautuhi",
       "puunoa",
       "puumoko"
@@ -428,11 +428,11 @@
       "term": "Particles",
       "maoriTerm": "Punga",
       "shortDefinition": "Small words that provide grammatical information and context in te reo Māori sentences.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Punga (particles) are small but crucial elements in te reo Māori grammar. Unlike tumu (base words) which carry the core meaning, particles provide grammatical structure, context, and additional information about how the base words relate to each other. Particles typically come before or after a base word and help to: - Indicate tense, aspect, and mood \n* Show relationships between words \n* Mark location or direction \n* Identify possession \n* Structure questions \n* Link parts of sentences together The main types of particles include: \n1. [[ref\\|Pūmahi\\|pumahi]] (verbal particles) - Words like \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" that indicate when an action occurs and how it unfolds \n2. [[ref\\|Pūwāhi\\|puuwaahi]] (locative particles) - Words like \"i,\" \"hei,\" and \"kei\" used with locations \n3. [[ref\\|Pūanga\\|puuanga]] (directional particles) - Words like \"mai,\" \"atu,\" \"ake,\" and \"iho\" that show direction \n4. [[ref\\|Pūhea\\|puuhea]] (positional particles) - Words like \"nei,\" \"nā,\" and \"rā\" that show proximity \n5. [[ref\\|Pūingoa\\|puingoa]] (nominal particles) - Words like \"te,\" \"ngā,\" \"he,\" \"a,\" and \"o\" that introduce nouns \n6. [[ref\\|Pūriro\\|puriro]] (possessive particles) - Words like \"tā,\" \"tō,\" \"ā,\" and \"ō\" that indicate possession"
+          "content": "Punga (particles) are small but crucial elements in te reo Māori grammar. Unlike [[ref\\|Base Words\\|tumu]] (base words) which carry the core meaning, particles provide grammatical structure, context, and additional information about how the base words relate to each other. Particles typically come before or after a base word and help to: - Indicate tense, aspect, and mood\n\n* Show relationships between words\n* Mark location or direction\n* Identify possession\n* Structure questions\n* Link parts of sentences together\n\nThe main types of particles include:\n\n1. [[ref\\|Articles\\|puutohu]] - Words like \"te\", \"ngā\" and \"he\" which are used with [[ref\\|Common Nouns\\|common-nouns]].\n2. [[ref\\|Prepositions\\|puuhono]]\n3. [[ref\\|Locative Nouns\\|puuwaahi]] - Words like \"i,\" \"hei,\" and \"kei\" used with [[ref\\|Locative Nouns\\|tuwahi]]\n4. [[ref\\|Possessive Particles\\|puriro]] - Words like \"tā,\" \"tō,\" \"ā,\" and \"ō\" that indicate possession.\n5. [[ref\\|Verbal Particles\\|pumahi]] - Words like \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" that indicate when an action occurs and how it unfolds.\n6. [[ref\\|Adverbial Particles\\|puutuukee]]\n7. [[ref\\|Positional Particles\\|puuhea]] - Words like \"nei,\" \"nā,\" and \"rā\" that specify proximity\n8. [[ref\\|Directional Particles\\|puuanga]] - Words like \"mai,\" \"atu,\" \"ake,\" and \"iho\" that show direction\n\nThere are a range of other particles which have not been grouped into subclasses detailed in [[ref\\|Other Particles\\|other-particles]]"
         },
         {
           "type": "example",
@@ -728,35 +728,42 @@
       "categoryInfo": "Part of the Base Words (Tumu) series"
     },
     {
-      "id": "tupatai",
-      "validated": false,
+      "id": "tuupaatai",
       "term": "Interrogatives",
       "maoriTerm": "Tūpātai",
-      "categoryInfo": "Part of the Base Words (Tumu) series",
       "shortDefinition": "Words used to form questions, such as who, what, where, when, why, and how.",
-      "longDefinition": "When asking for a piece of information using a rerepātai (question sentence) these words are used in the sentence in place of the piece of information you want to obtain and which word you use makes it clear what type of information you want to be supplied with. This includes the words: wai, aha, hea, hia, pēhea, tēhea.\n\nTūpātai (interrogatives) are a category of [[ref|tumu|tumu]] (base words) in te reo Māori that are used to form questions. These question words allow speakers to seek specific information about people, things, places, times, reasons, and methods. When asking for a piece of information using a [[ref|rerepātai|rerepaatai]] (question sentence) these words are used in the sentence in place of the piece of information you want to obtain and which word you use makes it clear what type of information you want to be supplied with. This includes the words: - [[word|wai|w-wai]]\n\n* [[word|aha|w-aha]]\n\n* [[word|hea|w-hea]]\n\n* [[word|hia|w-hia]]\n\n* [[word|pēhea|w-peehea]]\n\n* [[word|tēhea|w-teehea]]/[[word|ēhea|w-eehea]]",
-      "examples": [
+      "validated": true,
+      "elements": [
         {
-          "maori": "Ko wai tō ingoa?",
-          "english": "What is your name?",
-          "explanation": "Uses \"wai\" (who) to ask about a person's name. Literally: \"Who is your name?\""
+          "type": "text",
+          "content": "Tūpātai (interrogatives) are a category of [[ref\\|tumu\\|tumu]] (base words) in te reo Māori that are used to form questions. These question words allow speakers to seek specific information about people, things, places, times, reasons, and methods. \n\nWhen asking for a piece of information using a [[ref\\|rerepātai\\|rerepaatai]] (question sentence) these words are commonly used in the sentence in place of the piece of information you want to obtain and which word you use makes it clear what type of information you want to be supplied with. This includes the words:\n\n*  [[word\\|wai\\|w-wai]]\n* [[word\\|aha\\|w-aha]]\n* [[word\\|hea\\|w-hea]]\n* [[word\\|hia\\|w-hia]]\n* [[word\\|pēhea\\|w-peehea]]\n* [[word\\|tēhea\\|w-teehea]]/[[word\\|ēhea\\|w-eehea]]"
         },
         {
+          "type": "example",
+          "maori": "Ko wai tō ingoa?",
+          "english": "What is your name?",
+          "explanation": "Uses \"wai\" (who) to ask about a person's name."
+        },
+        {
+          "type": "example",
           "maori": "Kei hea tō whare?",
           "english": "Where is your house?",
           "explanation": "Uses \"hea\" with the locative particle \"kei\" to ask about location."
         },
         {
+          "type": "example",
           "maori": "He aha te raruraru?",
           "english": "What is the problem?",
           "explanation": "Uses \"aha\" to ask about a thing or situation."
         },
         {
+          "type": "example",
           "maori": "I haere koe ki hea inanahi?",
           "english": "Where did you go yesterday?",
           "explanation": "Uses \"hea\" with the directional particle \"ki\" to ask about destination."
         },
         {
+          "type": "example",
           "maori": "Ka tae mai koe āhea?",
           "english": "When will you arrive?",
           "explanation": "Uses \"āhea\" to ask about a future time."
@@ -765,7 +772,8 @@
       "relatedTerms": [
         "kianga-patai",
         "rerenga-patai"
-      ]
+      ],
+      "categoryInfo": "Part of the Base Words (Tumu) series"
     },
     {
       "id": "puuwaahi",
@@ -878,15 +886,15 @@
       "categoryInfo": "Part of the Nominal Particles (Pūingoa) series"
     },
     {
-      "id": "putohu",
+      "id": "puutohu",
       "term": "Articles",
       "maoriTerm": "Pūtohu",
       "shortDefinition": "Particles which introduce a noun, such as te, ngā, he and a.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "## Pūtohu - Articles\n\nThese are particles which introduce a noun, such as te, ngā, he and a.\n\n### *Pū Tautuhi - Definite Article*\n\nThe definite articles in te reo Māori are 'te' and 'ngā' which often specify that we're talking about a specific instance of the noun, as well as providing context on whether it is takitahi (singular) or takitini (plural).\n\n* te ngeru (the cat)\n\n* ngā ngeru (the cats)\\\\ While te/ngā are used for singular/plural, te can also be used to introduce a generic phrase which refers to the entire class of things it precedes, as in:\n\n* Tekau heneti te utu mō te tamariki (The price for children is ten cents). ### *Pūnoa - Indefinite Article* * The indefinite article in te reo Māori is 'he' which doesn't specify any particular instance of the noun or provide any context about whether it is singular or plural.\n\n* he ngeru (a cat, cats) ### ### *Pūmoko - Proper Article* * The proper article in te reo Māori is 'a' and indicates the word which follows it is a tūmoko (proper noun).\n\n* a Mere\n\n* a Josh"
+          "content": "## Pūtohu - Articles\n\nThese are particles which introduce a noun, such as te, ngā, he and a.\n\n### *Pū Tautuhi - Definite Article*\n\nThe definite articles in te reo Māori are 'te' and 'ngā' which often specify that we're talking about a specific instance of the noun, as well as providing context on whether it is takitahi (singular) or takitini (plural).\n\n* te ngeru (the cat)\n\n* ngā ngeru (the cats)\n\nWhile te/ngā are used for singular/plural, te can also be used to introduce a generic phrase which refers to the entire class of things it precedes, as in:\n\n* Tekau heneti te utu mō te tamariki (The price for children is ten cents).\n\n### *Pūnoa - Indefinite Article*\n\nThe indefinite article in te reo Māori is 'he' which doesn't specify any particular instance of the noun or provide any context about whether it is singular or plural.\n\n* he ngeru (a cat, cats)\n\n### *Pūmoko - Proper Article*\n\nThe proper article in te reo Māori is 'a' is used with [[ref\\|Personal Nouns\\|personal-nouns]] when introducing the subject of a sentence.\n\n* a Mere\n\n* a Josh\n\nIt is also used to introduce personal names and personal [[ref\\|pronouns\\|tukapi]] when they follow {{ki}}, {{kei}}, {{i}} or {{hei}}."
         }
       ],
       "relatedTerms": []
@@ -979,11 +987,11 @@
       "term": "A/O Categories",
       "maoriTerm": "Karangatanga a/o",
       "shortDefinition": "A system for classifying relationships between possessor and possessed in te reo Māori.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "The A/O categories (karangatanga a/o) represent a fundamental concept in te reo Māori that determines which possessive particles and possessive pronouns to use when describing relationships between things. This system is based on the nature of the relationship rather than the inherent properties of the objects themselves.\n\nWhen expressing possession in te reo Māori, we must choose between:\n\n* A-category possessives: ā, tā, mā, nā\n* O-category possessives: ō, tō, mō, nō\n\nThe key principle behind this choice is not simply ownership but relates to:\n\n* Control, dominance, and independence\n* Direction of responsibility, obligation, and support\n* Whether the possessor shelters, protects, guides, or leads the possessed\n\nIt's crucial to understand that the A/O distinction describes the relationship between things, not inherent properties of the objects themselves. The same object might belong to different categories depending on the relationship being described. ### Te karangatanga 'o' (O-category)\n\n**This category generally includes:**\n\n* The land, landmarks, mountains, rivers, and homes\n* Types of shelter and sources of life\n* One's whakapapa, ancestry, and lineage\n* Those who care for you (parents, teachers, leaders)\n* People in the same generation or above\n* All types of friends (using the word \"hoa\")\n* Clothing, accessories, and adornments\n* Body parts, including mind and figurative heart\n* Thoughts, memories, knowledge\n* Feelings and emotions\n* Inherent qualities ### Te karangatanga 'a' (A-category) **This category generally includes:**\n\n* Those with less authority or lower in hierarchy than you\n* Romantic partners (except when using \"hoa\")\n* Animals (except horses used as transport), birds, fish\n* Trees and plants\n* Food and drink (except fresh water and medicine)\n* Actions, activities, jobs, and work\n* Tools, equipment, and human-made items\n\nContext is key in determining the appropriate category. For example, a house might be in the O-category when describing it as shelter for yourself, but in the A-category when referring to it as something you built for someone else."
+          "content": "The A/O categories (karangatanga a/o) represent a fundamental concept in te reo Māori that determines which possessive particles and possessive pronouns to use when describing relationships between things. This system is based on the nature of the relationship rather than the inherent properties of the objects themselves.\n\nWhen expressing possession in te reo Māori, we must choose between:\n\n* A-category possessives: ā, tā, mā, nā\n* O-category possessives: ō, tō, mō, nō\n\nThe key principle behind this choice is not simply ownership but relates to:\n\n* Control, dominance, and independence\n* Direction of responsibility, obligation, and support\n* Whether the possessor shelters, protects, guides, or leads the possessed\n\nIt's crucial to understand that the A/O distinction describes the relationship between things, not inherent properties of the objects themselves. The same object might belong to different categories depending on the relationship being described. \n\n### Te karangatanga 'o' (O-category)\n\n**This category generally includes:**\n\n* The land, landmarks, mountains, rivers, and homes\n\n* Types of shelter and sources of life\n\n* One's whakapapa, ancestry, and lineage\n\n* Those who care for you (parents, teachers, leaders)\n\n* People in the same generation or above\n\n* All types of friends (using the word \"hoa\")\n\n* Clothing, accessories, and adornments\n\n* Body parts, including mind and figurative heart\n\n* Thoughts, memories, knowledge\n\n* Feelings and emotions\n\n* Inherent qualities \n\n### Te karangatanga 'a' (A-category) \n\n  **This category generally includes:**\n\n* Those with less authority or lower in hierarchy than you\n\n* Romantic partners (except when using \"hoa\")\n\n* Animals (except horses used as transport), birds, fish\n\n* Trees and plants\n\n* Food and drink (except fresh water and medicine)\n\n* Actions, activities, jobs, and work\n\n* Tools, equipment, and human-made items\n\nContext is key in determining the appropriate category. For example, a house might be in the O-category when describing it as shelter for yourself, but in the A-category when referring to it as something you built for someone else."
         },
         {
           "type": "example",
@@ -1204,7 +1212,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "Demonstrative [[ref|determiners|pumau]] play a vital role in indicating location or position relative to the speaker and listener, helping to specify which object or entity is being referred to in discourse.\n\n## Position Definitives\n\n| Singular | Plural | Meaning |\n| --- | --- | --- |\n| tēnei | ēnei | this/these (near the speaker) |\n| tēnā | ēnā | that/those (near the listener) |\n| tērā | ērā | that/those (distant from both) |\n\nThese position definitives specify the location of objects relative to the conversation participants.\n\n### Structure of Position Definitives\n\nPosition definitives are composed of two elements:\n\n1. **[[ref|Pū tautuhi|putohu]]** (definite article): \"te\"\n\n2. **[[ref|Pūhea|puuhea]]** (positional particle): \"nei\"/\"nā\"/\"rā\"\n\nThese components can be used together as a single word (tēnei, tēnā, tērā) or separated to surround a noun:\n\n* te [noun] nei (singular, near speaker)\n\n* te [noun] nā (singular, near listener)\n\n* te [noun] rā (singular, distant)\n\n* ngā [noun] nei (plural, near speaker)\n\n* ngā [noun] nā (plural, near listener)\n\n* ngā [noun] rā (plural, distant)\n\nExample of both forms used in a sentence: *Ka mihi atu ki a koutou katoa, e tautoko ana i te kaupapa nei, i tēnei pō.* \"Greetings to all of you who are supporting this purpose/initiative, on this night.\"\n\n## **Reference Definitives**\n\n**[T]aua** is a special demonstrative that refers to something already established in context. Unlike other demonstratives, it must be paired with a noun to function properly:\n\n* taua āporo (that apple I mentioned earlier)\n\n* aua pene (those pens we were talking about)\n\nIt serves as an &lt;a target=\"*blank\" rel=\"noopener noreferrer nofollow\" class=\"editor-link\" href=\"https://en.wikipedia.org/wiki/Anaphora*(linguistics)\"&gt;anaphoric &lt;/a&gt;reference to previously mentioned topics.\n\n## Specifying Definitives\n\n**[T]ētahi** functions as an indefinite determiner meaning \"a,\" \"some,\" or \"certain ones.\" It can introduce a previously unmentioned entity or refer to a subset of a larger group:\n\n*I rongo rātau i tētahi iwi e kōrerorero ana i roto o te kohu o te maunga.* \"They heard some people talking from within the mist on the mountain.\""
+          "content": "Demonstrative [[ref|determiners|pumau]] play a vital role in indicating location or position relative to the speaker and listener, helping to specify which object or entity is being referred to in discourse.\n\n## Position Definitives\n\n| Singular | Plural | Meaning |\n| --- | --- | --- |\n| tēnei | ēnei | this/these (near the speaker) |\n| tēnā | ēnā | that/those (near the listener) |\n| tērā | ērā | that/those (distant from both) |\n\nThese position definitives specify the location of objects relative to the conversation participants.\n\n### Structure of Position Definitives\n\nPosition definitives are composed of two elements:\n\n1. **[[ref|Pū tautuhi|puutohu]]** (definite article): \"te\"\n\n2. **[[ref|Pūhea|puuhea]]** (positional particle): \"nei\"/\"nā\"/\"rā\"\n\nThese components can be used together as a single word (tēnei, tēnā, tērā) or separated to surround a noun:\n\n* te [noun] nei (singular, near speaker)\n\n* te [noun] nā (singular, near listener)\n\n* te [noun] rā (singular, distant)\n\n* ngā [noun] nei (plural, near speaker)\n\n* ngā [noun] nā (plural, near listener)\n\n* ngā [noun] rā (plural, distant)\n\nExample of both forms used in a sentence: *Ka mihi atu ki a koutou katoa, e tautoko ana i te kaupapa nei, i tēnei pō.* \"Greetings to all of you who are supporting this purpose/initiative, on this night.\"\n\n## **Reference Definitives**\n\n**[T]aua** is a special demonstrative that refers to something already established in context. Unlike other demonstratives, it must be paired with a noun to function properly:\n\n* taua āporo (that apple I mentioned earlier)\n\n* aua pene (those pens we were talking about)\n\nIt serves as an &lt;a target=\"*blank\" rel=\"noopener noreferrer nofollow\" class=\"editor-link\" href=\"https://en.wikipedia.org/wiki/Anaphora*(linguistics)\"&gt;anaphoric &lt;/a&gt;reference to previously mentioned topics.\n\n## Specifying Definitives\n\n**[T]ētahi** functions as an indefinite determiner meaning \"a,\" \"some,\" or \"certain ones.\" It can introduce a previously unmentioned entity or refer to a subset of a larger group:\n\n*I rongo rātau i tētahi iwi e kōrerorero ana i roto o te kohu o te maunga.* \"They heard some people talking from within the mist on the mountain.\""
         }
       ],
       "relatedTerms": []
@@ -1484,7 +1492,7 @@
         },
         {
           "type": "text",
-          "content": "### Interrogatives\n\nTe reo Māori has a series of words with a similar function to English's \"who\", \"what\", \"where\", \"when\", etc. These [[ref\\|interrogative\\|tupatai]]words are used in questions when you are trying to obtain a specific piece of information. As a general rule, the specific interrogative you use depends on the piece of information you wish to obtain and what part of speech the answer is expected to be."
+          "content": "### Interrogatives\n\nTe reo Māori has a series of words with a similar function to English's \"who\", \"what\", \"where\", \"when\", etc. These [[ref\\|interrogative\\|tuupaatai]]words are used in questions when you are trying to obtain a specific piece of information. As a general rule, the specific interrogative you use depends on the piece of information you wish to obtain and what part of speech the answer is expected to be."
         },
         {
           "type": "example",
@@ -1507,7 +1515,7 @@
       ],
       "relatedTerms": [
         "rerenga",
-        "tupatai",
+        "tuupaatai",
         "rerewhakahau"
       ],
       "categoryInfo": "Part of the Sentences (Rerenga) series"
@@ -2225,12 +2233,32 @@
       "id": "tohutau",
       "term": "Numerals",
       "maoriTerm": "Tohutau",
-      "shortDefinition": "",
-      "validated": false,
+      "shortDefinition": "Numerals in te reo Māori act as stative verbs.",
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Enter the main definition and explanation here."
+          "content": "An interesting feature of te reo Māori is that its numerals act as verbs and are used with [[ref\\|Verbal Particles\\|pumahi]]. It can be helpful to think of words like {{rua}} (two) as being a verb which means \"to be two in number\" in a sentence such as:\n\n* E whā ngā rama (there are four lights)\n\nIn this sentence, {{ngā rama}} (lights) is the subject and {{e whā}} is a verb phrase which can be considered to mean \"are four in number\".\n\nThe numbers 1 to 10 are: [[word\\|tahi\\|w-tahi]], [[word\\|rua\\|w-rua]], [[word\\|toru\\|w-toru]], [[word\\|whā\\|w-whaa]], [[word\\|rima\\|w-rima]], [[word\\|ono\\|w-ono]], [[word\\|whitu\\|w-whitu]], [[word\\|waru\\|w-waru]], [[word\\|iwa\\|w-iwa]], [[word\\|tahi\\|w-tekau]].\n\nThe numbers 1 and 10 both get special treatment when used to count things. The word {{tahi}} is prefixed with {{ko}} to become [[word\\|kotahi\\|w-kotahi]] and {{e}} is not used with it. The verbal particle {{e}} is also omitted when saying there are ten of something."
+        },
+        {
+          "type": "example",
+          "maori": "Kotahi te ngeru.",
+          "english": "There is one cat.",
+          "explanation": ""
+        },
+        {
+          "type": "example",
+          "maori": "Tekau ngā manu.",
+          "english": "There are ten birds.",
+          "explanation": "Explain how this example demonstrates the concept."
+        },
+        {
+          "type": "note",
+          "content": "The omission of {{e}} before {{tekau}} and {{kotahi}} is consistent with the use of {{e}} in commands or as a term of address. If the nucleus of the phrase is more than two [[ref\\|morae\\|mora]] long, it does not get prefixed with {{e}}."
+        },
+        {
+          "type": "text",
+          "content": "Numbers between 10 and 100 are constructed by specifying the number of tens and the number of ones, linked with {{mā}}.\n\n* {{Tekau mā tahi}} (11)\n* {{Tekau mā rua}} (12)\n* {{Rua tekau mā tahi}} (21)\n\nIf the first word in the number is less than two [[ref\\|morae\\|mora]] long, it gets prefixed with {{e}} when used to count things:\n\n* {{E rua tekau mā tahi ngā tūru}} (There are 21 chairs)\n\nNumbers in the hundreds are constructed by specifying the number of hundreds, followed by a pause and then the numbers 1-99 as constructed above, following the same rules for whether or not to apply the particle {{e}}:\n\n* {{Kotahi rau ngā rākau}} (There are 100 trees)\n* {{E rua rau, rima tekau mā whā ngā rīwai}} (There are two hundred and fifty four potatoes)"
         }
       ]
     },
@@ -2903,12 +2931,12 @@
       "id": "tuumahi-wheako",
       "term": "Experience Verbs",
       "maoriTerm": "Tūmahi Wheako",
-      "shortDefinition": "",
-      "validated": false,
+      "shortDefinition": "Verbs which describe experience or perception and generally use ki instead of i.",
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Enter the main definition and explanation here."
+          "content": "Experience Verbs are a subset of [[ref\\|Transitive Verbs\\|tuumahi-whiti]] which describe experience or perception. They are notable in that they usually take {{ki}} as a particle, with the exception of [[word\\|rongo\\|w-rongo]] and [[word\\|kite\\|w-kite]] which takes {{i}}.\n\nThe list of experience verbs can be practiced using [[vocab\\|Experience Verbs\\|experience-verbs]]."
         }
       ],
       "relatedTerms": []
