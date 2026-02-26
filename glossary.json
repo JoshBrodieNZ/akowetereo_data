@@ -456,12 +456,12 @@
       "term": "Nouns",
       "maoriTerm": "Tūingoa",
       "shortDefinition": "Words that name people, places, things, animals, or abstract concepts.",
-      "validated": false,
+      "validated": true,
       "label": "noun",
       "elements": [
         {
           "type": "text",
-          "content": "Nouns are the words we use to describe things, people, animals and ideas. They are the words we use for naming things. Nouns are sometimes separated into:\n\n* {{tūingoa ōkiko}} (concrete nouns) for material things like cats, trees, tables\n* {{tūingoa tūrehurehu}} (abstract nouns) for intangible things like ideas, emotions, concepts\n* {{tūmoko}} (proper nouns) for names of people, places, iwi, waka and the months"
+          "content": "Nouns are the words we use to describe things, people, animals and ideas. They are the words we use for naming things.\n\nA phrase where the head word is a noun is called a [[ref\\|Noun Phrases\\|kiianga-tuuingoa]].\n\nNouns include:\n\n* [[ref\\|Common Nouns\\|common-nouns]] are the words we use to name all of the things which are part of our experience, whether these are physical objects in the world or emotions and feelings.\n* [[ref\\|Personal Nouns\\|personal-nouns]] include the names of people, iwi, waka and the months of the year\n  * [[ref\\|Pronouns\\|tukapi]] are words such as \"you\", \"me\", \"them\" or \"it\" which we use to replace the names of other people or things in a sentence\n* [[ref\\|Locative Nouns\\|tuwahi]] include the names of locations as well as a collection of words which describe specific locations in space or time, or locations relative to other things such as \"on top of the table\".\n\nOther terms you might hear relating to nouns are:\n\n* {{tūingoa ōkiko}} (concrete nouns) are common nouns for material things like cats, trees, tables\n* {{tūingoa tūrehurehu}} (abstract nouns) are common nouns for intangible things like ideas, emotions, concepts\n* {{tūmoko}} (proper nouns) for names of people or places, which overlaps with both Personal Nouns and Locative Nouns"
         }
       ],
       "relatedTerms": [
@@ -479,31 +479,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "Tūwāhi (locative nouns) are a special class of nouns in te reo Māori that specify location or position in space. They describe where something is in relation to a reference point, such as above, below, inside, or outside. Unlike regular nouns, locative nouns typically appear in [[ref\\|prepositional phrases\\|kiianga-puuhono]] and are usually preceded by [[ref\\|particles\\|punga]] such as \"i,\" \"ki,\" or \"kei\" to form expressions of location. Common locative nouns include:\n\n* runga - on top, above, south\n\n* raro - under, underneath, below, north\n\n* roto - in, inside\n\n* waho - out, outside\n\n* mua - in front, at the front, before\n\n* muri - behind, at the back\n\n* waenganui &lt;noun 1&gt; i &lt;noun 2&gt; (optional me &lt;noun 3&gt;) - in the middle, between, among\n\n* te taha mauī &lt;noun 1&gt; o &lt;noun 2&gt; - on the left side of noun 2\n\n* te taha matau &lt;noun 1&gt; o &lt;noun 2&gt; - on the right side of noun 2\n\n* tua - beyond, the other side (of a solid object)\n\n* tāwāhi - beyond, the other side (of an open space)\n\n* Locatives which describe somewhere in relation to the speaker/writer:\n\n*  uta - ashore (while at sea), inland (while on the coast)\n\n* tai - at sea (while on shore), on the coast (while inland)\n\n* tawhiti - in the distance\n\n* konei - here (where I am, in this place)\n\n* konā - there (where you are, in that place)\n\n* korā, kō - there (away from us, in that other place)\n\n* reira - there (in that place we've been talking about)"
-        },
-        {
-          "type": "example",
-          "maori": "Kei runga i te tēpu te pukapuka.",
-          "english": "The book is on top of the table.",
-          "explanation": "The locative noun \"runga\" indicates the position (on top) relative to the reference object (the table)."
-        },
-        {
-          "type": "example",
-          "maori": "I haere ia ki roto i te whare.",
-          "english": "He/she went inside the house.",
-          "explanation": "The locative noun \"roto\" indicates movement to the interior of the reference object (the house)."
-        },
-        {
-          "type": "example",
-          "maori": "Kei muri i a koe te kurī.",
-          "english": "The dog is behind you.",
-          "explanation": "The locative noun \"muri\" indicates position (behind) relative to the reference point (you)."
-        },
-        {
-          "type": "example",
-          "maori": "Kei konei tātou e hui ana.",
-          "english": "We are meeting here.",
-          "explanation": "The locative noun \"konei\" indicates the location where the speaker is currently situated."
+          "content": "Tūwāhi (locative nouns) are a class of nouns which include place names, as well as a special group of nouns that specify location or position in space. They describe where something is in relation to a reference point, such as above, below, inside, or outside. Locative nouns often appear in [[ref\\|prepositional phrases\\|kiianga-puuhono]] and can be preceded by [[ref\\|Locative Particles\\|puuwaahi]] such as \"i,\" \"ki,\" or \"kei\" to form expressions of location. \n\nCommon locative nouns include:\n\n* runga - on top, above, south\n\n* raro - under, underneath, below, north\n\n* roto - in, inside\n\n* waho - out, outside\n\n* mua - in front, at the front, before\n\n* muri - behind, at the back\n\n* waenganui &lt;noun 1&gt; i &lt;noun 2&gt; (optional me &lt;noun 3&gt;) - in the middle, between, among\n\n* te taha mauī &lt;noun 1&gt; o &lt;noun 2&gt; - on the left side of noun 2\n\n* te taha matau &lt;noun 1&gt; o &lt;noun 2&gt; - on the right side of noun 2\n\n* tua - beyond, the other side (of a solid object)\n\n* tāwāhi - beyond, the other side (of an open space)\n\n* Locatives which describe somewhere in relation to the speaker/writer:\n\n* uta - ashore (while at sea), inland (while on the coast)\n\n* tai - at sea (while on shore), on the coast (while inland)\n\n* tawhiti - in the distance\n\n* konei - here (where I am, in this place)\n\n* konā - there (where you are, in that place)\n\n* korā, kō - there (away from us, in that other place)\n\n* reira - there (in that place we've been talking about)"
         }
       ],
       "relatedTerms": [
@@ -517,35 +493,11 @@
       "term": "Pronouns",
       "maoriTerm": "Tūkapi",
       "shortDefinition": "Words that substitute for nouns or noun phrases, conveying person, number, and inclusivity/exclusivity.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
           "content": "Pronouns are words such as \"he\", \"she\" or \"them\" that take the place of nouns or noun phrases. Tūkapi (pronouns) in te reo Māori are an important class of [[ref\\|tumu\\|tumu]] (base words) that communicate a significant amount of contextual information within a compact form. They convey different information than those in English.\n\nThey distinguish:\n\n1. Person - Whether you're talking about:\n\n* {{Kiritūnei}} (first person) - the speaker - \"I/we\"\n* {{Kiritūnei}} (second person) - the listener - \"you\"\n* {{Kiritūrā}} (third person) - someone else - \"he/she/they\"\n\n2. Number - Whether you're referring to:\n\n* {{Takitahi}} (singular) - one person\n* {{Takirua}} (dual) - two people\n* {{Takitini}} (plural) - three or more people\n\n3. Inclusivity/Exclusivity: For first person dual and plural, whether:\n\n* {{Kauawhi}} (inclusive) - including the listener (\"you and I\"/\"you and us\")\n* {{Kaupare}} (exclusive) - excluding the listener (\"someone else and I\"/\"others and I\")\n\nUsing these terms to create the reo Māori term for the first person exclusive dual pronoun as an example would give you: {{tūkapi kaupare kiritūnei takirua}}.\n\nThis creates a more detailed pronoun system than in English. The full set of personal pronouns is:\n\n|  | takitahi (singular) | takirua (dual) | takitini (plural) |\n| --- | --- | --- | --- |\n| tūkapi kauawhi kiritūnei *first person inclusive pronoun* |  | [[word\\|tāua\\|w-taaua]] | [[word\\|tātou\\|w-taatou]] |\n| tūkapi kaupare kiritūnei *first person exclusive pronoun* | [[word\\|au\\|w-au]], [[word\\|ahau\\|w-ahau]] | [[word\\|māua\\|w-maaua]] | [[word\\|mātou\\|w-maatou]] |\n| tūkapi kiritūnā second person pronoun | [[word\\|koe\\|w-koe]] | [[word\\|kōrua\\|w-koorua]] | [[word\\|koutou\\|w-koutou]] |\n| tūkapi kiritūrā third person pronoun | [[word\\|ia\\|w-ia]] | [[word\\|rāua\\|w-raaua]] | [[word\\|rātou\\|w-raatou]] |\n"
-        },
-        {
-          "type": "example",
-          "maori": "Kei te haere au ki te kura.",
-          "english": "I am going to school.",
-          "explanation": "The pronoun \"au\" is first person singular (I)."
-        },
-        {
-          "type": "example",
-          "maori": "Kei hea kōrua?",
-          "english": "Where are you two?",
-          "explanation": "The pronoun \"kōrua\" is second person dual (you two)."
-        },
-        {
-          "type": "example",
-          "maori": "Ka haere tātou ki te hui.",
-          "english": "We (including you) will go to the meeting.",
-          "explanation": "The pronoun \"tātou\" is first person plural inclusive, meaning \"we\" including the person being spoken to."
-        },
-        {
-          "type": "example",
-          "maori": "Ka haere mātou ki te hui.",
-          "english": "We (not including you) will go to the meeting.",
-          "explanation": "The pronoun \"mātou\" is first person plural exclusive, meaning \"we\" excluding the person being spoken to."
         },
         {
           "type": "text",
@@ -582,13 +534,13 @@
       "id": "tuumahi",
       "term": "Verbs",
       "maoriTerm": "Tūmahi",
-      "label":"verb",
+      "label": "verb",
       "shortDefinition": "Words that describe actions, occurrences, or states of being.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "\nTūmahi (verbs) are a fundamental type of [[ref|tumu|tumu]] (base word) in te reo Māori that express actions, occurrences, or states of being. Also known as \"kupumahi,\" they form the core of verbal phrases and sentences.\n\nA key characteristic of te reo Māori verbs is that, unlike English verbs, they do not change form to indicate tense, person, or number. Instead, [[ref|pūmahi|pumahi]] (verbal particles) such as \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" are used before the verb to indicate when and how the action takes place.\n\nTe reo Māori verbs are classified into several important categories ([[ref|see Verb Classification for detailed information|verb-classification]]):\n\n1. **[[ref|Tūmahi Whiti (Transitive Verbs)|tuumahi-whiti]]** - Describe actions that directly affect another person or thing - Take a direct object (often marked with \"i\") - Can be used in passive voice with special suffixes - Examples: tapahi (cut), whakapaipai (decorate), patu (hit)\n\n2. **[[ref|Tūmahi Poro (Intransitive Verbs)|tuumahi-poro]]** - Describe actions that don't require a direct object - The action can be completed with only one participant - Examples: moe (sleep), hīkoi (walk), takoto (lie down)\n\n3. **[[ref|Tūmahi Āhua (Stative Verbs)|tuumahi-ahua]]** - Describe emotions or attributes of people or things - Examples: pōuri (sad), riri (angry), pūhaehae (jealous)\n\n4. **[[ref|Tūmahi Oti (Neuter Verbs)|tuumahi-oti]]** - Describe the completion of an action or a state of being - Examples: mate (die/dead), pau (be consumed), pakaru (broken)\n\nUnderstanding the different classes of verbs is essential for forming grammatically \ncorrect sentences and for using appropriate verbal particles and constructions. "
+          "content": "Tūmahi (verbs) are a fundamental type of [[ref\\|tumu\\|tumu]] (base word) in te reo Māori that express actions, occurrences, or states of being. Also known as \"kupumahi,\" they form the core of verbal phrases and sentences.\n\nIn English, verbs are generally considered \"doing words\". We have a special verb \"to be\" which we use when we want to describe the properties of something. For example, in its present tense for \"is\" we might say \"the window is broken\". In te reo Māori, there is no equivalent for the verb \"to be\" and instead verbs can be either \"doing words\" or \"being words\". Stative verbs (our \"being words\") can be considered to contain an implicit \"is\".\n\nConsider for example the stative verb {{hiakai}} (to be hungry). In English, you might say \"John is hungry\". In te reo Māori, you could say {{E hiakai ana a Hōne}} (John/Hōne is hungry). This is a verbal sentence where the action Hōne is performing is \"being hungry\".\n\nA key characteristic of te reo Māori verbs is that, unlike English verbs, they do not change form to indicate tense, person, or number. Instead, [[ref\\|pūmahi\\|pumahi]] (verbal particles) such as \"ka,\" \"kua,\" \"i,\" \"e...ana,\" and \"kei te\" are used before the verb to indicate when and how the action takes place.\n\nTe reo Māori verbs are classified into several important categories ([[ref\\|see Verb Classification for detailed information\\|verb-classification]]):\n\n* **[[ref\\|Tūmahi Whiti (Transitive Verbs)\\|tuumahi-whiti]]** - Describe actions that directly affect another person or thing - Take a direct object (often marked with \"i\") - Can be used in passive voice with special suffixes - Examples: tapahi (cut), whakapaipai (decorate), patu (hit)\n  * [[ref\\|Experience Verbs\\|tuumahi-wheako]] are a subclass of Transitive Verb which describe experience or perception.\n* **[[ref\\|Tūmahi Poro (Intransitive Verbs)\\|tuumahi-poro]]** - Describe actions that don't require a direct object - The action can be completed with only one participant - Examples: moe (sleep), hīkoi (walk), takoto (lie down)\n* **[[ref\\|Tūmahi Āhua (Stative Verbs)\\|tuumahi-ahua]]** - Describe emotions, attributes or states of people or things - Examples: pōuri (sad), riri (angry), pūhaehae (jealous)\n\nSome grammars recognise another class of verb called Neuter Verbs. In this resource, we will consider these to be a subclass of stative verb as described in [[ref\\|Verb Taxonomy Background\\|verb-taxonomy-background]]."
         }
       ],
       "relatedTerms": [
@@ -603,11 +555,15 @@
       "term": "Stative Verbs",
       "maoriTerm": "Tūmahi Āhua",
       "shortDefinition": "Verbs that describe states, conditions, emotions, or qualities rather than actions.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "These are verbs which are commonly used to describe emotions or attributes of people or things. This class includes words such as: pōuri, riri, pūhaehae.\n\nTūmahi āhua (stative verbs) are a distinct class of verbs in te reo Māori that describe states, conditions, emotions, or qualities rather than actions. These verbs are sometimes called \"state intransitives\" or \"neuter verbs\" in some grammars."
+          "content": "These are verbs which are commonly used to describe emotions or attributes of people or things.\n\nTūmahi āhua (stative verbs) are a distinct class of verbs in te reo Māori that describe states, conditions, emotions, or qualities rather than actions. These verbs are sometimes called \"state intransitives\" or \"neuter verbs\" in some grammars."
+        },
+        {
+          "type": "stub",
+          "content": "This section is under construction."
         }
       ],
       "relatedTerms": [
@@ -623,11 +579,15 @@
       "term": "Intransitive Verbs",
       "maoriTerm": "Tūmahi Poro",
       "shortDefinition": "Verbs that describe actions that do not affect another person or thing and do not require a direct object.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "These are verbs that don't require a direct object (a noun, pronoun or noun phrase) to act upon. The action described by the verb can be completed with only one participant such as sneezing (tihe) or sleeping (moe). The action doesn't directly act upon anyone or anything else. This includes words such as: moe, hīkoi, takoto and whiowhio.\n\nTūmahi poro (intransitive verbs) form a major category of verbs in te reo Māori.\\\nThey describe actions that do not affect another person or thing and do not require a direct object to complete their meaning. The action described by the verb can be completed with only one participant such as sneezing (tihe) or sleeping (moe). The action doesn't directly act upon anyone or anything else. This includes words such as: moe, hīkoi, takoto and whiowhio."
+          "content": "These are verbs that don't require a direct object (a noun, pronoun or noun phrase) to act upon. The action described by the verb can be completed with only one participant such as sneezing (tihe) or sleeping (moe). The action doesn't directly act upon anyone or anything else."
+        },
+        {
+          "type": "stub",
+          "content": "This section is under construction."
         }
       ],
       "relatedTerms": [
@@ -705,11 +665,15 @@
       "term": "Transitive Verbs",
       "maoriTerm": "Tūmahi Whiti",
       "shortDefinition": "Verbs that describe an action affecting someone or something else, requiring a direct object.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "These are verbs which describe an interaction between the participant carrying that action out and some other person or thing. This includes words such as: tapahi, whakapaipai.\n\nTransitive verbs can be used in either active or passive forms depending on the type of sentence or \"voice\" they are being used in. When used in an active sentence they are called \"tūmahi hāoho\" (active verbs) and when used in a passive sentence they are called \"tūmahi hāngū\" (passive verbs). To make an tūmahi hāoho into a tūmahi hāngū you add a special kūmuri (suffix) or whiore (tail) to the word such as in adding the suffix \"-tia\" to \"whakapai\" to get the tūmahi hāngū whakapaitia. Each tūmahi hāoho can only take a limited subset of suffixes and a dictionary is required to know which are appropriate for each word. Some tūmahi hāoho have irregular passive forms where the word is transformed more than adding a simple suffix.\n\n\\\nTūmahi whiti (transitive verbs) are a major class of verbs in te reo Māori that describe actions which affect or are directed toward another person or thing. These verbs require a direct object—someone or something that receives the action of the verb. Transitive verbs can be used in either active or passive forms depending on the type of sentence or \"voice\" they are being used in. When used in an active sentence they are called \"tūmahi hāoho\" (active verbs) and when used in a passive sentence they are called \"tūmahi hāngū\" (passive verbs). To make an tūmahi hāoho into a tūmahi hāngū you add a special kūmuri (suffix) or whiore (tail) to the word such as in adding the suffix \"-tia\" to \"whakapai\" to get the tūmahi hāngū whakapaitia. Each tūmahi hāoho can only take a limited subset of suffixes and a dictionary is required to know which are appropriate for each word. Some tūmahi hāoho have irregular passive forms where the word is transformed more than adding a simple suffix.\n\nMāori has a special construction for expressing transitive actions where the second participant (patient) is indefinite and non-specific (where the listener has no information about which particular individual is involved), for example:\n\n* Kei te ruku kōura rātou. - They are diving for crayfish. (Not a specific crayfish.)\n\nNon-specific patients form compound verbs, so the object 'kōura' is incorporated into the verb to form the compound verb \"ruku kōura\" or \"crayfish diving\"."
+          "content": "Tūmahi whiti (transitive verbs) are a class of verbs in te reo Māori that describe an interaction between the participant carrying that action out and some other person or thing. \n\n### Passive Voice\n\nTransitive verbs can be used in either active or passive forms depending on the type of sentence or \"voice\" they are being used in. When used in an active sentence they are called \"tūmahi hāoho\" (active verbs) and when used in a passive sentence they are called \"tūmahi hāngū\" (passive verbs). To make an tūmahi hāoho into a tūmahi hāngū you add a special kūmuri (suffix) or whiore (tail) to the word such as in adding the suffix \"-tia\" to \"whakapai\" to get the tūmahi hāngū whakapaitia. Each tūmahi hāoho can only take a limited subset of suffixes and a dictionary is required to know which are appropriate for each word. Some tūmahi hāoho have irregular passive forms where the word is transformed more than adding a simple suffix.\n\n### Object Incorporation\n\nMāori has a special construction for expressing transitive actions where the second participant (patient) is indefinite and non-specific (where the listener has no information about which particular individual is involved), for example:\n\n* Kei te ruku kōura rātou. - They are diving for crayfish. (Not a specific crayfish.)\n\nNon-specific patients form compound verbs, so the object 'kōura' is incorporated into the verb to form the compound verb \"ruku kōura\" or \"crayfish diving\"."
+        },
+        {
+          "type": "stub",
+          "content": "This section is under construction."
         }
       ],
       "relatedTerms": [
@@ -726,11 +690,11 @@
       "term": "Adjectives",
       "maoriTerm": "Tūāhua",
       "shortDefinition": "Words that describe or modify nouns, indicating qualities or attributes.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Tūāhua (adjectives) are considered by some grammars to be a category of tumu (base words) in te reo Māori that describe the qualities, attributes, or characteristics of nouns. They help to provide more detailed information about people, places, objects, or concepts. Although some authorities take the view that words such as [[word\\|pai\\|w-pai]] should be considered to be adjectives, we'll be taking the view detailed in [[resource\\|Te Reo Māori: The Basics Explained\\|resource-9780947506698]] which is that some verbs and nouns can be used adjectivally, but that it's not necessary to consider these to be adjectives.\n\nQualities that would be expressed as adjectives in English are expressed as [[ref\\|tūmahi āhua\\|tuumahi-ahua]] (stative verbs) in te reo Māori."
+          "content": "Tūāhua (adjectives) are considered by some grammars to be a category of [[ref\\|Base Words\\|tumu]] in te reo Māori that describe the qualities, attributes, or characteristics of nouns. They help to provide more detailed information about people, places, objects, or concepts. Although some authorities take the view that words such as [[word\\|pai\\|w-pai]] should be considered to be adjectives, we'll be taking the view detailed in [[resource\\|Te Reo Māori: The Basics Explained\\|resource-9780947506698]] which is that some verbs and nouns can be used adjectivally, but that it's not necessary to consider these to be adjectives.\n\nQualities that would be expressed as adjectives in English are expressed as [[ref\\|tūmahi āhua\\|tuumahi-ahua]] (stative verbs) in te reo Māori. This position is further covered in [[ref\\|Opinionated Positions\\|opinionated-positions]] and [[ref\\|Verb Taxonomy Background\\|verb-taxonomy-background]]."
         },
         {
           "type": "example",
@@ -897,7 +861,7 @@
       "id": "puuhono",
       "term": "Prepositions",
       "maoriTerm": "Pūhono",
-      "label":"preposition",
+      "label": "preposition",
       "shortDefinition": "Particles that show the relationship between a noun and other elements in a sentence.",
       "validated": false,
       "elements": [
@@ -2275,11 +2239,15 @@
       "term": "Personal Nouns",
       "maoriTerm": "",
       "shortDefinition": "",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Enter the main definition and explanation here."
+          "content": "Personal nouns include the names of people, waka, iwi and the months of the year."
+        },
+        {
+          "type": "stub",
+          "content": "This section is under construction."
         }
       ]
     },
@@ -2287,12 +2255,12 @@
       "id": "common-nouns",
       "term": "Common Nouns",
       "maoriTerm": "",
-      "shortDefinition": "",
-      "validated": false,
+      "shortDefinition": "Words used to name the objects, feelings and concepts we experience.",
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Enter the main definition and explanation here."
+          "content": "Common nouns can be separated into two categories:\n\n* {{Tūingoa Ōkiko}} (Concrete Nouns) for material things like cats, trees, tables.\n* {{Tūingoa Tūrehurehu}} (Abstract Nouns) for intangible things like ideas, emotions, concepts\n\nUnlike [[ref\\|Personal Nouns\\|personal-nouns]] and [[ref\\|Locative Nouns\\|tuwahi]], common nouns are those which can be introduced with a [[ref\\|Determiners\\|pumau]] such as {{te}}, {{ngā}}, {{tētahi}}, etc.\n\n[[resource\\|Te Reo Māori: The Basics Explained\\|resource-9780947506698]] classifies common nouns as \"*those base words that may be directly preceded by the definite article — te — but which are not used as verbs*\". In this resource, for words such as {{hīkoi}} which can either be a verb \"to walk\" or a noun \"a walk\" we will treat these as two separate words with related meanings as described in [[ref\\|Opinionated Positions\\|opinionated-positions]].\n\nFor the most part, Māori words don't change their form when used as a plural. Instead, the determiner is changed to indicate plurality, so you would have {{te ngeru}} (the cat) and {{ngā ngeru}} (the cats). However, there are a small set of words relating to people which take a different form when made plural.\n\nThese are:\n\n* {{matua}} / {{mātua}} (parent/parents)\n* {{taina}} / {{tāina}} (younger sibling, same sex)\n* {{teina}} / {{tēina}} (younger sibling, same sex)\n* {{tuakana}} / {{tuākana}} (older sibling, same sex)\n* {{tuahine}} / {{tuāhine}} (sister of a male)\n* {{tipuna}} / {{tīpuna}}\n* {{tupuna}} / {{tūpuna}}\n* {{wahine}} / {{wāhine}}\n* {{tangata}} / {{tāngata}}\n* {{tamaiti}} / {{tamariki}}\n\nCommon nouns can often be placed after a phrase's head word to modify that word, as in:\n\n* {{miraka tiakarete}} (chocolate milk) - the word {{tiakarete}} is modifying the word {{miraka}}"
         }
       ]
     },
