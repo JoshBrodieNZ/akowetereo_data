@@ -200,6 +200,14 @@
     "note": "Refers to something that blocks or prevents. For example, one term for sunblock is \"ārai tīkākā\" while immunity is \"ārai mate\" where \"mate\" is sickness.",
     "validated": true
   },
+  "w-aarai-moorea": {
+    "maori": "ārai mōrea",
+    "english": "mitigation",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-aata": {
     "maori": "āta",
     "english": "gently, carefully, deliberately",
@@ -222,6 +230,14 @@
     "example": "Kei te ātea te hui.",
     "exampleTranslation": "The meeting is in the open space.",
     "note": "Refers to open areas or, in modern usage, outer space. The marae ātea is the open area in front of the wharenui on a marae.",
+    "validated": true
+  },
+  "w-aateataaurungi": {
+    "maori": "āteatāurungi",
+    "english": "cyberspace",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-aau": {
@@ -454,7 +470,7 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-ariki": {
     "maori": "ariki",
@@ -480,6 +496,14 @@
     "note": "",
     "validated": true
   },
+  "w-aroturuki-haere-tonu": {
+    "maori": "aroturuki haere tonu",
+    "english": "continuous monitoring",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-ata": {
     "maori": "ata",
     "english": "1) morning\n2) shadow",
@@ -494,6 +518,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "Kāi Tahu dialect.",
+    "validated": true
+  },
+  "w-atamai-hangahanga": {
+    "maori": "atamai hangahanga",
+    "english": "artificial intelligence",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-atawhai": {
@@ -752,6 +784,14 @@
     "note": "With verbs for shouting, the doer isn't the person, it's the mouth.",
     "validated": true
   },
+  "w-haatepe": {
+    "maori": "hātepe",
+    "english": "algorithm",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-haaunga": {
     "maori": "hāunga",
     "english": "besides, apart from",
@@ -832,6 +872,14 @@
     "note": "",
     "validated": true
   },
+  "w-hanga-haumaru": {
+    "maori": "hanga haumaru",
+    "english": "secure by default",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-hangaia": {
     "maori": "hangaia",
     "english": "to build, construct (passive form)\n\nmake, prepare, create",
@@ -845,6 +893,14 @@
     "english": "technology",
     "example": "He tino whakahirahira te hangarau hou.",
     "exampleTranslation": "The new technology is very important.",
+    "note": "",
+    "validated": true
+  },
+  "w-hangarau-whakahaere": {
+    "maori": "hangarau whakahaere",
+    "english": "operational technology (OT)",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -869,6 +925,14 @@
     "english": "1) to make a mistake, transgress\n2) mistake, sin",
     "example": "E mea ana ahau kia kaua e hara toku māngai.",
     "exampleTranslation": "I affirm that my mouth shall not transgress. (I will not sin with my words). - Psalms 17:3",
+    "note": "",
+    "validated": true
+  },
+  "w-hara-uru": {
+    "maori": "hara uru",
+    "english": "access violation",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -933,6 +997,22 @@
     "english": "wind, air, breath",
     "example": "He kaha te hau i tēnei rā.",
     "exampleTranslation": "The wind is strong today.",
+    "note": "",
+    "validated": true
+  },
+  "w-haumaru": {
+    "maori": "haumaru",
+    "english": "security",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-haumarutanga-paerewa": {
+    "maori": "haumarutanga paerewa",
+    "english": "baseline security",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -1142,13 +1222,45 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-hiikoi": {
     "maori": "hīkoi",
     "english": "to walk, to step, to march",
     "example": "I hīkoi mātou ki te marae.",
     "exampleTranslation": "We walked to the marae.",
+    "note": "",
+    "validated": true
+  },
+  "w-hiitinihanga": {
+    "maori": "hītinihanga",
+    "english": "phishing",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-hiitinihanga-aa-paatuhi": {
+    "maori": "hītinihanga ā-pātuhi",
+    "english": "smishing",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-hiitinihanga-aa-tao": {
+    "maori": "hītinihanga ā-tao",
+    "english": "spear phishing",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-hiitinihanga-aa-waea": {
+    "maori": "hītinihanga ā-waea",
+    "english": "vishing",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -1254,6 +1366,14 @@
     "example": "Kei te haere au ki te whare o tōku hoa.",
     "exampleTranslation": "I am going to my friend's house.",
     "note": "Any word derived from \"hoa\" is in the [[ref|'o' category|a-o-categories]]. This includes hoariri (enemy).",
+    "validated": true
+  },
+  "w-hoahoa-whatunga": {
+    "maori": "hoahoa whatunga",
+    "english": "network diagram",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-hoariri": {
@@ -1520,6 +1640,14 @@
     "note": "",
     "validated": true
   },
+  "w-huriwhakamuri": {
+    "maori": "huriwhakamuri",
+    "english": "rollback",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-huruhuru": {
     "maori": "huruhuru",
     "english": "1) body hair, fur\n2) feather",
@@ -1624,6 +1752,14 @@
     "note": "",
     "validated": true
   },
+  "w-inekoiora": {
+    "maori": "inekoiora",
+    "english": "biometrics",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-ingoa": {
     "maori": "ingoa",
     "english": "name",
@@ -1662,6 +1798,22 @@
     "example": "Kei te whakarongo ahau ki te reo irirangi.",
     "exampleTranslation": "I am listening to the radio.",
     "note": "Usually as \"reo irirangi\".",
+    "validated": true
+  },
+  "w-iro": {
+    "maori": "iro",
+    "english": "bug",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-itarangi": {
+    "maori": "itarangi",
+    "english": "ethernet",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-iti": {
@@ -1916,6 +2068,14 @@
     "note": "Kāi Tahu variation of kei",
     "validated": true
   },
+  "w-kaiaarahi-haumaru-moohiotanga-matua": {
+    "maori": "kaiārahi haumaru mōhiotanga matua",
+    "english": "chief information security officer",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-kaiako": {
     "maori": "kaiako",
     "english": "teacher",
@@ -1961,6 +2121,14 @@
     "english": "ship",
     "example": "Kei hea te kaipuke?",
     "exampleTranslation": "Where is the ship?",
+    "note": "",
+    "validated": true
+  },
+  "w-kaipupuri-moorea": {
+    "maori": "kaipupuri mōrea",
+    "english": "risk owner",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -2010,6 +2178,38 @@
     "example": "Ko ia te kaiwhakahaere.",
     "exampleTranslation": "She is the manager.",
     "note": "From 'kai-' (agentive prefix) + 'whakahaere' (to manage).",
+    "validated": true
+  },
+  "w-kaiwhakahaere-haumaru-hangarau-moohiohio": {
+    "maori": "kaiwhakahaere haumaru hangarau mōhiohio",
+    "english": "information technology security manager",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-kaiwhakahaere-puurere-mariko": {
+    "maori": "kaiwhakahaere pūrere mariko",
+    "english": "hypervisor",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-kaiwhakarato-ipurangi": {
+    "maori": "kaiwhakarato ipurangi",
+    "english": "internet service provider (ISP)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-kaiwhakarato-whitimamao": {
+    "maori": "kaiwhakarato whitimamao",
+    "english": "telecommunication provider",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-kakara": {
@@ -2180,6 +2380,14 @@
     "note": "",
     "validated": true
   },
+  "w-karo-kaupare": {
+    "maori": "karo kaupare",
+    "english": "defence evasion",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-karu": {
     "maori": "karu",
     "english": "eye",
@@ -2300,6 +2508,22 @@
     "note": "",
     "validated": true
   },
+  "w-kawa-whakawhiti-koonae": {
+    "maori": "kawa whakawhiti kōnae",
+    "english": "file transfer protocol (FTP)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-kawa-whakawhiti-kuputoro": {
+    "maori": "kawa whakawhiti kuputoro",
+    "english": "hypertext transfer protocol (HTTP)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-kawe": {
     "maori": "kawe",
     "english": "to carry",
@@ -2364,7 +2588,7 @@
       "example": "",
       "exampleTranslation": "",
       "note": "Precautionary particle.",
-      "validated": false,
+      "validated": true,
       "type": "puumahi"
     }
   ],
@@ -2424,6 +2648,22 @@
     "note": "",
     "validated": true
   },
+  "w-kii-matanui": {
+    "maori": "kī matanui",
+    "english": "public key",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-kii-muna": {
+    "maori": "kī muna",
+    "english": "secret key",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-kiihai": {
     "maori": "kīhai",
     "english": "not - negative word",
@@ -2474,7 +2714,7 @@
   },
   "w-kino": {
     "maori": "kino",
-    "english": "bad, evil, wicked, faulty",
+    "english": "bad, evil, wicked, faulty, infected",
     "example": "He whakaaro kino tēnā.",
     "exampleTranslation": "That is a bad idea.",
     "note": "",
@@ -2501,6 +2741,14 @@
     "english": "sand",
     "example": "He maha ngā kōhatu iti i te kirikiri.",
     "exampleTranslation": "There are many small stones in the sand.",
+    "note": "",
+    "validated": true
+  },
+  "w-kiritoru": {
+    "maori": "kiritoru",
+    "english": "third party",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -2712,6 +2960,22 @@
     "note": "",
     "validated": true
   },
+  "w-kookiri-takimano": {
+    "maori": "kōkiri takimano",
+    "english": "brute-force attack",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-koonae-kuputuhi-wehe-aa-piko": {
+    "maori": "kōnae kuputuhi wehe ā-piko",
+    "english": "comma separated text file (CSV)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-koonumitia": {
     "maori": "kōnumitia",
     "english": "fold",
@@ -2749,6 +3013,14 @@
     "english": "to speak, talk",
     "example": "Kei te kōrero Māori ia.",
     "exampleTranslation": "He/she is speaking Māori.",
+    "note": "",
+    "validated": true
+  },
+  "w-koorero-horihori": {
+    "maori": "kōrero horihori",
+    "english": "disinformation",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -2923,6 +3195,30 @@
   "w-kupu": {
     "maori": "kupu",
     "english": "word",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-kupuhipa": {
+    "maori": "kupuhipa",
+    "english": "password",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-kupuhuna": {
+    "maori": "kupuhuna",
+    "english": "password",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-kupuuru": {
+    "maori": "kupuuru",
+    "english": "password",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -3208,6 +3504,22 @@
     "note": "",
     "validated": true
   },
+  "w-mahere-urupare-maiki": {
+    "maori": "mahere urupare maiki",
+    "english": "incident response plan",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-mahere-whakahaere-moorea-haumarutanga": {
+    "maori": "mahere whakahaere mōrea haumarutanga",
+    "english": "security risk management plan",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-mahi": {
     "maori": "mahi",
     "english": "to do, work, make",
@@ -3246,6 +3558,30 @@
     "example": "Haere mai ki konei.",
     "exampleTranslation": "Come here.",
     "note": "Directional particle indicating movement toward the speaker.\n\nSee [[ref|mai|mai]].",
+    "validated": true
+  },
+  "w-maiki": {
+    "maori": "maiki",
+    "english": "incident",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-maiki-haumarutanga-aa-ipurangi": {
+    "maori": "maiki haumarutanga ā-ipurangi",
+    "english": "cyber security incident",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-maina-moni-whitirangi": {
+    "maori": "maina moni whitirangi",
+    "english": "cryptocurrency miner",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-makaia": {
@@ -3294,6 +3630,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "A key cultural concept referring to spiritual power, authority, and prestige.",
+    "validated": true
+  },
+  "w-mana-uru": {
+    "maori": "mana uru",
+    "english": "access authority",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-manaaki": {
@@ -3456,6 +3800,22 @@
     "note": "",
     "validated": true
   },
+  "w-matohi": {
+    "maori": "matohi",
+    "english": "alert (computing)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-matohi-haumarutanga": {
+    "maori": "matohi haumarutanga",
+    "english": "security alert",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-matua": {
     "maori": "matua",
     "english": "parent, father, uncle",
@@ -3486,7 +3846,7 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
   },
   "w-mauii": {
     "maori": "mauī",
@@ -3541,6 +3901,14 @@
     "english": "1) thing\n2) to say",
     "example": "He aha tēnā mea?",
     "exampleTranslation": "What is that thing?",
+    "note": "",
+    "validated": true
+  },
+  "w-mea-whakamoorea": {
+    "maori": "mea whakamōrea",
+    "english": "threat landscape",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -3784,6 +4152,14 @@
     "note": "",
     "validated": true
   },
+  "w-moohiohio-whaiaro": {
+    "maori": "mōhiohio whaiaro",
+    "english": "personal information",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-moohiotanga": {
     "maori": "mōhiotanga",
     "english": "knowledge",
@@ -3824,6 +4200,30 @@
     "note": "unrealised o category possession",
     "validated": true
   },
+  "w-moorea": {
+    "maori": "mōrea",
+    "english": "risk",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-moorea-aa-ipurangi": {
+    "maori": "mōrea ā-ipurangi",
+    "english": "cyber risk",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-mooriroriro": {
+    "maori": "mōriroriro",
+    "english": "quarantined",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-motokaa": {
     "maori": "motokā",
     "english": "car, motorcar",
@@ -3843,6 +4243,22 @@
   "w-motuhake": {
     "maori": "motuhake",
     "english": "1) to separated, set side\n2) separated, distinct, special",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-motuheeheenga": {
+    "maori": "motuhēhēnga",
+    "english": "authentication",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-motuheeheenga-tukarua": {
+    "maori": "motuhēhēnga tukarua",
+    "english": "two factor authentication",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -3886,6 +4302,14 @@
     "example": "Kua mutu te kai i a koe?",
     "exampleTranslation": "Have you finished eating?",
     "note": "Does not necessarily indicate completion. The kupu \"oti\" is preferred if something is complete.",
+    "validated": true
+  },
+  "w-muurere": {
+    "maori": "mūrere",
+    "english": "hacker",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-naa": {
@@ -3963,6 +4387,14 @@
   "w-nanakia": {
     "maori": "nanakia",
     "english": "1) crafty, cunning\n2) scoundrel, rascal",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-nanakia-tuukino-moohiohi": {
+    "maori": "nanakia tūkino mōhiohi",
+    "english": "malicious cyber actor",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4115,6 +4547,22 @@
   "w-ngenge": {
     "maori": "ngenge",
     "english": "tired",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-ngohe-aa-ipurangi-heipuu": {
+    "maori": "ngohe ā-ipurangi heipū",
+    "english": "targeted cyber activity",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-ngohe-aa-ipurangi-tuupono": {
+    "maori": "ngohe ā-ipurangi tūpono",
+    "english": "opportunistic cyber activity",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4376,6 +4824,14 @@
     "note": "",
     "validated": true
   },
+  "w-ora-noo-te-whenua": {
+    "maori": "ora nō te whenua",
+    "english": "living off the land",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-oranga": {
     "maori": "oranga",
     "english": "health, life",
@@ -4512,6 +4968,14 @@
     "note": "",
     "validated": true
   },
+  "w-paatai-muna": {
+    "maori": "pātai muna",
+    "english": "secret question",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-paatata": {
     "maori": "pātata",
     "english": "to be near, close",
@@ -4523,6 +4987,14 @@
   "w-paatene": {
     "maori": "pātene",
     "english": "button",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-paatengi-raraunga": {
+    "maori": "pātengi raraunga",
+    "english": "database",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4544,6 +5016,14 @@
     "note": "A general term for flounder-type fish.",
     "validated": true
   },
+  "w-paatuuahi": {
+    "maori": "pātūahi",
+    "english": "firewall",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-paaua": {
     "maori": "pāua",
     "english": "abalone",
@@ -4563,6 +5043,22 @@
   "w-paepae": {
     "maori": "paepae",
     "english": "1) container\n2) speakers’ bench on the marae",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-paetohu-whakamoorearea": {
+    "maori": "paetohu whakamōrearea",
+    "english": "indicators of compromise (IoCs)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-paetukutuku": {
+    "maori": "paetukutuku",
+    "english": "website",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4752,9 +5248,49 @@
     "note": "",
     "validated": true
   },
+  "w-papamahi": {
+    "maori": "papamahi",
+    "english": "desktop computer",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-paparika": {
     "maori": "paparika",
     "english": "paprika",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-papatono-aarai-puumanawa-kino": {
+    "maori": "papatono ārai pūmanawa kino",
+    "english": "anti-malware program",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-papatono-aarai-wheori": {
+    "maori": "papatono ārai wheori",
+    "english": "anti-virus program",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-papatono-paretuutei": {
+    "maori": "papatono paretūtei",
+    "english": "anti-spyware program",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-papatono-whakahiato": {
+    "maori": "papatono whakahiato",
+    "english": "compiler",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -4819,6 +5355,14 @@
   "w-pare": {
     "maori": "pare",
     "english": "1) to turn aside, ward off\n2) headband, garland",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-pare-tuhi": {
+    "maori": "pare-tuhi",
+    "english": "write-protect",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -5080,6 +5624,14 @@
     "note": "",
     "validated": true
   },
+  "w-pihikete": {
+    "maori": "pihikete",
+    "english": "cookie",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-pii": {
     "maori": "pī",
     "english": "bee",
@@ -5184,6 +5736,14 @@
     "note": "",
     "validated": true
   },
+  "w-pito-whakamutunga": {
+    "maori": "pito whakamutunga",
+    "english": "endpoint",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-piupiu": {
     "maori": "piupiu",
     "english": "flax skirt",
@@ -5211,6 +5771,14 @@
   "w-poka": {
     "maori": "poka",
     "english": "to puncture, make a hole",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-poke-ara-ratonga": {
+    "maori": "poke ara ratonga",
+    "english": "supply chain compromise",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -5328,6 +5896,14 @@
     "note": "",
     "validated": true
   },
+  "w-porotuu-muurere": {
+    "maori": "porotū mūrere",
+    "english": "hacktivism",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-porowhita": {
     "maori": "porowhita",
     "english": "circle, round ",
@@ -5371,6 +5947,14 @@
   "w-pouaka whakaata": {
     "maori": "pouaka whakaata",
     "english": "television",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-pouara": {
+    "maori": "pouara",
+    "english": "router",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -5568,6 +6152,14 @@
     "note": "",
     "validated": true
   },
+  "w-puuhara": {
+    "maori": "pūhara",
+    "english": "platform",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-puukaha": {
     "maori": "pūkaha",
     "english": "engine",
@@ -5584,9 +6176,73 @@
     "note": "",
     "validated": true
   },
+  "w-puumaaroo": {
+    "maori": "pūmārō",
+    "english": "hardware",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puumana-rohe": {
+    "maori": "pūmana rohe",
+    "english": "domain controller",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puumanawa": {
+    "maori": "pūmanawa",
+    "english": "software",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puumanawa-kino": {
+    "maori": "pūmanawa kino",
+    "english": "malware",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puumanawa-maaroo": {
+    "maori": "pūmanawa mārō",
+    "english": "firmware",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puumanawa-utu-uruhi": {
+    "maori": "pūmanawa utu uruhi",
+    "english": "ransomware",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puumanawa-whakahaere-mamao": {
+    "maori": "pūmanawa whakahaere mamao",
+    "english": "remote control software",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-puumau": {
     "maori": "pūmau",
     "english": "fixed, permanent",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puunaha-whakahaere": {
+    "maori": "pūnaha whakahaere",
+    "english": "operating system",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -5624,6 +6280,22 @@
     "note": "",
     "validated": true
   },
+  "w-puurua": {
+    "maori": "pūrua",
+    "english": "backup",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puutaahono": {
+    "maori": "pūtāhono",
+    "english": "driver (computing)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-puutaiao": {
     "maori": "pūtaiao",
     "english": "science",
@@ -5643,6 +6315,38 @@
   "w-puutea": {
     "maori": "pūtea",
     "english": "budget, resources",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puutirotiro-tukutuku": {
+    "maori": "pūtirotiro tukutuku",
+    "english": "web browser",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puutukatuka-matua": {
+    "maori": "pūtukatuka matua",
+    "english": "central processing unit (CPU)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puutukatuka-whakairoiro": {
+    "maori": "pūtukatuka whakairoiro",
+    "english": "graphics processor (GPU)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-puuwerewere": {
+    "maori": "pūwerewere",
+    "english": "spider, crawler, bot (computing)",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -5685,6 +6389,14 @@
     "english": "1) to list, arrange\n2) line, row",
     "example": "Rarangi maunga tu tonu, tu tonu; rarangi tangata ngaro noa, ngaro noa.",
     "exampleTranslation": "A mountain range (line of mountains) stands for eternity but a line of people just disappears.",
+    "note": "",
+    "validated": true
+  },
+  "w-raarangi-rawa-matihiko": {
+    "maori": "rārangi rawa matihiko",
+    "english": "digital asset inventory",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -5752,6 +6464,14 @@
     "note": "",
     "validated": true
   },
+  "w-rangatira-pakihi": {
+    "maori": "rangatira pakihi",
+    "english": "business owner",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-rangi": {
     "maori": "rangi",
     "english": "1) sky\n2) day",
@@ -5800,6 +6520,22 @@
     "note": "Kāi Tahu dialect.",
     "validated": true
   },
+  "w-raraunga-taahuurua": {
+    "maori": "raraunga tāhūrua",
+    "english": "binary data",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-raraunga-waawaahi": {
+    "maori": "raraunga wāwāhi",
+    "english": "data breach",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-raro": {
     "maori": "raro",
     "english": "under, beneath",
@@ -5832,6 +6568,22 @@
     "note": "",
     "validated": true
   },
+  "w-rata-ki-te-moorea": {
+    "maori": "rata ki te mōrea",
+    "english": "risk tolerance",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-ratonga-kapua": {
+    "maori": "ratonga kapua",
+    "english": "cloud service",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-rau": {
     "maori": "rau",
     "english": "1) leaf\n2) hundred\n3) to put into, gather into",
@@ -5848,11 +6600,29 @@
     "note": "",
     "validated": true
   },
-  "w-rawa": {
-    "maori": "rawa",
-    "english": "quite, very",
-    "example": "He pai rawa atu.",
-    "exampleTranslation": "It's very good.",
+  "w-rawa": [
+    {
+      "maori": "rawa",
+      "english": "quite, very",
+      "example": "He pai rawa atu.",
+      "exampleTranslation": "It's very good.",
+      "note": "",
+      "validated": true
+    },
+    {
+      "maori": "rawa",
+      "english": "asset",
+      "example": "",
+      "exampleTranslation": "",
+      "note": "",
+      "validated": true
+    }
+  ],
+  "w-rawa-moohiohio": {
+    "maori": "rawa mōhiohio",
+    "english": "information asset",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -6096,6 +6866,14 @@
     "note": "",
     "validated": true
   },
+  "w-rokiroki-aapiti-whatunga": {
+    "maori": "rokiroki āpiti-whatunga",
+    "english": "network-attached storage (NAS)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-rongo": {
     "maori": "rongo",
     "english": "to hear, feel, perceive",
@@ -6155,6 +6933,14 @@
   "w-rorohiko": {
     "maori": "rorohiko",
     "english": "computer",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-rorohiko-kawekawe": {
+    "maori": "rorohiko kawekawe",
+    "english": "laptop computer",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -6272,12 +7058,28 @@
     "note": "This is an [[ref|'ā' category|a-o-categories]] [[ref|tūkapi riro|tukapi-riro]] takitahi (singular possessive pronoun). It is one of the possessive forms of 'tāua' which is the tūkapi kauawhi kiritūnei takirua (dual first person inclusive pronoun).",
     "validated": true
   },
+  "w-taahae": {
+    "maori": "tāhae",
+    "english": "exfiltration",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-taahau": {
     "maori": "tāhau",
     "english": "your",
     "example": "",
     "exampleTranslation": "",
     "note": "singular ā category possession (variant of tāu)",
+    "validated": true
+  },
+  "w-taahono-papatono": {
+    "maori": "tāhono papatono",
+    "english": "application programming interface (API) ",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-taahorotia": {
@@ -6472,6 +7274,14 @@
     "note": "Kāi Tahu dialect.",
     "validated": true
   },
+  "w-taaware": {
+    "maori": "tāware",
+    "english": "scam",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-taawhiuwhiuhia": {
     "maori": "tāwhiuwhiuhia",
     "english": "beat/whisk",
@@ -6576,6 +7386,14 @@
     "note": "",
     "validated": true
   },
+  "w-takamahi": {
+    "maori": "takamahi",
+    "english": "event (computing)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-take": {
     "maori": "take",
     "english": "1) reason, cause, origin,\n2) subject\n3) root. stump",
@@ -6587,6 +7405,22 @@
   "w-taki": {
     "maori": "taki",
     "english": "1) to recite, to recount\n2) to lead, to bring along",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-takiputa": {
+    "maori": "takiputa",
+    "english": "log off",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-takiuru": {
+    "maori": "takiuru",
+    "english": "log on",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -6824,6 +7658,22 @@
     "note": "",
     "validated": true
   },
+  "w-tari-iti---tari-kaainga": {
+    "maori": "tari iti / tari kāinga",
+    "english": "small office/home office (SOHO)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-tari-whai-mana": {
+    "maori": "tari whai mana",
+    "english": "mandated agencies",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-taringa": {
     "maori": "taringa",
     "english": "ear",
@@ -6920,6 +7770,14 @@
     "note": "tau + nominal suffix -nga",
     "validated": true
   },
+  "w-taupaanga-whawhe-hei-ratonga": {
+    "maori": "taupānga-whawhe-hei-ratonga",
+    "english": "ransomware-as-a-service (RaaS)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-taupoki": {
     "maori": "taupoki",
     "english": "1) to cover, close with a lid\n2) cover, lid",
@@ -6931,6 +7789,14 @@
   "w-taura": {
     "maori": "taura",
     "english": "rope, cable",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-tautohu-rawa": {
+    "maori": "tautohu rawa",
+    "english": "asset classification",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -6966,6 +7832,14 @@
     "example": "Kei hea te pukapuka?",
     "exampleTranslation": "Where is the book?",
     "note": "The pū tautuhi ([[ref|definite article|pumau]]) used before singular nouns.",
+    "validated": true
+  },
+  "w-te-pou-taarawaho-mitre-att-ck": {
+    "maori": "te pou tārawaho MITRE ATT&CK",
+    "english": "MITRE ATT&CK framework",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-teehea": {
@@ -7768,6 +8642,30 @@
     "note": "",
     "validated": true
   },
+  "w-tuma": {
+    "maori": "tuma",
+    "english": "threat",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-tuma-momorua": {
+    "maori": "tuma momorua",
+    "english": "hybrid threat",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-tuma-pakepake-araa-atu-anoo": {
+    "maori": "tuma pakepake arā atu anō",
+    "english": "advanced persistent threat (APT)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-tumeke": {
     "maori": "tumeke",
     "english": "to be surprised",
@@ -7859,6 +8757,14 @@
   "w-tuumanako": {
     "maori": "tūmanako",
     "english": "to hope for, anticipate, expect",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-tuumau-tuumataiti-mariko": {
+    "maori": "tūmau tūmataiti mariko",
+    "english": "virtual private server (VPS)",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -8045,6 +8951,22 @@
     "english": "1) time, interval\n2) place, area, region",
     "example": "He aha te wā?",
     "exampleTranslation": "What is the time?",
+    "note": "",
+    "validated": true
+  },
+  "w-waa-mutu": {
+    "maori": "wā mutu",
+    "english": "end-of-life",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-waa-whakararu-ka-taea": {
+    "maori": "wā whakararu ka taea",
+    "english": "acceptable interruption window",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
@@ -8376,6 +9298,14 @@
     "note": "Kāi Tahu dialect.",
     "validated": true
   },
+  "w-wetemuna": {
+    "maori": "wetemuna",
+    "english": "to decrypt",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-whaa": {
     "maori": "whā",
     "english": "four",
@@ -8398,6 +9328,22 @@
     "example": "",
     "exampleTranslation": "",
     "note": "whai + nominal suffix -nga",
+    "validated": true
+  },
+  "w-whaainga-waa-whakaora": {
+    "maori": "whāinga wā whakaora",
+    "english": "recovery time objective",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-whaainga-waahi-whakaora": {
+    "maori": "whāinga wāhi whakaora",
+    "english": "recovery point objective",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-whaaiti": {
@@ -8512,9 +9458,25 @@
     "note": "",
     "validated": true
   },
+  "w-whakahaere-hira-aa-motu-": {
+    "maori": "whakahaere hira ā-motu ",
+    "english": "nationally significant organisation",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-whakahau": {
     "maori": "whakahau",
     "english": "to command, order",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-whakahaumaru-aa-ipurangi": {
+    "maori": "whakahaumaru ā ipurangi",
+    "english": "cyber security",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -8568,6 +9530,14 @@
     "note": "whakahoki + passive suffix \"a\"",
     "validated": true
   },
+  "w-whakahuatia-whaanuitia-noo-hea": {
+    "maori": "whakahuatia whānuitia nō hea",
+    "english": "public attribution",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-whakairo": {
     "maori": "whakairo",
     "english": "to carve, a carving",
@@ -8590,7 +9560,15 @@
     "example": "",
     "exampleTranslation": "",
     "note": "",
-    "validated": false
+    "validated": true
+  },
+  "w-whakakore-ratonga": {
+    "maori": "whakakore ratonga",
+    "english": "denial of service (DoS)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
   },
   "w-whakamaa": {
     "maori": "whakamā",
@@ -8664,6 +9642,22 @@
     "note": "whakamahi + passive suffix -a",
     "validated": true
   },
+  "w-whakamana": {
+    "maori": "whakamana",
+    "english": "certification",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-whakamanatanga": {
+    "maori": "whakamanatanga",
+    "english": "accreditation",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-whakamau": {
     "maori": "whakamau",
     "english": "to fix, fasten, put on",
@@ -8688,6 +9682,14 @@
     "note": "",
     "validated": true
   },
+  "w-whakamoorea-iimeera-pakihi": {
+    "maori": "whakamōrea īmēra pakihi",
+    "english": "business email compromise (BEC)",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-whakamua": {
     "maori": "whakamua",
     "english": "frontward, towards the front",
@@ -8696,9 +9698,25 @@
     "note": "",
     "validated": true
   },
+  "w-whakamuna": {
+    "maori": "whakamuna",
+    "english": "to encrypt",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-whakamuri": {
     "maori": "whakamuri",
     "english": "backward, towards the back",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-whakamutu-tautoko": {
+    "maori": "whakamutu tautoko",
+    "english": "end-of-support",
     "example": "",
     "exampleTranslation": "",
     "note": "",
@@ -8816,6 +9834,40 @@
     "note": "",
     "validated": true
   },
+  "w-whakaraerae-aranga": {
+    "maori": "whakaraerae aranga",
+    "english": "emerging threats",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-whakaraeraetanga": [
+    {
+      "maori": "whakaraeraetanga",
+      "english": "common vulnerabilities and exposures (CVE)",
+      "example": "",
+      "exampleTranslation": "",
+      "note": "",
+      "validated": true
+    },
+    {
+      "maori": "whakaraeraetanga",
+      "english": "vulnerability",
+      "example": "",
+      "exampleTranslation": "",
+      "note": "",
+      "validated": true
+    }
+  ],
+  "w-whakaraeraetanga-raa-kore": {
+    "maori": "whakaraeraetanga rā-kore",
+    "english": "zero-day vulnerability",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-whakaranumia": {
     "maori": "whakaranumia",
     "english": "stir, mix",
@@ -8854,6 +9906,14 @@
     "example": "",
     "exampleTranslation": "",
     "note": "whakarite + passive suffix -a",
+    "validated": true
+  },
+  "w-whakaritenga-haumarutanga-whakamaru": {
+    "maori": "whakaritenga haumarutanga whakamaru",
+    "english": "protective security requirements",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
     "validated": true
   },
   "w-whakarongo": {
@@ -8976,6 +10036,14 @@
     "note": "whakatū + passive suffix -ria",
     "validated": true
   },
+  "w-whakatuuturu-paarongo": {
+    "maori": "whakatūturu pārongo",
+    "english": "credentials",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
   "w-whakauru": {
     "maori": "whakauru",
     "english": "to enter, join, enrol",
@@ -9061,6 +10129,22 @@
     "english": "1) eye\n2) stone\n3) to weave",
     "example": "He ātaahua ōna whatu.",
     "exampleTranslation": "His eyes are beautiful.",
+    "note": "",
+    "validated": true
+  },
+  "w-whatunga-puuwerewere": {
+    "maori": "whatunga pūwerewere",
+    "english": "botnet",
+    "example": "",
+    "exampleTranslation": "",
+    "note": "",
+    "validated": true
+  },
+  "w-whatunga-tuumataiti-mariko": {
+    "maori": "whatunga tūmataiti mariko",
+    "english": "virtual private network (VPN)",
+    "example": "",
+    "exampleTranslation": "",
     "note": "",
     "validated": true
   },
