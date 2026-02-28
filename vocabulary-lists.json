@@ -1356,7 +1356,7 @@
   {
   "id": "cybersecurity",
   "title": "Cybersecurity",
-  "description": "A collection of words related to cybersecurity.",
+  "description": "A collection of words related to cybersecurity. Mostly sourced from the NCSC Glossary and Paekupu.",
   "category": "thematic",
   "wordIds": [
     "w-aarai-moorea",

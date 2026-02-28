@@ -100,9 +100,9 @@
                   "type": "slot",
                   "id": "slot-1",
                   "options": [
-                    "I haere a Hone ki te mākete ",
-                    "I haere a Hone ki te whare pukapuka ",
-                    "I haere a Hone ki te puna kaukau "
+                    "I haere a Hōne ki te mākete ",
+                    "I haere a Hōne ki te whare pukapuka ",
+                    "I haere a Hōne ki te puna kaukau "
                   ]
                 }
               ]
@@ -126,18 +126,18 @@
             }
           ],
           "translations": {
-            "I haere a Hone ki te mākete ki te hoko hua heihei": "Hone went to the market to buy (chicken) eggs",
-            "I haere a Hone ki te mākete ki te hoko miraka": "Hone went to the market to buy milk",
-            "I haere a Hone ki te mākete ki te whakahoki i tētahi pukapuka": "Hone went to the market to return a book",
-            "I haere a Hone ki te mākete ki te kaukau": "Hone went to the market to swim",
-            "I haere a Hone ki te whare pukapuka ki te hoko hua heihei": "Hone went to the library to buy (chicken) eggs",
-            "I haere a Hone ki te whare pukapuka ki te hoko miraka": "Hone went to the library to buy milk",
-            "I haere a Hone ki te whare pukapuka ki te whakahoki i tētahi pukapuka": "Hone went to the library to return a book",
-            "I haere a Hone ki te whare pukapuka ki te kaukau": "Hone went to the library to swim",
-            "I haere a Hone ki te puna kaukau ki te hoko hua heihei": "Hone went to the pool to buy (chicken) eggs",
-            "I haere a Hone ki te puna kaukau ki te hoko miraka": "Hone went to the pool to buy milk",
-            "I haere a Hone ki te puna kaukau ki te whakahoki i tētahi pukapuka": "Hone went to the pool to return a book",
-            "I haere a Hone ki te puna kaukau ki te kaukau": "Hone went to the pool to swim"
+            "I haere a Hōne ki te mākete ki te hoko hua heihei": "Hōne went to the market to buy (chicken) eggs",
+            "I haere a Hōne ki te mākete ki te hoko miraka": "Hōne went to the market to buy milk",
+            "I haere a Hōne ki te mākete ki te whakahoki i tētahi pukapuka": "Hōne went to the market to return a book",
+            "I haere a Hōne ki te mākete ki te kaukau": "Hōne went to the market to swim",
+            "I haere a Hōne ki te whare pukapuka ki te hoko hua heihei": "Hōne went to the library to buy (chicken) eggs",
+            "I haere a Hōne ki te whare pukapuka ki te hoko miraka": "Hōne went to the library to buy milk",
+            "I haere a Hōne ki te whare pukapuka ki te whakahoki i tētahi pukapuka": "Hōne went to the library to return a book",
+            "I haere a Hōne ki te whare pukapuka ki te kaukau": "Hōne went to the library to swim",
+            "I haere a Hōne ki te puna kaukau ki te hoko hua heihei": "Hōne went to the pool to buy (chicken) eggs",
+            "I haere a Hōne ki te puna kaukau ki te hoko miraka": "Hōne went to the pool to buy milk",
+            "I haere a Hōne ki te puna kaukau ki te whakahoki i tētahi pukapuka": "Hōne went to the pool to return a book",
+            "I haere a Hōne ki te puna kaukau ki te kaukau": "Hōne went to the pool to swim"
           }
         }
       ]
