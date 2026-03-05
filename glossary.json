@@ -503,6 +503,10 @@
         {
           "type": "text",
           "content": "## Demonstrative Pronouns\n\nThere is a subclass of pronouns formed when we use the [[ref\\|T-Class Determiners\\|t-class-determiners]] in the position of a pronoun."
+        },
+        {
+          "type": "text",
+          "content": "## Pronoun Transformation\n\nWhen a [[ref\\|Possessive Particle\\|puriro]] or a [[ref\\|Possessive Preposition\\|possessive-prepositions]] are used to introduce a pronoun, the singular pronouns adopt a special form to combine with these particles.\n\n* {{au}} becomes the suffix {{-ku}}\n* {{koe}} becomes the suffix {{-u}}\n* {{ia}} becomes the suffix {{-na}}\n\nSo while you can have {{tā māua}} or {{tō kōrua}}, you can't have {{tā au}} or {{tā koe}} and instead combine {{tā}} and the new suffixes {{-ku}} and {{-u}} to become {{tāku}} and {{tāu}}.\n\nYou combine the possessive prepositions {{mā}}/{{mō}} with these suffixes to become {{māku}}/{{mōku}}, {{māu}}/{{mōu}}, and {{māna}}/{{mōna}}.\n\nYou combine the possessive prepositions {{nā}}/{{nō}} with these suffixes to become {{nāku}}/{{nōku}}, {{nāu}}/{{nōu}} and {{nāna}}/{{nōna}}.\n\nYou combine the possessive particles {{tā}}/{{tō}} and {{ā}}/{{ō}} with these suffixes to become {{tāku}}/{{tōku}}, {{āku}}/{{ōku}}, {{tāu}}/{{tōu}}, {{āu}}/{{ōu}}, {{tāna}}/{{tōna}} and {{āna}}/{{ōna}}."
         }
       ],
       "relatedTerms": [
@@ -1251,7 +1255,7 @@
     {
       "id": "predicate-subject-comment",
       "term": "Predicates, Subjects, and Comments",
-      "maoriTerm": "Kīwaha, Kaiwhakamahi, Kōrero Tāpiri",
+      "maoriTerm": "",
       "shortDefinition": "The three core functional components of clauses in te reo Māori sentences.",
       "validated": true,
       "elements": [
@@ -2289,7 +2293,7 @@
       "elements": [
         {
           "type": "text",
-          "content": "The group of prepositions {{a}}/{{o}}, {{nā}}/{{nō}}, {{mā}}/{{mō}} can be considered to be three pairs of prepositions used to describe possession with variant forms of each depending on the nature of the possessive relationship described [[ref\\|A/O Category\\|a-o-categories]].\n\n### A/O\n\nThis pair of possessive prepositions is used to form prepositional phrases which are used as *possessive [[ref\\|comments\\|predicate-subject-comment]]*. These are phrases which follow noun phrases to add additional context about the possessive relationship between that noun phrase and something else."
+          "content": "The group of prepositions {{a}}/{{o}}, {{nā}}/{{nō}}, {{mā}}/{{mō}} can be considered to be three pairs of prepositions used to describe possession with variant forms of each depending on the nature of the possessive relationship described in [[ref\\|A/O Category\\|a-o-categories]]. As described in the linked section, these can be used to describe ownership but can also be used to describe when something is a part of a whole or familial and social relationships between people.\n\nThe particles {{nā}}/{{nō}} and {{mā}}/{{mō}} both undergo the process described in [[ref\\|Pronoun Transformation\\|tukapi#pronoun-transformation]] when used before a singular personal pronoun.\n\n### A/O\n\nThis pair of possessive prepositions is used to form prepositional phrases which are used as *possessive [[ref\\|comments\\|predicate-subject-comment]]*. These are phrases which follow noun phrases to add additional context about the possessive relationship between that noun phrase and something else."
         },
         {
           "type": "interactive-sentence",
@@ -2352,6 +2356,10 @@
           "maori": "Nō Ngaire tēnei kaputī.",
           "english": "This is Ngaire's cup of tea.",
           "explanation": ""
+        },
+        {
+          "type": "text",
+          "content": "### Mā/Mō\n\nThese possessive prepositions are used to describe a relationship of possession in the future. [[resource\\|Harlow\\|resource-9781775502036]] refers to these as phrases with **benefactive** meaning, or \"those describing a person or group for whose benefit something occurs or is intended\"[[cite|72|resource-9781775502036]]."
         }
       ]
     },
