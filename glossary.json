@@ -86,6 +86,7 @@
     ],
     "puuhono": [
       "possessive-prepositions",
+      "puuwaahi",
       "puuhono-ko",
       "puuhono-me",
       "puuhono-e-vocative",
@@ -101,7 +102,6 @@
     "punga": [
       "puutohu",
       "puuhono",
-      "puuwaahi",
       "puriro",
       "pumahi",
       "puutuukee",
@@ -128,7 +128,8 @@
       "pea",
       "raapea",
       "rawa",
-      "tonu"
+      "tonu",
+      "manner-particles"
     ],
     "puutohu": [
       "puu-tautuhi",
@@ -475,7 +476,7 @@
       "term": "Locative Nouns",
       "maoriTerm": "Tūwāhi",
       "shortDefinition": "Special nouns that indicate position or location in space relative to a reference point.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
@@ -777,38 +778,21 @@
     },
     {
       "id": "puuwaahi",
-      "term": "Locative Particles",
+      "term": "Locative Prepositions",
       "maoriTerm": "Pūwāhi",
       "shortDefinition": "Particles used to indicate location in space or time.",
-      "categoryInfo": "Part of the Particles (Punga) series",
-      "longDefinition": "These particles are used with words which specific a location in space or time. This includes the words: i, hei, kei. Pūwāhi (locative particles) are a category of [[ref|punga|punga]] (particles) in te reo Māori that specify location in space or time. They typically appear before place names, location nouns, or time expressions to indicate where or when something happens. These includes the words: i, hei, kei.",
-      "examples": [
+      "validated": false,
+      "elements": [
         {
-          "maori": "I te whare karakia mātou i te Rātapu.",
-          "english": "We were at church on Sunday.",
-          "explanation": "The locative particle \"i\" indicates where we were in the past."
-        },
-        {
-          "maori": "Kei hea ō hū?",
-          "english": "Where are your shoes?",
-          "explanation": "The locative particle \"kei\" combines with the interrogative \"hea\" to ask about present location."
-        },
-        {
-          "maori": "Hei konei au e tatari ana ki a koe.",
-          "english": "I will be waiting for you here.",
-          "explanation": "The locative particle \"hei\" indicates where the speaker will be in the future."
-        },
-        {
-          "maori": "Kei runga i te tēpu te pukapuka.",
-          "english": "The book is on the table.",
-          "explanation": "The locative particle \"kei\" combines with \"runga\" (on/above) and the preposition \"i\" to specify exact location."
+          "type": "text",
+          "content": "These particles are used with words which specific a location in space or time. This includes the words: i, hei, kei. Pūwāhi (locative particles) are a category of [[ref\\|punga\\|punga]] (particles) in te reo Māori that specify location in space or time. They can only be used in phrases where a [[ref\\|Locative Nouns\\|tuwahi]] directly follows them."
         }
       ],
       "relatedTerms": [
         "puuanga",
         "kupu-wahi"
       ],
-      "validated": false
+      "categoryInfo": "Part of the Particles (Punga) series"
     },
     {
       "id": "puuhea",
@@ -871,11 +855,11 @@
       "maoriTerm": "Pūhono",
       "label": "preposition",
       "shortDefinition": "Particles that show the relationship between a noun and other elements in a sentence.",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "These are particles which describe the relationship between two things. This includes the words: ko, me, mā, mō, nā, nō, ki, i, kei, hei, a, o."
+          "content": "Prepositions are particles which appear at the beginning of [[ref\\|Prepositional Phrases\\|kiianga-puuhono]] and are used to introduce nouns in these contexts. For many of the prepositions, there are other particles in te reo Māori which have an identical form and pronunciation but a different function. For example, there are three prepositions with the form {{i}}, but there is also a locative particle and a verbal particle with the same appearance.\n\nThe prepositions are:\n\n* [[ref\\|ko\\|puuhono-ko]]\n* [[ref\\|me\\|puuhono-me]]\n* [[ref\\|e (vocative)\\|puuhono-e-vocative]]\n* [[ref\\|e (agentive)\\|puuhono-e-agentive]]\n* [[ref\\|i (connective)\\|puuhono-i-connective]]\n* [[ref\\|i (from)\\|puuhono-i-from]]\n* [[ref\\|i (of)\\|puuhono-i-of]]\n* [[ref\\|ā\\|puuhono-aa]]\n* [[ref\\|rā\\|puuhono-raa]]\n* [[ref\\|tō\\|puuhono-too]]\n* The [[ref\\|Possessive Prepositions\\|possessive-prepositions]] {{a}}, {{o}}, {{nā}}, {{nō}}, {{mā}}, {{mō}}.\n* The [[ref\\|Locative Prepositions\\|puuwaahi]] {{ki}}, {{kei}}, {{i}} (locative) and {{hei}}\n\n[[resource\\|Bauer\\|resource-reed]] also recognises {{whaka}} and {{mai}} as prepositions, noting that {{mai}} is used as a preposition in some dialects only.\n\nPrepositions always appear at the beginning of their phrase."
         }
       ],
       "relatedTerms": [
@@ -894,7 +878,11 @@
       "elements": [
         {
           "type": "text",
-          "content": "## Pūtohu - Articles\n\nThese are particles which introduce a noun, such as te, ngā, he and a.\n\n### *Pū Tautuhi - Definite Article*\n\nThe definite articles in te reo Māori are 'te' and 'ngā' which often specify that we're talking about a specific instance of the noun, as well as providing context on whether it is takitahi (singular) or takitini (plural).\n\n* te ngeru (the cat)\n\n* ngā ngeru (the cats)\n\nWhile te/ngā are used for singular/plural, te can also be used to introduce a generic phrase which refers to the entire class of things it precedes, as in:\n\n* Tekau heneti te utu mō te tamariki (The price for children is ten cents).\n\n### *Pūnoa - Indefinite Article*\n\nThe indefinite article in te reo Māori is 'he' which doesn't specify any particular instance of the noun or provide any context about whether it is singular or plural.\n\n* he ngeru (a cat, cats)\n\n### *Pūmoko - Proper Article*\n\nThe proper article in te reo Māori is 'a' is used with [[ref\\|Personal Nouns\\|personal-nouns]] when introducing the subject of a sentence.\n\n* a Mere\n\n* a Josh\n\nIt is also used to introduce personal names and personal [[ref\\|pronouns\\|tukapi]] when they follow {{ki}}, {{kei}}, {{i}} or {{hei}}."
+          "content": "## Pūtohu - Articles\n\nThese are particles which introduce a noun, such as te, ngā, he and a."
+        },
+        {
+          "type": "stub",
+          "content": "This section is under construction."
         }
       ],
       "relatedTerms": []
@@ -2296,12 +2284,74 @@
       "id": "possessive-prepositions",
       "term": "Possessive Prepositions",
       "maoriTerm": "",
-      "shortDefinition": "",
+      "shortDefinition": "A set of particles used to describe possessive relationships.",
       "validated": false,
       "elements": [
         {
           "type": "text",
-          "content": "a, o, nā, nō, mā, mō"
+          "content": "The group of prepositions {{a}}/{{o}}, {{nā}}/{{nō}}, {{mā}}/{{mō}} can be considered to be three pairs of prepositions used to describe possession with variant forms of each depending on the nature of the possessive relationship described [[ref\\|A/O Category\\|a-o-categories]].\n\n### A/O\n\nThis pair of possessive prepositions is used to form prepositional phrases which are used as *possessive [[ref\\|comments\\|predicate-subject-comment]]*. These are phrases which follow noun phrases to add additional context about the possessive relationship between that noun phrase and something else."
+        },
+        {
+          "type": "interactive-sentence",
+          "parts": [
+            {
+              "type": "group",
+              "label": "Predicate",
+              "kind": "predicate",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "Kei te haere"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Subject",
+              "kind": "subject",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "au"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Movement Comment",
+              "kind": "comment",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "ki te tari"
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Possessive Comment",
+              "kind": "phrase",
+              "parts": [
+                {
+                  "type": "text",
+                  "content": "o te tumuaki"
+                }
+              ]
+            }
+          ],
+          "translations": {
+            "Kei te haere au ki te tari o te tumuaki": "I am going to the principal's office"
+          }
+        },
+        {
+          "type": "text",
+          "content": "In this sentence {{te tari o te tumuaki}} (the principal's office) uses a possessive comment introduced by {{o}} to describe *whose* office it is.\n\n### Nā/Nō\n\nThese possessive prepositions are used to describe a relationship of possession in the past or present tense. This is often referred to as \"realised possession\" and describes the current state of things."
+        },
+        {
+          "type": "example",
+          "maori": "Nō Ngaire tēnei kaputī.",
+          "english": "This is Ngaire's cup of tea.",
+          "explanation": ""
         }
       ]
     },
@@ -2323,11 +2373,11 @@
       "term": "Definite Article",
       "maoriTerm": "Pū Tautuhi",
       "shortDefinition": "",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Enter the main definition and explanation here."
+          "content": "### *Pū Tautuhi - Definite Article*\n\nThe definite articles in te reo Māori are 'te' and 'ngā' which often specify that we're talking about a specific instance of the noun, as well as providing context on whether it is takitahi (singular) or takitini (plural).\n\n* te ngeru (the cat)\n\n* ngā ngeru (the cats)\n\nWhile te/ngā are used for singular/plural, te can also be used to introduce a generic phrase which refers to the entire class of things it precedes, as in:\n\n* Tekau heneti te utu mō te tamariki (The price for children is ten cents)."
         }
       ]
     },
@@ -2336,11 +2386,11 @@
       "term": "Indefinite Article",
       "maoriTerm": "Pūnoa",
       "shortDefinition": "",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Enter the main definition and explanation here."
+          "content": "### *Pūnoa - Indefinite Article*\n\nThe indefinite article in te reo Māori is 'he' which doesn't specify any particular instance of the noun or provide any context about whether it is singular or plural.\n\n* he ngeru (a cat, cats)"
         }
       ]
     },
@@ -2350,11 +2400,11 @@
       "label": "particle",
       "maoriTerm": "Pūmoko",
       "shortDefinition": "",
-      "validated": false,
+      "validated": true,
       "elements": [
         {
           "type": "text",
-          "content": "Enter the main definition and explanation here."
+          "content": "### *Pūmoko - Proper Article*\n\nThe proper article in te reo Māori is 'a' is used with [[ref\\|Personal Nouns\\|personal-nouns]] when introducing the subject of a sentence.\n\n* a Mere\n\n* a Josh\n\nIt is also used to introduce personal names and personal [[ref\\|pronouns\\|tukapi]] when they follow {{ki}}, {{kei}}, {{i}} or {{hei}}."
         }
       ]
     },
@@ -2968,6 +3018,19 @@
         {
           "type": "text",
           "content": ""
+        }
+      ]
+    },
+    {
+      "id": "manner-particles",
+      "term": "Manner Particles",
+      "maoriTerm": "",
+      "shortDefinition": "",
+      "validated": false,
+      "elements": [
+        {
+          "type": "text",
+          "content": "Enter the main definition and explanation here."
         }
       ]
     }
